@@ -1,0 +1,69 @@
+---
+layout: fact-check-blog
+title: "Är kärnkraft för farligt?"
+date: 2014-12-29 16:54:46
+author: Ragnhild Karlsson
+categories:
+- karnkraftskoll
+- reflektion
+- kallkontroll
+circle-img: radiation.png
+---
+
+Att användandet av kärnkraft kan leda till att radioaktivt material på något sätt sprids i vår omgivning är ett av de vanligaste argumenten mot kärnkraft. I mångas medvetande är den bild man har av konsekvenserna av en kärnkraftsolycka samma bild som man har av en kärnvapensprängning. Att vi varken kan se eller lukta radioaktivitet gör sannolikt att vi upplever det som mer skrämmande än andra hot. Enheterna som används för att mäta strålning är därtill relativt okända för de flesta vilket gör det svårt för oss att uppskatta vad som är farliga strålningsnivåer och vad som ej är det. För att illustrera det har vi här lånat XKCDs sammanställning av olika stråldoser.
+<img class="img-responsive blog-img" src="{{ "/assets/img/fact-check/radiation-xkcd.png" | prepend: site.baseurl }}">
+Detta diagram kan användas för att få en översiktlig känsla för hur olika stråldoser förhåller sig till varandra. Vi kan t.ex. se att stråldosen av att bo inom 8 mils radie från ett kärnkraftverk är likvärdig med den man får i sig av att äta ett par bananer per år. Inom 5 km radie beräknas det maximala tillskottet i årsdos vara under 20 µSv vilket vi kan se utgör halva den strålningsdos du får om du gör en flygresa från Sverige till Kanarieöarna.
+
+Om vi inte vill att ej faktagrundad rädsla ska vara med och styra vilka energislag som används i världen måste vi som debattörer i kärnkraftsfrågan ta vårt ansvar och vara försiktiga med att inte sprida vidare missvisande information om säkerhetsriskerna. Vi kommer här lyfta de exempel vi funnit där vi anser att Miljöpartiet idag inte tar det ansvaret.
+
+För att du lätt ska kunna hitta i materialet som granskar säkerhetsriskerna med kärnkraft har vi valt att dela upp materialet i följande underrubriker:
+
+<ul>
+	<a class="page-scroll" href="#danger-1"> 
+	<li><p><b class="fact-check-text">Risker vid normal drift</b><br> I det officiella materialet har vi funnit ett antal misstänkta faktafel som rör riskerna vid normal drift. Dessa finner du här</p></li></a>
+
+	<a class="page-scroll" href="#danger-2"><li><p><b class="fact-check-text">Tillbud vid våra svenska kärnkraftverk?</b><br> I de granskade publikationerna ges en svart bild av säkeherheten vid de svenska reaktorerna. Här ger vi våra argument till varför vi inte delar den bilden</p></li></a>
+	
+	<a class="page-scroll" href="#danger-3"><li><p><b class="fact-check-text">Transport av bränsle och avfall</b><br>I detta avsnitt redogör vi för risker förenade med transport av bränsla och avfall</p></li></a>
+
+ 	<a class="page-scroll" href="#danger-4"><li><p><b class="fact-check-text">Kärnkraftsolyckor i världen</b><br> I detta avsnitt behandlas de två olyckor vi har haft i världen som har inneburit en risk för omgivningen, Tjernobyl och Fukushima, (vilket också är de olyckor som Miljöpartiet valt att behandla i sitt material).</p></li></a>
+</ul>
+<section id="danger-1">
+	<h3>Risker vid normal drift</h3>
+		<p>I Miljöpartiets PM “Kärnkraft i klimatkrisens tidevarv” görs två påstående angående riskerna med kärnkraft under normal drift.
+		<h4>Förhöjd risk för cancer hos barn boende nära fullt fungerande kärnkraftsverk</h4>
+		<p><b>Påstående 1:</b> Barn får leukemi av att bo nära fullt fungerande kärnkraftverk</p>
+		<p>På sidan 6 i PM:et kan man läsa följande</p>
+		<blockquote>"Ett flertal färska undersökningar visar också att barn som bor nära kärnkraftverk löper större risk att drabbas av leukemi än andra barn. Två amerikanska studier och en tysk har visat på förhöjda risker för dödsfall i leukemi för barn som bor nära kärnkraftverk. I den tyska studien som publicerades 2007 fann man 77 fall av cancer hos barn under fem år som bodde inom en radie av fem kilometer från kraftverken och det var dubbelt så många som förväntades."</blockquote>
+		<p>Cancer hos barn skrämmer med all rätt de flesta av oss. Därför är det särskilt viktigt att man är noga med att kontrollera sina källor innan man för ett sådant här påstående vidare. Vi vill mena att PM-författaren inte gjort det i detta fallet. Då PM-författaren har valt att inte redovisa sina källor så vi kan inte vara helt säkra på vilka studier som avses men eftersom vår (dåvarande) energipolitiska talesperson Per Bolund i en <a href="http://www.riksdagen.se/sv/Dokument-Lagar/Fragor-och-anmalningar/Interpellationer/Barncancer-och-karnkraft_GW10259/" target="_blanc">interpellation</a> hänvisar till dessa tre studier</p>
+		<ul>
+			<li><a href="http://www.ejcancer.com/article/S0959-8049%2807%2900855-6/abstract?cc=y" target="_blanc">Case-control study on childhood cancer in the vicinity of nuclear power plants in Germany 1980-2003.</a></li>
+			<li><a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2354.2007.00679.x/abstract?deniedAccessCustomisedMessage=&userIsAuthenticated=false" target="_blanc">Meta‐analysis of standardized incidence and mortality rates of childhoodleukaemia in proximity to nuclear facilities</a></li>
+			<li><a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2354.2008.00948.x/abstract" target="_blanc">Mangano, J. and J.D. Sherman, Childhood leukaemia near nuclear installations. Eur J Cancer Care (Engl),2008</a></li>
+		</ul>
+		<p>är det troligen dessa som avses.</p>
+		<p>Vi har granskat dessa tre källor och funnit att både den tyska och de amerikanska studierna uttrycker själva (i den avslutande och sammanfattande diskussionsdelen) tvivel kring att strålning från kärnkraftverken kan vara orsaken till de observerade förhöjda antalet insjuknade i leukemi. Detta är förklarligt då man inom fem km från ett kärnkraftverk beräknar att det maximala tillskottet i årsdos ligga under 0,02 mSv, <a href="http://www.analys.se/lankar/Fakta/Faktablad%2044.pdf" target="_blanc">vilket är 50-100 gånger lägre än den årsdos på 1-2 mSv som beräknas vara en genomsnittlig bakgrundsdos från naturliga strålkällor.</a></p>
+		<p>I den tyska studien skriver man själva följande i sin slutsats:</p>
+		<blockquote> In Germany 1980-2003 we see an increased risk for cancer in children under 5 years of age, particularly leukaemia, when living in proximity(<5km) to a nuclear power station. This observation is not consistent with most international studies, unexpected given the observed level of radiations and remains unexplained. We cannot exclude the possibility that this effect is the result of uncontrolled confounding or pure chance</blockquote>
+		<p>Som den tyska studien påpekar går alltså det resultat man fått fram emot de resultat man sett i majoriteten av de internationella studier som gjorts.</p> 
+		<p>Den första källan tycker vi att det finns  anledning till att ifrågasätta ytterligare. Den studien är gjord av forskarparet Mangano och Sherman. De har tillsammans med en annan forskare Chris Busby publicerat ett stort antal artiklar kring hälsoriskerna med strålningsnivåer som ligger klart under vår naturliga bakgrundsstrålning. Problematiken med denna forskartrio kan sammansfattas som att de ger sken av ett vetenskapligt förhållningssätt men om man tittar närmare så bryter de mot även de mest grundläggande principerna, så som att <a href="/assets/files/busby-letter-to-lantz.pdf" target="_blanc">inte använda sig av akademiska titilar man inte har</a>, inte ägna sig åt <a href="http://en.wikipedia.org/wiki/Cherry_picking_%28fallacy%29" target="_blanc">“cherry picking”</a> när man <a href="https://www.youtube.com/watch?v=DOreFp9983I" target="_blanc">väljer ut data för att studera ett fenomen</a>, samt <a href="http://llrc.org/health/subtopic/dishonestylantz.htm" target="_blanc">sakligt bemöta kritik</a> när man får den.</p>
+		<p>I den aktuella artikeln som refereras till ovan kan vi även konstatera att Mangano och Sherman själva uttrycker tveksamhet kring att tolka de resultat man funnit som en effekt av radioaktiva utsläpp från kärnkraftverken. Vilker är förklarligt då sambandet mellan ökat antal fall av leukemi hos barn och närheten till kärnkraftverk bara var signitfikant för 1 av 39 undersökta kraftverk. TODO Kolla exakt signifinkans nivå och om någon hänsyn tagits till http://en.wikipedia.org/wiki/Multiple_comparisons_problem-beräkna sannolikheten för signifikans vid ett kraftverk</p>
+		<p>Med bakgrund av detta tycker vi att det är problematiskt att publikations-författaren väljer att ge läsaren intrycket av att boende i närheten av kärnkraftverk fördubblar risken för leukemi hos barn. </p>
+		<h4>Svenska kärnkraftsverks bidrag till radioaktivitet i Östersjön</h4>
+		<p><b>Påstående 2:</b> Svenska kärnkraftverk har haft som konsekvens att Östersjön är ett av värdens mest radioaktivt smittade hav</p>
+		<img class="img-responsive blog-img" src="{{ "/assets/img/fact-check/landsort.jpg" | prepend: site.baseurl }}">
+		<p class="img-text" style="text-align:right;">Foto: Holger Ellgaard 2011</p>
+		<p>På sidan 6 i publikationen <a>Kärnkraft i Klimatkrisens tidevarv</a> kan vi läsa följande:</p>
+		<blockquote>Kärnkraft ger emellertid upphov till utsläpp även under normal drift och Östersjön är som exempel redan ett av världens mest radioaktivt smittade hav.</blockquote>
+		<p>År 2010 aktualiserades denna fråga genom en tidningsdebatt där både Mattias Lantz, forskare i exprimentell kärnfysik och Ann-Christin Hägg i egenskap av utredare på Strålsäkerhetsmyndigheten gick ut och bemötte en debattartikel som framfört exakt samma påstende om radioaktivitet i Östersjön, som det vi ser att publikations-författaren gör ovan. Ur denna tidningsdebatt framkommer att svenska kärnkraftverk mycket riktigt bidrar med radioaktiva utsläpp till Östersjön men att dessa kan anses vara försumbara</p>
+		<blockquote>Det stämmer att Östersjön är det hav i världen som har högst halt av Cesium-137. Orsaken till detta är främst utsläpp från Tjernobylolyckan (82 procent), följt av bidrag från atmosfäriska kärnvapenprov från 1950-och 60-talen (14 procent) och därefter utsläpp från upparbetningsanläggningarna i Sellafield och La Hague (4 procent). Utsläppen från de svenska kärnkraftverken och anläggningen i Studsvik ligger en faktor tusen eller lägre i jämfört med övriga utsläpp. Om man tar hänsyn till bidraget från samtliga radioaktiva utsläpp är storleksförhållandena mellan de olika källorna ungefär desamma som för Cesium-137. Nämnas bör också att dessa av människan orsakade utsläpp är mindre än en tredjedel av den radioaktiva dos som naturliga källor ger.</blockquote>
+		<p class= "img-text" style="text-align:right;">Citat: Mattias Lantz <a href="http://www.unt.se/asikt/debatt/tjernobyl-orsak-till-ostersjons-radioaktivitet-1018418.aspx" target="_blanc"> i denna artikel</a></p>
+		<p> Ett påstående som därefter backas upp av strålsäkerhetsmyndigheten utredare Ann-Christin Hägg <a href="http://www.unt.se/asikt/debatt/ssm-har-bra-koll-pa-radioaktiviteten-1019714.aspx" target="_blanc">i denna debattartikel</a>.</p> 
+		<p>För den på temat intresserade läsaren, som önskar mer vetenskaplig literatur på området rekomenderar vi <a href="http://helcom.fi/Lists/Publications/BSEP117.pdf" target="_blanc">denna rapport</a></p>
+
+
+
+
+	
+
+</section>

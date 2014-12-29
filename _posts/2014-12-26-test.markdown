@@ -1,0 +1,9 @@
+---
+layout: global-blog
+title: "Test"
+date: 2014-12-26 16:54:46
+author: Ragnhild Karlsson
+categories:
+- global
+---
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!

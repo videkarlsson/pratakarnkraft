@@ -1,0 +1,27 @@
+---
+layout: fact-check-main
+---
+<section class="blog-section">
+    <div class="container">
+    <div class="row">
+        <! -- SINGLE POST -->
+        <div class="col-lg-8">
+            <! -- Blog Post  -->
+            {% if page.img %}<p><img class="img-responsive featured-img" src="{{ "/assets/img/fact-check/" | prepend: site.baseurl }}{{ page.img }}"></p>{% endif %} {% if page.circle-img %}<div class="circle-img-container"><img class=" img-responsive img-circle" src="{{ "/assets/img/fact-check/circle-img/" | prepend: site.baseurl }}{{ page.circle-img }}"></div>{% endif %}
+
+
+            <a href="{{ page.url | prepend: site.baseurl }}"><h1 class="ctitle text-center">{{ page.title }}</h1></a>
+            <p class="text-center"><csmall>{{ page.date | date: "%b %-d, %Y" }}.</csmall></p>
+            {{ content }}
+            <div class="spacing"></div>
+            <h6 class="share-headline text-center">SHARE</h6>
+            <p class="share text-center">
+                <a href="#"><i class="fa fa-twitter"></i></a>
+                <a href="#"><i class="fa fa-facebook"></i></a>
+                <a href="#"><i class="fa fa-tumblr"></i></a>
+                <a href="#"><i class="fa fa-google-plus"></i></a>                               
+            </p> 
+        </div><! --/col-lg-8 -->
+    </div><! --/row -->
+    </div>
+</section>

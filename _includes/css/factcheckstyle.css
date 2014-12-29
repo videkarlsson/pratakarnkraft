@@ -1,0 +1,33 @@
+h1, h2, h3, h4, h5{
+	color:{{ site.colors.dark_green}};
+}
+
+.fact-check-text{
+    color:  {{ site.colors.dark_green}};
+}
+
+csmall {
+	font-size: 12px;
+	color: {{ site.colors.dark_green}};
+}
+.ctitle a{
+	color: black;
+}
+
+.blog-section a{
+	color: {{ site.colors.dark_green}};
+}
+
+.share a{
+	color: {{ site.colors.dark_green}};
+
+}
+
+
+
+/*.navbar-default {
+	background-color: rgba(83, 160, 69, 0.95);
+	background-color: rgba(7, 55, 99, 0.95);
+	background-color: rgba(189, 0, 118, 0.80);
+	border-color: transparent;
+}*/

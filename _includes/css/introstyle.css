@@ -1,0 +1,152 @@
+.dark_blue {
+    background-color: {{ site.colors.dark_blue}};
+}
+
+.mp_purple {
+    background-color: {{ site.colors.mp_purple}};
+}
+
+.orange_yellow{
+    background-color: #FED136;
+}
+
+.fact-check-text{
+    color:  {{ site.colors.dark_green}};
+}
+
+.global-text{
+    color:  {{ site.colors.dark_blue}};
+}
+
+.global-link{
+    color: #01529B; 
+}
+
+
+.tech-text{
+    color:  {{ site.colors.mp_purple}};
+}
+
+
+#recycle-circle{
+    background-color: #bd0076;
+}
+
+
+section h2.section-heading {
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 45px;
+
+}
+
+section h3.section-subheading {
+    margin-bottom: 75px;
+    text-transform: none;
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+
+
+header {
+    text-align: center;
+    background-color: {{ site.colors.dark_green}};
+    height: 600px;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+
+header .intro-text {
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+
+header .intro-text .intro-heading {
+    color: white;
+    margin-bottom: 35px;
+    /*text-transform: uppercase;*/
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+}
+
+header .intro-text .intro-lead-in {
+    color: white;
+    margin-bottom: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 25;
+    line-height: 35px;
+}
+
+#scroll-down-icon {
+  /*  color: #F6E400;*/
+    color: white;
+    font-size: 40px;
+}
+/*#scroll-down-circle{
+    color: yellow;
+}*/
+
+
+@media(min-width:768px) {
+
+
+    header{
+       height: 100vh; 
+    }
+
+    header .intro-text {
+        
+        padding-top: 140px;
+        padding-bottom: 150px;
+
+    }
+    header .intro-text .intro-heading {
+        margin-bottom: 50px;
+        font-family: 'Montserrat', sans-serif;;
+        font-size: 45px;
+        font-weight: 700;
+        line-height: 65px;
+        max-width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    header .intro-text .intro-lead-in {
+        margin-bottom: 25px;
+        line-height: 40px;      
+        font-size: 30px;
+        font-weight: 50;
+        color: white;
+        line-height: 150%;
+        max-width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 25px;
+    }
+
+    section h3.section-subheading {
+        max-width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+
+ 
+}
+
+#about-header {
+    color: {{ site.colors.dark_green}};
+}
+
+
+}
