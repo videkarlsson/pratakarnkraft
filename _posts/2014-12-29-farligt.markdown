@@ -28,9 +28,9 @@ För att du lätt ska kunna hitta i materialet som granskar säkerhetsriskerna m
 
  	<a class="page-scroll" href="#danger-4"><li><p><b class="fact-check-text">Kärnkraftsolyckor i världen</b><br> I detta avsnitt behandlas de två olyckor vi har haft i världen som har inneburit en risk för omgivningen, Tjernobyl och Fukushima, (vilket också är de olyckor som Miljöpartiet valt att behandla i sitt material).</p></li></a>
 
- 	<a class="page-scroll" href="#danger-4"><li><p><b class="fact-check-text">Hur många liv har kärnkraft räddat?</b><br>Kärnkraft har visat sig vara ett mycket effektivt sätt att ersätta fosil-energiproduktion. Eftersom fosila bränslen är förenade med mycket stort antal dösfall per producerad kWh är det en relevant fråga hur många människor som hade dött ifall vi inte byggt de reaktorer vi har idag.</p></li></a>
+ 	<a class="page-scroll" href="#danger-4"><li><p><b class="fact-check-text">Hur många liv har kärnkraft räddat?</b><br>Kärnkraft har visat sig vara ett mycket effektivt sätt att ersätta fossil-energiproduktion. Eftersom fossila bränslen är förenade med mycket stort antal dösfall per producerad kWh är det en relevant fråga hur många människor som hade dött ifall vi inte byggt de reaktorer vi har idag.</p></li></a>
 
- 	<a class="page-scroll" href="#danger-5"><li><p><b class="fact-check-text">Hur många liv har kärnkraft räddat?</b><br>Kärnkraft har visat sig vara ett mycket effektivt sätt att ersätta fosil-energiproduktion. Eftersom fosila bränslen är förenade med mycket stort antal dösfall per producerad kWh är det en relevant fråga hur många människor som hade dött ifall vi inte byggt de reaktorer vi har idag.</p></li></a>
+ 	<a class="page-scroll" href="#danger-5"><li><p><b class="fact-check-text">Hur många liv har kärnkraft räddat?</b><br>Kärnkraft har visat sig vara ett mycket effektivt sätt att ersätta fossil-energiproduktion. Eftersom fossila bränslen är förenade med mycket stort antal dösfall per producerad kWh är det en relevant fråga hur många människor som hade dött ifall vi inte byggt de reaktorer vi har idag.</p></li></a>
 </ul>
 <section id="danger-1">
 	<h3>Risker vid normal drift</h3>
@@ -104,7 +104,7 @@ För att du lätt ska kunna hitta i materialet som granskar säkerhetsriskerna m
 	<a href="http://en.wikipedia.org/wiki/Nuclear_and_radiation_accidents_and_incidents" target="_blanc">http://en.wikipedia.org/wiki/Nuclear_and_radiation_accidents_and_incidents</a><br>
 	<a href="http://en.wikipedia.org/wiki/List_of_nuclear_and_radiation_accidents_by_death_toll" target="_blanc">http://en.wikipedia.org/wiki/List_of_nuclear_and_radiation_accidents_by_death_toll</a><br>
 	<a href="http://en.wikipedia.org/wiki/List_of_civilian_nuclear_accidents" target="_blanc">http://en.wikipedia.org/wiki/List_of_civilian_nuclear_accidents</a><br>
-	Miljö och hälsoeffekterna av en olycka vid transporter av bränle och avfall skulle också blir lokal till olycksplatsen. Detta i kombination med att kärnkraft har visat sig vara ett mycket effektivt sätt att ersätta fosila bränslen, som inte bara skapar global klimatpåverkan utan också direkt hälsopåverkan på omgivningen, tycker vi är ett tugnt vägande skäl för att acceptera denna sammhälsmässiga risk. Men det är en givetvis en subjektiv bedömning och vi tycker det är viktigt att peka ut det här är en negativ sida av kärnkraft som inte förnybara energislag delar.</p>
+	Miljö och hälsoeffekterna av en olycka vid transporter av bränle och avfall skulle också blir lokal till olycksplatsen. Detta i kombination med att kärnkraft har visat sig vara ett mycket effektivt sätt att ersätta fossila bränslen, som inte bara skapar global klimatpåverkan utan också direkt hälsopåverkan på omgivningen, tycker vi är ett tugnt vägande skäl för att acceptera denna sammhälsmässiga risk. Men det är en givetvis en subjektiv bedömning och vi tycker det är viktigt att peka ut det här är en negativ sida av kärnkraft som inte förnybara energislag delar.</p>
 </section>
 <section id="danger-4">
 <h3>Kärnkraftsolyckor i världen</h3>
@@ -145,8 +145,8 @@ I vår blogg-inlägg <a>Är Kärnkraft för dyrt</a> finner du en diskussion kri
 </section>
 <section id="danger-5">
 <h2>Hur många liv har kärnkraft räddat</h2>
-<p>Kärnkraft har visat sig vara ett mycket effektivt sätt att ersätta fosil-energiproduktion. Eftersom fosila bränslen är förenade med mycket stort antal dösfall per producerad kWh är det en relevant fråga hur många människor som hade dött ifall vi inte byggt de reaktorer vi har i välden idag</p>
-<p>I denna <a href="http://pubs.acs.org/doi/abs/10.1021/es3051197?source=cen&">studie</a> gjord av forskare vid NASA kommer man till slutsatsen att kärnkraft hittils räddat ca 1.84 miljoner människor från en luftförorenings-relaterad död. Självklart finns det en osäkerhet i sådan här beräkningar men det visualiserar tydligt att om vi vill rädda liv ska vi inte bygga förnybara energislag för att ersätta kärnkraft utan för att ersätta fosila bränslen.</p>
+<p>Kärnkraft har visat sig vara ett mycket effektivt sätt att ersätta fossil-energiproduktion. Eftersom fossila bränslen är förenade med mycket stort antal dösfall per producerad kWh är det en relevant fråga hur många människor som hade dött ifall vi inte byggt de reaktorer vi har i välden idag</p>
+<p>I denna <a href="http://pubs.acs.org/doi/abs/10.1021/es3051197?source=cen&">studie</a> gjord av forskare vid NASA kommer man till slutsatsen att kärnkraft hittils räddat ca 1.84 miljoner människor från en luftförorenings-relaterad död. Självklart finns det en osäkerhet i sådan här beräkningar men det visualiserar tydligt att om vi vill rädda liv ska vi inte bygga förnybara energislag för att ersätta kärnkraft utan för att ersätta fossila bränslen.</p>
 
 
 TODO
