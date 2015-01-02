@@ -140,7 +140,7 @@ blockquote{
     margin:auto;
 }
 
-.blog-section ul{
+.blog-section ul, ol{
 	padding-left: 26px;
 }
 
