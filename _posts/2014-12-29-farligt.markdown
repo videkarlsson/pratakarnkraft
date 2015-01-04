@@ -10,9 +10,12 @@ categories:
 circle-img: radiation.png
 ---
 
-Att användandet av kärnkraft kan leda till att radioaktivt material på något sätt sprids i vår omgivning är ett av de vanligaste argumenten mot kärnkraft. I mångas medvetande är den bild man har av konsekvenserna av en kärnkraftsolycka samma bild som man har av en kärnvapensprängning. Att vi varken kan se eller lukta radioaktivitet gör sannolikt att vi upplever det som mer skrämmande än andra hot. Enheterna som används för att mäta strålning är därtill relativt okända för de flesta vilket gör det svårt för oss att uppskatta vad som är farliga strålningsnivåer och vad som ej är det. För att illustrera det har vi här lånat XKCDs sammanställning av olika stråldoser.
+Att användandet av kärnkraft kan leda till att radioaktivt material på något sätt sprids i vår omgivning är ett av de vanligaste argumenten mot kärnkraft. Radioaktivitet skrämmer de flesta av oss. Att vi varken kan se eller lukta radioaktivitet gör det svårt för oss att skapa en bild av hur stråldoserna från kärnkraft (både vid normal drift och olyckor) förhåller sig till de strålkällor vi utsätter oss för normalt och inte skräms av. Enheterna som används för att mäta strålning är därtill relativt okända för de flesta vilket gör jämförelse än svårare. För att illustrera det har vi här lånat XKCDs sammanställning av olika stråldoser.
 <img class="img-responsive blog-img" src="{{ "/assets/img/fact-check/radiation-xkcd.png" | prepend: site.baseurl }}">
 Detta diagram kan användas för att få en översiktlig känsla för hur olika stråldoser förhåller sig till varandra. Vi kan t.ex. se att stråldosen av att bo inom 8 mils radie från ett kärnkraftverk är likvärdig med den man får i sig av att äta ett par bananer per år. Inom 5 km radie beräknas det maximala tillskottet i årsdos vara under 20 µSv vilket vi kan se utgör halva den strålningsdos du får om du gör en flygresa från Sverige till Kanarieöarna. 
+
+Vi tror att denna övergripande förståelse för olika stråldoser är nödvändiga för att vi ska kunna ta rationella beslut när vi väger riskerna med kärnkraft mot riskerna med fortsatt användande av fosila bränslen. 
+Till skillnad från klimathotet kan rädslan för en kärnkraftsolycka undröjas genom den enkla lokala åtgärden att stänga närliggande kärnkraftverk. Vi tror att detta kan vara en av förklaringarna till att t.ex. Tyskland har valt att prioritera utfasning av kärnkraftverk före kol fast både hälsoeffekterna och de globala miljö-effekterna av fortsatt kolanvändande lång överskrider de av kärnkraft.
 
 Om vi inte vill att ej faktagrundad rädsla ska vara med och styra vilka energislag som används i världen måste vi som debattörer i kärnkraftsfrågan ta vårt ansvar och vara försiktiga med att inte sprida vidare missvisande information om säkerhetsriskerna. Vi kommer här lyfta de exempel vi funnit där vi anser att Miljöpartiet idag inte tar det ansvaret.
 
@@ -27,8 +30,6 @@ För att du lätt ska kunna hitta i materialet som granskar säkerhetsriskerna m
 	<a class="page-scroll" href="#danger-3"><li><p><b class="fact-check-text">Risker vid transport av bränsle och avfall</b><br>I detta avsnitt redogör vi för risker förenade med transport av bränsla och avfall</p></li></a>
 
  	<a class="page-scroll" href="#danger-4"><li><p><b class="fact-check-text">Kärnkraftsolyckor i världen</b><br> I detta avsnitt behandlas de två olyckor vi har haft i världen som har inneburit en risk för omgivningen, Tjernobyl och Fukushima, (vilket också är de olyckor som Miljöpartiet valt att behandla i sitt material).</p></li></a>
-
- 	<a class="page-scroll" href="#danger-4"><li><p><b class="fact-check-text">Hur många liv har kärnkraft räddat?</b><br>Kärnkraft har visat sig vara ett mycket effektivt sätt att ersätta fossil-energiproduktion. Eftersom fossila bränslen är förenade med mycket stort antal dösfall per producerad kWh är det en relevant fråga hur många människor som hade dött ifall vi inte byggt de reaktorer vi har idag.</p></li></a>
 
  	<a class="page-scroll" href="#danger-5"><li><p><b class="fact-check-text">Hur många liv har kärnkraft räddat?</b><br>Kärnkraft har visat sig vara ett mycket effektivt sätt att ersätta fossil-energiproduktion. Eftersom fossila bränslen är förenade med mycket stort antal dösfall per producerad kWh är det en relevant fråga hur många människor som hade dött ifall vi inte byggt de reaktorer vi har idag.</p></li></a>
 </ul>

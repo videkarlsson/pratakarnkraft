@@ -38,11 +38,10 @@ Vi ser en rad problem med resonemanget ovan.
 Som vi kommer visa nedan finns det skäl att ifrågasätta grundtesen att satsningar på kärnkraft skulle leda till långsammare utsläppsminskningar än satsningar på förnybart. Men vi vill först uppmärksamma läsaren på två rena motsägelser som vi upplever görs i resonemanget ovan.
 <ol>
 	<li><p>Publikationsförfattaren ger inledningsvis läsaren bilden av att utsläppsminskningar efter 2020 är inrellevanta utifrån logiken att vi då redan missat våra chanser att nå två-gradersmålet. Några meningar senare går det dock bra att diskutera vindkraft utifrån ett femton års perspektiv, vilket borde vara en motsägelse.</p></li>
-	<li><p>Givet de radikala utsläppsminskningar man menar behövs innan 2020 har vi också svårt att se logiken i att parallellt välkommnar global kärnkraftsavveckling av befintliga kraftverk under samma tio års period. I praktiken innebär det att de satsningar som görs på vind får  och sol får tillsammans med bio-massa och fossil regelerkraft (t.ex. gas) ersätta kärnkraft istället för kol och olja. Vi tolkar detta som ett direkt uttryck för att man prioriterar avveckling av kärnkraft framför att minskade klimatutsläpp. Detta tycker vi är en motsägelse mot det klimatansvar man säger sig vilja ta. Om man tycker att effekterna av kärnkraft är allvarligare än de av fossila bränslen då är det också problematiskt att man inte är ärligare med att man har denna ståndpunkt. </p></li>
+	<li><p>Givet de radikala utsläppsminskningar man menar behövs innan 2020 har vi också svårt att se logiken i att parallellt välkommnar global kärnkraftsavveckling av befintliga kraftverk under samma tio års period. I praktiken innebär det att de satsningar som görs på vind får  och sol får tillsammans med bio-massa och fossil regelerkraft (t.ex. gas) ersätta kärnkraft istället för kol och olja. Detta tycker vi är en motsägelse mot det klimatansvar man säger sig vilja ta. Om det är en genomtänkt linje att man vill prioriterar avveckling av kärnkraft framför att minskade klimatutsläpp är det också problematiskt att man inte är öppnare och ärligare med att man har denna ståndpunkt. </p></li>
 </ol>
 
-Låt oss nu återgå till kärnfrågan om kärnkraft utgör ett långsammare sätt att ersätta fossila bränslen än förnybara energislag.
-Svaret till frågan ges delvis i citatet ovan. Där väljer publikationsförfattaren att lyfta fram hur vindkraft som ett föredömligt snabbt sätt att ersätta fossila energikällor på. Man slår fast att:
+Låt oss nu återgå till kärnfrågan om huruvida satsningar på kärnkraft ger långsammare utsläppsminskningar än satsningar på förnybara energislag. Svaret till frågan ges delvis i citatet ovan. Där väljer publikationsförfattaren att lyfta fram vindkraft som ett föredömligt snabbt sätt att ersätta fossila energikällor på. Man slår fast att:
 
 "På femton år hinner vi bygga vindkraftverk motsvarande hälften av dagens kärnkraftsproduktion" 
 
@@ -50,68 +49,33 @@ Det är utifrån texten oklart huruvida man avser ett globalt eller nationellt p
 
 Givet att det är ett antagande gjort ur ett globalt perspektiv är det intressant att titta på hur världens energiproduktion ser ut idag.
 <img class="img-responsive blog-img" src="/assets/img/fact-check/world-energi.jpg">
-Grafen visar att ca 80 procent av världens energi är fossil. Sol- och vindkraft står för mindre än 1 procent och kärnkraften för 5 procent. Det som lyfts fram som föredömligt snabbt är alltså att vi under den enligt publikationsförfattaren kritiska 10 års perioden, kan med hjälp av vindkraft ersätta ca 2 procent av världens fossila energi 
-(Vi passar också på att notera att energieffektiviseringar)
+<div>
+<p class="img-text">TODO källa Micke</p> 
+</div>
+Grafen visar att ca 80 procent av världens energiproduktion sker med fossilabränslen. Sol- och vindkraft står för mindre än 1 procent och kärnkraften för 5 procent. Det som lyfts fram som föredömligt snabbt är alltså att vi under den enligt publikationsförfattaren kritiska 10 års perioden, kan med hjälp av vindkraft ersätta ca 2 procent av världens fossila energiproduktion.  
 
-Om vi istället antar ett nationellt perspektiv, kan vi konstatera att Sveriges kärnkraft bygdes ut under ca en 15 års period på 70-80talet. Påståendet som görs säger alltså rakt ut att vindraft är ett ungefär hälften så snabbt sätt att ersätta fossila bränslen på jämfört med kärnkraft. Tyvärr visar erfarenheterna från energiomställning i världen hittills att även detta är en lyckokalkyl till vindrkraftens fördel.
+Om vi istället antar ett nationellt perspektiv, kan vi konstatera att Sveriges kärnkraft bygdes ut under ca en 15 års period på 70 och 80 talet. Påståendet som görs säger alltså rakt ut att vindraft är ett ungefär hälften så snabbt sätt att ersätta fossila bränslen på jämfört med kärnkraft. Tyvärr visar erfarenheterna från energiomställning i världen hittills att även detta är en lyckokalkyl till vindkraftens fördel.
 
-<h3>Faktisk omställningstakt med kärnkraft vs förnybart fram till 2012</h3>
+<h3>Faktisk omställningstakt med kärnkraft vs förnybart fram till år 2012</h3>
 
-<img class="img-responsive blog-img" src="/assets/img/fact-check/graph-nucler-renawable-speed.jpg">
-Grafen ovan 
+Graferna nedan visar den maximala omställningstakten som man uppnått fram till idag i världens länder med hjälp av förnybara energislag respektive kärnkraft. Höjden på staplarna anger den maximala genomsnittliga utbyggnadstakten mätt i kWh per person som varje land lyckats uppnå under en tioårsperiod. Bredden på staplarna visar storleken på landets befolkning under tiden för
+utbyggnaden. 
+<div>
+	<img class="img-responsive blog-img" src="/assets/img/fact-check/graph-renawable-world-speed.jpg">
+	<p class="img-text"> Källa: Sammanställd data från X TODO frågan Carl Hellesen om orginalkälla</p>
+</div>
+<div>
+	<img class="img-responsive blog-img" src="/assets/img/fact-check/graph-nuclear-world-speed.jpg">
+	<p class="img-text">Källa: Sammanställd data från X TODO frågan Carl Hellesen om orginalkälla</p>
+</div>
+Vi ser att de erfarenheter vi har av elproduktion i världen hittills talar emot påståendet att satsningar på kärnkraft skulle leda till långsammare utlsläppsminskningar. Glappet mellan förnybara energislag och kärnkraft är därtill betydande. Tar vi ett land med relativt stor befolkning som Frankrike ser vi att de under 70-80 talet uppnådde en utbyggnadstakt per capita som är tre gånger högre än det land som leder utbyggnaden av förnybara energislag närmare bestämt Danmark. Detta visar att en snabb kärnkraftsutbyggnad är fullt tekniskt möjlig givet att den politiska viljan finns på plats.
 
-Kärnkraft är alltså det enda kraftslag som har bevisat sig kunna minska användandet av 
+Vi vill slutligen problematisera att publikationen inte diskuterar faktumet att vind och sol är intermittenta energikällor.  Detta betyder att mängden el som produceras har dygns och årstidsvariationer, som vi kan inte kan styra över. De förnybara energikällorna är därför beroende av reglerkraft. I länder som saknar förutsättningar för stora mängder vattenkraft innebär det i praktiken att man vid en uppskalning av de förnybara enrgislagen blir beroende av fossila bränslen. När mängden förnybar energi skalas upp blir detta ett problem. Variationerna i mängden el som produceras blir då så stor att man under vissa delar av dygnet/året överproducerar el som man inte har någon avsättning för, samtidigt man behöver ha andra anlägggningar som står stilla men som är berredda att startas igång under de delar av dygnet/året då elproduktionen från de förnybara energislagen dippar. När dessa gränser nås blir utdelningen i form av faktisk användbar el lägre för varje nytt vind eller solkraftverk vi bygger lägre.
 
-Att som ovan driva linjen att vi inte ska använda detta verktyg för att minska klimatförändri
-Inneboende problematik som beroende av fossilreglerkraft.
+Vi vill avsluta med att säga att vi delar oron över att världens användning av fossila bränslen ökar istället för minskar. 
 
-Med bakgrund av detta tycker vi att det är direkt missvasande att säga att förnybara energislag erbjuder 
-Att stänga dörren för att låta förnybara energislag, energieffektivisering och kärnkraft tillsammans hjälpas åt 
-ser vi som ett stort risktagande med världens klimat.
+Under sidans andra huvudtema <a class="global-link">"Tänk Globalt - Handla Lokalt"</a> utvecklar vi varför det är viktigt att de energilösningar Sverige satsar på går att skala upp i övriga delar av världen.
 
-
-
-I de två delar
-ger vi vår 
- del av denna sida som 
-
-Det är direkt felaktigt och ett risktagande med världens klimat.
-
-
-
-har alltså historiskt sätt visat sig kunna ersätt 
+Under sidans tredje huvudtema <a class="tech-text">"Ta del av teknikutvecklingen"</a> har vi intervjuat forskare kring vilka satsningar på teknikutveckling som de tror är nödvändiga för att på allvar kunna konukurera ut den fossila energiproduktionen i världen.
 
 
-
-
-<h3>Hur snabbt behöver vi minska användningen av fossla energikällor?</h3>
-
-
-För att förstå den utmaning världen står inför är det viktigt att anta ett globalt perspektiv. 
-
-Graf
-Argumentera att vi behöver mycket energi inom närmasta 50 åren.
-
-
-
-
-
-
-I denna tio minuters video sammanfattas våran syn på varför vi tycker att det är viktigt att ta in ett globalt perspektiv när vi diskuterar kärnkraftens roll i 
-
-
-ger vi våran syn på varför det är felaktigt att 
-
-Läs gärna mer om hur vi ser på möjligheterna till <a> teknikutveckling för kärnkraft </a> och <a> TODO behovet av att globalt använda kärnkraft i kampen mot klimatförändringarna</a>.
-
-
- att förnybara energislag skulle vara ett snabbare sätt att ersätta fossila energikällor 
-
-
-- allt efter 2020 spelar ingen roll?
-- Hur övertygade är vi om att förbnybara ensamt kommer klara av att ersätta fossila bränslen?
-: hur förhåller vi oss till interremitent, att vindkraft per definition inte kan ersätta 
-
-Givet klimatförändringar kan vi behöva än mer energi. Då 
-
-Det enda energislag som hittill

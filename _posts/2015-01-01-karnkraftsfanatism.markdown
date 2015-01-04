@@ -15,6 +15,6 @@ I normala fall finns ett starkt samband mellan matematiska kunskaper och förmå
 	<li><p><b>Kärnkraft har färre döda per TWh än förnybara energislag</b>På nätet förekommer <a href="http://nextbigfuture.com/2011/03/deaths-per-twh-by-energy-source.html" target="_blanc">jämförelser</a> av antalet dödsfall per terrawattimme. Ibland ser vi kärnkraftsförespråkare med stöd av dessa driva linjen att vi bör välja kärnkraft för att det medför färre dödsfall per terrawatttimme. Vi ser flera problem med detta resonemang. För det första är det svårt att beräkna antalet döda per Twh då produktionsmetoderna skiljer sig markant inom samma energislag, vilket . Än allvarligare är att denna typ av resonemang döljer den stora bilden som visar att det stora glappet är mellan de fossila energislagen och de övriga. Kärnkraft och förnybara energislag bör därför inte i onödan ställas mot varandra utan användas tillsammans för att begränsa användandet av fossil energi.</p></li>
 	<li><p><b>Koldioxidutsläppen för förnybara energislag är högre per TWh</b></p></li>
 	<li><p><b>Vindkraftverk förfular landskapet</b></p></li>
-	<li><p><b>Vindkraft är dödsmaskiner för fåglar och fladdermöss</b></p></li>
+	<li><p><b>Vindkraftverk är dödsmaskiner för fåglar och fladdermöss</b></p></li>
 	<li><p><b></b></p></li>
 </ul>
