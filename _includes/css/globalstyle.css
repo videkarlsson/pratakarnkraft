@@ -11,6 +11,9 @@ h1, h2, h3, h4, h5{
 	background: {{ site.colors.dark_blue}};
 }
 
+.ultra_blue{
+    background-color: {{ site.colors.mp_purple}} ;
+}
 
 .fact-check-text{
     color:  {{ site.colors.dark_green}};
