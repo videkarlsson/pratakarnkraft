@@ -1,9 +1,19 @@
 h1, h2, h3, h4, h5{
-	color:{{ site.colors.dark_blue}};
+	color:{{ site.colors.dark_green}};
 }
 
+
+.main-section h1, h2, h3, h4, h5{
+	color:white;
+}
+
+.main-section{
+	background: {{ site.colors.dark_blue}};
+}
+
+
 .fact-check-text{
-    color:  {{ site.colors.dark_blue}};
+    color:  {{ site.colors.dark_green}};
 }
 
 csmall {
