@@ -26,6 +26,11 @@ colors:  #in hex code if not noted else
   mp_green: "#53a045"
   dark_green: "#0C8A25"
   mp_purple: "#bd0076"
+  global_purple: "#630738"
+  global_brown: "#635207"
+  global_green:  "#096307"
+  # other green 386307
+
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
