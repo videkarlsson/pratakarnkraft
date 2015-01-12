@@ -7,13 +7,14 @@ layout: global-main
         <! -- SINGLE POST -->
         <div class="col-lg-8">
             <! -- Blog Post  -->
-            <p><img class="img-responsive featured-img" src="{{ "/assets/img/global/" | prepend: site.baseurl }}{{ page.img }}"></p>
-            <a href="{{ page.url | prepend: site.baseurl }}"><h1 class="ctitle">{{ page.title }}</h1></a>
-            <p><csmall>{{ page.date | date: "%b %-d, %Y" }}.</csmall></p>
+            {% if page.img %}<p><img class="img-responsive featured-img" src="{{ "/assets/img/fact-check/" | prepend: site.baseurl }}{{ page.img }}"></p>{% endif %} {% if page.circle-img %}<div class="circle-img-container"><img class=" img-responsive img-circle" src="{{ "/assets/img/global/circle-img/" | prepend: site.baseurl }}{{ page.circle-img }}"></div>{% endif %}
+
+            <a href="{{ page.url | prepend: site.baseurl }}"><h1 class="ctitle text-center">{{ page.title }}</h1></a>
+            <p class="text-center"><csmall>{{ page.date | date: "%b %-d, %Y" }}.</csmall></p>
             {{ content }}
             <div class="spacing"></div>
-            <h6 class="share-headline">SHARE:</h6>
-            <p class="share">
+            <h6 class="share-headline text-center">SHARE:</h6>
+            <p class="share text-center">
                 <a href="#"><i class="fa fa-twitter"></i></a>
                 <a href="#"><i class="fa fa-facebook"></i></a>
                 <a href="#"><i class="fa fa-tumblr"></i></a>

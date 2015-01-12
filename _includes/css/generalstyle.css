@@ -81,6 +81,8 @@ blockquote{
 	margin-bottom: 50px;
 }
 
+
+
 .p-icon-image{
 	width: 50px; 
 	height: 50px;
@@ -241,9 +243,8 @@ a:focus {
 /*	background-color: rgba(189, 0, 118, 0.80);*/
 	border-color: transparent;
 }
-
 .dropdown-menu {
-	background: #53a045;
+    background: {{ site.colors.mp_green}};
 }
 
 .dropdown-menu > li > a {
@@ -520,3 +521,4 @@ a:focus {
         padding: 0 100px 20px 20px;
     }
 }
+
