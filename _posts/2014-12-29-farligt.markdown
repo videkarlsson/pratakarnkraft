@@ -10,7 +10,7 @@ categories:
 circle-img: radiation.png
 ---
 Radioaktivitet skrämmer de flesta av oss. Att kärnkraft kan leda till att radioaktiva ämnen sprids är också ett av de vanligaste motargumenten mot kärnkraft. Få av oss har dock en klar uppfattning om hur olika stråldoser i vår miljö förhåller sig till varandra. Eftersom vi inte kan uppfatta radioaktivitet genom våra sinnen är det svårt för oss att skapa oss en bild av hur stråldoserna från kärnkraft (både vid normal drift och olyckor) förhåller sig till de strålkällor vi utsätter oss för normalt och inte skräms av. För att illustrera detta har vi här lånat <a href="https://xkcd.com/radiation/">XKCDs sammanställning av olika stråldoser</a>.
-<img class="img-responsive blog-img" src="{{ "/assets/img/fact-check/radiation-xkcd.png" | prepend: site.baseurl }}">
+<img class="img-responsive blog-img" src= "/assets/img/fact-check/radiation-xkcd.png">
 Detta diagram kan användas för att få en översiktlig känsla för hur olika stråldoser förhåller sig till varandra. Vi kan t.ex. se att stråldosen av att bo inom 8 mils radie från ett kärnkraftverk är likvärdig med den man får i sig av att äta ett par bananer per år. Inom 5 km radie beräknas det maximala tillskottet i årsdos vara under 20 µSv vilket vi kan se utgör halva den stråldos du får om du gör en flygresa från Sverige till Kanarieöarna. 
 
 Vi tror att denna övergripande förståelse för olika stråldoser är nödvändig för att kunna ta rationella beslut när vi väger riskerna med kärnkraft mot riskerna med att globalt fortsätta att användanda fossila bränslen. 
