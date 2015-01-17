@@ -14,9 +14,12 @@ window.addEventListener("scroll", function() {
     }
 },false);
 
-$(document).ready(function(){$("#intro-text-2").fadeIn(4000,function(){
-  $("#scroll-down-icon").fadeIn(1000);
-});});
+$(document).ready(function(){setInterval(function (){$("#intro-text-2").fadeIn(6000,function(){
+});},1000)});
+$(document).ready(function(){
+    setInterval(function () {$("#scroll-down-icon").fadeIn(6000,function(){
+});}, 2500)
+    });
 
 
 
