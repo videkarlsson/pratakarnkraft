@@ -139,13 +139,29 @@ För att skapa överskådlighet i vår kritik mot det sätt Miljöpartiet idag r
 	<p>Sammanfattningsvis kan vi konstatera att det är en svår uppgift att korrekt beräkna kostnaderna för slutförvar och avveckling. Det är dock värt att notera att om vi utifrån tillgängliga fakta gör en för kärnkraften genomgående negativ bedömning, kan vi se att denna dolda subvention på sin höjd uppgår till 15 öre/kWh. Detta bygger på att vi antar att den högsta föreslagna uppskattningen av kostnaderna är korrekt, att avgiften ej höjs (trotts liggande förslag om detta), samt räknar med att ingen i världen bygger ut fjärde generationens reaktorer i så stor skala så att vårt avfall kan användas som bränsle.
 </section>
 <section id="expensive-3">
-	TODO Dolda subventioner till förnybart
+<h2>Dolda subventioner till vind- och solkraft</h2>
+Både vind- och solenergi är interremitenta energikällor vilket gör att mängden ström som levereras från olika anläggningar varierar både över dygnet och de olika åstiderna. 
+
+Om vi ska reglera vind-produktionen kräver det stora 
+Ingen hänsyn tas heller vad vi kan se till att 
+
+
+I det officiella materialet kring energipolitik har vi dock inte kunnat finna några exempel på där man addresserar att detta kan föra med sig extra kostnader i jämförelse med el-produktion med t.ex. kärnkraft. 
+
+Vi kan se det problematiska i att inte här kvantifiera dessa kostnader. Det låter sig dock inte helt enkelt göras 
+
+
+
+innebär att de bara levererar ström när väderförhållandena 
+Den dolda subvention som vi vill mena idag utgår till vind- och solkraftverken är att man systematiskt undviker att räkna med kostnader förenade med att dessa två energi-källor är interremitenta.
+
+
+<!-- 	TODO Dolda subventioner till förnybart
 	kräver reglerkraft - även subventioner för reglerkraft sned marknad
 	finsk blogg. 
 
 	kort livslängd
-	bygga ut nät
-
+	bygga ut nät -->
 </section>
 <section id="expensive-4">
 	<h2>Lillgrund & Markbygden vs Olkiluoto - Ett räknexempel</h2>
@@ -153,7 +169,7 @@ För att skapa överskådlighet i vår kritik mot det sätt Miljöpartiet idag r
 	<p>Detta är ett påstående som återkommer i energidebatten. Reaktorn Olkiluoto 3 i Finland tas ofta upp som ett skräckexempel för vad det kommer kosta att bygga nya kärnkraftverk idag. Vi tycker därför att det är relevant att undersöka hur kostnaderna för att bygga Olkiluoto 3 står sig i jämförelse med kostanderna för svenska vindkraftsprojekt. Vi har här valt att jämföra kostnaderna för att bygga de tre anläggningarna Olkliuto 3, Markbygdens vindkraftspark som är under uppbyggnad och planeras bli Sveriges största vindkraftspark, samt Lillgrund som är Vattenfalls största havsbaserade vindkraftspark i Sverige.</p>
 	<img class="img-responsive blog-img" src="/assets/img/fact-check/expencive_compare.png">
 	<p class="img-text">Källa: wikimedia<br>Foto 1 & 2 (från vänster) fotograf okänd, foto 3 fotagraf: Mariusz Paździora</p>
-	<p>För att kunna jämföra vindkraftsanläggningar med kärnkraftsverk är det viktigt att man inte jämför installerad kapacitet rakt av. Detta av den enkla anledningen att vindkraftverk levererar i snitt ca 20-35% (beroende på läge) av sin installerade kapacitet medans kärnkraftverk levererar typiskt ca 80-90% av sin installerade kapacitet. Ett bättre mått är därför attse till beräknat antal producerade terra-watt-timmar per år.</p>
+	<p>För att kunna jämföra vindkraftsanläggningar med kärnkraftsverk är det viktigt att man inte jämför installerad kapacitet rakt av. Detta av den enkla anledningen att vindkraftverk levererar i snitt ca 20-35% (beroende på läge) av sin installerade kapacitet medans kärnkraftverk levererar typiskt ca 80-90% av sin installerade kapacitet. Ett bättre mått är därför att se till beräknat antal producerade terra-watt-timmar per år.</p>
 	<h4>Olkiluoto<h4>
 	<h5>Byggnadskostnad</h5>
 	<p>Initialt beräknades Olkiluoto enbart kosta 3 Miljarder Euro (28.35 Miljarder kronor), detta visade sig dock vara en glädjekalkyl. Eftersom kärnkraftsverket inte står färdigt så har vi ingen möjlighet att förutse den exakta slutkostnaderna. Den senaste <a href="http://uk.reuters.com/article/2014/02/28/tvo-olkiluoto-idUKL6N0LX3XQ20140228">nyhetskällan</a> vi funnit som uppskattar kostnaderna är från år 2014 och där görs uppskattningen att kostnaderna kommer uppgå till 8.5 miljarder euro. Greenpeace som har ett starkt intresse av att följa frågan och rapportera om eventuella förhöjda kostander, skrev sin <a href="http://www.greenpeace.org/international/Global/international/publications/nuclear/2011/New%20problems%20in%20Olkiluoto%20_%20%20%20%20%20%20%20%20%20.pdf">senaste text</a>på ämnet 2011 och gör där bedömningen att Olkiluoto 3 kommer kosta 9 miljarder euro. Vi väljer därför här att utgå från att kostnaden kommer uppgå till <b>ca 85 Miljarder kronor</b> (motsvarande 9 Miljarder euro med växelkursen 1 euro = 9.45kronor).</p>
@@ -171,7 +187,7 @@ För att skapa överskådlighet i vår kritik mot det sätt Miljöpartiet idag r
 	<p>10 TWh/13 Twh = 0,77% av den förväntade produktionen i Olkiluoto <br>70 Miljarder Kronor/85 Miljarder kronor = 0,82% av det förväntade priset för olkiluoto</p>
 	<h5>Beräknad livslängd</b>
 	<p><b>20-25 år</b></p>
-	<h4>Lillgrunds vindkraft park</h4>
+	<h4>Lillgrunds vindkraftspark</h4>
 	<h5>Byggnadskostnad</h5>
 	<p>Lillgrund består 48 vindkraftverk till havs och invigdes 2008. Enligt <a href="http://corporate.vattenfall.se/om-oss/var-verksamhet/var-elproduktion/vindkraft/lillgrund-vindkraftpark/">Vattenfall själva</a> uppgick investeringskostnad <b>omkring 1,8 miljarder kronor.</b></p>
 	<h5>Produktion i Twh per år</h5>
@@ -182,26 +198,24 @@ För att skapa överskådlighet i vår kritik mot det sätt Miljöpartiet idag r
 	<p><b>20-25 år</b></p>
 	<h4>Slutsats</h4>
 	<p>Vi kan här se att den havsbaserade vindkrafts parken Lillgrund är tillsynes något billigare än den reaktor som byggs i Olkiluoto medans den vindkraftspark som byggs i Markbygden kan komma att bli något dyrare än Olkiluoto. Samtidigt är skillnaderna så små och osäkerheterna i beräkningarna så stora att det är svårt att dra exakta slutsatser före båda anläggningarna står klara. </p>
-	<p>Vi tycker att denna jämförelse visar att det finns skäl att ifrågasätta påståendet att bygnnadskostnaderna för ny kärnkraft skulle långt överstiga de för ny kärnkraft, t.ex. bygger det till synes på antagandena att man inte tar någon hänsyn till anläggnings livslängd, eller att det kan vara utmaning att finna X likvärdigt bra platser att bygga havsbaserad vindkraft på.
-	<p>Vi vill dock passa på att ta avstånd från de som direkt menar att den tre längre livstiden  
-
-	 anläggningarnas.
-
-Vi tycker viktigt att man uppmärksammar att de
-
-		äljer man att driva linjen att vindkraft är billigare att bygga, då bör vi också </p>
-
-	Faktorer vi saknar en disskusion kring
-Placering kräver ökad förflyttning av ström mellan norra och södra sverige
-Livstid
-inte ström när vi vill utan när det blåser 
-Skav vi bygga fler så behövs fler likartade ytor.
-Första i sitt slag
-
-
-
+	<p>Vi tycker att denna jämförelse visar att det finns skäl att ifrågasätta påståendet att bygnnadskostnaderna för ny kärnkraft skulle långt överstiga de för ny kärnkraft. Det bygger t.ex. till synes på antagandena att man inte tar någon hänsyn till anläggnings livslängd. Att ersätta verken på befintliga platser är givetvis inte lika dyrt som att bygga en helt ny vindkraftspark men att värdera kostnaden till noll känns inte heller rimligt.</p>
+	<p>Vi vill här slutligen problematisera antagandet att kärnkraft bara kommer bli dyrare medan de förnybara enrgislagen bara kommer bli billigare</p>
+	<p>Vi har svårt att se att kärnkraft idag har några inneboende problem att skalas upp i större skala</p>
+	<p>Det är snarare så att kostnaderna borde påverkas positivt av att man bygger fler liknande kraftverk då t.ex. den reaktor som byggs i Olikoluoto är den första i sitt slag och det istället medför ökade kostnader</p>
+	<p>Vi vill mena att tvärtom är befogat att anta att man idag bygger ut vindkraftsparker på de bästa lägena både om man ser till väderförhållanden och miljöpåverkan på omgivningen. Om vi t.ex. vill bygga ut anläggningar av typen Lillgrund så att de motsvarar antalet levererade Twh/år från en reaktor som den Olkiluoto behöver vi finna 39 likvärdiga platser. </p>
 
 </section>
 <section id="expensive-5">
 	<h2>Sammanfattning</h2>
+	<p>TODO DIAGRAM HÄR</p>
+	<p>Vi har här granskat påståendet</p> 
+	<blockquote><p>Kärnkraft är för dyrt för att konkurrera med både fossila bränslen och förnybara energislag. Enda anledningen till att kärnkraft kan byggas idag är att den inte bär sina egna kostnader utan på ett orimligt sätt subventioneras av stater.</p></blockquote>
+	<p>Vi har funnit att de direkta subventionerna som utgår till vindkraften är ca 18 öre/kWh medan kärnkraft beskattas istället för att subventioneras.</p> 
+	<p>Vi har vidare granskat hur de "dolda kostnaderna" för kärnkraft står sig i jämförelse med de skatter som kärnkraften betalar. Vi kan se att om man betraktar den termiska effektskatten (som slår enbart mot kärnkraft) som en samhällig försäkringspremie för den olycksrisk samhället tar, då betalar kärnkraften idag helt klart en försäkringpremie som är väl tilltagen i jämförelse med risken och kostandsnivån. </p>
+	<p>Angående kostnader förknippade med slutförvar och avveckling har vi kunnat se att vissa bedömmare anser att den avgift som betals idag är rimlig medan andra menar att den är allt för låg. Vi tycker här att stråkskyddsmyndigheten och konjunkturinstitutets förslag om att höja avgiften från 2,2 öre/kwh till 3,8 öre/kwh är den mest tillförlitliga bedömningen. Detta innbär i så fall att kärnkraften just nu åtnjuter en dold subvention på ca 1,6 öre/kwh. Om vi istället utifrån tillgängliga fakta gör en för kärnkraften genomgående negativ bedömning, uppgår den dolda subventionen som högst till 15 öre/kWh. Detta bygger på att vi antar att den högsta föreslagna uppskattningen av kostnaderna är korrekt, att avgiften ej höjs (trotts liggande förslag om detta), samt räknar med att ingen i världen bygger ut <a TODO>fjärde generationens</a> reaktorer i så stor skala så att vårt avfall kan användas som bränsle.</p>
+	<p>Vi har också pekat ut "dolda kostnader" hos vindkraft som vi menar inte tas med i beräkningarna när man säger att kärnkraft är dyrare. Den största dolda kostnaderna menar vi kommer av faktummet att vindkraft till skillnad från kärnkraft är en interimetent energikälla och att placeringen av kraftverken styrs mycket av vad som är lämpligt geografiskt läge snarare än var efterfrågan är som störst. Detta innebär i praktiken att vi behöver bygga ut överföringskapaciteten i nätet i hela landet och särskillt öka kapaciteten från norrland om vi ska kunna dra full nytta av vattenkraftens egenskap som reglerkraft. Ett elpris som varierar mycket över dygnet och årstiderna menar vi också medför sammhällsekonomiska kostnader då det kräver ansträngningar för både hushåll och industri att anpassa sig till detta. Att skatta hur stora dessa kostnader blir är ingen lätt uppgift men vi vill framförallt lyfta att det är orimligt att skatta dem till noll.</p>
+	<p>Slutligen har vi gjort en jämförelse mellan investeringskostnaderna för att bygga ny kärnkraft jämfört med ny vindkraft. Detta har vi gjort genom att jämföra kostnaderna för Markbygden och Lillgrunds vindkraftsparker med kostnaderna för kärnkraftverket som byggs i Olkiluoto. I denna jämförelse kunde vi se att den landbaserade vindkraftsparken Margrund kommer ha något högre kostnader per producerad Twh per år, medans havsbaserade Lillgrund beräknas ha något lägre kostnader än de i Olkiuoto, men då ska vi vara medvetan om att ingen hänsyn tagits till att vindkraftsparken i Lillgrund beräknas ha ca 35-40 år kortare livstid</p>
+	<p>Utifrån från vår sammanställning kan vi sammanfattningsvis se att även om man inte räknar med några av de dolda kostnader som vi framfört ovan eller skillnaderna i livstid mellan vind och kärnkraftsanläggningar, så är totala kostnaderna för kärnkraft något lägre än de för vindkraft. Detta är givet antagandet att de subventioner som ges till vindkraften idan inte bör sänkas för att de är onödiga.</p>
+	<p>Men vi vill vara ödmjuka inför att detta är komplexa frågor och att beräkningarna innehåller osäkerheter. Vi tar därför gärna emot tips från dig som läsare om du upplever att det finns faktorer vi missat att ta hänsyn till eller om det finns skäl att anta att någon specifik beräkning här gör en under- eller överskattaning av någon kostnad.</p>
+
 </section>
