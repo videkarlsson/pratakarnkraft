@@ -32,7 +32,12 @@ Förklara att vi kan ha båda under och överproduktion samtidigt.
 Förutom beroende av fossila bränslen så skapar det kostnader för vind och sol men också för alla andra. Kan får som konekvens att vi behöver subventionera fossil reglerkraft i värsta fallet
 http://jmkorhonen.net/2014/04/08/graphic-of-the-week-having-too-much-and-too-little-renewables-at-the-same-time/
 
+http://www.eex-transparency.com/homepage/power/germany-austria/production/usage/actual-solar-power-generation- källa till elproduktion i tyskland österrike.
+
+
 Diskutera alternativen till reglerkraft
+
+
 
 - Energilagring- begränsade möjligheter idag.
 Power to gas
