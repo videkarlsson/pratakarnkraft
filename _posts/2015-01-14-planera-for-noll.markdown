@@ -22,17 +22,17 @@ Förklaringen till detta ligger i att vind- och solel produceras inte i ett jäm
 
 <b>Intermittenta energikällor:</b> Vind- och solkraft levererar mycket vid rätt väderlek och inte alls när det är som sämst. Flödet varierar både under en dag och under året.
 
-För att få en förståelse för omfattningen av problematiken
 
-Ta upp att även med vattenkraft är inte effekterna marginella på miljön av att ändra flödet konstant.
+TODO
+Vi kommer behöva alla verktyg för att få bort användningen av fossila bränslen. Vi bör därför kraftigt bygga ut vind och sol globalt där det går.
+Men satsningar på sol och vind måste göras inom ramen för det vi kan reglera/lagra så att det inte bygger upp ett beroende av fossilreglerkraft som vi inte sen kan fasa ut.
 
-Skattning av hur stor problemet är, f
-ta upp australien (vind), Tyskland sol
+Försök sammanställa data från tyskland och österrike om hur stora variationerna är för att kunna skatta hur vanligt/ovanligt maxima minimum är
 Förklara att vi kan ha båda under och överproduktion samtidigt.
-Förutom beroende av fossila bränslen så skapar det kostnader för vind och sol men också för alla andra. Kräver sannolikt subventioner även av fossila bränslenom vi vill ha konstant tillgång till el
+Förutom beroende av fossila bränslen så skapar det kostnader för vind och sol men också för alla andra. Kan får som konekvens att vi behöver subventionera fossil reglerkraft i värsta fallet
 http://jmkorhonen.net/2014/04/08/graphic-of-the-week-having-too-much-and-too-little-renewables-at-the-same-time/
 
-Vilka är alternativen till reglerkraft
+Diskutera alternativen till reglerkraft
 
 - Energilagring- begränsade möjligheter idag.
 Power to gas
