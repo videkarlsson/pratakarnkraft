@@ -137,23 +137,12 @@ Värt att notera här är dock att även om vi applicerar den mest konservativa 
 <h5> Tjernobyl-olyckans konsekvenser för ekosystemet </h5>
 http://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/?no-ist
 <h4>Fukushima</h4>
-
-Om Fukushima olyckan skrivs följande i Miljöpartiets officiella material. 
+<p>Om Fukushima olyckan skrivs följande i Miljöpartiets material på hemsidan. </p>
 
 <blockquote>Idag för tre år sedan drabbades Fukushima av en jordbävning, en tsunami och en kärnkraftskatastrof – den senare hade kunnat undvikas. Den fulla skadan av kärnkraftsolyckan är fortfarande inte känd. De fortsatta läckagen från kärnkraftverket och de förhöjda nivåerna av radioaktivitet kommer påverka människor och omgivningen i många årtionden framöver. Erfarenheten från Tjernobyl visar att radioaktiviteten leder till att cancer blir vanligare senare i livet för de som utsatts.</blockquote>
 
-<blockquote>Exempelvis har kostnaderna för olyckan i Fukushima beräknats till över 1000 miljarder</blockquote>
-
-Det är problematiskt om man ger bilden att utsläppen vid Fukushima är likvärdiga med de vid Tjernobyl. Då utsläppen vid Tjernobyl olyckan var markant högre. Detta i kombination med snabb evakuering och låga gränser för radiokativitet i livsmedel
-https://www.stralsakerhetsmyndigheten.se/Om-myndigheten/Tema-stralsakerhet/Artiklar/Tva-ar-sedan-Fukushima-olyckan-Snabba-atgarder-viktiga-vid-olycka/
-gör att UNCEAR bedömmer att 
-Även här betonas de psykologiska konsekvenserna det är en viktigt ansvar att inte sprida skräckpropaganda.
-TODO
-kolla upp kraftverk ondaga som klarade större våg och jordbävning
-Ta upp att ingen dött ännu till följd av strålning
-ta upp UNCEARbedömmer inte att det kommer öka cancerfallen mätbart
-
-I vår blogg-inlägg <a>Är Kärnkraft för dyrt</a> finner du en diskussion kring kostnaderna vid en kärnkraftsolycka.
+<p>Citatet ovan innehåller inte några direkta faktafel, men det riskerar att ge läsaren bilden av att olyckan i Fukushima har konsekvenser som är likvärdiga med de som beräknas bli av Tjernobyl. Vi tror därför att det kan vara viktigt att tydliggöra de stora skillnader som finns. <a href="http://www.who.int/mediacentre/news/releases/2013/fukushima_report_20130228/en/" target="_blanc">WHO bedömningen</a> att riskerna för den stora allmännheten i Japan och resten av världen är mycket låga, och för dessa grupper beräknas inte olyckans utsläpp leda till någon observerbar ökning i antalet cancerfall. De enda som förväntas ha en förhöjd cancerrisk till följd av olyckan är de som arbetade på själva kraftverket under själva olyckan, samt spädbarn i de mest drabbade områdena.
+Vi tror att det är viktigt att vi inom miljörörelsen är medvetna om detta för att kunna göra en konsekvensanalys av riskerna med att behålla jämfört med att globalt avveckla kärnkraften idag.</p>
 </section>
 <section id="danger-5">
 <h2>Hur många liv har kärnkraft räddat</h2>
