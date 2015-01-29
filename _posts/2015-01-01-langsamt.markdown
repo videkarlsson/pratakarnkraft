@@ -70,15 +70,15 @@ utbyggnaden.
 </div>
 Vi ser att de erfarenheter vi har av elproduktion i världen hittills talar emot påståendet att satsningar på kärnkraft skulle leda till långsammare utlsläppsminskningar. Glappet mellan förnybara energislag och kärnkraft är därtill betydande. Tar vi ett land med relativt stor befolkning som Frankrike ser vi att de under 70-80 talet uppnådde en utbyggnadstakt per capita som är tre gånger högre än det land som leder utbyggnaden av förnybara energislag närmare bestämt Danmark. Detta visar att en snabb kärnkraftsutbyggnad är fullt tekniskt möjlig givet att den politiska viljan finns på plats.
 
-TODO Fråga Carl om hur utbyggnaden i Danmark sett ut, var det mycket lånsamt t.ex. 2000- 2005 och därefter betydligt snabbare... I så fall så skulle det kanske vara mer rättvisande att dubbla senaste fem åren?
+TODO Fråga Carl om hur utbyggnaden i Danmark sett ut, var det mycket lånsamt t.ex. 2000- 2005 och därefter betydligt snabbare... I så fall så skulle det kanske vara mer rättvisande att jämföra med om man skulle ungefär dubbla senaste fem åren?
 
-TODO ta upp data från Carl hellesen att snitt-tiden att bygga kärnkraftverk idag är ca 7år
+TODO Kolla med Carl hur snitt-byggnads tiden ser ut idag.
 
 Vi vill slutligen problematisera att publikationen inte diskuterar faktumet att vind och sol är intermittenta energikällor.  Detta betyder att mängden el som produceras har dygns och årstidsvariationer, som vi kan inte kan styra över. De förnybara energikällorna är därför beroende av reglerkraft. I länder som saknar förutsättningar för stora mängder vattenkraft innebär det i praktiken att man vid en uppskalning av de förnybara enrgislagen blir beroende av fossila bränslen. När mängden förnybar energi skalas upp blir detta ett problem. Variationerna i mängden el som produceras blir då så stor att man under vissa delar av dygnet/året överproducerar el som man inte har någon avsättning för, samtidigt man behöver ha andra anlägggningar som står stilla men som är berredda att startas igång under de delar av dygnet/året då elproduktionen från de förnybara energislagen dippar. När dessa gränser nås blir utdelningen i form av faktisk användbar el lägre för varje nytt vind eller solkraftverk vi bygger lägre.
 
 Vi vill avsluta med att säga att vi delar oron över att världens användning av fossila bränslen ökar istället för minskar. 
 
-Vi tror att frågan om hur snabbt världen kommer ställa om till fossilfri energiproduktion avgörs av hur snabbt alternativen ekonomiskt kan konkurrera ut de fossila lösningarna.
+Vi tror att det är olyckligt att i detta läga ställa kärnkraft och förnybart mot varandra. Vi tror även att frågan om hur snabbt världen kommer ställa om till fossilfri energiproduktion avgörs av hur snabbt alternativen ekonomiskt kan konkurrera ut de fossila lösningarna.
 
 Under sidans andra huvudtema <a class="global-link">"Tänk Globalt - Handla Lokalt"</a> utvecklar vi varför det är viktigt att de energilösningar Sverige satsar på därför bör gå att skala upp i övriga delar av världen.
 
