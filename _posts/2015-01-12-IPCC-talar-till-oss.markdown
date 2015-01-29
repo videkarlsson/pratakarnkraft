@@ -10,6 +10,8 @@ circle-img: megaphone.png
 
 Kärnkraftsfrågan var som nog de flesta av oss vet en av de tyngst vägande anledningarna till att Miljöpartiets grundades. Utifrån de förutsättningar som rådde under 1980-talet ser också vi att detta var en självklar ståndpunkt för de som ville sätta miljö och människors hälsa i första rummet. Då var världens samlade erfarenhet av sol-, vind- och kärnkraft relativt kort, och därmed var även vår kunskap om riskerna och möjligheterna med de olika kraftslagen mycket mer begränsad än idag. Men den kanske största skillnaden är att då var klimatförändringar ett relativt okänt begrepp. Idag är situationen en annan.
 
+Vi tycker att utvecklingen de senaste 30 åren ger oss flera skäl att ompröva den ståndpunkt som togs 1980. 
+
 Idag har vi möjlighet att jämföra hoten från fossila bränslen med de hot som kärnkraft för med sig. 
 
 Vi kan se att enligt <a href="http://www.who.int/mediacentre/news/releases/2014/air-pollution/en/" target="_blanc">WHO:s uppskattningar beräknas 7 miljoner människor dö</a> varje år av luftföroreningar. WHO är tydliga med vad som orsakar detta. De två avgörande problemen vi behöver lösa är för det första användandet av fossila energikällor och för det andra att de människor som saknar stabil tillgång till elektricitet tvingas idag elda vedträ och kol i sina hem. WHO gör också <a href="http://www.who.int/heli/risks/climate/climatechange/en/" target="_blanc">uppskattningen</a> att bara de försiktiga klimatförändringar vi sett hittills beräknas döda över 150 000 människor varje år. 
@@ -22,7 +24,7 @@ Idag har vi också möjlighet att utvärdera hur världens energiproduktion ser 
 <p class="img-text">Källa: <a href="http://www.iea.org/statistics/statisticssearch/report/?country=WORLD&product=balances&year=2011">IEA</a><p>
 </div>
 
-Om vi väljer att sätta klimatfrågan först har IPCC ett tydligt budskap till oss. Kärnkraft har en central roll att spela i världens energiproduktion om vi både ska möta den förväntade energikonsumtionsökningen i världen och ha en chans att klara två-gradersmålet.
+Väljer vi att sätta klimatfrågan först har IPCC ett tydligt budskap till oss. Kärnkraft har en central roll att spela i världens energiproduktion om vi både ska möta den förväntade energikonsumtionsökningen i världen och ha en chans att klara två-gradersmålet.
 <blockquote>
 Scenarios that are likely to maintain warming at below 2°C include more rapid improvements in energy efficiency and a tripling to nearly a quadrupling of the share of zero - and low - carbon energy supply from renewable energy,
 nuclear energy and fossil energy with carbon dioxide capture and storage (CCS), or bioenergy with CCS (BECCS) by the year 2050.
