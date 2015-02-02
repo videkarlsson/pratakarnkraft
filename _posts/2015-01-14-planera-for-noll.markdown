@@ -34,6 +34,9 @@ http://jmkorhonen.net/2014/04/08/graphic-of-the-week-having-too-much-and-too-lit
 
 http://www.eex-transparency.com/homepage/power/germany-austria/production/usage/actual-solar-power-generation- källa till elproduktion i tyskland österrike.
 
+Ta upp vind reglerad med gas kan vara sämre än bara gas... vi behöver inte ha ett fundamentalistiskt synsätt. Utan vara hårda med att detta kräver utveckling.
+
+
 
 Diskutera alternativen till reglerkraft
 

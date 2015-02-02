@@ -201,11 +201,11 @@ Den dolda subvention som vi vill mena idag utgår till vind- och solkraftverken 
 	<h4>Slutsats</h4>
 	<p>Vi kan i diagrammet nedan se att den havsbaserade vindkrafts parken Lillgrund är tillsynes något billigare än den reaktor som byggs i Olkiluoto medans den vindkraftspark som byggs i Markbygden kan komma att bli något dyrare än Olkiluoto. Samtidigt är skillnaderna så små och osäkerheterna i beräkningarna så stora att det är svårt att dra exakta slutsatser före båda anläggningarna står klara. </p>
 	<img class="img-responsive blog-img" src="/assets/img/fact-check/cost-diagram-m-o-l.png">
-	<p>Vi tycker att denna jämförelse visar att det finns skäl att ifrågasätta påståendet att bygnnadskostnaderna för ny kärnkraft skulle långt överstiga de för ny kärnkraft. Det bygger t.ex. till synes på antagandena att man inte tar någon hänsyn till anläggnings livslängd. Att ersätta verken på befintliga platser är givetvis inte lika dyrt som att bygga en helt ny vindkraftspark men att värdera kostnaden till noll känns inte heller rimligt.</p>
+	<p>Vi tycker att denna jämförelse visar att det finns skäl att ifrågasätta påståendet att bygnnadskostnaderna för ny kärnkraft skulle långt överstiga de för ny vindkraft. Det bygger t.ex. till synes på antagandena att man inte tar någon hänsyn till anläggnings livslängd. Att ersätta verken på befintliga platser är givetvis inte lika dyrt som att bygga en helt ny vindkraftspark men att värdera kostnaden till noll känns inte heller rimligt.</p>
 	<p>Vi vill här slutligen problematisera antagandet att kärnkraft bara kommer bli dyrare medan de förnybara enrgislagen bara kommer bli billigare</p>
 	<p>Vi har svårt att se att kärnkraft idag har några inneboende problem att skalas upp i större skala</p>
 	<p>Det är snarare så att kostnaderna borde påverkas positivt av att man bygger fler liknande kraftverk då t.ex. den reaktor som byggs i Olikoluoto är den första i sitt slag och det istället medför ökade kostnader</p>
-	<p>Vi vill mena att tvärtom är befogat att anta att man idag bygger ut vindkraftsparker på de bästa lägena både om man ser till väderförhållanden och miljöpåverkan på omgivningen. Om vi t.ex. vill bygga ut anläggningar av typen Lillgrund så att de motsvarar antalet levererade Twh/år från en reaktor som den Olkiluoto behöver vi finna 39 likvärdiga platser. </p>
+	<p>Vi vill mena att det tvärtom är befogat att anta att man idag bygger ut vindkraftsparker på de bästa lägena både om man ser till väderförhållanden, krav på nätutbyggnad, och miljöpåverkan på omgivningen. Om vi t.ex. vill bygga ut anläggningar av typen Lillgrund så att de motsvarar antalet levererade Twh/år från en reaktor som den Olkiluoto behöver vi finna 39 likvärdiga platser. </p>
 
 </section>
 <section id="expensive-5">
