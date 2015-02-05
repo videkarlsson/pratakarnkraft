@@ -30,7 +30,7 @@ colors:  #in hex code if not noted else
   global_brown: "#635207"
   global_green:  "#096307"
   global_light_blue: "#0C61B0"
-  global_grey: "#545454";
+  global_grey: "#545454"
 
   # other green 386307
 
