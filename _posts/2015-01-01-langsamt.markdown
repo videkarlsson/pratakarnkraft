@@ -74,13 +74,15 @@ TODO Fråga Carl om hur utbyggnaden i Danmark sett ut, var det mycket lånsamt t
 
 TODO Kolla med Carl hur snitt-byggnads tiden ser ut idag.
 
-Vi vill slutligen problematisera att publikationen inte diskuterar faktumet att vind och sol är intermittenta energikällor.  Detta betyder att mängden el som produceras har dygns och årstidsvariationer, som vi kan inte kan styra över. De förnybara energikällorna är därför beroende av reglerkraft. I länder som saknar förutsättningar för stora mängder vattenkraft innebär det i praktiken att man vid en uppskalning av de förnybara enrgislagen blir beroende av fossila bränslen. När mängden förnybar energi skalas upp blir detta ett problem. Variationerna i mängden el som produceras blir då så stor att man under vissa delar av dygnet/året överproducerar el som man inte har någon avsättning för, samtidigt man behöver ha andra anlägggningar som står stilla men som är berredda att startas igång under de delar av dygnet/året då elproduktionen från de förnybara energislagen dippar. När dessa gränser nås blir utdelningen i form av faktisk användbar el lägre för varje nytt vind eller solkraftverk vi bygger lägre.
+Vi vill slutligen problematisera att publikationen inte diskuterar faktumet att vind och sol är intermittenta energikällor.  Detta betyder att mängden el som produceras har dygns och årstidsvariationer, som vi kan inte kan styra över. De förnybara energikällorna är därför beroende av reglerkraft. När mängden förnybar energi skalas upp blir detta ett problem för de länder som inte har tillgång till stora mängder fossilfri reglerkraft. Variationerna i mängden el som produceras blir då så stor att man under vissa delar av dygnet/året överproducerar el som man inte har någon avsättning för, samtidigt man behöver ha fossil reglerkraft som står stilla men som är berredda att startas igång under de delar av dygnet/året då elproduktionen från de förnybara energislagen dippar. När dessa gränser nås blir reglerkraften dyrare och utdelningen i form av faktisk användbar el från varje nytt vind eller solkraftverk lägre. Det är här kärnkraft kan spela en avgörande roll som fossilfri baskraft. 
 
 Vi vill avsluta med att säga att vi delar oron över att världens användning av fossila bränslen ökar istället för minskar. 
 
-Vi tror att det är olyckligt att i detta läga ställa kärnkraft och förnybart mot varandra. Vi tror även att frågan om hur snabbt världen kommer ställa om till fossilfri energiproduktion avgörs av hur snabbt alternativen ekonomiskt kan konkurrera ut de fossila lösningarna.
+Vi tror att det är olyckligt att i detta läga ställa kärnkraft och förnybart mot varandra. 
 
-Under sidans andra huvudtema <a class="global-link">"Tänk Globalt - Handla Lokalt"</a> utvecklar vi varför det är viktigt att de energilösningar Sverige satsar på därför bör gå att skala upp i övriga delar av världen.
+Vi tror även att frågan om hur snabbt världen kommer ställa om till fossilfri energiproduktion avgörs av hur snabbt alternativen ekonomiskt kan konkurrera ut de fossila lösningarna.
+
+Under sidans andra huvudtema <a class="global-link">"Tänk Globalt - Handla Lokalt"</a> utvecklar vi varför det är viktigt att de energilösningar Sverige satsar på har förmåga att skalas upp globalt.
 
 Under sidans tredje huvudtema <a class="tech-text">"Ta del av teknikutvecklingen"</a> har vi intervjuat forskare kring vilka satsningar på teknikutveckling som de tror är nödvändiga för att kärnkraft ska bli ett billigare alternativ än kol och olja.
 
