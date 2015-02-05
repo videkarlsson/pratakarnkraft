@@ -27,6 +27,9 @@ h1, h2, h3, h4, h5{
 #world-circle{
 	background-color:{{ site.colors.global_grey}};
 }
+#zero-circle {
+	background-color: {{ site.colors.global_green}};
+}
 
 
 #sweden-circle, #power-off-circle, #final-circle{
@@ -34,9 +37,7 @@ h1, h2, h3, h4, h5{
 }
 
 
-#zero-circle {
-	background-color: {{ site.colors.global_green}};
-}
+
 
 csmall {
 	font-size: 12px;
