@@ -20,17 +20,21 @@ h1, h2, h3, h4, h5{
 	background: {{ site.colors.dark_blue}};
 }
 
-#bull-horn-circle, #heart-circle{
-	background-color: {{ site.colors.global_purple}};
+#bull-horn-circle{
+	background-color:{{ site.colors.global_purple}};
+}
+
+#world-circle{
+	background-color:{{ site.colors.global_grey}};
 }
 
 
-#sweden-circle,#zero-circle, #power-off-circle, #final-circle{
+#sweden-circle, #power-off-circle, #final-circle{
 	 background-color: {{ site.colors.dark_blue}};
 }
 
 
-#wrench-circle,#world-circle {
+#zero-circle {
 	background-color: {{ site.colors.global_green}};
 }
 
