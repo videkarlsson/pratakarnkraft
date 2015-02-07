@@ -11,7 +11,7 @@ thumb: nuclear-weapon-thumb.jpg
 ---
 <b>Påstående:</b> Civil kärnkraft ökar riskerna för kärnvapenkrig
 
-En central del i miljörörelsen och Miljöpartiets kärnkraftsmotstånd är den koppling man ser mellan kärnkraft och kärnvapen. På sidan 11 i publikationen <a class="fact-check-text">Kärnkraft Klimat</a> respektive sidan 4 i  publikationen <a class="fact-check-text">Kärnkraft i klimatkrisens tidevarv</a> finner vi exempel på där vi inom Miljöpartiet framför denna åsikt:
+En central del i miljörörelsen och Miljöpartiets kärnkraftsmotstånd är den koppling man ser mellan kärnkraft och kärnvapen. På sidan 11 i publikationen <a href="/assets/files/karnkraft_klimat.pdf">Kärnkraft Klimat</a> respektive sidan 4 i  publikationen <a href="/assets/files/mp_arg_kärnkraft.pdf">Kärnkraft i klimatkrisens tidevarv</a> finner vi exempel på där vi inom Miljöpartiet framför denna åsikt:
 
 <blockquote>Kopplingen mellan kärnkraft och kärnvapen gör dessutom att kärnkraft inte bara för med sig risker för direkta utsläpp utan också ökar risken för kärnvapenattacker.</blockquote>
 

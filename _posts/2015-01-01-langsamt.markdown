@@ -9,7 +9,7 @@ categories:
 - kallkontroll
 circle-img: slow.jpg
 ---
-I publikationen <a>Kärnkraft i klimatkrisens tidevarv</a> finner vi följande citat.
+I publikationen <a href="/assets/files/mp_arg_kärnkraft.pdf">Kärnkraft i klimatkrisens tidevarv</a> finner vi följande citat.
 <blockquote>
 FN:s klimatpanel, IPCC, visar att det krävs omedelbara åtgärder för att möta
 klimatförändringarna. De globala klimatpåverkande utsläppen måste enligt IPCC
