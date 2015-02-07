@@ -1,6 +1,9 @@
 .dark_blue {
     background-color: {{ site.colors.dark_blue}};
 }
+.dark_green {
+    background-color: {{ site.colors.dark_green}};
+}
 
 .mp_purple {
     background-color: {{ site.colors.mp_purple}};
@@ -71,7 +74,7 @@ header .intro-text .intro-heading {
     margin-bottom: 35px;
     /*text-transform: uppercase;*/
     font-family: 'Montserrat', sans-serif;;
-    font-size: 30px;
+    font-size: 28px;
     font-weight: 700;
     line-height: 40px;
 }

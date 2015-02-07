@@ -312,7 +312,11 @@ a:focus {
     text-align: center;
     font-size: 50px;
 }
-
+#looking-glass{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 45px;
+}
 
 .timeline {
     position: relative;
@@ -433,6 +437,11 @@ a:focus {
 
 	#globe{
     padding-top: 30px;
+    font-size: 100px;
+    }
+
+    #looking-glass{
+    padding-top: 25px;
     font-size: 100px;
     }
 
