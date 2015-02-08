@@ -7,6 +7,20 @@ h1, h2, h3, h4, h5{
     color:  {{ site.colors.dark_green}};
 }
 
+.arg-headline{
+	text-align: left;
+}
+
+.arg-p{
+	text-align: left;
+}
+
+
+.chapter-icon{
+	float:left;
+	margin-right:10px;
+}
+
 csmall{
 	font-size: 12px;
 	color: {{ site.colors.dark_green}};
