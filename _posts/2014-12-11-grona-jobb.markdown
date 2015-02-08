@@ -11,7 +11,7 @@ thumb: green-jobs-thumb.jpg
 ---
 <b>Påstående:</b> Kärnkraft räddar inte jobben
 
-På sidan 8 i publikationen <a class="fact-check-text">Kärnkraft i klimatkrisens tidevarv</a> kan vi läsa följande:
+På sidan 8 i publikationen <a href="/assets/files/mp_arg_kärnkraft.pdf">Kärnkraft i klimatkrisens tidevarv</a> kan vi läsa följande:
 
 <blockquote>En närliggande fråga är hur många arbetstillfällen som skapas i energisektorn. Svensk vindenergi menar att vindkraft kan beräknas ge 12 000 nya jobb i Sverige. Statistik visar också tydligt att när anläggningarna väl är byggda skapar vindkraft och andra förnybara energikällor betydligt fler arbetstillfällen för driften än vad kärnkraft gör. År 2002 arbetade 35 000 personer i den tyska kärnkraftsindustrin medan de som var sysselsatta med förnybara energikällor uppgick till 120 000 personer, varav 53 000 i vindkraftsbranschen, trots att de bara stod för en liten del av elproduktionen</blockquote>
 Vi kommer inte argumentera emot påståendet att mer förnybara energi har som konsekvens att fler människor kommer behöva jobba med energiproduktion. Vi vill dock lyfta frågan hur detta kan anses vara ett argument för förnybar energi?
