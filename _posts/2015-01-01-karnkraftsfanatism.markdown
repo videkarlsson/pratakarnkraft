@@ -20,4 +20,6 @@ I normala fall finns ett starkt samband mellan matematiska kunskaper och förmå
 	<li><p><b>Vindkraftverk är dödsmaskiner för fåglar och fladdermöss</b></p></li>
 	<p>TODO</p>
 	<li><p><b></b></p></li>
+	<li><p><b>Olikoluoto är ett unikt dyrt och långsamt kärnkraftsverksbygge</b></p></li>
+	<p>TODO argumentera att ja det går snabbare i asien men vi måste analysera varför det går långsamt i europa länka till långsamt</p>
 </ul>

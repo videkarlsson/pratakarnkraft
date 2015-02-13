@@ -44,7 +44,7 @@ nuclear energy and fossil energy with carbon dioxide capture and storage (CCS), 
 
 <p>IEA skriver i sin senaste rapport om kärnkraft från 2015:</p>
 <blockquote>The vision presented in this Roadmap is based on the Energy Technology Perspectives 2015 (ETP 2015) (IEA, 2015) 2°C Scenario (2DS) which calls for a virtual decarbonisation of the power sector by 2050. A mix of technologies including nuclear, carbon capture and storage, and renewables will be needed to achieve this decarbonisation. </blockquote>
-<p class="img-text"><a href="http://www.iea.org/statistics/statisticssearch/report/?country=WORLD&product=balances&year=2011">IEA:s Technology Roadmap 2015 edition Nuclear Energy sid. 23</a><p>
+<p class="img-text"><a href="/assets/files/TechnologyRoadmapNuclearEnergy.pdf">IEA:s Technology Roadmap 2015 edition Nuclear Energy sid. 23</a><p>
 <p>En sammanfattning av denna rapport ges <a href="http://www.climatecentral.org/news/nuclear-power-needs-to-double-to-meet-warming-goal-18610" target="_blanc">här</a> av Climate Central</p>
 
 <p>De öppna breven finner ni här</p>

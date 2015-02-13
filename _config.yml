@@ -20,7 +20,7 @@ colors:  #in hex code if not noted else
   link: "#428bca"
   link_hover: "#01b2fe"
   footer_heading: "#ffffff"
-  footer_content: "#bfc9d3"
+  footer_content: "#565A5E"
   ultra_light_blue: "#01b2fe"
   dark_blue: "#073763"
   mp_green: "#53a045"
