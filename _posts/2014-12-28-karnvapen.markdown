@@ -40,4 +40,5 @@ Vi hoppas på en reflektion inom Miljöpartiet kring synen på kärnvapen som en
 <ul>
 	<li><p>En utbyggnad av medicin- och kemiforskning över världen leder i förlängningen till att fler får den kompetens som behövs för att utveckla kemiska och biologiska massförstörelsevapen. I de fallen tror vi att kunskap aldrig kan förbjudas bara förvaltas på ett klokt sätt, med vilken grund anser vi inom Miljöpartiet att kunskap och teknik är för farligt i det ena fallet och inte det andra?</p></li>
 	<li><p>Hur värderar vi det faktumet att kunskapen om hur man framställer kärnvapen kommer finnas kvar även om global avveckling av civil kärnkraft sker?</p></li>
+	
 </ul>

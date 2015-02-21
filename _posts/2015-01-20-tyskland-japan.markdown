@@ -57,3 +57,11 @@ Utamningen ligger i att inte förringa de tekniska framsteg som görs men inte h
 och Japan är två lä
 
 IPCC visar tydligt att vi kommer behöva alla verktyg.
+
+
+TYSKLAND
+
+http://reneweconomy.com.au/2015/graphs-of-the-day-the-success-of-germanys-energy-transition-15022
+
+men också: http://nejdetkanviinte.se/2014/11/17/tysklands-energielande-ar-2025/
+Tysklands energielände, år 2025 | Nej, det kan vi inte
