@@ -37,6 +37,8 @@ http://www.eex-transparency.com/homepage/power/germany-austria/production/usage/
 Ta upp vind reglerad med gas kan vara sämre än bara gas... vi behöver inte ha ett fundamentalistiskt synsätt. Utan vara hårda med att detta kräver utveckling.
 
 
+http://www.midwestenergynews.com/2015/02/13/blowing-away-myths-study-says-wind-energy-could-be-even-more-reliable-than-baseload-power/
+
 
 Diskutera alternativen till reglerkraft
 

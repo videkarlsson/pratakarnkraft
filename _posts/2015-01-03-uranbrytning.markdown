@@ -11,6 +11,9 @@ circle-img: mining.png
 ---
 <b>Påstående:</b> Uranbrytning är oacceptabelt ur ett miljöperspektiv
 
+http://supermiljobloggen.se/nyheter/2015/02/miljoskadliga-metaller-och-gron-teknik
+
+
 På sidan 11 i publikationen <a href="/assets/files/karnkraft_klimat.pdf">Kärnkraft Klimat</a> kan vi läsa följande:
 <blockquote>Vid urangruvor i bl a Australien drabbas människor och djur av sjukdomar. Minnesförluster, nedsatt syn och barn som föds med missbildningar är direkta konsekvenser av uranbrytningen.</blockquote>
 
