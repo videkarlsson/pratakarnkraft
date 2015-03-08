@@ -7,7 +7,7 @@ categories:
 - global
 circle-img: megaphone.png
 ---
-Kärnkraftsfrågan var som nog de flesta av oss vet en av de tyngst vägande anledningarna till att Miljöpartiets grundades. Ser vi tillbaka till de förutsättningar som rådde inder 1980-talet är det också lätt att förstå varför motstånd mot kärnkraft var en självklar ståndpunkt för de som ville sätta miljö och människors hälsa i första rummet. Då var världens samlade erfarenhet av sol-, vind- och kärnkraft relativt kort, och därmed var även vår kunskap om riskerna och möjligheterna med de olika kraftslagen mycket mer begränsad än idag. Men den kanske största skillnaden är att då var klimatförändringar ett relativt okänt begrepp. Idag är situationen en annan.
+Kärnkraftsfrågan var som nog de flesta av oss vet en av de tyngst vägande anledningarna till att Miljöpartiets grundades. Ser vi tillbaka till de förutsättningar som rådde under 1980-talet är det också lätt att förstå varför motstånd mot kärnkraft var en självklar ståndpunkt för de som ville sätta miljö och människors hälsa i första rummet. Då var världens samlade erfarenhet av sol-, vind- och kärnkraft relativt kort, och därmed var även vår kunskap om riskerna och möjligheterna med de olika kraftslagen mycket mer begränsad än idag. Men den kanske största skillnaden är att då var klimatförändringar ett relativt okänt begrepp. Idag är situationen en annan.
 
 Vi tycker att utvecklingen de senaste 30 åren ger oss flera skäl att ompröva den ståndpunkt vi antog på 1980-talet. 
 
