@@ -70,10 +70,33 @@ utbyggnaden.
 </div>
 Vi ser att de erfarenheter vi har av elproduktion i världen hittills talar emot påståendet att satsningar på kärnkraft skulle leda till långsammare utlsläppsminskningar. Glappet mellan förnybara energislag och kärnkraft är därtill betydande. Tar vi ett land med relativt stor befolkning som Frankrike ser vi att de under 70-80 talet uppnådde en utbyggnadstakt per capita som är tre gånger högre än det land som leder utbyggnaden av förnybara energislag närmare bestämt Danmark. Detta visar att en snabb kärnkraftsutbyggnad är fullt tekniskt möjlig givet att den politiska viljan finns på plats.
 
+I grafen nedan har vi plottat hur byggnads tiderna utvecklats sedan 1960-talet fram till idag. Varje punkt på linjerna motsvarar reaktorer som färdigställdes det året. Den röda linjen represenetrar de projekt som tog kortast tid på sig att färdigställas från byggnadsstart till färdig reaktor, medan den gröna linjen representerar median tiden och slutligen den blå linjen representerar det projekt som det året hade tagit längst tid på sig att färdigställas. Vi kan här se att mediantiden i världen t.o.m sjunkit något jämfört med utbyggnadstakten som vi uppnådde i europa på 70-80 talen. 
+<div>
+<img class="img-responsive blog-img" src="/assets/img/fact-check/constructiontime_statistics_iaea.png">
+<p class="img-text">Källa: <a href="http://www.iaea.org/pris/">Power Reactor Information System</a> (IAEAs officiella statistik över reaktorer i världen)</p>
+</div>
+Samtidigt som alltså statistiken motsäger tesen att kärnkraft skulle vara ett ineffektivt sätt att ersätta fossila bränslen på, så behöver vi ta på allvar att två av de kärnkraftsprojekt som pågår i europa idag gått långt över tiden (rektorbygget i Olkiluto i Finnland och Flamwille i Frankrike). Vi behöver ta de här på allvar
+och absolut komma till rätta med det som hindrar utvecklingen
+För publikationsförfattarna har helt rätt i att det är avgörande för klimatet i världen att vi får till 
+
+analysera vad det är för faktorer som 
+Vi 
+
+
+
+http://www.iaea.org/pris/CountryStatistics/ReactorDetails.aspx?current=154
+
+
+Ur grafen nedan framfår att medelbyggnadstiden för reaktorer i världen inte heller ökat sedan 70 och 80-talet.
+
+
+I grafen nedan har vi även plottat snabbaste, långsammaste och medelbyggnadstiden för reaktorer som färdigställts i
+
+
 TODO Fråga Carl om hur utbyggnaden i Danmark sett ut, var det mycket lånsamt t.ex. 2000- 2005 och därefter betydligt snabbare... I så fall så skulle det kanske vara mer rättvisande att jämföra med om man skulle ungefär dubbla senaste fem åren?
 
 TODO Kolla med Carl hur snitt-byggnads tiden ser ut idag.
-
+------------------------------------------------
 Vi vill slutligen problematisera att publikationen inte diskuterar faktumet att vind och sol är intermittenta energikällor.  Detta betyder att mängden el som produceras har dygns och årstidsvariationer, som vi kan inte kan styra över. De förnybara energikällorna är därför beroende av reglerkraft. När mängden förnybar energi skalas upp blir detta ett problem för de länder som inte har tillgång till stora mängder fossilfri reglerkraft. Variationerna i mängden el som produceras blir då så stor att man under vissa delar av dygnet/året överproducerar el som man inte har någon avsättning för, samtidigt man behöver ha fossil reglerkraft som står stilla men som är berredda att startas igång under de delar av dygnet/året då elproduktionen från de förnybara energislagen dippar. När dessa gränser nås blir reglerkraften dyrare och utdelningen i form av faktisk användbar el från varje nytt vind eller solkraftverk lägre. Det är här kärnkraft kan spela en avgörande roll som fossilfri baskraft. 
 
 Vi vill avsluta med att säga att vi delar oron över att världens användning av fossila bränslen ökar istället för minskar. 

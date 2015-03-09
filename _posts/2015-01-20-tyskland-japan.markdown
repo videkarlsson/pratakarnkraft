@@ -30,6 +30,19 @@ Vi tycker dessa två ETC-artiklar med all tydlighet visar att vi som står på o
 Låt oss nu går vidare till Tyskland
 
 <h3>Tysklands enegiewende en reform med två ansikten</h3>
+
+Bilderna av Tysklands stora energireform "Energiewende" skiljer sig ofta åt dramatiskt beroende på vem du frågar.
+De mest radikala kärnkraftsförespråkarna brukar vilja skildra det som 20 förlorade år. Medan de mest radikala gröna rösterna talar om en att de fossila bränslena snart kommer vara utfasade helt utan hjälp av kärnkraft.
+
+
+Just för att de 
+
+
+En prioritering att utfasning av kärnkraft före kol
+
+solunder 
+
+Tyskland är ett av de länder som kanske oftast kommer påtal när vi diskuterar 
 Utamningen ligger i att inte förringa de tekniska framsteg som görs men inte heller idaelisera 
 även för den som vill se en framtid med bara förnybara enrgislag är det vikgit att inte ignorera utmaningarna då de kommer stå i vägen i praktiken.
  
@@ -44,7 +57,11 @@ IPCC visar tydligt att vi kommer behöva alla verktyg.
 
 TYSKLAND
 
+http://reneweconomy.com.au/wp-content/uploads/2015/01/agora-power-growth.jpg
+
 http://reneweconomy.com.au/2015/graphs-of-the-day-the-success-of-germanys-energy-transition-15022
+http://reneweconomy.com.au/wp-content/uploads/2015/01/agora-power-growth.jpg
+
 
 men också: http://nejdetkanviinte.se/2014/11/17/tysklands-energielande-ar-2025/
 Tysklands energielände, år 2025 | Nej, det kan vi inte

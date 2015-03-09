@@ -29,7 +29,7 @@ nuclear energy and fossil energy with carbon dioxide capture and storage (CCS), 
 </blockquote>
 
 <p>Inte sällan ser vi dock hur olika delar av miljörörelsen lyfter fram enskilda scenarion från IPCCs rapporter som en garant för att vi kan klara två-gradersmålet lika bra utan kärnkraft. Vi kommer här lyfta ett exempel på där <a href="/assets/files/SRREN_fullReport.pdf">IPCC’s ‘Special Report on Renewable Energy Sources</a> använts på detta sätt. Men vi vill samtidigt vara tydliga med att vi inte läst samtliga IPCC rapporter i sin helhet så om du som läsare ser anledning att lyfta fram data från någon annan rapport välkommnar vi detta.</p>
-<p>Figuren nedan är hämtad från  <a href="/assets/files/SRREN_fullReport.pdf">IPCC’s ‘Special Report on Renewable Energy Sources sid. 803</a>. I figuren plottas 164 olika scenarion för hur stor produktionen av förnybar energi kan komma att vara år 2050 (fönybar energi definieras i rapporten som definierat i rapporten som energiproduktion från biomassa, solkraft, vindkraft, vågkraft, geotoermisk energi och vattenkraft).</p> 
+<p>Figuren nedan är hämtad från  <a href="/assets/files/SRREN_fullReport.pdf">IPCC’s ‘Special Report on Renewable Energy Sources sid. 803</a>. I figuren plottas 164 olika scenarion för hur stor produktionen av förnybar energi kan komma att vara år 2050 (fönybar energi definieras i rapporten som energiproduktion från biomassa, solkraft, vindkraft, vågkraft, geotoermisk energi och vattenkraft).</p> 
 
 <p>Vi har med rött markerat de 2 scenarion som använts som garant för att kärnkraft ej behövs för att möta två-gradersmålet. Vi har även med rött lagt in hur stor världens energikonsumtion var år 2008.</p>
 <img class="img-responsive blog-img" src= "/assets/img/global/164_scenarios_IPCC.jpg">
