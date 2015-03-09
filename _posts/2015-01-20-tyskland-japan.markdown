@@ -5,48 +5,31 @@ date: 2015-01-20 16:54:46
 author: Ragnhild Karlsson
 categories:
 - global
-circle-img: megaphone.png
+circle-img: map-marker.png
 ---
 
-TODO change circle-image
+Tyskland lyfts ofta upp av oss inom Miljöpartiet och miljörörelsen i stort som ett föredömme då de har som mål att både avveckla kärnkraften och bygga ut förnybara energislag i stor skala. Efter Fukushimaolyckan har det även kommit fram röster som lyfter att Japan nu mera också är att betrakta som ett grönt föredömsland. Vi kommer här visa varför vi tycker att det finns skäl att problematisera denna bild. Låt oss börja med Japan.
 
-Tyskland lyfts ofta upp av oss inom miljöpartier och miljörörelsen i stort som ett föredömme då de har som mål att både avveckla kärnkraften och bygga ut förnybara energislag i stor skala. Efter Fukushimaolyckan har det även funnits röster som lyft fram att Japan nu mera också är att betrakta som ett grönt föredömsland. 
+<h3>Japan före och efter Fukushima</h3>
+Två artiklar som beskriver hur Japan efter fukushimaolyckan blivit ett nytt grönt föredömsland publicerades under hösten 2014 i tidningen ETC (<a href="http://www.etc.se/klimat/efter-fukushima-nu-ar-japan-ett-gront-foredome
+">här</a> och <a href="http://www.etc.se/klimat/en-ljus-framtid-utan-karnkraft">här</a>). Båda artiklarna presenterar en bild av att kärnkraften i Japan aldrig varit nödvändig och när den nu tvingats snabbstänga har Japan fått upptäcka hur enkelt det är att ersätta den stängda reaktorerna med förnybara energislag. 
 
-Vi kommer här visa varför vi tycker att det finns skäl att problematisera denna bild.
+Artikelarna säger sig ha siffror på att användandet av fossila bränslen sjunker dramatiskt  och oljeberoende ska t.o.m ha minskat till hälften efter olyckan, mycket tack vare massiv utbyggnad av solenergi. Man berättar vidare om en utbyggnad av solpaneler som motsvarar 7-8 kärnkraftverk men det är från texten oklart om man avser installerad kapacitet eller faktisk produktion.
 
-Låt oss börja med Japan.
+Problemet för den som vill kontrollera de påståenden som görs är att IEA ännu inte släpt någon officiell statistik över hur elpreduktionen sett ut efter 2012. Jämför vi dock hur elproduktionen utvecklades mellan år <a href="http://www.iea.org/statistics/statisticssearch/report/?country=JAPAN&product=electricityandheat&year=2010">2010</a> (innan olyckan) och år <a href="http://www.iea.org/statistics/statisticssearch/report/?country=JAPAN&product=electricityandheat&year=2012">2012</a> (sista året med tillgänglig officiell statistik) är det tyvärr svårt att finna stöd för den bild artikelförfattarna målar upp. 
+<img class="img-responsive blog-img" src= "/assets/img/global/japans-elproduktion.jpg">
+Vi kan se att hur kärnkraften år 2010 producerade närmare 300 TWh per år för att 2012 ha sjunkit till att enbart biddra med ca 16 TWh per år. Samtidigt kan vi konstatera att artikelförfattarna har rätt i att det mycket riktigt hänt en imponerande ökning i mängden producerad solenegi. Från att solel 2010 enbart stod för ca 4 TWh per år, hade man år 2012 lyckats närmarst fördubbla produktion och uppnått en produktion på ca 7 TWh per år. 
 
-Två artiklar som lyfter japan som ett nytt grönt föredömme efter Fukushima publicerades under hösten 2014 i etc(<a href="http://www.etc.se/klimat/efter-fukushima-nu-ar-japan-ett-gront-foredome
-">här</a> och<a href="http://www.etc.se/klimat/en-ljus-framtid-utan-karnkraft">här</a>). Ett utmärkande drag för båda artiklarna är 
+Den obehaliga verkligheten som artikelförattarna dock väljer att dölja för oss är att energikonsumtionsminskningen verkar ligga inom ramen för normala konjunkturförändringar, och mellan år 2010 och år 2012 ökade defakto konsumtionen av fossila bränslen med närmare 200 Twh.
 
+Den Japanska staten verkar tyvärr inte heller dela artikelförfattarnas entusiasm över hur den framtida gröna energiproduktion ska komma att utvecklas. Innan olyckan hade Japan satt upp målet att man genom massiv utbyggnad av både kärnkraft och förnybart fram till år 2020 skulle kunna ha sänkt klimatgasutsläppen med 25% jämfört med år 1990. Nu när det av opinionsskäl är omöjligt att genomföra den planerade kärnkraftsutbyggnaden, har man fått justrera ner sina klimatmål till att inte låta utsläppen öka med mer än 3 procent (jämfört med utsläppen 1990) (se nyhetsrapporterna om denna förändring <a href="http://www.japantimes.co.jp/news/2013/11/16/national/politics-diplomacy/new-emissions-goal-derided-as-bad-joke-at-u-n-climate-summit/#.VL5sLDU2xC1">här </a> och <a href="http://www.reuters.com/article/2013/11/15/us-climate-japan-idUSBRE9AE00P20131115">här</a> )
+Det behöver knappast nämnas att det är allt annat än positivt för världens klimatförhandlingar när ett land som Japan inte längre har ambitionen att sänka sina utsläpp.
 
-En enkle jänmförelse visar att det något som är allvarligt fel i det som rapporteras i de två artiklarna
-http://www.iea.org/statistics/statisticssearch/report/?country=JAPAN&product=electricityandheat&year=2007
-http://www.iea.org/statistics/statisticssearch/report/?country=JAPAN&product=electricityandheat&year=2007
-TODO gör två circle-diagram
+Vi tycker dessa två ETC-artiklar med all tydlighet visar att vi som står på olika sidor i kärnkraftsfrågan behöver varandra. När vi läser en artikel som bekräftar vår egen verklighetsbild och våra egna visioner då är det lätt hänt att vi missar att göra den nödvändiga faktagranskningen innan vi delar artikeln vidare. Men om vi är öppna för ömsesidig och respektfull granskning av varandras argument då behöver inte den här typen av dessinformation bli långlivad. Om vi däremot accepterar den polarisering som idag råder är det klimatpolitiken som kommer bli lidande, antingen genom att vi bygger upp politik med överdriven tilltro till vad kränkraften kan lösa eller som i det här fallet att vi blundar för vad en dramatisk kärnkraftsnedstängning faktiskt har för påverkan på klimatet.
 
-Utmärknade inga exakta siffror
-Klimatmålen för japan har också ändrats drastiskt 
-från att innan olyckan haft målet att sänka utsläppen med 25% jmf med 1990 års nivå-  genomen kraftig utbyggnad av både kärnkraft och förnybar
-har man efter olyckan och nedstäningen av reaktorer ändrat målet till att ha utsläpp som motsvarar en ökning med 3-4% jmf med 1990 år nivåer
+Låt oss nu går vidare till Tyskland
 
-http://www.japantimes.co.jp/news/2013/11/16/national/politics-diplomacy/new-emissions-goal-derided-as-bad-joke-at-u-n-climate-summit/#.VL5sLDU2xC1
-http://www.reuters.com/article/2013/11/15/us-climate-japan-idUSBRE9AE00P20131115	
-
-
-Vi kunde se hur många gröna röster i sociala medier valde att dela de två etc-artiklar. Det är lätt hänt att missa granskningen när vi finner en artikel som bekräftar vår egen världsbild. Det här vi miljöengagerade röster behöver varandra.
-
-Visar att vi behöver varandra. Vi behöver ha ett samtalsklimat där vi kan granska varandra, så att den klimat politik vi väljer att satsa på i stösta möjliga mån tar hänsyn till tillgängliga fakta.
-
-Låt oss nu gå vidare till Tyskland
-Slu
-
-
-
-
-
-
-
+<h3>Tysklands enegiewende en reform med två ansikten</h3>
 Utamningen ligger i att inte förringa de tekniska framsteg som görs men inte heller idaelisera 
 även för den som vill se en framtid med bara förnybara enrgislag är det vikgit att inte ignorera utmaningarna då de kommer stå i vägen i praktiken.
  
