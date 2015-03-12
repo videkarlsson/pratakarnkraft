@@ -38,7 +38,7 @@ Vi ser en rad problem med resonemanget ovan.
 Som vi kommer visa nedan finns det skäl att ifrågasätta grundtesen att satsningar på kärnkraft skulle leda till långsammare utsläppsminskningar än satsningar på förnybart. Men vi vill först uppmärksamma läsaren på två rena motsägelser som vi upplever görs i resonemanget ovan.
 <ol>
 	<li><p>Publikationsförfattaren ger inledningsvis läsaren bilden av att satsningar på kärnkraft i världen är inrellevanta för klimatet då de tar ca 10 år (2020) att bygga utifrån logiken att vi då redan missat våra chanser att nå två-gradersmålet. Några meningar senare går det dock bra att diskutera vindkraftssatsningar utifrån ett femton års perspektiv, vilket borde vara en motsägelse.</p></li>
-	<li><p>Givet de radikala utsläppsminskningar man menar behövs innan 2020 har vi också svårt att se logiken i att parallellt välkommna global kärnkraftsavveckling av befintliga kraftverk under samma tio års period. I praktiken innebär det att de satsningar som görs på vind får  och sol får tillsammans med bio-massa och fossil regelerkraft (t.ex. gas) ersätta kärnkraft istället för kol och olja. Detta tycker vi är en motsägelse mot det klimatansvar man säger sig vilja ta. Om det är en genomtänkt linje att man vill prioriterar avveckling av kärnkraft globalt framför att minskade klimatutsläpp är det också problematiskt att man inte är öppnare och ärligare med att man har denna ståndpunkt. </p></li>
+	<li><p>Givet de radikala utsläppsminskningar man menar krävs redan innan 2020 har vi också svårt att se logiken i att parallellt välkommna global kärnkraftsavveckling av befintliga kraftverk under samma tio års period. I praktiken innebär det att de satsningar som görs på vind och sol får tillsammans med bio-massa och fossil regelerkraft (t.ex. gas) ersätta kärnkraft istället för kol och olja. Detta tycker vi är en motsägelse mot det klimatansvar man säger sig vilja ta. Om det är en genomtänkt linje att man vill prioriterar avveckling av kärnkraft globalt framför att minskade klimatutsläpp är det också problematiskt att man inte är öppnare och ärligare med att man har denna ståndpunkt. </p></li>
 </ol>
 
 Låt oss nu återgå till kärnfrågan om huruvida satsningar på kärnkraft ger långsammare utsläppsminskningar än satsningar på förnybara energislag. Svaret till frågan ges delvis i citatet ovan. Där väljer publikationsförfattaren att lyfta fram vindkraft som ett föredömligt snabbt sätt att ersätta fossila energikällor på. Man slår fast att:
@@ -70,11 +70,23 @@ utbyggnaden.
 </div>
 Vi ser att de erfarenheter vi har av elproduktion i världen hittills talar emot påståendet att satsningar på kärnkraft skulle leda till långsammare utlsläppsminskningar. Glappet mellan förnybara energislag och kärnkraft är därtill betydande. Tar vi ett land med relativt stor befolkning som Frankrike ser vi att de under 70-80 talet uppnådde en utbyggnadstakt per capita som är tre gånger högre än det land som leder utbyggnaden av förnybara energislag närmare bestämt Danmark. Detta visar att en snabb kärnkraftsutbyggnad är fullt tekniskt möjlig givet att den politiska viljan finns på plats.
 
-I grafen nedan har vi plottat hur byggnads tiderna utvecklats sedan 1960-talet fram till idag. Varje punkt på linjerna motsvarar reaktorer som färdigställdes det året. Den röda linjen represenetrar de projekt som tog kortast tid på sig att färdigställas från byggnadsstart till färdig reaktor, medan den gröna linjen representerar median tiden och slutligen den blå linjen representerar det projekt som det året hade tagit längst tid på sig att färdigställas. Vi kan här se att mediantiden i världen t.o.m sjunkit något jämfört med utbyggnadstakten som vi uppnådde i europa på 70-80 talen. 
+I grafen nedan har vi plottat hur byggnads tiderna utvecklats sedan 1960-talet fram till idag. Varje punkt på linjerna motsvarar reaktorer som färdigställdes det året. Den röda linjen represenetrar de projekt som tog kortast tid på sig att färdigställas från byggnadsstart till färdig reaktor, den gröna linjen representerar mediantiden det tog för samliga reaktorer som färdigställdes det året och slutligen den blå linjen representerar det projekt som det året hade tagit längst tid på sig att färdigställas. Vi kan här se att mediantiden i världen t.o.m sjunkit något jämfört med utbyggnadstakten som vi uppnådde i Europa på 70-80 talen. 
 <div>
-<img class="img-responsive blog-img" src="/assets/img/fact-check/constructiontime_statistics_iaea.png">
-<p class="img-text">Källa: <a href="http://www.iaea.org/pris/">Power Reactor Information System</a> (IAEAs officiella statistik över reaktorer i världen)</p>
+	<img class="img-responsive blog-img" src="/assets/img/fact-check/constructiontime_statistics_iaea.png">
+	<p class="img-text">Källa: <a href="http://www.iaea.org/pris/">Power Reactor Information System</a> (IAEAs officiella statistik över reaktorer i världen)</p>
 </div>
+
+<h3>Vart kommer bilden av kärnkraft som ett långsamt sätt att nå utsläppsminskningar ifrån?</h3>
+
+En förklaring vi kan se till att kärnkraft kunnat stämplas som långsamt utav framförallt miljörörelsena är att man i argumentationen inte gjort skillnad på installerad kapacitet och faktisk mängd ström som kraftverken levererar. Ibland annat 
+
+En annan förklaring är att två av de kärnkraftsprojekt som pågår i Europa idag gått långt över tiden (rektorbygget i Olkiluto i Finnland och Flamwille i Frankrike). Vi behöver ta de här på allvar
+
+
+
+och absolut komma till rätta med det som hindrar utvecklingen
+För publikationsförfattarna har helt rätt i att det är avgörande för klimatet i världen att vi får till 
+
 Samtidigt som alltså statistiken motsäger tesen att kärnkraft skulle vara ett ineffektivt sätt att ersätta fossila bränslen på, så behöver vi ta på allvar att två av de kärnkraftsprojekt som pågår i europa idag gått långt över tiden (rektorbygget i Olkiluto i Finnland och Flamwille i Frankrike). Vi behöver ta de här på allvar
 och absolut komma till rätta med det som hindrar utvecklingen
 För publikationsförfattarna har helt rätt i att det är avgörande för klimatet i världen att vi får till 
@@ -83,14 +95,7 @@ analysera vad det är för faktorer som
 Vi 
 
 
-
-http://www.iaea.org/pris/CountryStatistics/ReactorDetails.aspx?current=154
-
-
-Ur grafen nedan framfår att medelbyggnadstiden för reaktorer i världen inte heller ökat sedan 70 och 80-talet.
-
-
-I grafen nedan har vi även plottat snabbaste, långsammaste och medelbyggnadstiden för reaktorer som färdigställts i
+<h3>Vilken utbyggnadstakt behöver vi uppnå för att möta tvågradersmålet</h3>
 
 
 TODO Fråga Carl om hur utbyggnaden i Danmark sett ut, var det mycket lånsamt t.ex. 2000- 2005 och därefter betydligt snabbare... I så fall så skulle det kanske vara mer rättvisande att jämföra med om man skulle ungefär dubbla senaste fem åren?
