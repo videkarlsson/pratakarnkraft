@@ -55,6 +55,9 @@ och Japan är två lä
 IPCC visar tydligt att vi kommer behöva alla verktyg.
 
 
+http://www.dena.de/en/topics/the-energy-turnaround-shaping-the-new-system/energy-policy-framework-conditions.html
+Även om allt går enligt plan högre utsläpp en frankrike?
+
 TYSKLAND
 
 http://reneweconomy.com.au/wp-content/uploads/2015/01/agora-power-growth.jpg
