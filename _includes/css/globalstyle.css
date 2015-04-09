@@ -107,7 +107,7 @@ blockquote{
     line-height: 25px;
 }
 
-@media(min-width:760px) {
+@media(min-width:760px) (orientation:landscape) {
     .global-time-line-fa{
         padding-top: 30px;
         font-size: 100px;
@@ -119,6 +119,7 @@ blockquote{
     }
 }
 @media(min-width:760px) and (orientation:portrait){
+
 	.global-time-line-fa{
         padding-top: 15px;
         font-size: 60px;
@@ -131,6 +132,18 @@ blockquote{
 }
 
 @media(min-width:992px) {
+
+	.global-time-line-fa{
+        padding-top: 18px;
+        font-size: 100px;
+    }
+
+    #zero{
+    	line-height: 100px;
+    	padding-top: 0px;
+        font-size: 100px;
+    }
+
     .timeline>li {
         min-height: 150px;
     }
