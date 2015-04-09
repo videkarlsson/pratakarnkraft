@@ -463,6 +463,8 @@ a:focus {
     margin-bottom: 0;
 }
 
+
+
 @media(min-width:760px) {
     #recycle{
     padding-top: 32px;
@@ -477,6 +479,59 @@ a:focus {
     #looking-glass{
     padding-top: 25px;
     font-size: 100px;
+    }
+
+    .timeline:before {
+        left: 50%;
+    }
+
+    .timeline>li {
+        margin-bottom: 100px;
+        min-height: 100px;
+    }
+
+    .timeline>li .timeline-panel {
+        float: left;
+        width: 41%;
+        padding: 0 20px 20px 30px;
+        text-align: right;
+    }
+
+    .timeline>li .timeline-image {
+        left: 50%;
+        width: 100px;
+        height: 100px;
+        margin-left: -50px;
+    }
+
+    .timeline>li .timeline-image h4 {
+        margin-top: 16px;
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    .timeline>li.timeline-inverted>.timeline-panel {
+        float: right;
+        padding: 0 30px 20px 20px;
+        text-align: left;
+    }
+}
+
+@media(min-width:760px) and (orientation:portrait){
+
+    #recycle{
+    padding-top: 16px;
+    font-size: 60px;
+    }
+
+    #globe{
+    padding-top: 15px;
+    font-size: 60px;
+    }
+
+    #looking-glass{
+    padding-top: 15px;
+    font-size: 60px;
     }
 
     .timeline:before {

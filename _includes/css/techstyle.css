@@ -1,0 +1,79 @@
+h1, h2, h3, h4, h5{
+	color:{{ site.colors.mp_purple}};
+}
+
+.dropdown-menu {
+	background: {{ site.colors.mp_purple}};
+}
+
+.main-section h1{
+	color:white;
+}
+.main-section h4{
+	color:white;
+}
+
+.blog-section h1{
+	color:{{ site.colors.mp_purple}};
+}
+
+.blog-section h4{
+	color:{{ site.colors.mp_purple}};
+}
+
+.main-section p{
+	color:white;
+}
+
+
+.main-section{
+	background: {{ site.colors.tech_grey}};
+}
+
+
+csmall {
+	font-size: 12px;
+	color: {{ site.colors.mp_purple}};
+}
+.ctitle a{
+	color: black;
+}
+
+
+.blog-section a{
+	color: #01529B;
+}
+
+.featured-img{
+	padding-bottom: 30px;
+}
+
+.share a{
+	color: {{ site.colors.mp_purple}};
+
+}
+blockquote{
+	border-left: 5px solid {{ site.colors.mp_purple}};
+}
+
+.navbar-default {
+/*	background-color: rgba(83, 160, 69, 0.95);*/
+/*	background-color: rgba(7, 55, 99, 0.95);*/	
+	background-color: rgba(189, 0, 118, 0.80);
+	border-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+	color: white; /* #00b3fe;*/
+}
+
+#navbar-brand:hover{ /*TODO see how this is solved better, + discusss if yellow or mp yellow*/
+	color: white;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	color: white; /*#00b3fe;*/
+	background-color: transparent;
+}
+
+
