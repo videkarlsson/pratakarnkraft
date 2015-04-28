@@ -1,5 +1,5 @@
 h1, h2, h3, h4, h5{
-	color:{{ site.colors.mp_purple}};
+	color:white;
 }
 
 .dropdown-menu {
@@ -25,6 +25,15 @@ h1, h2, h3, h4, h5{
 	color:white;
 }
 
+#tech-intro-sub-heading{
+    color: white;
+    margin-bottom: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: 35px;
+    font-weight: 25;
+    line-height: 35px;
+}
 
 .main-section{
 	background: {{ site.colors.tech_grey}};

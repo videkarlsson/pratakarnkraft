@@ -114,7 +114,7 @@ Vi tror att det är olyckligt att i detta läga ställa kärnkraft och förnybar
 
 Vi tror även att frågan om hur snabbt världen kommer ställa om till fossilfri energiproduktion avgörs av hur snabbt alternativen ekonomiskt kan konkurrera ut de fossila lösningarna.
 
-Under sidans andra huvudtema <a class="global-link">"Tänk Globalt - Handla Lokalt"</a> utvecklar vi varför det är viktigt att de energilösningar Sverige satsar på har förmåga att skalas upp globalt.
+Under sidans andra huvudtema <a href="/global" class="global-link">"Tänk Globalt - Handla Lokalt"</a> utvecklar vi varför det är viktigt att de energilösningar Sverige satsar på har förmåga att skalas upp globalt.
 
 Under sidans tredje huvudtema <a class="tech-text">"Ta del av teknikutvecklingen"</a> har vi intervjuat forskare kring vilka satsningar på teknikutveckling som de tror är nödvändiga för att kärnkraft ska bli ett billigare alternativ än kol och olja.
 
