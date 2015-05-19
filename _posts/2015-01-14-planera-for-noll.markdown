@@ -26,7 +26,9 @@ Att bygga ett energisystem där allt det fossila kan fasas ut handlar inte bara 
 
 Livscykelanalyserna behöver därför kompletteras: det vi behöver jämföra är olika varianter av stabila energimixar. Vind uppbackat av vatten är en energimix i toppklass, sett till utsläppen. Vind uppbackat av fossilgas kommer däremot ge ohållbara utsläpp.
 
-Ett av de problem vi står inför är att det är svårt att hitta bra, skalbara energikällor på den reglerbara sidan. Typiskt sett reglerar världen idag sin elproduktion med fossila bränslen. I Sverige har vi sett ur ett globalt perspektiv helt unikt goda förutsättningar för en energimix med 100% förnybart, detta eftersom vi har 
+Ett av de problem vi står inför är att det är svårt att hitta bra, skalbara energikällor på den reglerbara sidan. Typiskt sett reglerar världen idag sin elproduktion med fossila bränslen. I Sverige har vi sett ur ett globalt perspektiv helt unikt goda förutsättningar för en energimix med 100% förnybart, eftersom vi kan producera ungefär hälften av den el vi behöver från vattenkraft och därtill har god tillgång till biomassa. Som vi resonerar i <a href="/global/sverige-unikt/" class="global-link">föregående bloggpost</a> så finns det ingen klimatvins i att ställa 
+
+I 
 
 Få länder delar därtill Sveriges 
 

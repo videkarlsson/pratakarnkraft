@@ -1,0 +1,52 @@
+---
+layout: fact-check-blog
+title: "Hur gör vi med avfallet?"
+date: 2015-05-03 16:54:46
+author: Ragnhild Karlsson
+categories:
+- karnkraftskoll
+- reflektion
+- kallkontroll
+circle-img: expencive.png
+---
+
+
+Naturliga reaktorer
+
+Handen på hjärtat - vad vet vi om riskerna med slutförvar
+
+Problematiken med försiktighetsprincipen
+
+http://nejdetkanviinte.se/2015/02/10/hall-ner-kutsarna-i-berget/
+
+http://en.wikipedia.org/wiki/Ramsar,_Mazandaran#Radioactivity 80 ggr högre 
+
+Gruvdrift men ej gejjermätare.
+
+Är det berg som föreslås unikt
+
+Hur ska vi kommunicera till framtida generationer?
+
+
+Dubbelmoral kring 4 gen reaktorer
+
+
+
+
+
+
+TODO kolla upp 
+
+Blir det en plutonium gruva?
+På tal om gruva. Använt kärnbränsle är som bekant högradioaktivt och efter några år är det framför allt Strontium 90 och Cesium 137 och ev kortlivade sönderfallsprodukter ur dessa som står för lejonparten av radioaktiviteten i bränslet. Fortfarande är bränslet så radioaktivt att man blir allvarligt sjuk/dör efter bara en kort exponering. Båda isotoperna har en halveringstid om ca 30 år. Efter 10 halveringar, dvs ca 300 år, återstår endast 0,1% av dessa isotoper och man brukar anse det som en ofarlig nivå. Återstående strålning kommer i huvudsak ur det plutonium som finns i bränslet med halveringstider på 1000-tals år men strålningsnivån är så låg att man i princip utan skyddsutrustning kan hantera bränslet om man håller lite koll på tiden och växlar personal ibland.
+
+Vad har vi då skapat 500 meter ned i backen om en 300år med nuvarande förslag? En koppar-/plutoniumgruva perfekt för den som är sugen på ett kärnvapenprogram?
+
+Enligt min mening är slutförvar en idiotisk idé från första början. Varför gräva ned en högvärdig produkt som vi i framtiden kan ha stor nytta av till ofantlig kostnad? Satsa pengarna på upparbetningsprocesser för att kunna återanvänd transuranerna i kärnkraftverken istället. De kortlivade fissionsprodukterna som endast behöver ”slutförvaras” i några hundra år kan man deponera i någon betydligt enklare och billigare anläggning.
+
+
+Reaktorplutonium har en Pu240/Pu239-ratio som är olämplig för vapenproduktion, men om man väntar kanske 20,000 år så har man vapenplutonium, eftersom Pu240s halveringstid är en fjärdedel. Upparbetning går nog inte att få lönsamt jämfört med att använda bränslet bara en gång, men vi bör göra det ändå. Sluppe vi slutförvar och urangruvor vore nämligen mycket vunnet i opinionen, även om det blir lite dyrare.
+
+
+
+Bland det mest irriterande när det gäller kärnavfall är den totala oförståelsen för sambandet mellan radioaktivitet och halveringstid. Hela tiden framställs det som om det mest radioaktiva avfallet kommer att fortsätta vara radioaktivt i 100 000 år
