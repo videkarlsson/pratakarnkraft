@@ -1,5 +1,6 @@
 ---
 layout: global-blog
+comments: true
 title: "IPCC och världens klimatforskare talar till oss"
 date: 2015-01-12 16:54:46
 author: Ragnhild Karlsson
