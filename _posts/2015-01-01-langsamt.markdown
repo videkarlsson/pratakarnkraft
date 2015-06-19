@@ -43,7 +43,7 @@ Som vi kommer visa nedan finns det skäl att ifrågasätta grundtesen att satsni
 
 Låt oss nu återgå till kärnfrågan om huruvida satsningar på kärnkraft ger långsammare utsläppsminskningar än satsningar på förnybara energislag. Svaret till frågan ges delvis i citatet ovan. Där väljer publikationsförfattaren att lyfta fram vindkraft som ett föredömligt snabbt sätt att ersätta fossila energikällor på. Man slår fast att:
 
-"På femton år hinner vi bygga vindkraftverk motsvarande hälften av dagens kärnkraftsproduktion" 
+<i>"På femton år hinner vi bygga vindkraftverk motsvarande hälften av dagens kärnkraftsproduktion" </i>
 
 Det är utifrån texten oklart huruvida man avser ett globalt eller nationellt perspektiv. Men låt oss analysera innebörden av citatet utifrån båda perspektiven.
 
@@ -75,16 +75,28 @@ I grafen nedan har vi plottat hur byggnads tiderna utvecklats sedan 1960-talet f
 	<img class="img-responsive blog-img" src="/assets/img/fact-check/constructiontime_statistics_iaea.png">
 	<p class="img-text">Källa: <a href="http://www.iaea.org/pris/">Power Reactor Information System</a> (IAEAs officiella statistik över reaktorer i världen)</p>
 </div>
+<h3>Vart kommer bilden av kärnkraft som ett långsamt sätt att nå utsläppsminskningar ifrån?</h3>
+<p>En förklaring vi kan se till att kärnkraft kunnat stämplas som långsamt utav framförallt miljörörelsena är att man i argumentationen inte gjort skillnad på installerad kapacitet och faktisk mängd ström som kraftverken levererar. Eftersom kärnkraftverk i snitt levererar ca 80-90% av sin installerade kapacitet medan vind och sol i snitt leverarerar ungeför 20-30% av den installerade kapaciteten, blir en sådan jämförelse mycket missvisande.</p>
+<p>En annan förklaring är att två av de kärnkraftsprojekt som pågår i Europa idag gått långt över tiden (rektorbygget i Olkiluto i Finnland och Flamwille i Frankrike). Viktigt att vara medveten om <a href="http://www.world-nuclear-news.org/nn-olkiluoto-3-start-up-pushed-back-to-2018-0109147.html">är att dessa reaktorer är de första av sitt slag</a> och att den första tidsestimeringen var satt till att enbart ta 4 år. Den beräknade tiden är nu 13 år för Olkiluto i Finland.</p>
+<p>Vi kan sannolikt förvänta oss att byggnadstiderna för framtida reaktorer blir kortare även i Europa i takt med att industrin får mer erfaranehet av att uppställa nya typer av reaktorer. Samtidigt är det viktigt att ta de förseningar som skett på högsta alvar. Om vi vill få ut största möjliga klimatnytta av kärnkraften även i Europa då behöver vi analysera dessa projekt och se orsakerna till att dessa projekt dragit ut på tiden. Så att t.ex. myndigheternas hantering kan flyta smidigare i framtida projekt.</p>
+<h3>Därför ska vi inte ställa kärnkraft och förnybart mot varandra</h3>
+<p>Det kanske viktigaste argumentet mot att ställa byggnadstider för kärnkraft och förnybart emot varandra är att de stora internationella bedömmarna <a href="/global/IPCC-talar-till-oss" class="global-link">så som IEA och IPCC är tydliga med att vi kommer behöva båda två  om vi ska ha en chans att klara två-graders målet</a>.  
+
+
+
+
+Vi vill slutligen problematisera att publikationen inte diskuterar faktumet att vind och sol är intermittenta energikällor.  Detta betyder att mängden el som produceras har dygns och årstidsvariationer, som vi kan inte kan styra över. De förnybara energikällorna är därför beroende av reglerkraft. När mängden förnybar energi skalas upp blir detta ett problem för de länder som inte har tillgång till stora mängder fossilfri reglerkraft. Variationerna i mängden el som produceras blir då så stor att man under vissa delar av dygnet/året överproducerar el som man inte har någon avsättning för, samtidigt man behöver ha fossil reglerkraft som står stilla men som är berredda att startas igång under de delar av dygnet/året då elproduktionen från de förnybara energislagen dippar. När dessa gränser nås blir reglerkraften dyrare och utdelningen i form av faktisk användbar el från varje nytt vind eller solkraftverk lägre. Det är här kärnkraft kan spela en avgörande roll som fossilfri baskraft. </p>
+
+
+
 
 
 ---------------------------------------------------TODO ej färdigskriven text
 
 
-<h3>Vart kommer bilden av kärnkraft som ett långsamt sätt att nå utsläppsminskningar ifrån?</h3>
 
-En förklaring vi kan se till att kärnkraft kunnat stämplas som långsamt utav framförallt miljörörelsena är att man i argumentationen inte gjort skillnad på installerad kapacitet och faktisk mängd ström som kraftverken levererar. Ibland annat 
 
-En annan förklaring är att två av de kärnkraftsprojekt som pågår i Europa idag gått långt över tiden (rektorbygget i Olkiluto i Finnland och Flamwille i Frankrike). Vi behöver ta de här på allvar
+Vi behöver ta de här på allvar
 
 
 
@@ -106,10 +118,8 @@ TODO Fråga Carl om hur utbyggnaden i Danmark sett ut, var det mycket lånsamt t
 
 TODO Kolla med Carl hur snitt-byggnads tiden ser ut idag.
 ------------------------------------------------
-Vi vill slutligen problematisera att publikationen inte diskuterar faktumet att vind och sol är intermittenta energikällor.  Detta betyder att mängden el som produceras har dygns och årstidsvariationer, som vi kan inte kan styra över. De förnybara energikällorna är därför beroende av reglerkraft. När mängden förnybar energi skalas upp blir detta ett problem för de länder som inte har tillgång till stora mängder fossilfri reglerkraft. Variationerna i mängden el som produceras blir då så stor att man under vissa delar av dygnet/året överproducerar el som man inte har någon avsättning för, samtidigt man behöver ha fossil reglerkraft som står stilla men som är berredda att startas igång under de delar av dygnet/året då elproduktionen från de förnybara energislagen dippar. När dessa gränser nås blir reglerkraften dyrare och utdelningen i form av faktisk användbar el från varje nytt vind eller solkraftverk lägre. Det är här kärnkraft kan spela en avgörande roll som fossilfri baskraft. 
 
 Vi vill avsluta med att säga att vi delar oron över att världens användning av fossila bränslen ökar istället för minskar. 
-
 Vi tror att det är olyckligt att i detta läga ställa kärnkraft och förnybart mot varandra. 
 
 Vi tror även att frågan om hur snabbt världen kommer ställa om till fossilfri energiproduktion avgörs av hur snabbt alternativen ekonomiskt kan konkurrera ut de fossila lösningarna.
