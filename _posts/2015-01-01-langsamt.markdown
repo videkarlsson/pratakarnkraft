@@ -6,7 +6,7 @@ author: Ragnhild Karlsson
 categories:
 - karnkraftskoll
 - reflektion
-- kallkontroll
+- kallkontroll/
 circle-img: slow.jpg
 ---
 I publikationen <a href="/assets/files/mp_arg_kärnkraft.pdf">Kärnkraft i klimatkrisens tidevarv</a> finner vi följande citat.
@@ -35,7 +35,11 @@ Publikationen är skriven år 2009. Men även nu sju år senare använder vi sam
 
 Vi ser en rad problem med resonemanget ovan. 
 
-Som vi kommer visa nedan finns det skäl att ifrågasätta grundtesen att satsningar på kärnkraft skulle leda till långsammare utsläppsminskningar än satsningar på förnybart. Men vi vill först uppmärksamma läsaren på två rena motsägelser som vi upplever görs i resonemanget ovan.
+Det problem vi ser som allvarligaste är dock att denna typ av resonemang ställer två viktiga verktyg för att bekämpa klimatförändringarna mot varandra. Viktiga bedömmare <a href="/global/IPCC-talar-till-oss" class="global-link">så som IEA och IPCC är tydliga med att vi kommer behöva både stora sastningar på förnybart och stora satsningar på kärnkraft om vi ska ha en chans att klara två-graders målet</a>. Vill vi på allvar arbeta för att förhindra klimatförändringarna behöver vi därför låta både kärnkraft och förnybart arbeta tillsammans för att ersätta dagens konsumtion av fossila bränslen, istället för att se dem som alternativ till varandra. 
+
+Med detta sagt kommer vi här ange de skäl vi ser till att ifrågasätta grundtesen att satsningar på kärnkraft skulle leda till långsammare utsläppsminskningar än satsningar på förnybart.
+
+Vi vill först uppmärksamma läsaren på två rena motsägelser som vi upplever görs i citaten ovan.
 <ol>
 	<li><p>Publikationsförfattaren ger inledningsvis läsaren bilden av att satsningar på kärnkraft i världen är inrellevanta för klimatet då de tar ca 10 år (2020) att bygga utifrån logiken att vi då redan missat våra chanser att nå två-gradersmålet. Några meningar senare går det dock bra att diskutera vindkraftssatsningar utifrån ett femton års perspektiv, vilket borde vara en motsägelse.</p></li>
 	<li><p>Givet de radikala utsläppsminskningar man menar krävs redan innan 2020 har vi också svårt att se logiken i att parallellt välkommna global kärnkraftsavveckling av befintliga kraftverk under samma tio års period. I praktiken innebär det att de satsningar som görs på vind och sol får tillsammans med bio-massa och fossil regelerkraft (t.ex. gas) ersätta kärnkraft istället för kol och olja. Detta tycker vi är en motsägelse mot det klimatansvar man säger sig vilja ta. Om det är en genomtänkt linje att man vill prioriterar avveckling av kärnkraft globalt framför minskade klimatutsläpp är det problematiskt att man inte är öppnare och ärligare med att man har denna ståndpunkt. </p></li>
@@ -68,8 +72,8 @@ utbyggnaden.
 	<img class="img-responsive blog-img" src="/assets/img/fact-check/graph-nuclear-world-speed.jpg">
 	<p class="img-text">Källa: Sammanställd data från X TODO frågan Carl Hellesen om orginalkälla</p>
 </div>
-Vi ser att de erfarenheter vi har av elproduktion i världen hittills talar emot påståendet att satsningar på kärnkraft skulle leda till långsammare utlsläppsminskningar. Glappet mellan förnybara energislag och kärnkraft är därtill betydande. Tar vi ett land med relativt stor befolkning som Frankrike ser vi att de under 70-80 talet uppnådde en utbyggnadstakt per capita som är tre gånger högre än det land som leder utbyggnaden av förnybara energislag närmare bestämt Danmark. Detta visar att en snabb kärnkraftsutbyggnad är fullt tekniskt möjlig givet att den politiska viljan finns på plats.
-
+Vi ser att de erfarenheter vi har av elproduktion i världen hittills talar emot påståendet att satsningar på kärnkraft skulle leda till långsammare utsläppsminskningar. Glappet mellan förnybara energislag och kärnkraft är därtill betydande. Tar vi ett land med relativt stor befolkning som Frankrike ser vi att de under 70-80 talet uppnådde en utbyggnadstakt per capita som är tre gånger högre än det land som leder utbyggnaden av förnybara energislag närmare bestämt Danmark. Detta visar att en snabb kärnkraftsutbyggnad är fullt tekniskt möjlig givet att den politiska viljan finns på plats.
+<h3>Mediantiden för färdigställande av reaktorer idag</h3>
 I grafen nedan har vi plottat hur byggnads tiderna utvecklats sedan 1960-talet fram till idag. Varje punkt på linjerna motsvarar reaktorer som färdigställdes det året. Den röda linjen represenetrar de projekt som tog kortast tid på sig att färdigställas från byggnadsstart till färdig reaktor, den gröna linjen representerar mediantiden det tog för samliga reaktorer som färdigställdes det året och slutligen den blå linjen representerar det projekt som det året hade tagit längst tid på sig att färdigställas. Vi kan här se att mediantiden i världen t.o.m sjunkit något jämfört med utbyggnadstakten som vi uppnådde i Europa på 70-80 talen. 
 <div>
 	<img class="img-responsive blog-img" src="/assets/img/fact-check/constructiontime_statistics_iaea.png">
@@ -78,54 +82,9 @@ I grafen nedan har vi plottat hur byggnads tiderna utvecklats sedan 1960-talet f
 <h3>Vart kommer bilden av kärnkraft som ett långsamt sätt att nå utsläppsminskningar ifrån?</h3>
 <p>En förklaring vi kan se till att kärnkraft kunnat stämplas som långsamt utav framförallt miljörörelsena är att man i argumentationen inte gjort skillnad på installerad kapacitet och faktisk mängd ström som kraftverken levererar. Eftersom kärnkraftverk i snitt levererar ca 80-90% av sin installerade kapacitet medan vind och sol i snitt leverarerar ungeför 20-30% av den installerade kapaciteten, blir en sådan jämförelse mycket missvisande.</p>
 <p>En annan förklaring är att två av de kärnkraftsprojekt som pågår i Europa idag gått långt över tiden (rektorbygget i Olkiluto i Finnland och Flamwille i Frankrike). Viktigt att vara medveten om <a href="http://www.world-nuclear-news.org/nn-olkiluoto-3-start-up-pushed-back-to-2018-0109147.html">är att dessa reaktorer är de första av sitt slag</a> och att den första tidsestimeringen var satt till att enbart ta 4 år. Den beräknade tiden är nu 13 år för Olkiluto i Finland.</p>
-<p>Vi kan sannolikt förvänta oss att byggnadstiderna för framtida reaktorer blir kortare även i Europa i takt med att industrin får mer erfaranehet av att uppställa nya typer av reaktorer. Samtidigt är det viktigt att ta de förseningar som skett på högsta alvar. Om vi vill få ut största möjliga klimatnytta av kärnkraften även i Europa då behöver vi analysera dessa projekt och se orsakerna till att dessa projekt dragit ut på tiden. Så att t.ex. myndigheternas hantering kan flyta smidigare i framtida projekt.</p>
-<h3>Därför ska vi inte ställa kärnkraft och förnybart mot varandra</h3>
-<p>Det kanske viktigaste argumentet mot att ställa byggnadstider för kärnkraft och förnybart emot varandra är att de stora internationella bedömmarna <a href="/global/IPCC-talar-till-oss" class="global-link">så som IEA och IPCC är tydliga med att vi kommer behöva båda två  om vi ska ha en chans att klara två-graders målet</a>.  
+<p>Vi kan sannolikt förvänta oss att byggnadstiderna för framtida reaktorer blir kortare även i Europa i takt med att industrin får mer erfaranehet av att uppställa nya typer av reaktorer. Samtidigt är det viktigt att ta de förseningar som skett på högsta alvar. Om vi vill få ut största möjliga klimatnytta av kärnkraften även i Europa, då behöver vi analysera dessa projekt och driva på för att också myndigheterna kan dra lärdommar och bli effektivara vid framtida projekt.</p>
+<p>Vi vill slutligen problematisera att ingen av miljöpartiets publikationer diskuterar faktumet att vind och sol är intermittenta energikällor. Mängden el vi får ut från intermittenta energikällor har både dygns och årstidsvariationer, som vi kan inte kan styra över.De förnybara energikällorna är därför beroende av reglerkraft. När mängden förnybar energi skalas upp blir detta ett problem för de länder som inte har tillgång till stora mängder fossilfri reglerkraft. Variationerna i mängden el som produceras blir då så stor att man under vissa delar av dygnet/året överproducerar el som man inte har någon avsättning för, samtidigt man behöver ha fossil reglerkraft som står stilla men som är berredda att startas igång under de delar av dygnet/året då elproduktionen från de förnybara energislagen dippar. När dessa gränser nås blir det mycket svårare att få lönsamhet i förnybara energislag och hålla uppe denna utbyggnadstakt man klarat hittils. </p>
+<p>Om vi i dessa länder vill uppnå fossilfri energiproduktion behöver man därför parallellt med satsningar på förnybart göra satsningar på kärnkraft som kan fungera som fossilfri baskraft. </p>
 
-
-
-
-Vi vill slutligen problematisera att publikationen inte diskuterar faktumet att vind och sol är intermittenta energikällor.  Detta betyder att mängden el som produceras har dygns och årstidsvariationer, som vi kan inte kan styra över. De förnybara energikällorna är därför beroende av reglerkraft. När mängden förnybar energi skalas upp blir detta ett problem för de länder som inte har tillgång till stora mängder fossilfri reglerkraft. Variationerna i mängden el som produceras blir då så stor att man under vissa delar av dygnet/året överproducerar el som man inte har någon avsättning för, samtidigt man behöver ha fossil reglerkraft som står stilla men som är berredda att startas igång under de delar av dygnet/året då elproduktionen från de förnybara energislagen dippar. När dessa gränser nås blir reglerkraften dyrare och utdelningen i form av faktisk användbar el från varje nytt vind eller solkraftverk lägre. Det är här kärnkraft kan spela en avgörande roll som fossilfri baskraft. </p>
-
-
-
-
-
----------------------------------------------------TODO ej färdigskriven text
-
-
-
-
-Vi behöver ta de här på allvar
-
-
-
-och absolut komma till rätta med det som hindrar utvecklingen
-För publikationsförfattarna har helt rätt i att det är avgörande för klimatet i världen att vi får till 
-
-Samtidigt som alltså statistiken motsäger tesen att kärnkraft skulle vara ett ineffektivt sätt att ersätta fossila bränslen på, så behöver vi ta på allvar att två av de kärnkraftsprojekt som pågår i europa idag gått långt över tiden (rektorbygget i Olkiluto i Finnland och Flamwille i Frankrike). Vi behöver ta de här på allvar
-och absolut komma till rätta med det som hindrar utvecklingen
-För publikationsförfattarna har helt rätt i att det är avgörande för klimatet i världen att vi får till 
-
-analysera vad det är för faktorer som 
-Vi 
-
-
-<h3>Vilken utbyggnadstakt behöver vi uppnå för att möta tvågradersmålet</h3>
-
-
-TODO Fråga Carl om hur utbyggnaden i Danmark sett ut, var det mycket lånsamt t.ex. 2000- 2005 och därefter betydligt snabbare... I så fall så skulle det kanske vara mer rättvisande att jämföra med om man skulle ungefär dubbla senaste fem åren?
-
-TODO Kolla med Carl hur snitt-byggnads tiden ser ut idag.
-------------------------------------------------
-
-Vi vill avsluta med att säga att vi delar oron över att världens användning av fossila bränslen ökar istället för minskar. 
-Vi tror att det är olyckligt att i detta läga ställa kärnkraft och förnybart mot varandra. 
-
-Vi tror även att frågan om hur snabbt världen kommer ställa om till fossilfri energiproduktion avgörs av hur snabbt alternativen ekonomiskt kan konkurrera ut de fossila lösningarna.
-
-Under sidans andra huvudtema <a href="/global" class="global-link">"Tänk Globalt - Handla Lokalt"</a> utvecklar vi varför det är viktigt att de energilösningar Sverige satsar på har förmåga att skalas upp globalt.
-
-Under sidans tredje huvudtema <a class="tech-text">"Ta del av teknikutvecklingen"</a> har vi intervjuat forskare kring vilka satsningar på teknikutveckling som de tror är nödvändiga för att kärnkraft ska bli ett billigare alternativ än kol och olja.
 
 
