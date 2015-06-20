@@ -1,5 +1,6 @@
 ---
 layout: fact-check-blog
+comments: true
 title: "Hur blir det med de gröna jobben?"
 date: 2014-12-11 16:54:46
 author: Ragnhild Karlsson

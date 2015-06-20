@@ -1,5 +1,6 @@
 ---
 layout: fact-check-blog
+comments: true
 title: "Leder kärnkraft till kärnvapen?"
 date: 2014-12-28 16:54:46
 author: Ragnhild Karlsson

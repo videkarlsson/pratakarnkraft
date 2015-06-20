@@ -1,5 +1,6 @@
 ---
 layout: fact-check-blog
+comments: true
 title: "Kärnkrafts<wbr>fanatism?"
 date: 2015-01-01 16:54:46
 author: Ragnhild Karlsson

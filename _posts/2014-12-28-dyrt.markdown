@@ -1,5 +1,6 @@
 ---
 layout: fact-check-blog
+comments: true
 title: "Är kärnkraft för dyrt?"
 date: 2014-12-28 16:54:46
 author: Ragnhild Karlsson
@@ -152,10 +153,14 @@ I det officiella materialet kring energipolitik har vi dock inte kunnat finna n�
 
 Vi kan se det problematiska i att inte här kvantifiera dessa kostnader. Det låter sig dock inte helt enkelt göras 
 
+Lättast bygga i Norrland
+Konkurrerar med varandra
+
 
 
 innebär att de bara levererar ström när väderförhållandena 
 Den dolda subvention som vi vill mena idag utgår till vind- och solkraftverken är att man systematiskt undviker att räkna med kostnader förenade med att dessa två energi-källor är interremitenta.
+
 
 
 <!-- 	TODO Dolda subventioner till förnybart

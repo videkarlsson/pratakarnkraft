@@ -1,5 +1,6 @@
 ---
 layout: global-blog
+comments: true
 title: "Sverige är ett unikt land"
 date: 2015-01-21 16:54:46
 author: Ragnhild Karlsson
