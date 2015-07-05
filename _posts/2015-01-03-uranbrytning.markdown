@@ -5,8 +5,6 @@ date: 2015-01-03 16:54:46
 author: Ragnhild Karlsson
 categories:
 - karnkraftskoll
-- reflektion
-- kallkontroll
 circle-img: mining.png
 ---
 <b>Påstående:</b> Uranbrytning är oacceptabelt ur ett miljöperspektiv
@@ -34,7 +32,7 @@ Uppsatsen Environmental Impacts and Health Aspects in the Mining Industry - A Co
 <h3>Missbildningar hos barn som en konsekvens av uranbrytning</h3>
 I citatet ovan från publikationen <a href="/assets/files/karnkraft_klimat.pdf">Kärnkraft Klimat</a> framförs att missbildningar hos barn är en belagd konsekvens av uranbrytning i Australien. Vi har försökt finna belägg för detta påstående men misslyckats. Australien är ett i-land med hög utbildningsnivå och pressfrihet. Vi finner det därför rimligt att anta att om uranbrytning orsakat en så allvarlig tragedi som en belagd ökning av antal barn som föds med missbildningar borde detta ha givit något utslag i fri massmedia. I våra sökningar har vi inte kunnat finna några sådana artiklar.
 
-Vi har även vänt oss till den till den vetenskapliga litteraturen för att hitta belägg eller motbelägg för detta påstående. Vi har använt oss av sökmotorn Google Scholar och KTHs artilelsök, genom dessa har vi enbart kunnat finna <a href="http://www.ncbi.nlm.nih.gov/pubmed/22435323">en artikel</a> som nämner birth defects i samband med uranbrytning. Denna artikel är en så kallad <a href="http://en.wikipedia.org/wiki/Review_article"></a>rewievartikel</a> som sammanfattar den senaste forskningen kring uranbrytnings negativa hälsoeffekter. Artikeln är skriven Doug Brugge som är <a href="http://www.inmotionmagazine.com/opin/dbrugge_093008.html"></a>öppet kärnkraftsmotståndare</a> och han har i sin tur bara funnit <a href="http://journals.lww.com/health-physics/Abstract/1992/11000/Navajo_Birth_Outcomes_in_the_Shiprock_Uranium.5.aspx">en artikel</a> som stöd för påståendet att uranbrytning skulle kunna ge upphov till missbildningar hos barn. Slutsatsen i den artikeln han referear till är dock:
+Vi har även vänt oss till den till den vetenskapliga litteraturen för att hitta belägg eller motbelägg för detta påstående. Denna <a href="http://www.ncbi.nlm.nih.gov/pubmed/22435323">artikel</a> är den enda vi har funnit som nämner birth defects i samband med uranbrytning. Artikel är en så kallad <a href="http://en.wikipedia.org/wiki/Review_article"></a>rewievartikel</a> som sammanfattar den senaste forskningen kring uranbrytnings negativa hälsoeffekter. Artikeln är skriven Doug Brugge som är <a href="http://www.inmotionmagazine.com/opin/dbrugge_093008.html"></a>öppet kärnkraftsmotståndare</a> och han har i sin tur bara funnit <a href="http://journals.lww.com/health-physics/Abstract/1992/11000/Navajo_Birth_Outcomes_in_the_Shiprock_Uranium.5.aspx">en artikel</a> som stöd för påståendet att uranbrytning skulle kunna ge upphov till missbildningar hos barn. Slutsatsen i den artikeln han referear till är dock:
 <blockquote>Overall, the associations between adverse pregnancy outcome and exposure to radiation were weak and must be interpreted with caution with respect to implying a biogenetic basis.</blockquote>
 
 I reviewartikeln menar Doug Brugge och Virginia Buchner att den referade artikelns slutsats är felaktig och att resultat av studien egentligen bör tolkas som att det sannolikt kan finnas ett samband mellan uranbrytning och missbildningar hos barn, men vi noterar att de inte har kunnat referera till någon annan forskning som bekräftar denna uppfattning.
@@ -45,3 +43,4 @@ Om vi accepterar att ta in ett perspektiv av teknikutveckling är det dock rimli
 Som vinst skulle vi då också kunna använda dagens kärnavfall som bränse och på köpet minska detta avfalls lagringstid från över 100000 år till ca än 500 år. 
 
 För det nya uran som trots allt skulle behövas vid en storskalig global utbyggnad av kärnkraft skulle vi kunna använda oss av <a href="http://www.independent.co.uk/environment/sea-uranium-extraction-close-to-economic-reality-8069731.html">uran från havet </a>.  Än så länge har dock havsbrutet uran inte kunnat konkurrera kostnadsmässigt med gruvbrutet uran, men då bränslet utgör en väldigt liten del av kostnaden för kärnkraftselproduktion(TODO KÄLLA) kan det mycket väl bli ekonomiskt försvarbart, särskilt för bridreaktorer som utvinner mer än 90% av energin i uranet till skillnad från dagens lättvattenreaktorer som utvinner ca 1-5%
+

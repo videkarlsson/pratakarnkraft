@@ -35,29 +35,37 @@ Låt oss nu går vidare till Tyskland
 Bilderna av Tysklands stora energireform "Energiewende" skiljer sig ofta åt dramatiskt beroende på vem du frågar.
 De mest radikala kärnkraftsförespråkarna brukar vilja skildra det som 20 förlorade år. Medan de mest radikala gröna rösterna talar om en att de fossila bränslena snart kommer vara utfasade helt utan hjälp av kärnkraft.
 
+Anledningarna till att bilderna går så dramatiskt i sär kan förklaras av att Tyskland å ena sidan skapat en unik och dramatisk utveckling av förnybara energislag, men samtidigt å andra sidan sitter fast i ett problematiskt kolberoende. Vi tycker det finns goda skäl till att vi som miljöengagerad organisation ska kunna ta in och se båda dessa aspekter på frågan.
 
-Just för att de 
+Problemet vi ser i dagens retorik är inte att vi hyllar Tysklands satsningar på förnybart. Det är just genom stora satsningar på förnybar energi som vi kan få upp effektiviteten och ner priserna. Problemen som vi ser är att miljörörelsen väljer att samtidigt hylla den känkraftsavveckling som sker parallellt.
+
+När vi hyllar kärnkraftsavvecklingen då är det som att vi glömt bort att ca 40% av Tysklands energi fortfarande kommer från kol och vilka miljö och hälsoeffekter det för med sig.
+
+Det är som att vi glömt bort att <a href="http://www.theguardian.com/environment/2013/jun/12/european-coal-pollution-premature-deaths">22300 människor</a> får dö i förtid varje år till följd av koleldande för elproduktion i Europa och att Tyskland har en betydande del i skulden för dessa dödsfall. 
+
+Det är som att vi glömt bort att den enda kärnkraftolyckan med belagda dödfall, Tjernobyl; i jämförelse bara orsakade 9000 förtidiga dödsfall(KÄLLA TODO). 
+
+Det är som att vi därtill glömt bort att kol är den smustsigaste energikällan när det kommer till både brytning och koldioxidutsläpp.
+
+Vi vill mena att vi som ska ha störst fokus på människor och miljö har inte rätt att blunda för dessa faktum. Vi behöver se att utan en avveckling av kärnkraft hade mer av energin kommit från icke-fossila energislag och då hade vi räddat både människors hälsa och miljö.
+
+Vissa gröna debattörer lyfter då fram att Tyskland trots allt lyckats minska sina utsläpp något. Problemen som vi ser det med dessa resonemang är två. Det första är att man blundar för hur mycket bättre situationen vore ur et hälso och klimatperspektiv om vi haft dessa stora satsningar på förnybart men inte samtidigt avvecklat kärnkraften.
+
+Det andra problemet som vi ser det är att man blundar för framtiden.   
+Vi behöver se att den största delen av kärnkraftsutfasningen ligger fortfarande framför oss och inte bakom oss. Hittills har man enbart avvecklat ca 40% av de befintliga reaktorerna ca 60 % återstår och avvecklignen av dessa beräknas ske relativit koncentrerat under 2019 till 2022( se graf nedan TODO källa jesper).
+
+Detta ska dessutom göras i ett läge där uttakten för förnybart redan peeakat och stadigt sjunker
+
+Förnybartakten redan peakat SIFFOR CARL TODO
+Vi ser också hur många tyska politiker värnar forstsatt kolkraft detta finns i det obehagliga när man når mer interemittent än man 
+kan hantera.
+
+Vi vill se en utveckling där vi som miljöorganisation, fortsätter att kraftfullt hylla satningarna på förnybart men samtidigt tar avstånd från kärnkraftsutveckling, så länge kol och fossila bränslen utgör en så betydande del av energimixen som det gör i Tyskland i dag.
+Då visar vi att det är klimat och människors hälsa som är de viktigaste värderna att värna.
 
 
-En prioritering att utfasning av kärnkraft före kol
-
-solunder 
-
-Tyskland är ett av de länder som kanske oftast kommer påtal när vi diskuterar 
-Utamningen ligger i att inte förringa de tekniska framsteg som görs men inte heller idaelisera 
-även för den som vill se en framtid med bara förnybara enrgislag är det vikgit att inte ignorera utmaningarna då de kommer stå i vägen i praktiken.
- 
-
- sstartade procgenom sina satsningar på energi-wende 
-
-*
-och Japan är två lä
-
-IPCC visar tydligt att vi kommer behöva alla verktyg.
 
 
-http://www.dena.de/en/topics/the-energy-turnaround-shaping-the-new-system/energy-policy-framework-conditions.html
-Även om allt går enligt plan högre utsläpp en frankrike?
 
 TYSKLAND
 

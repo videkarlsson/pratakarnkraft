@@ -156,7 +156,7 @@ Vi kan se det problematiska i att inte här kvantifiera dessa kostnader. Det lå
 Lättast bygga i Norrland
 Konkurrerar med varandra
 
-
+http://www.di.se/di/artiklar/2015/6/22/elpriset-nuddar-noll/?share=AA322AB1960B8581D595960D6CE72031
 
 innebär att de bara levererar ström när väderförhållandena 
 Den dolda subvention som vi vill mena idag utgår till vind- och solkraftverken är att man systematiskt undviker att räkna med kostnader förenade med att dessa två energi-källor är interremitenta.
@@ -166,7 +166,9 @@ Den dolda subvention som vi vill mena idag utgår till vind- och solkraftverken 
 <!-- 	TODO Dolda subventioner till förnybart
 	kräver reglerkraft - även subventioner för reglerkraft sned marknad
 	finsk blogg. 
+	
 
+	
 	kort livslängd
 	bygga ut nät -->
 </section>
