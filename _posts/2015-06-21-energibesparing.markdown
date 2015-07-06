@@ -27,7 +27,7 @@ Vi vill förtyldiga igen att energibsparingar på inget sätt är dåligt även 
  
 <h3>2. Energifattigdom</h3>
 <h4> - varför många behöver öka sin energiförbrukning </h4>
-Energibesparingar kan vara av godo i de rika delarna i världen men vi behöver samtidigt inse att allt annat än en kraftig ökning i önergikonsumtion på global nivå vore en tragedi. Enligt WHO lever idag ca 2,7 miljarder människor utan stabil tillgång till electricitet.
+Energibesparingar kan vara av godo i de rika delarna i världen men vi behöver samtidigt inse att allt annat än en kraftig ökning i energikonsumtion på global nivå vore en tragedi. Enligt WHO lever idag ca 2,7 miljarder människor utan stabil tillgång till electricitet.
 Detta medför ett enormt lidande och miljontals förtidiga dödsfall varje år. Dessa människor ska därför med all rätt ges utrymme att öka sin energikonsumtion. För att vi ska förstå hur världens energikonsumtion kan komma att öka framöver kan det vara bra att begrunda denna bild:
 <img class="img-responsive blog-img" src= "/assets/img/global/primary_energy_supply_scenrio.jpg">
 Grafen är hämtad från <a href="/assets/files/SRREN_fullReport.pdf">IPCCs special report on renewable energy</a> och visar hur enerigkonsumtionen ökat i världen fram till idag och förväntas utveckla sid de kommande 35 åren i 164 olika scenarion. Vi kan se att om vi vill ta höjd för att kunna hantera klimatförändringarna bör vi kunna möta utvecklingslinjer där världen inte bara dubblar utan t.o.m tredubblar sitt behov av energi.

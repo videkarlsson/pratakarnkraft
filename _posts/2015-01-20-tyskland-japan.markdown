@@ -35,7 +35,7 @@ Låt oss nu går vidare till Tyskland
 Bilderna av Tysklands stora energireform "Energiewende" skiljer sig ofta åt dramatiskt beroende på vem du frågar.
 De mest radikala kärnkraftsförespråkarna brukar vilja skildra det som 20 förlorade år. Medan de mest radikala gröna rösterna talar om en att de fossila bränslena snart kommer vara utfasade helt utan hjälp av kärnkraft.
 
-Anledningarna till att bilderna går så dramatiskt i sär kan förklaras av att Tyskland å ena sidan skapat en unik och dramatisk utveckling av förnybara energislag, men samtidigt å andra sidan sitter fast i ett problematiskt kolberoende. Vi tycker det finns goda skäl till att vi som miljöengagerad organisation ska kunna ta in och se båda dessa aspekter på frågan.
+Anledningarna till att bilderna går så dramatiskt i sär kan förklaras av att Tyskland å ena sidan skapat en unik utveckling av förnybara energislag, men samtidigt å andra sidan sitter fast i ett problematiskt kolberoende. Vi tycker det finns goda skäl till att vi som miljöengagerad organisation ska kunna ta in och se båda dessa aspekter på frågan.
 
 Problemet vi ser i dagens retorik är inte att vi hyllar Tysklands satsningar på förnybart. Det är just genom stora satsningar på förnybar energi som vi kan få upp effektiviteten och ner priserna. Problemen som vi ser är att miljörörelsen väljer att samtidigt hylla den känkraftsavveckling som sker parallellt.
 
@@ -43,8 +43,7 @@ När vi hyllar kärnkraftsavvecklingen då är det som att vi glömt bort att ca
 
 Det är som att vi glömt bort att <a href="http://www.theguardian.com/environment/2013/jun/12/european-coal-pollution-premature-deaths">22300 människor</a> får dö i förtid varje år till följd av koleldande för elproduktion i Europa och att Tyskland har en betydande del i skulden för dessa dödsfall. 
 
-Det är som att vi glömt bort att den enda kärnkraftolyckan med belagda dödfall, Tjernobyl; i jämförelse bara orsakade 9000 förtidiga dödsfall(KÄLLA TODO). 
-
+Det är som att vi glömt bort att den enda kärnkraftolyckan med belagda dödfall, Tjernobyl; i jämförelse bara orsakade <a href="http://www.who.int/ionizing_radiation/chernobyl/backgrounder/en/"> ca 9000 förtidiga dödsfall</a> (enligt WHO).
 Det är som att vi därtill glömt bort att kol är den smustsigaste energikällan när det kommer till både brytning och koldioxidutsläpp.
 
 Vi vill mena att vi som ska ha störst fokus på människor och miljö har inte rätt att blunda för dessa faktum. Vi behöver se att utan en avveckling av kärnkraft hade mer av energin kommit från icke-fossila energislag och då hade vi räddat både människors hälsa och miljö.
