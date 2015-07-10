@@ -41,12 +41,9 @@ Problemet vi ser i dagens retorik är inte att vi hyllar Tysklands satsningar p�
 
 När vi hyllar kärnkraftsavvecklingen då är det som att vi glömt bort att ca 40% av Tysklands energi fortfarande kommer från kol och vilka miljö och hälsoeffekter det för med sig.
 
-Det är som att vi glömt bort att <a href="http://www.theguardian.com/environment/2013/jun/12/european-coal-pollution-premature-deaths">22300 människor</a> får dö i förtid varje år till följd av koleldande för elproduktion i Europa och att Tyskland har en betydande del i skulden för dessa dödsfall. 
+Förutom klimateffteker så beräknas luftföroreningar från fosila bränslen orsaka tusentals dödsfall i förtid varje år även i utvecklade länder.
 
-Det är som att vi glömt bort att den enda kärnkraftolyckan med belagda dödfall, Tjernobyl; i jämförelse bara orsakade <a href="http://www.who.int/ionizing_radiation/chernobyl/backgrounder/en/"> ca 9000 förtidiga dödsfall</a> (enligt WHO).
-Det är som att vi därtill glömt bort att kol är den smustsigaste energikällan när det kommer till både brytning och koldioxidutsläpp.
-
-Vi vill mena att vi som ska ha störst fokus på människor och miljö har inte rätt att blunda för dessa faktum. Vi behöver se att utan en avveckling av kärnkraft hade mer av energin kommit från icke-fossila energislag och då hade vi räddat både människors hälsa och miljö.
+Vi behöver se att utan en avveckling av kärnkraft hade mer av energin kommit från icke-fossila energislag och då hade vi räddat både människors hälsa och miljö.
 
 Vissa gröna debattörer lyfter då fram att Tyskland trots allt lyckats minska sina utsläpp något. Problemen som vi ser det med dessa resonemang är två. Det första är att man blundar för hur mycket bättre situationen vore ur et hälso och klimatperspektiv om vi haft dessa stora satsningar på förnybart men inte samtidigt avvecklat kärnkraften.
 
