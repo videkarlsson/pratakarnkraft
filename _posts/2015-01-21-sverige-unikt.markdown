@@ -25,7 +25,7 @@ Vi tycker att det viktigt att det framgår i debatten att det ur ett klimatpersp
 Vi skulle vilja lyfta fram ett land som redan lyckats med att nå målet (i princip) 100% förnybar energiproduktion, närmare bestämt <a href="http://www.iea.org/statistics/statisticssearch/report/?country=ICELAND&product=electricityandheat&year=2010" target="_blanc">Island</a>.
 Trotts att Island genom en kombination av 50% vattenkraft och 50% geotermiska energikällor inte orsakar några nämnvärda klimatgasutsläpp är det få som skulle mena att de kan vara ett föredömme för resten av världen.
 
-Det är lätt att glömma bort att även Sverige med våra stora ytor av skog och 50% vattenkraft har mycket unika förutsättningar om man ser det ur ett globalt perspektiv. För att illustrera detta jämför vi nedan Sveriges energimix med hur energimixen ser ut för världen i stort idag
+Det är lätt att glömma bort att även Sverige med våra stora ytor av skog och med vattenkraft som producerar 50% av vår elektricitet, har mycket unika förutsättningar om man ser det ur ett globalt perspektiv. För att illustrera detta jämför vi nedan Sveriges energimix med hur energimixen ser ut för världen i stort idag
 
 <img class="img-responsive blog-img" src="/assets/img/global/energy_sweden_world_india.jpg">
 

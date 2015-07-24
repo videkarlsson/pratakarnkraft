@@ -26,33 +26,39 @@ Att bygga ett energisystem där allt det fossila kan fasas ut handlar inte bara 
 
 Livscykelanalyserna behöver därför kompletteras: det vi behöver jämföra är olika varianter av stabila energimixar. Vind uppbackat av vatten är en energimix i toppklass, sett till utsläppen. Vind uppbackat av fossilgas kommer däremot ge ohållbara utsläpp.
 
-Ett av de problem vi står inför är att det är svårt att hitta bra, skalbara energikällor på den reglerbara sidan. Typiskt sett reglerar världen idag sin elproduktion med fossila bränslen. I Sverige har vi sett ur ett globalt perspektiv helt unikt goda förutsättningar för en energimix med 100% förnybart, eftersom vi kan producera ungefär hälften av den el vi behöver från vattenkraft och därtill har god tillgång till biomassa. Som vi resonerar i <a href="/global/sverige-unikt/" class="global-link">föregående bloggpost</a> så finns det dock ingen klimatvinst i att ställa om till 100% förnybart, tvärtom riskerar vi att försvåra för våra grannländer att fasa ut de fossila bränslena.
+Ett av de problem vi står inför är att det är svårt att hitta bra, skalbara energikällor på den reglerbara sidan. Typiskt sett reglerar världen idag sin elproduktion med fossila bränslen. I Sverige har vi sett ur ett globalt perspektiv helt unikt goda förutsättningar för en energimix med 100% förnybart, eftersom vi kan producera ungefär hälften av den el vi behöver från vattenkraft och därtill har god tillgång till biogas. Som vi resonerar i <a href="/global/sverige-unikt/" class="global-link">föregående bloggpost</a> så finns det dock ingen klimatvinst i att ställa om till 100% förnybart, tvärtom riskerar vi att försvåra för våra grannländer att fasa ut sina fossila bränslen.
 
-
-I 
-
-Få länder delar därtill Sveriges 
-
-
-
-
-Ska vi planera för att stänga ner den helt, bör vi satsa på vind och sol till en grad vi har möjlighet att fossilfritt reglera och
-
-kan vi bara satsa på vind och sol i den grad vi har utrymme att reglera. I Sverige kan det enligt vissa bedömmare 
-
-
-
-vi därför redan idag fråga oss hur mycket annan reglerförmåga vi tror att vi kan skaffa oss.
-
+Det finns flera utmaningar när 
+Probelemen med att balansera 56
 
 <h3>Både under- och överproduktion är problematisk</h3>
 
-<h3>Alternativ till reglerkraft</h3>
+<h3>Men finns det inte alternativ till reglerkraft</h3>
+Här behöver vi fråga oss om vi har tid att vänta på 
 <h4>Energilagring</h4>
 <h4>Bygga ut elnäten</h4>
+Varnar för att vind och sol samkorrelerar i stora områden.
+
 <h4>Anpassa elanvändningen</h4>
+
+
+För majoriteten av världens länder som inte har tillgång till stora mängder fossilfri reglerkraft är känkraft som barskraft och förnybart i den mängd de kan reglera det realistiska 100% fossilfria alternativet som finns tillgänligt idag.
+
+
+
+
+
+http://www.vox.com/2015/6/9/8748081/us-100-percent-renewable-energy
+Diskussion kring jacobsen
+
+http://www.vox.com/2015/6/19/8808545/wind-solar-grid-integration
+
+http://www.vox.com/2015/6/19/8808545/wind-solar-grid-integration
+
+
+
 Ekonomiska initiativen små.
-Kostsamt
+Kostsamt påverkar skalbarheten
 
 TODO
 Vi kommer behöva alla verktyg för att få bort användningen av fossila bränslen. Vi bör därför kraftigt bygga ut vind och sol globalt där det går.
