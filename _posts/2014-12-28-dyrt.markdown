@@ -10,20 +10,25 @@ categories:
 - kallkontroll
 circle-img: expencive.png
 ---
+<p>Att känkraft skulle vara för dyrt för att konkurrera med de förnybara energislagen har blivit ett av den gröna rörelsen huvudargument mot att behålla och satsa på kärnkraft idag.</p> 
+<p>Vi vill först med tydlighet säga att vi delar oron över att kärnkraft idag är för dyrt för att på allvar globalt kunna konkurrera ut billig kol, gas, och olja. Runt om i världen ser vi som en konsekvens forfarande betydande nyinvesteringar i fossila bränslen. Att i detta läge utvärdera samtliga kostnader hos de olika koldioxidsnåla alternativen tror vi är helt rätt.</p>
+<p>Vi tycker därför att det är bra att man försöker belysa helhetskostanderna för kärnkraft. Det blir dock problematiskt när man överdriver vissa kostnader för kärnkraft och samtidigt blundar för stora delar av kostnaderna hos de förnybara energislagen.</p> 
+<H3>Vår kritik mot miljöpartiets beräkningar - i fyra punkter</H3>
+<p>I fyra punkter bemöter vi här påståendet att kärnkraft skulle vara ett dyrare alternativ än de förnybara energislagen.</p>
+<H4>1. Dagslägets skatter subventioner och avgifter</H4>
+<img class="img-responsive blog-img" src="/assets/img/fact-check/chart-subventioner-och-skatter.png">
+<p>Grafen visar hur de löpande subventionerna och skatterna slår mot olika kraftslag och sätter de i jämförelse med det genomsnittliga elpriset under de senaste åren</p>
+<p><b>Vi tycker att det är värt att fråga sig, varför vindkraften skulle behöva en subvention som motsvarar ca en tredjedel av dess intäkter, om det är det billigaste kraftslaget?</b></p>
+<p><b class="fact-check-text"><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Här finner du den beräkningen som ligger bakom diagrammet ovan</b></p>  
+<H4>Varför </H4>
+<p>Ett vanligt argument mot kärnkraft är att den åtnjuter "dolda" subventioner. Vi har titt</p>
+<H5>Effektskatten en </H5>
+<H5>Räcker pengarna i Kärnavfallsfonden?</H5>
+<H4>3. Väderberoende energikällor har dolda kostnader</H4>
+<H4>4. Lillgrund & Markbygden vs Olkiluoto - Ett räknexempel</H4>
 
-I frågan om huruvida kärnkraft kan bidra till att lösa klimatproblemen ser vi att de officiella materialet om kärnkraft  framföra framförallt två motargument, det första är att kärnkraft är för dyrt och det andra är att kärnkraft tar för lång tid att bygga ut. I denna blogg-post kommer vi bemöta argumentet att kärnkraft är för dyrt (och i denna angränsande <a href="/karnkraftskoll/reflektion/kallkontroll/langsamt" target="_blanc">blogg-post</a> bemöter vi argumentet att kärnkraft är för långsamt jämfört med förnybart).
 
-<blockquote>Kärnkraft är för dyrt för att konkurrera med både fossila bränslen och förnybara energislag. Enda anledningen till att kärnkraft kan byggas idag är att den inte bär sina egna kostnader utan på ett orimligt sätt subventioneras av stater. Kärnkraft kommer därtill bara bli dyrare medan förnybara energislag kommer bli billigare.</blockquote>
-
-Både i publikationen <a href="/assets/files/karnkraft_klimat.pdf">Kärnkraft Klimat</a> och <a href="/assets/files/mp_arg_kärnkraft.pdf">Kärnkraft i klimatirisens tidevarv</a> ges det uttryck för denna ståndpunkt. Argumentet att kärnkraft skulle vara för dyrt för att satsas på har också drivits hårt av vår energipoltiska talesperson Lise Nordin i flertalet debattartiklar (ett exempel finner du <a href="http://www.expressen.se/debatt/subventionera-inte-karnkraften-1/" target="_blanc">här</a>).
-
-Vi vill först med tydlighet säga att vi delar oron över att kärnkraft idag är för dyrt för att på allvar globalt kunna konkurrera ut billig kol, gas, och olja. Runt om i världen ser vi som en konsekvens forfarande betydande nyinvesteringar i fossila bränslen. 
-
-Med bakgrunden att ca 1.4 miljarder människor idag helt saknar elförsörjning och att världens växande ekonomier efterfrågar billig energi tror vi att den enda framkommliga vägen för att stabilisera klimatet är att satsa på investeringar i teknisk utveckling som gör alternativen till de fossila bränslena mer konkurenskraftiga. Att då utvärdera samtliga kostnader hos de olika alternativen tror vi är helt rätt.
-
-Vi tycker därför att det är bra att man försöker belysa helhetskostanderna för kärnkraft. Det blir dock problematiskt när man överdriver vissa kostnader för kärnkraft och samtidigt blundar för stora delar av kostnaderna hos de förnybara energislagen.
-För att skapa överskådlighet i vår kritik mot det sätt Miljöpartiet idag räknar på kostnader har vi delat upp detta avsnitt i följande underrubriker.
-
+<H4>
 <ul>
 	<a class="page-scroll" href="#expensive-1"> 
 	<li><p><b class="fact-check-text"><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Dagslägets skatter subventioner och avgifter</b><br>I detta avsnitt går vi genom hur det ser ut med skatter, subventioner och avgifter för olika energislag idag</p></li></a>
@@ -32,7 +37,7 @@ För att skapa överskådlighet i vår kritik mot det sätt Miljöpartiet idag r
 	
 	<a class="page-scroll" href="#expensive-3"><li><p><b class="fact-check-text"><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Dolda subventioner till förnybara energislag?</b><br>I detta avsnitt lyfter vi kostnader som förnybara energislag är förenade med men som vi upplever att Miljöpartiet inte räknar med idag. TODO</p></li></a>
 
- 	<a class="page-scroll" href="#expensive-4"><li><p><b class="fact-check-text"><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Lillgrund & Markbygden vs Olkiluoto - Ett räknexempel</b><br>I detta avsnitt tar vi ett faktiskt exempel med tre olika kraftanläggningar för att visualisera skillnaderna i vad man får ut av satsningar på kärnkraft respektive vindkraft.</p></li></a>
+ 	<a class="page-scroll" href="#expensive-4"><li><p><b class="fact-check-text"><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Lillgrund & Markbygden vs Olkiluoto - Ett räknexempel</b><br>I detta avsnitt tar vi ett faktiskt exempel med tre olika kraftanläggningar för att visualisera skillnaderna i vad man får ut av satsningar på qkärnkraft respektive vindkraft.</p></li></a>
 
  	<a class="page-scroll" href="#expensive-5"><li><p><b class="fact-check-text"><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Sammanfattning</b><br>Här sammanfattar vi resultaten från avsnitten ovan.</p></li></a>
 </ul>

@@ -38,7 +38,6 @@
 
 
 section h2.section-heading {
-    text-transform: uppercase;
     margin-top: 0;
     margin-bottom: 15px;
     font-size: 45px;
@@ -95,9 +94,60 @@ header .intro-text .intro-lead-in {
     color: white;
     font-size: 40px;
 }
+
+#scroll-down-icon-black {
+  /*  color: #F6E400;*/
+    color: {{ site.colors.dark_green}};
+    font-size: 40px;
+}
 /*#scroll-down-circle{
     color: yellow;
 }*/
+
+section .arg-headline{
+    text-align:center;
+}
+
+section .intro-ipcc-arg-header{
+    color: #1799ef;
+}
+
+section .intro-life-arg-header{
+    color: #ff0f3b;
+}
+
+section .intro-recycle-arg-header{
+    color: #a00075;
+}
+
+section .arg-fa-icon{
+    float:left;
+    line-height: 50px;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+#megaphone-intro {
+    font-size: 80px;
+    text-align:center;   
+}
+
+#heart-intro {
+    font-size: 80px;
+    text-align:center;   
+}
+
+#recycle-intro {
+    font-size: 80px;
+    text-align:center;   
+}
+
+
+section .arg-p{
+    text-align:center;
+
+}
+
 
 
 @media(min-width:768px) {
@@ -148,7 +198,11 @@ header .intro-text .intro-lead-in {
  
 }
 
-#about-header {
+#arg-header {
+    text-transform: uppercase;
+    color: {{ site.colors.dark_green}};
+}
+#perspective-header {
     color: {{ site.colors.dark_green}};
 }
 
