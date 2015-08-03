@@ -28,13 +28,15 @@ Livscykelanalyserna behöver därför kompletteras: det vi behöver jämföra ä
 
 Ett av de problem vi står inför är att det är svårt att hitta bra, skalbara energikällor på den reglerbara sidan. Typiskt sett reglerar världen idag sin elproduktion med fossila bränslen. I Sverige har vi sett ur ett globalt perspektiv helt unikt goda förutsättningar för en energimix med 100% förnybart, eftersom vi kan producera ungefär hälften av den el vi behöver från vattenkraft och därtill har god tillgång till biogas. Som vi resonerar i <a href="/global/sverige-unikt/" class="global-link">föregående bloggpost</a> så finns det dock ingen klimatvinst i att ställa om till 100% förnybart, tvärtom riskerar vi att försvåra för våra grannländer att fasa ut sina fossila bränslen.
 
-Det finns flera utmaningar när 
-Probelemen med att balansera 56
+Att integrera en hög andel vind och sol när man inte har tillgång till betydande mängd fossilfri reglerkraft är förenade med en rad svårigheter som vi beskriver nedan. Därefter diskuterar vi de olika möjligheter som brukar framföras som alternativ till reglerkraft.
+
 
 <h3>Både under- och överproduktion är problematisk</h3>
 
 <h3>Men finns det inte alternativ till reglerkraft</h3>
 Här behöver vi fråga oss om vi har tid att vänta på 
+
+Jacobsen föreslår redundans i
 <h4>Energilagring</h4>
 <h4>Bygga ut elnäten</h4>
 Varnar för att vind och sol samkorrelerar i stora områden.
@@ -42,7 +44,10 @@ Varnar för att vind och sol samkorrelerar i stora områden.
 <h4>Anpassa elanvändningen</h4>
 
 
-För majoriteten av världens länder som inte har tillgång till stora mängder fossilfri reglerkraft är känkraft som barskraft och förnybart i den mängd de kan reglera det realistiska 100% fossilfria alternativet som finns tillgänligt idag.
+
+
+
+För majoriteten av världens länder som inte har tillgång till stora mängder fossilfri reglerkraft är därför känkraft som baskraft och förnybart i den mängd de kan reglera det realistiska 100% fossilfria alternativet som finns tillgänligt idag.
 
 
 

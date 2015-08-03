@@ -46,6 +46,12 @@ blockquote{
 	background: {{ site.colors.mp_green}};
 }
 
+#bolt{
+	color: orange;
+}
+#rocket{
+	color: black;
+}
 /*.navbar-default {
 	background-color: rgba(83, 160, 69, 0.95);
 	background-color: rgba(7, 55, 99, 0.95);
