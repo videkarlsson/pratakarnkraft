@@ -6,6 +6,10 @@ h1, h2, h3, h4, h5{
 	background: {{ site.colors.mp_purple}};
 }
 
+.mp_purple_font {
+    color: {{ site.colors.mp_purple}};
+}
+
 .main-section h1{
 	color:white;
 }
@@ -48,9 +52,12 @@ csmall {
 	color: black;
 }
 
+.main-section a{
+	color: {{ site.colors.mp_purple}};
+}
 
 .blog-section a{
-	color: #01529B;
+	color: {{ site.colors.mp_purple}};
 }
 
 .featured-img{
@@ -85,4 +92,22 @@ blockquote{
 	background-color: transparent;
 }
 
+.mp_purple_font{
+    color: {{ site.colors.mp_purple}};
+}
+.main-section .mp_purple_font{
+    color: {{ site.colors.mp_purple}};
+}
+
+
+.interview_text{
+	font-size:16px;
+	line-height:28px;
+	
+}
+.interview_text_large{
+	font-size:18px;
+	line-height:28px;
+	
+}
 
