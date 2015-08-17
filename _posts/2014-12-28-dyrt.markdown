@@ -11,7 +11,7 @@ categories:
 circle-img: expencive.png
 ---
 <p>Att känkraft skulle vara för dyrt för att konkurrera med de förnybara energislagen har blivit ett av den gröna rörelsen huvudargument mot att behålla och satsa på kärnkraft idag.</p> 
-<p>Vi vill först med tydlighet säga att vi delar oron över att kärnkraft idag är för dyrt för att på allvar globalt kunna konkurrera ut billig kol, gas, och olja. Runt om i världen ser vi som en konsekvens forfarande betydande nyinvesteringar i fossila bränslen. Att i detta läge utvärdera samtliga kostnader hos de olika koldioxidsnåla alternativen tror vi är helt rätt. Först då kan vi se vad vi behöver jobba med för att göra dem mer konkurrenkraftiga</p>
+<p>Vi vill först med tydlighet säga att vi delar oron över att kärnkraft idag är för dyrt för att på allvar globalt kunna konkurrera ut billig kol, gas, och olja. Runt om i världen ser vi som en konsekvens forfarande stora nyinvesteringar i fossila bränslen. Att i detta läge utvärdera samtliga kostnader hos de olika koldioxidsnåla alternativen tror vi är helt rätt. Först då kan vi se vad vi behöver jobba med för att göra dem mer konkurrenkraftiga</p>
 <p>Vi tycker därför att det är bra att man försöker belysa helhetskostanderna för kärnkraft. Det blir dock problematiskt när man överdriver vissa kostnader för kärnkraft och samtidigt blundar för stora delar av kostnaderna hos de förnybara energislagen.</p> 
 <H3>En granskning av vind-, vatten- och kärnkrafts kostnader - i fyra punkter</H3>
 <p>I fyra punkter granskar vi kostnaderna för olika energislag och bemöter påståendet att kärnkraft skulle vara ett dyrare alternativ än de förnybara energislagen.</p>

@@ -124,6 +124,10 @@ blockquote{
     padding-bottom: 40px;
 }
 
+.fa-circle-container{
+    text-align:center
+}
+
 
 .blog-section .img-text{
 	font-style: italic;

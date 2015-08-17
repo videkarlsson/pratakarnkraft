@@ -6,8 +6,6 @@ date: 2015-01-01 16:54:46
 author: Ragnhild Karlsson
 categories:
 - karnkraftskoll
-- reflektion
-- kallkontroll/
 circle-img: slow.jpg
 ---
 I publikationen <a href="/assets/files/mp_arg_kärnkraft.pdf">Kärnkraft i klimatkrisens tidevarv</a> finner vi följande citat.

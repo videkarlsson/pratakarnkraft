@@ -33,6 +33,13 @@ csmall{
 	color: {{ site.colors.dark_green}};
 }
 
+.fa-circle-container{
+	color:{{ site.colors.dark_green}};
+}
+
+#search-pic{
+	font-size: 100px;
+}
 .share a{
 	color: {{ site.colors.dark_green}};
 
