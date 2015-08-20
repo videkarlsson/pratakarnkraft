@@ -59,6 +59,24 @@ blockquote{
 #rocket{
 	color: black;
 }
+#save-life-warning{
+	color: orange;
+}
+
+#save-life-heartbeat{
+	color: red;
+}
+
+
+#save-life-bar-chart{
+	color: {{ site.colors.mp_green}};
+}
+
+#save-life-search{
+	color: {{ site.colors.mp_green}};
+}
+
+
 /*.navbar-default {
 	background-color: rgba(83, 160, 69, 0.95);
 	background-color: rgba(7, 55, 99, 0.95);

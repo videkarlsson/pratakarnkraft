@@ -6,8 +6,6 @@ date: 2014-12-29 16:54:46
 author: Ragnhild Karlsson
 categories:
 - karnkraftskoll
-- reflektion
-- kallkontroll
 circle-img: radiation.png
 ---
 Att kärnkraft kan leda till att radioaktiva ämnen sprids i vår omgivning är ett av de vanligaste motargumenten mot kärnkraft. I denna blogg-post går vi därför igenom och diskuterar de säkerhetsrisker som oftast framförs i debatten. Avslutningsvis sätter vi dessa risker i i relation till hur många liv som kärnkraften beräknats ha räddat genom att utgöra en ersättning till fossila bränslen. 

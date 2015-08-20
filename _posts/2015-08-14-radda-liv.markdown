@@ -8,19 +8,24 @@ categories:
 - karnkraftskoll
 fa-icon: heartbeat
 ---
-Ett vanligt utryck inom miljörörelsen idag är att valet mellan fossil energi och kärnkraft är ett val mellan pest eller kolera. Men när vi har granskat hälsoeffketerna av olika kraftslag har vi svårt att finna stöd för denna uppfattning.
+Ett vanligt utryck inom miljörörelsen idag är att valet mellan fossil energi och kärnkraft är ett val mellan pest eller kolera och att det därför är lika bra att prioritera fossila energikällor som kärnkraft. När vi har granskat hälso- och klimateffekterna av olika energislag är bilden som framträder en helt annan.
 
-Kärnkraft under normal drift 
-
-
-
-Avsluta Nasa studie
-
-
+Fossila bränslen står fortfarande för ca 80% av världens energi och effekterna är förördande.
 <div>
-
-Utgår vi från WHO:s bedömningar ser vi att världens kärnkraft under 60 i drift orsakat enbart två olyckor med hälsoeffekter för omgivningen: Tjernobylolyckan och Fukushima olyckan. 
-
-
-
-
+<img class="img-responsive blog-img" src= "/assets/img/global/world-energi.jpg">
+<p class="img-text">Källa: <a href="http://www.iea.org/statistics/statisticssearch/report/?country=WORLD&product=balances&year=2011">IEA</a><p>
+</div> 
+<div>
+<p><a href="/global/IPCC-talar-till-oss/">IPCC och en majoritet av klimatforskarna</a> bedömmer att vi kommer att behöva genomföra en kraftig utbyggnad av både förnybart och kärnkraft, om vi ska ha en chans att klara 2 graders målet. Men enligt WHO:s bedömningar beräknas de relativt milda klimatförändringar vi sett hittills <a href="www.who.int/heli/risks/climate/climatechange/en/">redan orsaka ca 150000 dödsfall per år.</a></p>
+<p>De största hälsoproblemet som fossila bränslen orsakar idag är dock luftföroreningar.</p>
+<p><i class="fa fa-exclamation-triangle fa-3x chapter-icon" id="save-life-warning"></i><a href="http://www.who.int/mediacentre/news/releases/2014/air-pollution/en/">WHO beräknar att ca 3.7 miljoner(!) människor kommer dö varje år till följd av luftföroreningar i utomhusmiljön.</a> Majoriteten av dessa är kopplade till just fossila bränslen genom förbränning av t.ex. kol och fossilt driven trafik i städer.</p>
+<p>Värst är problem i låg- och medelinkomstländer men även i västvärlden skördar förbränning av kol liv <a href="http://www.catf.us/resources/publications/files/The_Toll_from_Coal.pdf">Clean air task</a> har uppskattat att bara förbränningen av kol står för 13,200 förtidiga dödsfall, och därtill kommer luftvägsproblem som skapar lidande bland både barn och vuxna.</p>
+<p>Dessa allvarliga hälsoeffekter av fossila bränslen betyder givetvis inte att de fossilfria alternativen är riskfria. Vid vattenkraft finns risken för dammolyckor. Vind och biobränslen har löpande dödsfall till följd av t.ex. elinstallation utförd på hög höjd och skadliga luftföroreningar. Med kärnkraft finns risken för radioaktiva utsläpp vid en olycka. De fossilfria energislagens risker är dock betydligt lägre än de för fossila bränslen. </p>
+<p><i class="fa fa-bar-chart fa-3x chapter-icon" id="save-life-bar-chart"></i>Tittar vi på statistiken från de två kärnkraftsolyckor världen haft som medfört hälsoeffekter för omgivningen finner vi t.ex. följande:<br> I Tjernobyl <a href="http://www.who.int/ionizing_radiation/chernobyl/backgrounder/en/">uppskattar WHO</a> att upp till 9000 kommer dö i förtid av cancer. I Fukushima var dock säkerheten högre, och IPCC (TODO LÄNK) uppger att upp till 130 personer kan komma att dö i förtid i cancer till följd av olyckan. <a href="/karnkraftskoll/uranbrytning/">Dagens vind, sol och kärnkraft är dessutom beroende av gruvdrift</a> som medför hälsoeffekter. Men det går trotts detta att visa att investeringar i både förnybart och kärnkraft är investeringar som räddar liv.</p>
+<p><i class="fa fa-heartbeat fa-3x chapter-icon" id="save-life-heartbeat"></i> En <a href="http://pubs.acs.org/doi/abs/10.1021/es3051197?source=cen&">studie</a> gjord av forskare vid NASA kom till slutsatsen att kärnkraften i världen hittils räddat ca 1.84 miljoner människor från en luftförorenings-relaterad död. Självklart finns det en osäkerhet i sådana här beräkningar och man kan ifrågasätta det antagande som görs om att all produktion annars hade skett med fossila källor. Men även om vi skulle räkna med hälften så många räddade liv visar studien på en viktig poäng: Om vi vill rädda liv ska vi låta förnybart och kärnkraft arbeta tillsammans för att ersätta de fossila bränslen istället för att konkurrera med varandra.</p>
+<p>Utvecklingen i världen går dock tyvärr fortfarande i fel riktning. 
+Runt om i världen ser vi allvarliga nyinvesteringar i fossila bränslen. <a href="/global/tyskland-japan/">Tysland och Japan är därtill exempel på länder som av rädsla för kärnkraft har valt att istället bränna kol som är den smutsigaste av de fossila bränslena</a>. I ljuset av detta är det allvarligt om vi inom Miljörörelsen ställer oss bakom denna prioritering och framställer det som att kärnkraft och fossila bränslen har likvärdiga miljö och hälsoeffekter. </p>
+<p><i class="fa fa-search fa-flip-horizontal fa-3x chapter-icon" id="save-life-search"></i>Vi har därför granskat vad Miljöpartiets officiella material har att säga om hälsoeffekterna av kärnkraft och jämfört detta med vad oberoende aktörer som WHO och strålskyddsmyndigheten säger. Resultatet finner ni i <a href="/karnkraftskoll/farligt/">denna bloggpost</a>.</p>
+<p>Vi hoppas att detta kan vara ett första steg till en konstruktiv granskning och diskussion om det offciella materialet kring kärnkraft.
+Även om vi ansträngt oss för att genomgående använda så oberoende källor vet vi att vi har tagit ställning för kärnkraft och självklart kan detta påverka våra slutsatser. Vi ser därför gärna att du granskar oss tillbaka.</p>
+</div>

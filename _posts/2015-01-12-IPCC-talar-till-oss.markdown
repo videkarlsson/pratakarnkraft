@@ -20,7 +20,7 @@ Detta har vi möjlighet att sätta i perspektiv till de totalts två kärnkrafts
 
 Tjernobylolyckan<a href="http://www.who.int/ionizing_radiation/chernobyl/backgrounder/en/"> uppskattar WHO</a> kommer ge upphov till totalt ca 9000 fall av dödlig cancer. 
 
-För Fukushima-olyckan gör <a href="www.who.int/mediacentre/news/releases/2013/fukushima_report_20130228/en/">WHO uppskattningen</a> att riskerna är mycket låga för de som inte bor i mest kontaminerade områdena kring kraftverket. Mätbart förhöjd cancerrisk beräknas bara drabba de som arbetade på kärnkraftverket under olyckan samt spädbarn som befann sig i de mest kontaminerade områdena.
+För Fukushima-olyckan gör <a href="www.who.int/mediacentre/news/releases/2013/fukushima_report_20130228/en/">WHO uppskattningen</a> att riskerna är mycket låga för de som inte bor i mest kontaminerade områdena kring kraftverket. Enligt IPCC rör det sig om ca 130 personer som kan komma att dö i förtid i cancer till följd av olyckan.
 
 <b>Idag har vi även möjlighet att utvärdera hur världens energiproduktion ser ut efter 30-års teknisk utveckling och politisk kamp för att ersätta de fossila energikällorna</b>
 <div>
