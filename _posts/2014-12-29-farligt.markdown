@@ -8,7 +8,48 @@ categories:
 - karnkraftskoll
 circle-img: radiation.png
 ---
-Att kärnkraft kan leda till att radioaktiva ämnen sprids i vår omgivning är ett av de vanligaste motargumenten mot kärnkraft. I denna blogg-post går vi därför igenom och diskuterar de säkerhetsrisker som oftast framförs i debatten. Avslutningsvis sätter vi dessa risker i i relation till hur många liv som kärnkraften beräknats ha räddat genom att utgöra en ersättning till fossila bränslen. 
+<p>Att kärnkraft kan leda till att radioaktiva ämnen sprids i vår omgivning är den grundläggande invändning som de flesta gröna motståndare till kärnkraft har. Det är viktigt att se att starka påtryckningar från b.la. miljörörelsen i vissa fall lett till att vesäntliga säkerhetsförbättringar kommit på plats. Men som vi beskriver i vår bloggpost <a href="/karnkraftskoll/radda-liv">Kärnkraft räddar liv</a> finns det också faror om man på ett osakligt sätt överdriver riskerna med kärnkraft. 
+I denna bloggpost har vi granskat vad Miljöpartiets officiella material har att säga om säkerhetsrisker och kärnkraft. Vi har då funnit fem punkter som vi tycker är värt att diskutera närmare.</p>
+<h3><span class="fa-stack fa-lg chapter-icon"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">1</i></span>Kan barn få leukemi av att bo nära kärnkraftverk?</h3>
+<p>I publikationen <a class="fact-check-text" href="/assets/files/mp_arg_kärnkraft.pdf">“Kärnkraft i klimatkrisens tidevarv”</a> kan vi läsa att ett flertal nya studier har visat att barn under fem år som bor nära kärnkraftverk lider dubbelt så hög risk att drabbas av leukemi.</p> 
+<p>Orsaken till de observerade fallen av leukemi menar publikationsförfattaren är de radioaktiva utsläpp från kärnkraftverk i normal drift. Men när vi granskar de refererade studierna så visar det sig att ingen av de själva tror på en koppling mellan den strålning som ett kärnkraftverk avger och den förhöjda frekvens av leukemi som man i vissa fall kunnat observera. Istället betonar forskarna bakom studierna att deras resultat går emot det man sett i majoriteten av de internationella studierna och att observationerna kan vara ett resultat av slumpen. <br><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Läs mer...</p>
+<h3><span class="fa-stack fa-lg chapter-icon"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">2</i></span>Säkerheten vid de svenska kärnkraftverken</h3> 
+<p>Genom påtryckningar från b.la. miljörörelsen så byggdes Svenska kärnkraftverk med såkallade haverifilter, vilket är ett konkret exempel på där påtryckningar för höjd sökerhet gjort stor skillnad. T.ex. bedömmer Strålskyddsmyndigheten att om kraftverket i Fukushima hade haft haverifilter hade det aldrig skett några utsläpp som vore en risk för omgivningen</p>
+<p>Tyvärr så finns det dock punkter där Miljöpartiets officiell material utan att förklara varför, ger en helt annan bild av säkerheten vid svenska kärnkraftverk än vad Strålskydds- myndigheten gör. <br><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Läs mer...</p>
+
+
+(3) Hur påverkar kärnkraftverken miljön i Östersjön? I publikationen <a href="/assets/files/mp_arg_kärnkraft.pdf">Kärnkraft i klimatkrisens tidevarv</a> skriver författaren: 
+<blockquote>Utsläppen från svenska kärnkraftverk under normal drift har lett till att Östersjön är ett av världens mest radioaktiva hav</blockquote> 
+Strålskyddsmyndigheten delar dock inte denna uppfattning. Enligt dem så står 
+Läs mer
+
+(4) Risker med transport av bränsle och avfall
+
+
+
+fyra punkter där vi tycker att Miljöpartiet idag på tveksamma grunder gör andra bedömningar än dessa aktörer. 
+
+
+Men vi har också funnit exempel på där säkerhetsläget är oklart och där vi kan se att kärnkraftsmotståndare ofta valt att på ett felaktigt sätt sätta likhetstecken mellan minsta hittills påvisbara hälso/miljö-effekt och faktisk hälso-miljö effekt.
+
+Om vi varken vill att lyckokalkyler eller ej faktagrundad rädsla ska få vara med och styra vilka energislag som används i världen behöver vi som debatterar i kärnkraftsfrågan ta hjälp av varandra för att finna de argument som idag ger en missvisande bild av säkerhetsriskerna. Vi hoppas att denna genomgång ska vara ett steg på den vägen, därför välkomnar vi också din granskning av våra slutsatser.
+
+
+
+
+I vår blogg-post "Kärnkraft räddar liv" beskriver vi riskerna med att på ett osakligt sätt framställ kärnkraft som lika farligt som fossila bränslen. Generellt vill vi säga att miljöpartiets material 
+
+
+Det är därför viktigt att granska just säkerhetsriskerna med kärnkraft.
+
+Vi tycker det
+
+
+ I denna blogg-post granskar vi de risker för radioaktiva utsläpp som oftast 
+
+
+
+är ett av de vanligaste motargumenten mot kärnkraft. I denna blogg-post går vi därför igenom och diskuterar de säkerhetsrisker som oftast framförs i debatten. 
 
 I vårt arbete med blogg-posten har vi genomgående valt att utgå från vad aktörer som Strålskyddsmyndigheten (SSM) och WHO har att säga i frågan. Vi har då funnit några punkter där vi tycker att Miljöpartiet idag på tveksamma grunder gör andra bedömningar än dessa aktörer. 
 Men vi har också funnit exempel på där säkerhetsläget är oklart och där vi kan se att kärnkraftsmotståndare ofta valt att på ett felaktigt sätt sätta likhetstecken mellan minsta hittills påvisbara hälso/miljö-effekt och faktisk hälso-miljö effekt.
@@ -75,7 +116,7 @@ För att du lätt ska kunna hitta i materialet som granskar säkerhetsriskerna m
 <p>Vi kommer här nedan bemöta och granska de påståenden som görs i citaten ovan</p>
 <h4>Incidententen vid Forsmark 2006</h4>
 <img class="img-responsive blog-img" src="/assets/img/fact-check/forsmark3.jpg">
-<p>Eftersom vi inte kunde finna någon rapportering om en allvarlig incident vid Forsmark varken under 2008 eller 2009, valde vi att kontakta Stråssäkerhetsmyndigheten för att få veta om någon sådan har inträffat.</p>
+<p>Eftersom vi inte kunde finna någon rapportering om en allvarlig incident vid Forsmark varken under 2008 eller 2009, valde vi att kontakta Strålsäkerhetsmyndigheten för att få veta om någon sådan har inträffat.</p>
 <p>På vår fråga:</p>
 <p style="font-style:italic">Jag granskar ett material kring kärnkraft som menar att det under vintern
 2008 eller 2009 skulle ha inträffat en allvarlig incident vid Forsmark, där reaktorn var mycket nära ett stort haveri. Jag har gått igenom er hemsida utan att kunna finna någon incident under 2008 eller 2009 som kan klassas som allvarlig. Jag kontaktar därför er för att få klarhet i om jag kan ha missat någon incident som var allvarlig men ej uppmärksammats på er hemsida eller i medierna?</p>
