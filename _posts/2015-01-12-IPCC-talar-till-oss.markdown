@@ -14,7 +14,7 @@ Vi tycker att utvecklingen de senaste 30 åren ger oss flera skäl att ompröva 
 
 <b>Idag har vi möjlighet att jämföra hoten från fossila bränslen med de hot som kärnkraft för med sig.</b>
 
-Vi kan se att enligt <a href="http://www.who.int/mediacentre/news/releases/2014/air-pollution/en/" target="_blanc">WHO:s uppskattningar beräknas 7 miljoner människor dö</a> varje år av luftföroreningar. WHO är tydliga med vilka aktiviteter som orsakar detta. De två avgörande problemen vi behöver lösa är för det första användandet av fossila energikällor och för det andra att de människor som saknar stabil tillgång till elektricitet tvingas idag elda vedträ och kol i sina hem. WHO gör också <a href="http://www.who.int/heli/risks/climate/climatechange/en/" target="_blanc">uppskattningen</a> att bara de försiktiga klimatförändringar vi sett hittills beräknas döda över 150 000 människor varje år. 
+Vi kan se att enligt <a href="http://www.who.int/mediacentre/news/releases/2014/air-pollution/en/" target="_blanc">WHO:s uppskattningar beräknas 7 miljoner människor dö</a> varje år av luftföroreningar. WHO är tydliga med att två avgörande problemen vi behöver lösa. För det första användandet av fossila energikällor och för det andra att de människor som saknar stabil tillgång till elektricitet tvingas idag elda vedträ och kol i sina hem. WHO gör också <a href="http://www.who.int/heli/risks/climate/climatechange/en/" target="_blanc">uppskattningen</a> att bara de försiktiga klimatförändringar vi sett hittills beräknas döda över 150 000 människor varje år. 
 
 Detta har vi möjlighet att sätta i perspektiv till de totalts två kärnkraftsolyckor som medfört hälsorisker för omgivningen, tjernobylolyckan och fukushimaolyckan. 
 
