@@ -76,6 +76,19 @@ blockquote{
 	color: {{ site.colors.mp_green}};
 }
 
+#danger-circle-2{
+	color: #454E9E;
+}
+#danger-circle-3{
+	color: #D72638;
+}
+#danger-circle-4{
+	color: #CC3F0C;
+}
+#danger-circle-5{
+	color: #F59C27;
+}
+
 
 /*.navbar-default {
 	background-color: rgba(83, 160, 69, 0.95);

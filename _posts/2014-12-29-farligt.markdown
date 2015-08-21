@@ -13,48 +13,14 @@ I denna bloggpost har vi granskat vad Miljöpartiets officiella material har att
 <h3><span class="fa-stack fa-lg chapter-icon"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">1</i></span>Kan barn få leukemi av att bo nära kärnkraftverk?</h3>
 <p>I publikationen <a class="fact-check-text" href="/assets/files/mp_arg_kärnkraft.pdf">“Kärnkraft i klimatkrisens tidevarv”</a> kan vi läsa att ett flertal nya studier har visat att barn under fem år som bor nära kärnkraftverk lider dubbelt så hög risk att drabbas av leukemi.</p> 
 <p>Orsaken till de observerade fallen av leukemi menar publikationsförfattaren är de radioaktiva utsläpp från kärnkraftverk i normal drift. Men när vi granskar de refererade studierna så visar det sig att ingen av de själva tror på en koppling mellan den strålning som ett kärnkraftverk avger och den förhöjda frekvens av leukemi som man i vissa fall kunnat observera. Istället betonar forskarna bakom studierna att deras resultat går emot det man sett i majoriteten av de internationella studierna och att observationerna kan vara ett resultat av slumpen. <br><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Läs mer...</p>
-<h3><span class="fa-stack fa-lg chapter-icon"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">2</i></span>Säkerheten vid de svenska kärnkraftverken</h3> 
-<p>Genom påtryckningar från b.la. miljörörelsen så byggdes Svenska kärnkraftverk med såkallade haverifilter, vilket är ett konkret exempel på där påtryckningar för höjd sökerhet gjort stor skillnad. T.ex. bedömmer Strålskyddsmyndigheten att om kraftverket i Fukushima hade haft haverifilter hade det aldrig skett några utsläpp som vore en risk för omgivningen</p>
-<p>Tyvärr så finns det dock punkter där Miljöpartiets officiell material utan att förklara varför, ger en helt annan bild av säkerheten vid svenska kärnkraftverk än vad Strålskydds- myndigheten gör. <br><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Läs mer...</p>
-
-
-(3) Hur påverkar kärnkraftverken miljön i Östersjön? I publikationen <a href="/assets/files/mp_arg_kärnkraft.pdf">Kärnkraft i klimatkrisens tidevarv</a> skriver författaren: 
+<h3 id="danger-circle-2"><span class="fa-stack fa-lg chapter-icon"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">2</i></span>Säkerheten vid de svenska kärnkraftverken</h3> 
+<p>Genom påtryckningar från b.la. miljörörelsen så byggdes svenska kärnkraftverk med såkallade haverifilter, detta är ett konkret exempel på där påtryckningar för höjd sökerhet gjort stor skillnad. T.ex. bedömmer Strålskyddsmyndigheten att om kraftverket i Fukushima hade haft haverifilter hade det aldrig skett några utsläpp som vore en risk för omgivningen</p>
+<p>Tyvärr så finns det dock punkter där Miljöpartiets officiell material utan att förklara varför, ger en helt annan bild av säkerheten vid svenska kärnkraftverk än vad Strålskydds- myndigheten gör.<br><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Läs mer...</p>
+<h3 id="danger-circle-3"><span class="fa-stack fa-lg chapter-icon"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">3</i></span>Hur påverkar kärnkraftverken miljön i Östersjön?</h3> <p>I publikationen <a href="/assets/files/mp_arg_kärnkraft.pdf">Kärnkraft i klimatkrisens tidevarv</a> skriver författaren: 
 <blockquote>Utsläppen från svenska kärnkraftverk under normal drift har lett till att Östersjön är ett av världens mest radioaktiva hav</blockquote> 
-Strålskyddsmyndigheten delar dock inte denna uppfattning. Enligt dem så står 
-Läs mer
-
-(4) Risker med transport av bränsle och avfall
-
-
-
-fyra punkter där vi tycker att Miljöpartiet idag på tveksamma grunder gör andra bedömningar än dessa aktörer. 
-
-
-Men vi har också funnit exempel på där säkerhetsläget är oklart och där vi kan se att kärnkraftsmotståndare ofta valt att på ett felaktigt sätt sätta likhetstecken mellan minsta hittills påvisbara hälso/miljö-effekt och faktisk hälso-miljö effekt.
-
-Om vi varken vill att lyckokalkyler eller ej faktagrundad rädsla ska få vara med och styra vilka energislag som används i världen behöver vi som debatterar i kärnkraftsfrågan ta hjälp av varandra för att finna de argument som idag ger en missvisande bild av säkerhetsriskerna. Vi hoppas att denna genomgång ska vara ett steg på den vägen, därför välkomnar vi också din granskning av våra slutsatser.
-
-
-
-
-I vår blogg-post "Kärnkraft räddar liv" beskriver vi riskerna med att på ett osakligt sätt framställ kärnkraft som lika farligt som fossila bränslen. Generellt vill vi säga att miljöpartiets material 
-
-
-Det är därför viktigt att granska just säkerhetsriskerna med kärnkraft.
-
-Vi tycker det
-
-
- I denna blogg-post granskar vi de risker för radioaktiva utsläpp som oftast 
-
-
-
-är ett av de vanligaste motargumenten mot kärnkraft. I denna blogg-post går vi därför igenom och diskuterar de säkerhetsrisker som oftast framförs i debatten. 
-
-I vårt arbete med blogg-posten har vi genomgående valt att utgå från vad aktörer som Strålskyddsmyndigheten (SSM) och WHO har att säga i frågan. Vi har då funnit några punkter där vi tycker att Miljöpartiet idag på tveksamma grunder gör andra bedömningar än dessa aktörer. 
-Men vi har också funnit exempel på där säkerhetsläget är oklart och där vi kan se att kärnkraftsmotståndare ofta valt att på ett felaktigt sätt sätta likhetstecken mellan minsta hittills påvisbara hälso/miljö-effekt och faktisk hälso-miljö effekt.
-
-Om vi varken vill att lyckokalkyler eller ej faktagrundad rädsla ska få vara med och styra vilka energislag som används i världen behöver vi som debatterar i kärnkraftsfrågan ta hjälp av varandra för att finna de argument som idag ger en missvisande bild av säkerhetsriskerna. Vi hoppas att denna genomgång ska vara ett steg på den vägen, därför välkomnar vi också din granskning av våra slutsatser.
+<p>Denna analys går dock rakt emot vad strålskyddsmyndighetens experter säger i frågan. Enligt dem så utgör utsläppen från svenska kärnkfraftverk ett mycket litet bidrag och detta ligger långt under de gränsvärden som är satta för att skydda människor och miljö från skadliga effekter av strålning.<br><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Läs mer...</p> 
+<h3 id="danger-circle-4"><span class="fa-stack fa-lg chapter-icon"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">4</i></span>Risker med transport av bränsle och avfall?</h3> <p>Ingen av miljöpartiets officiella publikationer i känrnkraftsfrågan tar upp detta ämne men vi tycker att det är väl värt att belysa då det här är ett område där dagens kärnkraft (i jämförelse med andra kraftslag) medför ökade risker och påtryckningar för ökad säkerhet kan vara viktigt<br><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Läs mer...</p> 
+<h3 id="danger-circle-5"><span class="fa-stack fa-lg chapter-icon"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">5</i></span>Kärnkraftsolyckor i världen</h3> <p>I diskussionen kring kärnkraftens säkerhet är det naturligt att ta upp de två olyckor vi har haft i världen som har inneburit en risk för omgivningen, Tjernobyl och Fukushima. När vi läser vad olika debattörer har att säga om dessa olyckor går ofta bilderna i sär. Å ena sidan förekommer det fundamentalistiska kärnkraftsförespråkare som helst bara fokuserar på antalet dödsfall som vi med säkerhet kan koppla till olyckan, vilket är ungefär ett 50-tal. Å andra sidan har vi Greenpeace som väljer att avfärda forskning publicerad i vetenskapliga tidsskrifter till förmån för en egen uppskattning med ca 10 gånger fler fall av dödlig cancer än de som WHO uppskattar att olyckan kan givit upphov till. Som grön debattör är det viktigt att ha koll på problemen i båda dessa sidors argumentation därför går vi här igenom vad seriösa aktörer som WHO har att säga i frågan<br><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Läs mer...</p> 
 
 För att du lätt ska kunna hitta i materialet som granskar säkerhetsriskerna med kärnkraft har vi valt att dela upp det i följande underrubriker med direktlänkar till respektive avsnitt:
 <ul>
@@ -96,7 +62,7 @@ För att du lätt ska kunna hitta i materialet som granskar säkerhetsriskerna m
 		<p>På sidan 6 i publikationen <a href="/assets/files/mp_arg_kärnkraft.pdf">Kärnkraft i klimatkrisens tidevarv</a> kan vi läsa följande:</p>
 		<blockquote>Kärnkraft ger emellertid upphov till utsläpp även under normal drift och Östersjön är som exempel redan ett av världens mest radioaktivt smittade hav.</blockquote>
 		<p>Som detta påstående är skrivet uppfattas det lätt som att de radioaktiva utsläppen vid normal drift utgör ett miljöhot. Denna bild delas dock inte av Strålsäkerhetsmyndigheten. I en tidningsdebatt på ämnet från 2010 uttalar sig både Mattias Lantz som forskare i exprimentell kärnfysik och Ann-Christin Hägg i egenskap av utredare på Strålsäkerhetsmyndigheten.<p> 
-		<p>Ur debatten framkommer att utsläppen från kärnkraftsanläggningar ligger långt under de gränsvärden som finns. Samt att gränsvärdena är satta med god marginal i syfte att skydda människa och miljö från skadliga effekter av strålning. Vidare framkommer att de mänskligt orsakade radioaktiva utsläppen i Östersjön kommer framförallt från andra källor: Tjernobylolyckan (86%) och kärnkvapen- spräningarna på 1950-60-talen (14%) upparbetningsanläggningarna i Sellafield och La Hague (4 procent). Om 10-20 förväntas därtill nivåerna vara desamma som före olyckan i Tjernobyl eftersom de löpande utsläppen från svenska kärnkraftverken och anläggningen i Studsvik är så låga att de inte nämnvärt påverkar halterna. Värt att notera är även att utsläppen orsakade av människor är mindre än en tredjedel av den radioaktiva dos som naturliga källor ger. </p>
+		<p>Ur debatten framkommer att utsläppen från kärnkraftsanläggningar ligger långt under de gränsvärden som finns. Samt att gränsvärdena är satta med god marginal i syfte att skydda människa och miljö från skadliga effekter av strålning. Vidare framkommer att de mänskligt orsakade radioaktiva utsläppen i Östersjön kommer framförallt från andra källor: Tjernobylolyckan (82%) och kärnkvapen- spräningarna på 1950-60-talen (14%) upparbetningsanläggningarna i Sellafield och La Hague (4 procent). Om 10-20 förväntas därtill nivåerna vara desamma som före olyckan i Tjernobyl eftersom de löpande utsläppen från svenska kärnkraftverken och anläggningen i Studsvik är så låga att de inte nämnvärt påverkar halterna. Värt att notera är även att utsläppen orsakade av människor är mindre än en tredjedel av den radioaktiva dos som naturliga källor ger. </p>
 		<p>Länkarna till artiklarna som ingick i debatten finner du här:
 		<br>Debattartikelen som väckte diskussionen: <a href="http://www.unt.se/asikt/debatt/ostersjon-varldens-mest-radioaktiva-hav-1017153.aspx">länk här</a>
 		<br>Mattias Lantz inlägg: <a href="http://www.unt.se/asikt/debatt/tjernobyl-orsak-till-ostersjons-radioaktivitet-1018418.aspx" target="_blanc"> länk här</a>
