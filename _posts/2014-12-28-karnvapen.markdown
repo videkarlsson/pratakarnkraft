@@ -26,7 +26,7 @@ På världskartan ovan har vi med blått fylt i de länder som skaffade sig kär
 <iframe style="margin:auto;" src="//www.youtube.com/embed/wC6o64DOo78" frameborder="0" allowfullscreen></iframe>
 
 
-<p class="img-text">I detta korta klipp från filmen Pandoras Promisse ger historikern och författaren Richard Roberts, sin syn på skillnaden mellan antalet länder som kan skaffa sig kärnvapen om de skulle vilja och antalet länder som faktiskt har kärnvapen. Vidare beskrivs hur civil kärnkraft redan har och kan fortsätta att bidra till nedrustning genom att stridspetsar oskadligörs och används som bränsle.TODO kolla upp rättigheter för att ersätta med 4 min längre klipp från pandroas priomisse (i dagsläget är bara delen om avrusning med)</p>
+<p class="img-text">I detta korta klipp från filmen Pandoras Promisse ger historikern och författaren Richard Rohdes, sin syn på skillnaden mellan antalet länder som kan skaffa sig kärnvapen om de skulle vilja och antalet länder som faktiskt har kärnvapen. Vidare beskrivs hur civil kärnkraft redan har och kan fortsätta att bidra till nedrustning genom att stridspetsar oskadligörs och används som bränsle.TODO kolla upp rättigheter för att ersätta med 4 min längre klipp från pandroas priomisse (i dagsläget är bara delen om avrusning med)</p>
 
 I partiets publikationer som vi citerar ovan saknar vi en förklaring till hur man ser på faktumet att kärnvapen kan och oftast har utvecklats i länder utan civil kärnkraft. Det framgår inte heller hur avveckling av kärnkraft i världens icke-diktaturer skulle leda till att länder som Nordkorea avvecklar sitt kärnvapenprogram.
 

@@ -23,7 +23,7 @@ Vi tycker att det viktigt att det framgår i debatten att det ur ett klimatpersp
 <b>Vi vill dock ifrågasätta grundtesen att Sverige genom en sådan omställning kan utgöra ett meningsfullt grönt föredömme för resten av världen.<b>
 
 Vi skulle vilja lyfta fram ett land som redan lyckats med att nå målet (i princip) 100% förnybar energiproduktion, närmare bestämt <a href="http://www.iea.org/statistics/statisticssearch/report/?country=ICELAND&product=electricityandheat&year=2010" target="_blanc">Island</a>.
-Trotts att Island genom en kombination av 50% vattenkraft och 50% geotermiska energikällor inte orsakar några nämnvärda klimatgasutsläpp är det få som skulle mena att de kan vara ett föredömme för resten av världen.
+Trotts att Island genom en kombination av 50% vattenkraft och 50% geotermiska energikällor inte orsakar några nämnvärda klimatgasutsläpp är det få som skulle mena att de kan vara ett föredömme för resten av världen. Då en oerhört liten del av världens befolkning kan använda geotermiska energikäller eftersom de inte bor på vulkaner.
 
 Det är lätt att glömma bort att även Sverige med våra stora ytor av skog och med vattenkraft som producerar 50% av vår elektricitet, har mycket unika förutsättningar om man ser det ur ett globalt perspektiv. För att illustrera detta jämför vi nedan Sveriges energimix med hur energimixen ser ut för världen i stort idag
 

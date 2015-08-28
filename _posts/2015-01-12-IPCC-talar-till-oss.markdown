@@ -14,13 +14,18 @@ Vi tycker att utvecklingen de senaste 30 åren ger oss flera skäl att ompröva 
 
 <b>Idag har vi möjlighet att jämföra hoten från fossila bränslen med de hot som kärnkraft för med sig.</b>
 
-Vi kan se att enligt <a href="http://www.who.int/mediacentre/news/releases/2014/air-pollution/en/" target="_blanc">WHO:s uppskattningar beräknas 7 miljoner människor dö</a> varje år av luftföroreningar. WHO är tydliga med att två avgörande problemen vi behöver lösa. För det första användandet av fossila energikällor och för det andra att de människor som saknar stabil tillgång till elektricitet tvingas idag elda vedträ och kol i sina hem. WHO gör också <a href="http://www.who.int/heli/risks/climate/climatechange/en/" target="_blanc">uppskattningen</a> att bara de försiktiga klimatförändringar vi sett hittills beräknas döda över 150 000 människor varje år. 
+<b>Vi kan se att enligt <a href="http://www.who.int/mediacentre/news/releases/2014/air-pollution/en/" target="_blanc">WHO:s uppskattningar beräknas 7 miljoner människor dö</a> varje år av luftföroreningar. WHO är tydliga med att två avgörande problemen vi behöver lösa är användningen av fossila energislag och energifattigdom.</b>
 
-Detta har vi möjlighet att sätta i perspektiv till de totalts två kärnkraftsolyckor som medfört hälsorisker för omgivningen, tjernobylolyckan och fukushimaolyckan. 
+Förbränning av fossila bränslen skapar luftföroreringar i utomhusmiljön medan brist på stabil tillgång till elektricitet gör att människor tvingas elda vedträ och kol i sina hem med farliga luftföroreningar inomhus som följd. 
+
+WHO gör därtill <a href="http://www.who.int/heli/risks/climate/climatechange/en/" target="_blanc">uppskattningen</a> att bara de försiktiga klimatförändringar vi sett hittills beräknas döda över 150 000 människor varje år. 
+
+<b>Detta har vi möjlighet att sätta i perspektiv till de totalts två kärnkraftsolyckor som medfört hälsorisker för omgivningen, tjernobylolyckan och fukushimaolyckan. </b>
 
 Tjernobylolyckan<a href="http://www.who.int/ionizing_radiation/chernobyl/backgrounder/en/"> uppskattar WHO</a> kommer ge upphov till totalt ca 9000 fall av dödlig cancer. 
 
-För Fukushima-olyckan gör <a href="www.who.int/mediacentre/news/releases/2013/fukushima_report_20130228/en/">WHO uppskattningen</a> att riskerna är mycket låga för de som inte bor i mest kontaminerade områdena kring kraftverket. Enligt IPCC rör det sig om ca 130 personer som kan komma att dö i förtid i cancer till följd av olyckan.
+För Fukushima-olyckan gör <a href="www.who.int/mediacentre/news/releases/2013/fukushima_report_20130228/en/">WHO uppskattningen</a> att riskerna är mycket låga för de som inte bor i mest kontaminerade områdena kring kraftverket. Enligt IPCC rör det sig om ca 130 personer som kan komma att dö i förtid i cancer till följd av olyckan (sid 526 i <a href="/assets/files/ipcc_energy_system_chap_7">denna rapport</a>). 
+Till detta bör vi såklart ta in evakueringen av människor som <a href="http://www.theguardian.com/world/2014/sep/10/fukushima-nuclear-disaster-japan-three-years-families-uprooted">skapat betydande lidande</a>. Men evakueringen av en yta med ca 20 km radie som nu lyft steg för steg, behöver sättas i jämförelse med de stora områden som hotas bli obeboliga världen över om vi inte klarar att stoppa klimatförändringarna.
 
 <b>Idag har vi även möjlighet att utvärdera hur världens energiproduktion ser ut efter 30-års teknisk utveckling och politisk kamp för att ersätta de fossila energikällorna</b>
 <div>
