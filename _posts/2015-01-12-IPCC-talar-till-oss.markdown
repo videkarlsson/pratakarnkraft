@@ -25,7 +25,7 @@ WHO gör därtill <a href="http://www.who.int/heli/risks/climate/climatechange/e
 Tjernobylolyckan<a href="http://www.who.int/ionizing_radiation/chernobyl/backgrounder/en/"> uppskattar WHO</a> kommer ge upphov till totalt ca 9000 fall av dödlig cancer. 
 
 För Fukushima-olyckan gör <a href="www.who.int/mediacentre/news/releases/2013/fukushima_report_20130228/en/">WHO uppskattningen</a> att riskerna är mycket låga för de som inte bor i mest kontaminerade områdena kring kraftverket. Enligt IPCC rör det sig om ca 130 personer som kan komma att dö i förtid i cancer till följd av olyckan (sid 526 i <a href="/assets/files/ipcc_energy_system_chap_7">denna rapport</a>). 
-Till detta bör vi såklart ta in evakueringen av människor som <a href="http://www.theguardian.com/world/2014/sep/10/fukushima-nuclear-disaster-japan-three-years-families-uprooted">skapat betydande lidande</a>. Men evakueringen av en yta med ca 20 km radie som nu lyft steg för steg, behöver sättas i jämförelse med de stora områden som hotas bli obeboliga världen över om vi inte klarar att stoppa klimatförändringarna.
+Till detta bör vi såklart ta in evakueringen av människor som <a href="http://www.theguardian.com/world/2014/sep/10/fukushima-nuclear-disaster-japan-three-years-families-uprooted">skapat betydande lidande</a>. Men evakueringen av en yta med ca 20 km radie som nu lyfts steg för steg, behöver sättas i jämförelse med de stora områden som hotas bli obeboliga världen över om vi inte klarar att stoppa klimatförändringarna.
 
 <b>Idag har vi även möjlighet att utvärdera hur världens energiproduktion ser ut efter 30-års teknisk utveckling och politisk kamp för att ersätta de fossila energikällorna</b>
 <div>

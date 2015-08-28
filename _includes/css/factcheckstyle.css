@@ -68,6 +68,11 @@ blockquote{
 }
 
 
+#save-life-down{
+	color: black;
+}
+
+
 #save-life-bar-chart{
 	color: {{ site.colors.mp_green}};
 }
@@ -89,6 +94,12 @@ blockquote{
 	color: #F59C27;
 }
 
+#expencive-tint{
+	color:blue;
+}
+#expencive-balance{
+	color:{{ site.colors.mp_green}};
+}
 
 /*.navbar-default {
 	background-color: rgba(83, 160, 69, 0.95);
