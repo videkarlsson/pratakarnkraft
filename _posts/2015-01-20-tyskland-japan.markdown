@@ -73,3 +73,14 @@ http://reneweconomy.com.au/wp-content/uploads/2015/01/agora-power-growth.jpg
 
 men också: http://nejdetkanviinte.se/2014/11/17/tysklands-energielande-ar-2025/
 Tysklands energielände, år 2025 | Nej, det kan vi inte
+
+
+http://link.springer.com/article/10.1140%2Fepjp%2Fi2014-14020-8 	
+
+http://ec.europa.eu/eurostat/statistics-explained/index.php/File:Electricity_prices_for_household_consumers,_second_half_2014_(%C2%B9)_(EUR_per_kWh)_YB15.png
+
+http://ec.europa.eu/eurostat/statistics-explained/index.php/File:Electricity_prices_for_household_consumers,_second_half_2014_(%C2%B9)_(EUR_per_kWh)_YB15.png
+
+https://carboncounter.wordpress.com/2015/08/11/germany-will-never-run-on-solar-power-here-is-why/
+
+http://www.politico.eu/article/strong-winds-in-germany-a-problem-in-central-europe/

@@ -6,9 +6,8 @@ date: 2014-12-11 16:54:46
 author: Ragnhild Karlsson
 categories:
 - karnkraftskoll
-- reflektion
-img: /green-jobs.jpg
 thumb: green-jobs-thumb.jpg
+circle-img: green_jobs_icon.png
 ---
 <b>Påstående:</b> Kärnkraft räddar inte jobben
 
