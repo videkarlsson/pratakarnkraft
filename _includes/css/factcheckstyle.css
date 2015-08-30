@@ -39,7 +39,17 @@ csmall{
 
 #search-pic{
 	font-size: 100px;
+	float: left;
 }
+
+.fa-swe-container{
+	color:blue;
+}
+
+#swe-pic{
+	font-size: 40px;
+}
+
 .share a{
 	color: {{ site.colors.dark_green}};
 
@@ -106,14 +116,15 @@ blockquote{
 #expencive-circle-5{
 	color: #065143;
 }
-
-
-
 #expencive-tint{
 	color:blue;
 }
 #expencive-balance{
 	color:{{ site.colors.mp_green}};
+}
+
+#expencive-world{
+	color: #8F0829;
 }
 
 /*.navbar-default {
