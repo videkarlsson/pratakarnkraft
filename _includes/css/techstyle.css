@@ -1,5 +1,5 @@
 h1, h2, h3, h4, h5{
-	color:white;
+	color:{{ site.colors.mp_purple}};
 }
 
 .dropdown-menu {
@@ -11,10 +11,10 @@ h1, h2, h3, h4, h5{
 }
 
 .main-section h1{
-	color:white;
+	color:{{ site.colors.mp_purple}};
 }
 .main-section h4{
-	color:white;
+	color:{{ site.colors.mp_purple}};
 }
 
 .blog-section h1{
@@ -25,12 +25,12 @@ h1, h2, h3, h4, h5{
 	color:{{ site.colors.mp_purple}};
 }
 
-.main-section p{
+/*.main-section p{
 	color:white;
-}
+}*/
 
 #tech-intro-sub-heading{
-    color: white;
+    color: {{ site.colors.mp_purple}};
     margin-bottom: 25px;
     font-family: 'Montserrat', sans-serif;
     font-style: italic;
@@ -40,8 +40,12 @@ h1, h2, h3, h4, h5{
 }
 
 .main-section{
-	background: {{ site.colors.tech_grey}};
+	background:{{ site.colors.tech_grey}};
 }
+.main-section{
+	background:white;
+}
+
 
 
 csmall {
@@ -111,3 +115,6 @@ blockquote{
 	
 }
 
+.4G_pic{
+	font-size: 100px;
+}
