@@ -96,3 +96,34 @@ Gas ett alternativ:http://www.nyteknik.se/asikter/debatt/article3853829.ece?
 - 
 
 Därtill ser vi ett ökat behov i världen, svårt att se att de räcker för den enorma ökning i konsumtion som väntar. Och finns inte konkurrenskraftiga alternativ blir de fossila alternativen lösningen man satsar på. Antingen iform av att vi behåller befintliga anläggningar eller bygger ny.
+
+
+
+___________________TODO Ta bort
+
+TYSKLAND
+
+http://reneweconomy.com.au/wp-content/uploads/2015/01/agora-power-growth.jpg
+
+http://reneweconomy.com.au/2015/graphs-of-the-day-the-success-of-germanys-energy-transition-15022
+http://reneweconomy.com.au/wp-content/uploads/2015/01/agora-power-growth.jpg
+
+
+men också: http://nejdetkanviinte.se/2014/11/17/tysklands-energielande-ar-2025/
+Tysklands energielände, år 2025 | Nej, det kan vi inte
+
+
+http://link.springer.com/article/10.1140%2Fepjp%2Fi2014-14020-8 	
+
+http://ec.europa.eu/eurostat/statistics-explained/index.php/File:Electricity_prices_for_household_consumers,_second_half_2014_(%C2%B9)_(EUR_per_kWh)_YB15.png
+
+http://ec.europa.eu/eurostat/statistics-explained/index.php/File:Electricity_prices_for_household_consumers,_second_half_2014_(%C2%B9)_(EUR_per_kWh)_YB15.png
+
+https://carboncounter.wordpress.com/2015/08/11/germany-will-never-run-on-solar-power-here-is-why/
+
+POLITISKT MOTSTÅND MOT ÖVERFÖRINGSKAPACITET
+http://www.politico.eu/article/strong-winds-in-germany-a-problem-in-central-europe/
+http://www.di.se/artiklar/2015/6/22/tyskland-vagrar-svensk-el/
+
+
+Kontrollrummet danmark 13 14 augusti

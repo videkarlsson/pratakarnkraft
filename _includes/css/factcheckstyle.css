@@ -7,6 +7,16 @@ h1, h2, h3, h4, h5{
     color:  {{ site.colors.dark_green}};
 }
 
+.sub-heading{
+    margin-bottom: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: 25px;
+    font-weight: 25;
+    line-height: 35px;
+}
+
+
 .arg-headline{
 	text-align: left;
 }
