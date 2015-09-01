@@ -23,11 +23,14 @@ Forsmark. Flera studier visar att det finns risk att koppar kan korrodera och g�
 
 Vi vill här lyfta två huvudproblem som vi ser med resonemangen ovan. 
 
-Det första problemet vi ser är bristen på kvantifiering av de risker som man väljer att stämpla som oacceptabla. Genom att inte kvantifiera vilka risker t.ex. en brusten kopparkasel skulle medföra blir det omöjligt för läsaren av publikationen att skapa sig en egen bild av hur allvarligt hen bedömmer att denna risk är. Eftersom kärnkraft visat sig vara ett mycket effektivt sätt att ersätta fossila bränslen tycker vi att det är 
+Det första problemet vi ser är bristen på kvantifiering av de risker som man väljer att stämpla som oacceptabla. Genom att inte kvantifiera vilka risker t.ex. en brusten kopparkasel skulle medföra blir det omöjligt för läsaren av publikationen att skapa sig en egen bild av hur allvarligt hen bedömmer att denna risk är. Givet att kärnkraft visat sig vara ett mycket effektivt sätt att ersätta fossila bränslen tycker vi att det är av yttersta vikt att varje medlem har möjlighet att utifrån tillgängliga studier själv får bedömma denna risk och ställa den i proportion till de risker som fossila energislag ger upphov till.
 
-Givet att kärnkraft visat sig vara ett mycket effektivt sätt att ersätta fossila bränslen tycker vi att det är av yttersta vikt att varje medlem har möjlighet att utifrån tillgängliga studier själv får bedömma denna risk och ställa den i proportion till de risker som fossilförbränning ger upphov till.
+<p>Det andra problemet vi vill lyfta är det rellativa ointresse som vi inom Miljöpartiet hittils visat för fjärde generationens kärnkraft. Om vi menar allvar med att uttjänt kärnbränsle är ett oacceptabelt miljöproblem så borde vi också välkomna den teknik som kan användas för att sänkta lagringstiden från 100000 år till ca 500 år.</p>
+<p><a href="/tech/"><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Om du vill läsa mer om tekniker för att återvinna kärnavall rekomenderar vi vår forskarintervju om teknikutvecklingen inom kärnkraftsomådet.</a></p>
+<p>Denna bloggpost tänker vi istället ägna åt den slutförvarslösning som SKB föreslår och som inte förutsätter återvinning av avfallet</p>
 
-Det andra problemet vi vill lyfta är det rellativa ointresse som vi inom Miljöpartiet hittils visat för fjärde generationens kärnkraft. Om vi menar allvar med att uttjänt kärnbränsle är ett oacceptabelt miljöproblem så borde vi också välkomna den teknik som kan användas för att sänkta lagringstiden från 100000 år till ca 500 år.
+
+
 
 
 
