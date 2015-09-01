@@ -1,5 +1,5 @@
 h1, h2, h3, h4, h5{
-	color:{{ site.colors.mp_purple}};
+	color:#A0197A;
 }
 
 .dropdown-menu {
@@ -9,12 +9,16 @@ h1, h2, h3, h4, h5{
 .mp_purple_font {
     color: {{ site.colors.mp_purple}};
 }
-
-.main-section h1{
-	color:{{ site.colors.mp_purple}};
+.tech-head{
+	background: {{ site.colors.tech_grey}}
 }
+
+.tech-head h1{
+	color:white;
+}
+
 .main-section h4{
-	color:{{ site.colors.mp_purple}};
+	color:#A0197A;
 }
 
 .blog-section h1{
@@ -30,7 +34,7 @@ h1, h2, h3, h4, h5{
 }*/
 
 #tech-intro-sub-heading{
-    color: {{ site.colors.mp_purple}};
+    color: white;
     margin-bottom: 25px;
     font-family: 'Montserrat', sans-serif;
     font-style: italic;
@@ -39,9 +43,6 @@ h1, h2, h3, h4, h5{
     line-height: 35px;
 }
 
-.main-section{
-	background:{{ site.colors.tech_grey}};
-}
 .main-section{
 	background:white;
 }
@@ -101,6 +102,9 @@ blockquote{
 }
 .main-section .mp_purple_font{
     color: {{ site.colors.mp_purple}};
+}
+#tech_univerity{
+	color: #304E72;
 }
 
 

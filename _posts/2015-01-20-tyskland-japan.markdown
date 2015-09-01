@@ -83,4 +83,6 @@ http://ec.europa.eu/eurostat/statistics-explained/index.php/File:Electricity_pri
 
 https://carboncounter.wordpress.com/2015/08/11/germany-will-never-run-on-solar-power-here-is-why/
 
+POLITISKT MOTSTÅND MOT ÖVERFÖRINGSKAPACITET
 http://www.politico.eu/article/strong-winds-in-germany-a-problem-in-central-europe/
+http://www.di.se/artiklar/2015/6/22/tyskland-vagrar-svensk-el/
