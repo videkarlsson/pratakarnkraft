@@ -8,7 +8,7 @@ categories:
 - karnkraftskoll
 fa-icon: heartbeat
 ---
-Ett vanligt utryck inom miljörörelsen idag är att valet mellan fossil energi och kärnkraft är ett val mellan pest eller kolera och att det därför är lika bra att prioritera fossila energikällor som kärnkraft. När vi har granskat hälso- och klimateffekterna av olika energislag är bilden som framträder en helt annan.
+Ett vanligt utryck inom miljörörelsen idag är att valet mellan fossil energi och kärnkraft är ett val mellan pest eller kolera och att det därför är lika bra att prioritera avveckling av fossila energikällor som avveckling av kärnkraft. När vi har granskat hälso- och klimateffekterna av olika energislag är bilden som framträder en helt annan.
 
 Fossila bränslen står fortfarande för ca 80% av världens energi och effekterna är förördande.
 <div>
