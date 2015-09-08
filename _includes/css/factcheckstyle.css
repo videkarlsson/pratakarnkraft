@@ -156,3 +156,59 @@ blockquote{
 	background-color: rgba(189, 0, 118, 0.80);
 	border-color: transparent;
 }*/
+.bubble 
+{
+position: relative;
+width: 340px;
+height: 125px;
+padding: 25px;
+background: #FFFFFF;
+-webkit-border-radius: 23px;
+-moz-border-radius: 23px;
+border-radius: 23px;
+border: #53a045 solid 11px;
+}
+
+.bubble:after 
+{
+content: '';
+position: absolute;
+border-style: solid;
+border-width: 32px 36px 0;
+border-color: #FFFFFF transparent;
+display: block;
+width: 0;
+z-index: 1;
+bottom: -32px;
+left: 81px;
+}
+
+.bubble:before 
+{
+content: '';
+position: absolute;
+border-style: solid;
+border-width: 42px 46px 0;
+border-color: #53a045 transparent;
+display: block;
+width: 0;
+z-index: 0;
+bottom: -53px;
+left: 71px;
+}
+
+#fact-check-intro-text{
+	padding-top: 50px;
+	}
+
+
+@media(min-width:1068px) {
+
+	#fact-check-intro-text{
+		padding-top: 0px;
+	}
+
+.bubble-div{
+	padding-left: 60px;
+}
+}
