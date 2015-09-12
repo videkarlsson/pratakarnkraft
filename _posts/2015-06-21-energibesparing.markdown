@@ -44,3 +44,6 @@ Ju mer billig ren energi vi har att tillgå desto mer frihet har vi att framstä
 Idag är vi beroende av att utnyttja grundvattentäckter eller rena floder för att få tillgång till vatten, med god tillgång till ren, billig energi skulle vi istället kunna framställa driksvatten ur havsvatten eller redan nersmustade vattenkällor. 
 
 Ett annat exempel är maten, med mer energi kan vi får ut mer mat ur mindre arealer och kan på sätt frigöra större områden till att vara rent naturområde.
+
+Ett tredje viktigt problem att lösa är drivmedel till transporter som inte lämpar sig för eldrift. Det finns såklart mycket forskning inom området och många olika tekniker som är på gång, men stor tillgång till billig miljövänlig el underlättar möjligheterna om man t.ex. vill skapa bränsle från  biomaterial eller och som i detta <a href="http://www.nrl.navy.mil/media/news-releases/2014/scale-model-wwii-craft-takes-flight-with-fuel-from-the-sea-concept">fall där man utvinner bränsle från koldioxid i havsvatten</a>
+

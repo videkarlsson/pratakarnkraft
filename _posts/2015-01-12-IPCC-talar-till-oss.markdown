@@ -20,11 +20,11 @@ Förbränning av fossila bränslen skapar luftföroreringar i utomhusmiljön med
 
 WHO gör därtill <a href="http://www.who.int/heli/risks/climate/climatechange/en/" target="_blanc">uppskattningen</a> att bara de försiktiga klimatförändringar vi sett hittills beräknas döda över 150 000 människor varje år. 
 
-<b>Detta har vi möjlighet att sätta i perspektiv till de totalts två kärnkraftsolyckor som medfört hälsorisker för omgivningen, tjernobylolyckan och fukushimaolyckan. </b>
+<b>Detta har vi möjlighet att sätta i perspektiv till de totalts två kärnkraftsolyckor som medfört hälsorisker för omgivningen, Tjernobylolyckan och Fukushimaolyckan. </b>
 
 Tjernobylolyckan<a href="http://www.who.int/ionizing_radiation/chernobyl/backgrounder/en/"> uppskattar WHO</a> kommer ge upphov till totalt ca 9000 fall av dödlig cancer. 
 
-För Fukushima-olyckan gör <a href="www.who.int/mediacentre/news/releases/2013/fukushima_report_20130228/en/">WHO uppskattningen</a> att riskerna är mycket låga för de som inte bor i mest kontaminerade områdena kring kraftverket. Enligt IPCC rör det sig om ca 130 personer som kan komma att dö i förtid i cancer till följd av olyckan (sid 526 i <a href="/assets/files/ipcc_energy_system_chap_7">denna rapport</a>). 
+För Fukushimaolyckan gör <a href="www.who.int/mediacentre/news/releases/2013/fukushima_report_20130228/en/">WHO uppskattningen</a> att riskerna är mycket låga för de som inte bor i mest kontaminerade områdena kring kraftverket. Enligt IPCC rör det sig om ca 130 personer som kan komma att dö i förtid i cancer till följd av olyckan (sid 526 i <a href="/assets/files/ipcc_energy_system_chap_7">denna rapport</a>). 
 Till detta bör vi såklart ta in evakueringen av människor som <a href="http://www.theguardian.com/world/2014/sep/10/fukushima-nuclear-disaster-japan-three-years-families-uprooted">skapat betydande lidande</a>. Men evakueringen av en yta med ca 20 km radie som nu lyfts steg för steg, behöver sättas i jämförelse med de stora områden som hotas bli obeboliga världen över om vi inte klarar att stoppa klimatförändringarna.
 
 <b>Idag har vi även möjlighet att utvärdera hur världens energiproduktion ser ut efter 30-års teknisk utveckling och politisk kamp för att ersätta de fossila energikällorna</b>
@@ -52,7 +52,7 @@ nuclear energy and fossil energy with carbon dioxide capture and storage (CCS), 
 <p>Grafen nedan visar hur energiförsörjningen sett ut historiskt och hur den förväntas utveckla sig i de 164 olika scenariena</p>
 <img class="img-responsive blog-img" src= "/assets/img/global/primary_energy_supply_scenrio.jpg">
 <p class="img-text">IPCC’s ‘Special Report on Renewable Energy Sources sid. 804</p>
-<p>Trettiofem år är en lång tidshorizont och detta avspeglar sig i en stor spridning av tänkbara utvecklinglinjer. Men utvecklingen hittills tycker vi ger goda skäl att stanna upp och reflektera innan vi väljer att bygga vår klimatpolitik på antagandet att världens energikonsumtion ska minska istället för att öka. </p>
+<p>Trettiofem år är en lång tidshorisont och detta avspeglar sig i en stor spridning av tänkbara utvecklinglinjer. Men utvecklingen hittills tycker vi ger goda skäl att stanna upp och reflektera innan vi väljer att bygga vår klimatpolitik på antagandet att världens energikonsumtion ska minska istället för att öka. </p>
 <p>Vi vet att världens befolkning ökar, vi vet att redan idag lever 1,4 Miljarder helt utan tillgång till electricitet och ca <a href="http://www.worldenergyoutlook.org/resources/energydevelopment/energyaccessdatabase/#d.en.8609" target="blanc">2,7 miljarder människor</a> saknar stabil tillgång till electricitet. Om vi inte godtar en ökad energikonsumtion i världen då säger vi samtidigt att dessa gruppers utrymme att öka sin elkonsumtion står i direkt proportion mot de energiförbrukning-minskningar vi kan uppbåda i de delar av världen som har stabil el-tillgång.<p>
 
 <p><b>Väljer vi att trots rådande energifattigdom i världen, bygga vår politik på antaganden om globalt minskad energikonusumtion då behöver vi kunna presentera en trovärdig politisk agenda för hur detta ska genomföras. Vi behöver kunna presentera förslag som övertygar samtliga utvecklingsländer att hålla nere sin energikonsumtionsökning till det tempo som resten av världen går med på att minska sin energikonsumtion.</b></p>

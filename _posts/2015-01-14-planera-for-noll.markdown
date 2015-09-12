@@ -36,14 +36,20 @@ Att integrera en hög andel vind och sol när man inte har tillgång till betyda
 <h3>Men finns det inte alternativ till reglerkraft</h3>
 Här behöver vi fråga oss om vi har tid att vänta på 
 
-Jacobsen föreslår redundans i
+Jacobsen föreslår redundans i systemen svårt politiskt
+
+
+TA upp de som säger att vi kan 
+Problematisera ny oprövad teknik - långsamt perspektivet
+Smarta nät utbyte av mer än nätet om det ska ske automatiskt. Tar tid - kolla bilflottans utbyggnad.
+
+
 <h4>Energilagring</h4>
 <h4>Bygga ut elnäten</h4>
 Varnar för att vind och sol samkorrelerar i stora områden.
 
 <h4>Anpassa elanvändningen</h4>
-
-
+Svårt att få globalt genomslag. Sämre konkurranskraft. 
 
 
 

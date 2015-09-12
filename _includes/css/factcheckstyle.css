@@ -100,6 +100,9 @@ blockquote{
 	color: {{ site.colors.mp_green}};
 }
 
+#danger-circle-0{
+	color: #078FFF;
+}
 #danger-circle-2{
 	color: #454E9E;
 }
@@ -125,6 +128,9 @@ blockquote{
 #expencive-circle-5{
 	color: #065143;
 }
+
+
+
 #expencive-tint{
 	color:blue;
 }

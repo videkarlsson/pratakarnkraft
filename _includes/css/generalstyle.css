@@ -29,6 +29,9 @@ body {
 }
 
 
+.dropdown-backdrop {
+    position: static;
+}
 
 .team-member {
     margin-bottom: 50px;
