@@ -28,7 +28,10 @@ body {
 	font-weight: 400;
 }
 
-
+.chapter-icon{
+    float:left;
+    margin-right:10px;
+}
 .dropdown-backdrop {
     position: static;
 }
