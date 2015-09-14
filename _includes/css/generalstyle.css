@@ -682,3 +682,19 @@ a:focus {
     background-color:#202224;/*black;*//*#2B2E31;*//*#3C3F42;*/ /* {{ site.colors.footer_content }};*/
     color:white;
 }
+
+.footer-sub-headeing >a{
+    line-height: 35px;
+}
+
+.footer-fact-check-header >a{
+    color:{{ site.colors.dark_green}};
+}
+
+.footer-global-header >a{
+    color:#005aaf;
+}
+
+.footer-tech-header >a{
+    color:{{ site.colors.mp_purple}};
+}
