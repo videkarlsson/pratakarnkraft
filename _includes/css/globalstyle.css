@@ -117,6 +117,29 @@ blockquote{
     font-size: 200px;
 }
 
+.fa-circle-container{
+    color:{{ site.colors.dark_blue}};
+}
+
+#all-tools-1{
+    color: #007705
+}
+
+#all-tools-2{
+color: #89003B
+}
+
+#all-tools-3{
+color: #003363
+}
+
+#all-tools-4{
+color: #16560D
+}
+
+#all-tools-5{
+color: #C41E3D
+}
 @media(min-width:760px) (orientation:landscape) {
     .global-time-line-fa{
         padding-top: 30px;

@@ -25,12 +25,6 @@ h1, h2, h3, h4, h5{
 	text-align: left;
 }
 
-
-.chapter-icon{
-	float:left;
-	margin-right:10px;
-}
-
 csmall{
 	font-size: 12px;
 	color: {{ site.colors.dark_green}};
@@ -130,7 +124,9 @@ blockquote{
 }
 
 
-
+#expencive-warning-circle{
+	color:orange;
+}
 #expencive-tint{
 	color:blue;
 }
