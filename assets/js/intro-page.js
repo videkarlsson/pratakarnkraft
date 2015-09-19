@@ -24,8 +24,6 @@ $(document).ready(function(){
 
 
 
-
-
 // $(document).ready(function(){$("#scroll-down-icon").hide().fadeIn(40000);});
 
 //  element1.fadeIn(500, function() {  
