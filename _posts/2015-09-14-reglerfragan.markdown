@@ -12,6 +12,22 @@ fa-icon: wrench
 <p>Dessa länder har oftast ett betydande andel fossilabränslen</p>
 
 
+
+	finns det inget elnät där man lyckats integrea mer än 25% av 
+<p><i class="fa fa-cloud fa-5x chapter-icon"></i>När vind och solkraften inte producerar behöver vi ha andra energikällor att falla tillbaka till som kan möta behoven även om de just då skulle vara stora. Bland de förnybara energislagen är det bara vattenkraft och bioenergi som kan fungera som reglerkraft.  Majoriteten av världens länder har inte förutsättningarna för att på ett hållbart sätt bygga ut dessa två enerigslag. I dessa länder ser vi istället hur de förnybara energislagen i bästa fall ersätter en del av de fossila bränslena, men regleringen görs fortfaranade till absolut största delen av fossila bränslen.</p>
+<p>Lösningen för att kunna lösa upp detta beroende fossil reglerkraft är framförallt energilagring i stor skala så att man kan använda överskottet från tider med överproduktion till de tidpunkter då behovet är stort men produktionen liten. Två andra insatser som kan underlätta situationen är att man bygga ut överföringskapaciteten mellan områden med olika väderförhållanden och bygger smarta system för att automatisk och effektivt styra energibehov som är flyttbara.</p>
+<p><i class="fa fa-stack-overflow fa-5x chapter-icon" id="all-tools-overflow"></i>Det kan tyckas konstigt att ett överskott på energi skulle kunna vara ett problem. Men om produktionen ligger nära noll vissa dagar utan att vi klarar av att ta vara på överskotten från de dagar med hög produktion, blir det ett problem för både de förnybara energislagen och kärnkraften som är det andra koldioxidsnåla alternativet vi har att tillgå. Överskott innebär att vi producerar mer energi än vad vi just då kan ta vara på. De förnybara
+
+Om de dumpar priserna stora delar av dygnet riskerar de att konkurrerar de mot andra fossilfria energislag som kärnkraft. På detta sätt slösas fossilfri energi bort på att konkurrera ut varandra istället för att få bort den klimatförödande och hälsofarliga fossila energin. 
+Hur snabbt vi löser reglerfrågan är också relaterad Att lösa problem relaterade med överproduktion</p>
+<p>Vi ser goda själ till att anta att världens förmåga att lösa reglerfrågan kan vara avgörande för våra förutsättningar att stoppa klimatförändringarna och att vi kan vara långt från säkra på att detta kommer gå enkelt att smidigt att lösa</p>
+<p>
+
+
+
+
+
+
 Ta upp att vi vore lika skeptiska till technodfix om amn sa att vi ska lösa klimatkrisen med generation 4.
 
 	vi kan ta vara på den energi so

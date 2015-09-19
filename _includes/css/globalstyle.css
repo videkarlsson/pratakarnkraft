@@ -145,6 +145,10 @@ color: #C41E3D
     color:#E26714;
 }
 
+#all-tools-connect{
+    color:{{ site.colors.dark_green}};
+}
+
 
 @media(min-width:760px) (orientation:landscape) {
     .global-time-line-fa{
