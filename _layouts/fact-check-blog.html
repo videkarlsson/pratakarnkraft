@@ -5,7 +5,7 @@ layout: fact-check-main
     <div class="container">
     <div class="row">
         <! -- SINGLE POST -->
-        <div class="col-lg-8">
+        <div class="col-lg-7">
             <! -- Blog Post  -->
             {% if page.img %}<p><img class="img-responsive featured-img" src="{{ "/assets/img/fact-check/" | prepend: site.baseurl }}{{ page.img }}"></p>{% endif %} {% if page.circle-img %}<div class="circle-img-container"><img class=" img-responsive img-circle" src="{{ "/assets/img/fact-check/circle-img/" | prepend: site.baseurl }}{{ page.circle-img }}"></div>{% endif %}
             {%if page.fa-icon%}<div class="fa-circle-container"><span class="fa-stack fa-lg fa-4x"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-{{page.fa-icon}} fa-stack-1x fa-inverse"></i></span></div>{% endif %}

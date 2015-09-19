@@ -31,4 +31,31 @@ Energibesparingar kan vara av godo i de rika delarna i världen men vi behöver 
 Detta medför ett enormt lidande och miljontals förtidiga dödsfall varje år. Dessa människor ska därför med all rätt ges utrymme att öka sin energikonsumtion. För att vi ska förstå hur världens energikonsumtion kan komma att öka framöver kan det vara bra att begrunda denna bild:
 <img class="img-responsive blog-img" src= "/assets/img/global/primary_energy_supply_scenrio.jpg">
 Grafen är hämtad från <a href="/assets/files/SRREN_fullReport.pdf">IPCCs special report on renewable energy</a> och visar hur enerigkonsumtionen ökat i världen fram till idag och förväntas utveckla sid de kommande 35 åren i 164 olika scenarion. Vi kan se att om vi vill ta höjd för att kunna hantera klimatförändringarna bör vi kunna möta utvecklingslinjer där världen inte bara dubblar utan t.o.m tredubblar sitt behov av energi.
+<!-- <h3>1. Ny grön teknik</h3>
+<h4>-en ökad energiförbrukning vidgar våra möjligheter</h4>
+
+Ofta sätter vi inom miljörröelsen likhetstecken mellan energianvändning och negativ miljöpåverkan. Det är lätt att glömma bort att om vi kan nå en hög tillgång till billig ren energi i världen så kan en ökad energiförbrukning vara nykeln till att slippa andra negativa miljöeffekter.
+
+Vi är i dag ca 7 miljarder människor på jorden och världens befolkning beräknas öka till närmare 10 miljarder. Bara grundläggande konsumtion av vatten, mat och varor kräver idag stora landarealer och omfattande utnyttjande av känsliga grundvattenkällor. Om vi vill ställa om till att göra ett mindre ekologiskt avtryck så behöver produktionen av dessa grundläggande varor kunna ske på ett sätt som är mindre invasivt mot naturen.
+
+Billig ren energi öppnar nya möjligheter att t.ex. minska mängden yta vi behöver för att producera vår mat.
+Ett exempel är såkallad <a href="https://en.wikipedia.org/wiki/Vertical_farming">Vertical Farming</a> som kraftigt kan reducera mängden yta som behövs för att producera samma mängd grödor 
+
+Highly intensified
+(and thus land-sparing) forms of agriculture, such
+as greenhouses, vertical farms, and hydroponic facilities,
+require substantial inputs of artificial energy, synthetized
+nutrients, and desalinated water, which must be supplied
+by clean-energy sources to be considered sustainable and
+low impact
+
+
+
+Ju mer billig ren energi vi har att tillgå desto mer frihet har vi att framställa det vi behöver ur “sämre råvaror”. Låt oss ge några exempel:
+
+Idag är vi beroende av att utnyttja grundvattentäckter eller rena floder för att få tillgång till vatten, med god tillgång till ren, billig energi skulle vi istället kunna framställa driksvatten ur havsvatten eller redan nersmustade vattenkällor.
+
+Ett annat exempel är maten, med mer energi kan vi får ut mer mat ur mindre arealer och kan på sätt frigöra större områden till att vara rent naturområde.
+
+ -->
 
