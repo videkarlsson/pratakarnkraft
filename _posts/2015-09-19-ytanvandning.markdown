@@ -14,7 +14,7 @@ fa-icon: globe
 <p>Utifrån detta perspektiv tycker vi att det finns andledning för oss inom miljörörelsen att reflekter kring hur landåtgången ser ut för olika energislag.</p>
 <p><a href="https://en.wikipedia.org/wiki/Barry_Brook_(scientist)">Barry W. Brook</a> är professor i hållbar utveckling vid University of Tasmnaia. Han har studerat olika energislags påverkan på jordens biologiska mångfald.</p>
 <p>I en <a href="http://www.sciencedirect.com/science/article/pii/S0306261915000124">studie</a> som han genomförde tillsammans med två andra forskare kunde de se att merparten av de scenarion som föreslår 100% förnybar energiproduktion används en stor mängd bioenergi vilket är problematiskt från ett landåtgångsperspektiv.</p>
-<p>Det finns idag inte någon vetenskaplig konsensus kring vad som är ett optimalt 100% förnybart scenario eller om de ens är genomförbart.Men i denna studie valde man att definera 100% förnybart som ett scenario med 20% bioenergi, 20% termisk solkraft, 20% solceller, 20% vindkraft, 10% vattenkraft och 10% geotermisk energi. Reglerfrågan antogs lösas med utbyggd överföringskapacitet</p>
+<p>Det finns idag inte någon vetenskaplig konsensus kring vad som är ett optimalt 100% förnybart scenario eller om de ens är genomförbart. Men i denna studie valde man att definera 100% förnybart som ett scenario med 20% bioenergi, 20% termisk solkraft, 20% solceller, 20% vindkraft, 10% vattenkraft och 10% geotermisk energi. Reglerfrågan antogs lösas med utbyggd överföringskapacitet.</p>
 <p>Detta 100% förnybart scenario valde man att jämföra mot scenarion med olika andel kärnkraft.</p>
 <p>För kärnkraften räknade man med ytåtgång för uranbrytning, förvaring av utjänt bränsle, och buffert-zoner runt reaktorererna. För de förnybara energislagen valde man dock att inte räkna med landåtgång för något av detta:</p>
 <ul> 
@@ -22,10 +22,10 @@ fa-icon: globe
 	<li><p>Behov av extra kraftledningar för ökad överföringskapacitet</p></li>
 	<li><p>Buffertzoner kring vindkraftsparkerna</p></li>
 	<li><p>Yta som havsbaserad vindkraft tog i anspråk</p></li>
-	<li><p>Yta för att lagra biomassa</p></li>
+	<li><p>Yta för att lagra biobränslen</p></li>
 </ul>
 <p>Dessa antaganden till kärnkraftens nackdel gjorde man för att uppnå en konservativ beräkning</p> 
-<p>Det är viktigt att se att det är bioenergin är det mest problematiska energislaget ur ett landåtgångsperspektiv men trots detta lyfts det ändå ofta fram som en nyckel till att kunna reglera en stor andel sol och vindkraft, t.ex. Greenpeace förspråkar scenarion med än högre andel bioenergi</p>
+<p>Det är viktigt att se att det är bioenergin är det mest problematiska energislaget ur ett landåtgångsperspektiv men trots detta lyfts det ändå ofta fram som en nyckel till att kunna reglera en stor andel sol och vindkraft, t.ex. Greenpeace förspråkar scenarion med än högre andel bioenergi.</p>
 <p>Resultatet från studien kan vi se i denna graf:</p>
 <img class="img-responsive blog-img" src="/assets/img/global/land_use_energy_brooks.png">
 <p>Som vi ser i grafen ovan går landåtgången från att utgöra ca 7.4% av jordens yta när vi har 100% förnybart till att stanna på ungefär 0.4% av jordens yta för 100% kärnkraft-scenariot.</p>
