@@ -18,16 +18,16 @@ fa-icon: globe
 <p>Detta 100% förnybart scenario valde man att jämföra mot scenarion med olika andel kärnkraft.</p>
 <p>För kärnkraften räknade man med ytåtgång för uranbrytning, förvaring av utjänt bränsle, och buffert-zoner runt reaktorererna. För de förnybara energislagen valde man dock att inte räkna med landåtgång för något av detta:</p>
 <ul> 
-<li><p>Yta för framställning av byggnadsmaterial</p></li>
+<li><p>Yta för framställning av byggnadsmaterial till kraftverken</p></li>
 	<li><p>Behov av extra kraftledningar för ökad överföringskapacitet</p></li>
 	<li><p>Buffertzoner kring vindkraftsparkerna</p></li>
 	<li><p>Yta som havsbaserad vindkraft tog i anspråk</p></li>
 	<li><p>Yta för att lagra biobränslen</p></li>
 </ul>
-<p>Dessa antaganden till kärnkraftens nackdel gjorde man för att uppnå en konservativ beräkning</p> 
-<p>Det är viktigt att se att det är bioenergin är det mest problematiska energislaget ur ett landåtgångsperspektiv men trots detta lyfts det ändå ofta fram som en nyckel till att kunna reglera en stor andel sol och vindkraft, t.ex. Greenpeace förspråkar scenarion med än högre andel bioenergi.</p>
+<p>Dessa antaganden till kärnkraftens nackdel gjorde man för att uppnå en konservativ beräkning.</p> 
 <p>Resultatet från studien kan vi se i denna graf:</p>
 <img class="img-responsive blog-img" src="/assets/img/global/land_use_energy_brooks.png">
 <p>Som vi ser i grafen ovan går landåtgången från att utgöra ca 7.4% av jordens yta när vi har 100% förnybart till att stanna på ungefär 0.4% av jordens yta för 100% kärnkraft-scenariot.</p>
-<p><p>Generellt sätt tror vi att det är farligt att ställa olika koldioxidsnåla energikällor mot varandra. Detta eftersom IPCC gör <a href="/global/IPCC-talar-till-oss">bedömningen</a> att att alla koldioxidsnåla alternativ kommer behöva arbeta tillsammans om vi ska ha en chans att klara 2-gradersmålet. Men eftersom bioenergi ofta ses som nödvändigt för att kunna reglera en stor andel sol och vind-energi, tycker vi att det är värt att visa på hur valet att utesluta kärnkraft påverkar andra världen som vi också vill värna</p>
+<p>I grafen kan vi även tydligt se att det är bioenergin som är det mest problematiska energislaget ur ett landåtgångsperspektiv men trots detta lyfts det ändå ofta fram som en nyckel till att kunna reglera en stor andel sol och vindkraft, t.ex. Greenpeace förspråkar scenarion med än högre andel bioenergi. Självklart kan vi ju tänka oss 100-förnybart-scenarion med mindre bioenergi men ju fler koldioxidsnåla energislag som vi utesluter som en del av lösningen desto svårare blir det att klara klimatmålen.</p>
+<p><p>Generellt sätt tror vi att det är farligt att ställa olika koldioxidsnåla energikällor mot varandra. Inte minst för at IPCC gör <a href="/global/IPCC-talar-till-oss">bedömningen</a> att att alla koldioxidsnåla alternativ kommer behöva arbeta tillsammans om vi ska ha en chans att klara 2-gradersmålet. Men eftersom bioenergi ofta ses som nödvändigt för att kunna reglera en stor andel sol och vind-energi, tycker vi att det är värt att visa på hur valet att utesluta kärnkraft påverkar andra världen som vi också vill värna</p>
 <p>Att använda en stor del av jordens yta till bioenergi kan sjävklart komma i direkt konflikt med andra användningsområden som vi skulle kunna tänka oss t.ex. matproduktion. Men vi tycker även att det blir problematiskt om vi inom miljörörelsen väljer att se ekosystemen främst som en produktionsmaskin ämnad för att tillförse mänsliga behov istället för att se egenvärdet i att kunna lämna landytor orörda där djur och växter kan leva ostört från mänsklig påverkan.</p>  

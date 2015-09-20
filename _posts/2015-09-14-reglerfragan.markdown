@@ -6,7 +6,7 @@ date: 2015-09-14 16:54:46
 author: Ragnhild Karlsson
 categories:
 - global
-fa-icon: wrench
+fa-icon: area-chart
 ---
  de samma som vi behöver använda för att möta problemen med överproduktion, nämligen storskalig energilagring, ökad </p>
 <p>Dessa länder har oftast ett betydande andel fossilabränslen</p>
@@ -23,6 +23,9 @@ Hur snabbt vi löser reglerfrågan är också relaterad Att lösa problem relate
 <p>Vi ser goda själ till att anta att världens förmåga att lösa reglerfrågan kan vara avgörande för våra förutsättningar att stoppa klimatförändringarna och att vi kan vara långt från säkra på att detta kommer gå enkelt att smidigt att lösa</p>
 <p>
 
+
+ Samtidig</p><p>Att det är svårare att integrera sol- och vindkraft när den årliga produktionen är större än en tredjedel av våra behov beror på att det som brukar kallas kapacitetsfaktor</p>
+<p>Kapacitetsfaktor är hur mycket el vi får ut av vår installerade kapacitet. För sol och vind som varierar över dygnet och årstiderna är kapacitetsfaktorn ca en tredjedel. Ska sol och vindkraft stå för mer än detta kommer vi varje dygn ha perioder då vi producerar mer el än vi kan göra av med. Om man då vill ha 100% förnybart, och som i majoriteten av världens länder saknar förutsättningar för stor andel fossilfri reglerkraft, kommer man därtill få brist på el andra tider på dygnet.</p>
 
 
 
