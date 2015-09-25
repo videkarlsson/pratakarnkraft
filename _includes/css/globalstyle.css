@@ -149,6 +149,10 @@ color: #C41E3D
     color:{{ site.colors.dark_green}};
 }
 
+#conflict-arrows{
+    color:orange;
+}
+
 
 @media(min-width:760px) (orientation:landscape) {
     .global-time-line-fa{

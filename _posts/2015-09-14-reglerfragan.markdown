@@ -2,13 +2,67 @@
 layout: global-blog
 comments: true
 title: "Reglerfrågan - en utmaning som återstår"
-date: 2015-09-14 16:54:46
+date: 2015-09-24 16:54:46
 author: Ragnhild Karlsson
 categories:
 - global
 fa-icon: area-chart
 ---
-Runt om i världen ser vi en mycket positiv trend, där andelen förnybart ökar i många länder. Men när andelen väderberoende energikällor (så som vind- och solkraft) ökar uppstår snart utmaningar relaterade till både under och överproduktion.
+Energikällor som sol och vindkraft intoducerar en helt ny utmaning på elmarknaden. Den nya utmaning ligger i att kunna möta <a href="http://www.svk.se/stamnatet/kontrollrummet/">effektbehovet</a> vid varje givet tillfälle trotts att produktionen av el inte går att bestämma utan svänger upp och ner beroende på vädret. Vid vissa tillfällen produceras nära 100% av den installerade kapaciteten, medans produktionen vid andra tillfällen ligger nära noll.
+
+<b>I miljörörelsen ges oftast bilden av att detta är ett relativt lättlöst problem där alla tekniska lösningar finns tillgängliga så att det bara är en fråga om att satsa och bygga ut mer vind och sol. Från många förnybartsskeptiska kärnkraftsförespråkare ges i stället bilden av att reglerfrågan kommer vara omöjlig att lösa och därför bör man undvika satsningar på sol och vindkraft.
+Vi skulle vilja säga att båda dessa ståndpunkter är är problematiska.</b>
+
+Att säga att reglerfrågan är lättlöst går emot de rapporter vi får från länder med hög andel förnybart. I Tyskland ser vi att 
+TYSKLAND antal dagar med negativa elpriser
+Danmark slopar sina miljömål för att de anser att det blir för dyrt.
+
+
+
+  bild vi ser runt om i världen. Vi kan ta danmark
+
+Att som 
+
+<p><i class="fa fa-exchange fa-rotate-45 fa-5x chapter-icon " id="conflict-arrows"></i><a href="/global/IPCC-talar-till-oss">IPCC är tydliga med att alla fossilsnåla energislag kommer behöva arbeta tillsammans om vi ska ha en chans att klara två-gradersmålet</a>. 
+Men om vi inte löser reglerfrågan är risken stor att kärnkraften och de väderbereonde energikällorna hamnar i en konfliktsituation med varandra där de konkurrearar sinsemellan istället för att ersätta de fossila energislagen.</p>
+
+Typiskt sätt behöver vind och solkraft statliga subventioner för att det ska löna sig för företag att bygga ut dem. Subventionerna gör att det blir lönsamt att producera el även om behovet just då inte är så stort. 
+
+Om vi tittar på ett exempel över hur produktionen av vindkraftsel kan svänga upp och ner under några dagar förstår vi att subventionerna idag är viktiga för de väderberoende energikällornas möjlighet att klara sig ekonomiskt. Dessa bilder är från oktober och illustrerar hur produktionen varierat under dagarna den senaste veckan, med utgångspunkten i datumet då denna bloggpost skrivs. 
+
+TODO ett diagram som visar hur produktionen sett ut i procent dagarna 24-17.
+
+Dessa dagar är valda slumpmässigt men för de som vill kontrollera att detta är representativ för den större bilden rekomenderar vi svenska kraftnäts utmärkta sida <a href="http://www.svk.se/stamnatet/kontrollrummet/">"Kontrollrummet"</a> där man kan följa Danmarks elproduktion timme för timme tillbaka i tiden.
+
+Den ekonomiska utmaningen för vindkraften alltså inte bara att den typiskt levererar ungefär en tredjedel av sin installerade kapacitet utan även att när den producerar som mest är priset som lägst. Detta beror på att de flesta kraftslag vill undvika att gå upp och ner i produktion för mycket eftersom detta medför extra kostnader. I värsta fallen är det t.o.m så att det kostar för mycket att gå ner i produktion att de fossila kraftverken eldar fast de inte får betalt för elen. Detta syns på marknaden som negativa elpriser.
+
+Förutom att vindkraftsindustrin själva drabbas av att det inte finns avstättning för elen, när produktionen är som högst slår fluktationerna i produktionen även hårt mot kärnkraften och det är här konfliktsituationen uppstår.
+
+Kärnkraftverk har höga fasta kostnader men om de får producera el kontinuerligt på 
+
+Men om vi skulle ha system på plats för att hantera regler-utmaningen som väderberoende energikällor introducerar då skulle också vind sol och kärnkraft kunna fungera bra på samma nät.
+
+
+Om de dumpar priserna stora delar av dygnet riskerar de att konkurrerar de mot andra fossilfria energislag som kärnkraft. På detta sätt slösas fossilfri energi bort på att konkurrera ut varandra istället för att få bort den klimatförödande och hälsofarliga fossila energin. 
+
+
+Ta upp 
+effekten på vindkraft och kärnkraft ekonomiskt
+Hur ser det ut globalt. Portugal mest i världen. Danmark säger att de inte har råd.
+
+
+
+
+
+Men kärnkraft har relativt höga fasta kostander och det bästa ekonomiskt för kärnkraften är därför att fungera som baskraft med relativt små . Även om 
+
+Visst kan man tänka sig att olika länder tar olika vägar och att vissa länder skulle bygga närmare 100% kärnkraft medan andra länder satsar på 100% förnybart men denna restri
+
+
+
+
+<h2>Föreslagna lösningar</h2>
+
 
 <p><i class="fa fa-cloud fa-5x chapter-icon"></i>Problemen med underproduktion uppstår de tider på dygnet när vind och solkraft producerar som minst då behöver vi ha andra energikällor att falla tillbaka till som kan möta behoven även om de just då skulle vara stora. Bland de förnybara energislagen är det bara vattenkraft och bioenergi som kan fungera som reglerkraft.  Majoriteten av världens länder har inte förutsättningarna för att på ett hållbart sätt bygga ut dessa två enerigslag. I dessa länder ser vi istället hur de förnybara energislagen i bästa fall ersätter en del av de fossila bränslena, men regleringen görs fortfaranade till absolut största delen av fossila bränslen.</p>
 <p>
@@ -25,10 +79,12 @@ Hur snabbt vi löser reglerfrågan är också relaterad Att lösa problem relate
 <p>Kapacitetsfaktor är hur mycket el vi får ut av vår installerade kapacitet. För sol och vind som varierar över dygnet och årstiderna är kapacitetsfaktorn ca en tredjedel. Ska sol och vindkraft stå för mer än detta kommer vi varje dygn ha perioder då vi producerar mer el än vi kan göra av med. Om man då vill ha 100% förnybart, och som i majoriteten av världens länder saknar förutsättningar för stor andel fossilfri reglerkraft, kommer man därtill få brist på el andra tider på dygnet.</p>
 
 
+Ta upp att 
+
+vi vore lika skeptiska till technodfix om amn sa att vi ska lösa klimatkrisen med generation 4.
 
 
 
-Ta upp att vi vore lika skeptiska till technodfix om amn sa att vi ska lösa klimatkrisen med generation 4.
 
 	vi kan ta vara på den energi so
 
