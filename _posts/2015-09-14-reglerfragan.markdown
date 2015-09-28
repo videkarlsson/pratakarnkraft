@@ -8,23 +8,73 @@ categories:
 - global
 fa-icon: area-chart
 ---
-Energikällor som sol och vindkraft intoducerar en helt ny utmaning på elmarknaden. Den nya utmaning ligger i att kunna möta <a href="http://www.svk.se/stamnatet/kontrollrummet/">effektbehovet</a> vid varje givet tillfälle trotts att produktionen av el inte går att bestämma utan svänger upp och ner beroende på vädret. Vid vissa tillfällen produceras nära 100% av den installerade kapaciteten, medans produktionen vid andra tillfällen ligger nära noll.
+Energikällor som sol och vindkraft intoducerar en helt ny utmaning på elmarknaden. Den nya utmaning ligger i att kunna möta <a href="http://www.svk.se/stamnatet/kontrollrummet/">effektbehovet</a> vid varje givet tillfälle trotts att det är vädret och inte vi som styr över produktionen. Vid vissa tillfällen kommer kraftverken produceras nära 100% av den installerade kapaciteten, medans deras produktion vid andra tillfällen kommer ligga nära noll.
 
-<b>I miljörörelsen ges oftast bilden av att detta är ett relativt lättlöst problem där alla tekniska lösningar finns tillgängliga så att det bara är en fråga om att satsa och bygga ut mer vind och sol. Från många förnybartsskeptiska kärnkraftsförespråkare ges i stället bilden av att reglerfrågan kommer vara omöjlig att lösa och därför bör man undvika satsningar på sol och vindkraft.
-Vi skulle vilja säga att båda dessa ståndpunkter är är problematiska.</b>
+<b>I miljörörelsen ges oftast bilden av att detta är ett relativt lättlöst problem där vi utan problem kommer kunna skala upp vind och solkraft. Många förnybartsskeptiska kärnkraftsförespråkare argumenterar i stället för att reglerfrågan är omöjlig att lösa och att man därför bör undvika satsningar på sol och vindkraft. Vi skulle vilja säga att båda dessa ståndpunkter är problematiska.</b>
 
-Att säga att reglerfrågan är lättlöst går emot de rapporter vi får från länder med hög andel förnybart. I Tyskland ser vi att 
-TYSKLAND antal dagar med negativa elpriser
-Danmark slopar sina miljömål för att de anser att det blir för dyrt.
+Att säga att reglerfrågan är lättlöst går emot de praktiska erfarenheterna från länder med hög andel förnybart. Detta är ett problem vi behöver ta på allvar. 
+
+Både Tyskland och Danmark är relativt rika länder med alla möjligheter att investera i ny teknik men trotts detta ser vi att reglerfrågan är långt från löst.
+
+<span class="flag-icon flag-icon-de fa-3x chapter-icon"></span> I Tyskland ser vi på regelbunden basis hur elpriserna blir negativa, detta indikerar att systemen är i obalans. Negativa elpriser innebär att det produceras mer el än vad man har avsättning för. Ingen elproducent allra minst producenterna av väderberoende energi önskar sig denna utveckling, då det gör att priset går i botten när deras produktion är som högst. Hade det varit enkelt och billigt att bygga ut energilagring hade detta varit ett attraktivt alternativ eftersom man då skulle kunna lagra överskottsenergin till dagar då produktionen är lägre och priset högre. 
+
+<span class="flag-icon flag-icon-dk fa-3x chapter-icon"></span> I Danmark ser vi hur man <a href="http://www.nyteknik.se/nyheter/energi_miljo/kol_och_olja/article3928431.ece?extcmp=newsletter|15376254|2015-09-08">just tagit beslutet</a> att slopa målet att fasa ut kol och gaskraft till 2035 för att det blir för dyrt och det är framförallt när man ska fasa ut den fossila reglerkraften som det tillkommer kostnader för energilagring och ökad nätutbyggnad.
+
+<b>Att göra som vissa kärnkraftförespråkare och dra slutsatsen att man inte bör satsa på sol och vindkraft är dock inte heller en hållbar väg.</b>  
+
+<p><a href="/global/IPCC-talar-till-oss">IPCC är tydliga med att alla fossilsnåla energislag kommer behöva arbeta tillsammans om vi ska ha en chans att klara två-gradersmålet.</a> Om vi utesluter sol och vindkraft som en del av lösningen sätter vi inte klimatet först.</p>
+<p><i class="fa fa-exchange fa-rotate-45 fa-5x chapter-icon " id="conflict-arrows"></i>Löser vi inte reglerfrågan är risken också stor att kärnkraften och de väderbereonde energikällorna hamnar i en konfliktsituation med varandra där de konkurrearar sinsemellan istället för att ersätta de fossila energislagen. Konfliktsituationen ligger i att kärnkraft till största delen behöver få fungera som baskraft för att få ekonomin ihop. Men om förnybara energikällor får subventioner så att de kan sänka priset till nära noll vissa delar av dygnet, blir det svårt att få eknomin att gå ihop utan subventioner.</p>
+<p><a href="http://www.theenergycollective.com/jessejenkins/368706/can-nuclear-power-and-renewable-energy-learn-get-along">Löser vi däremot reglerfrågan är det inga problem för förnybart och kärnkraft att samexistera i samma nät.</a></p>
+
+<b>För att de väderberoende energikällorna ska nå sin fulla potential och inte riskera att slå ut annan koldioxidsnål energi vill vi se en politik som tar reglerfrågans utmaningar på allvar. Vi vill gärna se att rika länder som Sverige är drivande i utvecklingen av billiga och globalt skalbara tekniker för att underlätta integrering av en stor andel förnybart.</b>
+
+
+<h3>Svårigheter kopplade till dagens lösningar på reglerfrågan</h3>
+
+BILD OROSMOLN För att betona behovet av satsningar på ekonomiskt konkurrenskraftiga och globalt skalbara lösningar på reglerfrågan har vi här samlat problem s
+
+
+Kraftverk som ska stå stilla är inte hållbart över politiska skiften
+Gaskraft som en del av lösningen
+http://branschkanalen.se/fortum-nar-karnkraften-fasas-ut-kravs-en-ny-energimix/
+
+Industrin är inte så pepp -problemen med styrmedel ingen vint om industrin flyttat till länder med fossil energi.
+http://www.second-opinion.se/energi/view/3005
+
+Energilagring
+Batterier
+
+
+Överföringskapacitet kontroversiellt
+Hitta länk om tyska protester kanske micke vk?
+
+smarta nät - farväl till kärkraften
+
+SOL Uppmana till satsningar. Ta höjd för detta i skaltakts beräkningar.
 
 
 
-  bild vi ser runt om i världen. Vi kan ta danmark
 
-Att som 
 
-<p><i class="fa fa-exchange fa-rotate-45 fa-5x chapter-icon " id="conflict-arrows"></i><a href="/global/IPCC-talar-till-oss">IPCC är tydliga med att alla fossilsnåla energislag kommer behöva arbeta tillsammans om vi ska ha en chans att klara två-gradersmålet</a>. 
-Men om vi inte löser reglerfrågan är risken stor att kärnkraften och de väderbereonde energikällorna hamnar i en konfliktsituation med varandra där de konkurrearar sinsemellan istället för att ersätta de fossila energislagen.</p>
+utvecklingen   
+
+Att bara skala upp vind och solkraft utan Det
+
+Vi i relativt rika länder behöver vara drivande för att ta fram reglerl
+
+
+
+länder gå före och satsa resurser på helhetslösningar 
+
+
+Vi vill se att policy och styrmedel 
+
+
+Vi tror att det är policys och ekonomiskt stöd bör vara inatt betydande satsningar på att lösa reglerfrågan är 
+
+För att säkra klimatet 
+
+
 
 Typiskt sätt behöver vind och solkraft statliga subventioner för att det ska löna sig för företag att bygga ut dem. Subventionerna gör att det blir lönsamt att producera el även om behovet just då inte är så stort. 
 
