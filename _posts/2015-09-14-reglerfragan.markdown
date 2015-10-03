@@ -2,7 +2,7 @@
 layout: global-blog
 comments: true
 title: "Reglerfrågan - en utmaning som återstår"
-date: 2015-09-24 16:54:46
+date: 2015-09-29 16:54:46
 author: Ragnhild Karlsson
 categories:
 - global
@@ -18,195 +18,104 @@ Både Tyskland och Danmark är relativt rika länder med alla möjligheter att i
 
 <span class="flag-icon flag-icon-de fa-3x chapter-icon"></span> I Tyskland ser vi på regelbunden basis hur elpriserna blir negativa, detta indikerar att systemen är i obalans. Negativa elpriser innebär att det produceras mer el än vad man har avsättning för. Ingen elproducent allra minst producenterna av väderberoende energi önskar sig denna utveckling, då det gör att priset går i botten när deras produktion är som högst. Hade det varit enkelt och billigt att bygga ut energilagring hade detta varit ett attraktivt alternativ eftersom man då skulle kunna lagra överskottsenergin till dagar då produktionen är lägre och priset högre. 
 
-<span class="flag-icon flag-icon-dk fa-3x chapter-icon"></span> I Danmark ser vi hur man <a href="http://www.nyteknik.se/nyheter/energi_miljo/kol_och_olja/article3928431.ece?extcmp=newsletter|15376254|2015-09-08">just tagit beslutet</a> att slopa målet att fasa ut kol och gaskraft till 2035 för att det blir för dyrt och det är framförallt när man ska fasa ut den fossila reglerkraften som det tillkommer kostnader för energilagring och ökad nätutbyggnad.
+<span class="flag-icon flag-icon-dk fa-3x chapter-icon"></span> I Danmark ser vi hur man <a href="http://www.nyteknik.se/nyheter/energi_miljo/kol_och_olja/article3928431.ece?extcmp=newsletter|15376254|2015-09-08">just tagit beslutet</a> att slopa målet om att fasa ut kol och gaskraft till 2035 för att det blir för dyrt och vi vet att det är framförallt när man ska fasa ut den fossila reglerkraften som det tillkommer mer kostnader för energilagring och ökad nätutbyggnad.
 
-<span class="flag-icon flag-icon-sv fa-3x chapter-icon"></span> Sverige har vattenkraft som täcker ca hälften av vårt elbehov. Detta gör att vi har unikt goda förutsättningar för att reglera stora mängder väderberoende energi. Trotts detta gör tunga aktörer som <a href="http://www.second-opinion.se/energi/view/2889">Svenska kraftnät</a> och <a href="http://branschkanalen.se/fortum-nar-karnkraften-fasas-ut-kravs-en-ny-energimix/">Fortum</a> bedömningen att vi kommer behöva fossil reglerkraft i form av gaskraftverk vissa delar av året då produktionen är som lägst. Ur ett klimatgasutsläpps perspektiv är det inte särskillt allvarligt att ha gaskraftverk som står stilla största delen av året, men om detta bedöms som nödvändigt i Sverige så visar det hur stor utmaning det kommer blir att fasa ut fossila  i länder som saknar tillgång till stora mängder vattenkraft och bioenergi. Det är även svårt att se hur lösningen att investera i kraftverk som ska stå stilla största delen av tiden, ska framstå som attraktiv för länder med sämre ekonomiska förutsättningar. 
+<span class="flag-icon flag-icon-se fa-3x chapter-icon"></span> Sverige har vattenkraft som täcker ca hälften av vårt elbehov. Detta gör att vi har unikt goda förutsättningar för att reglera stora mängder väderberoende energi. Trotts detta gör tunga aktörer som <a href="http://www.second-opinion.se/energi/view/2889">Svenska kraftnät</a> och <a href="http://branschkanalen.se/fortum-nar-karnkraften-fasas-ut-kravs-en-ny-energimix/">Fortum</a> bedömningen att vi kan komma att behöva fossil reglerkraft i form av gaskraftverk. Tanken är att dess för det mesta ska stå stilla men att de ska kunna gå in och producera när vind- och solkraften dippar och behoven stora. 
+
+Utsläppen från gaskraftverk som står stilla största delen av året är självklart inte särskillt allvarliga ur ett klimatperspektiv. Men om Sverige med all vår vattenkraft och biobränsle bedömms behöva stillastående fossilgaskraftverk som kan gå in och möta upp när produktionen hos de väderbereonde energislagen dippar, säger det något om hur svårt blir att fasa ut fossil energi i de länder som saknar tillgång till stora mängder fossilfri reglerkraft. Det är även svårt att se hur lösningen att investera i kraftverk som byggs för att stå stilla största delen av tiden, ska framstå som ekonomiskt attraktiv för andra länder att ta efter. Risken är stor att man priorieterar lönsamhet och låter de fossila kraftverken gå för full effekt istället.
 
 <b>Att göra som vissa kärnkraftförespråkare och dra slutsatsen att man inte bör satsa på sol och vindkraft är dock inte heller en hållbar väg.</b>  
 
-<p><a href="/global/IPCC-talar-till-oss">IPCC är tydliga med att alla fossilsnåla energislag kommer behöva arbeta tillsammans om vi ska ha en chans att klara två-gradersmålet.</a> Att utesluta sol och vindkraft som en del av lösningen blir ett extra risktagande med klimatet..</p>
+<p><a href="/global/IPCC-talar-till-oss">IPCC är tydliga med att alla fossilsnåla energislag kommer behöva arbeta tillsammans om vi ska ha en chans att klara två-gradersmålet.</a> Att utesluta sol och vindkraft som en del av lösningen blir ett extra risktagande med klimatet.</p>
 <p><i class="fa fa-exchange fa-rotate-45 fa-5x chapter-icon " id="conflict-arrows"></i>Löser vi inte reglerfrågan är risken också stor att kärnkraften och de väderbereonde energikällorna hamnar i en konfliktsituation med varandra där de konkurrearar sinsemellan istället för att ersätta de fossila energislagen. Konfliktsituationen ligger i att kärnkraft till största delen behöver ha rollen som baskraft för att få ekonomin ihop. Men om förnybara energikällor genom subventioner kan överleva trotts att de sänker elpriset till nära noll under vissa delar av dygnet, blir det svårt för kärnkraften att få eknomin att gå ihop utan subventioner.</p>
 <p><a href="http://www.theenergycollective.com/jessejenkins/368706/can-nuclear-power-and-renewable-energy-learn-get-along">Löser vi däremot reglerfrågan är det inga problem för förnybart och kärnkraft att samexistera i samma nät.</a></p>
 
-<b>För att de väderberoende energikällorna ska nå sin fulla potential och inte riskera att slå ut annan koldioxidsnål energi vill vi se en politik som tar reglerfrågans utmaningar på allvar. Vi vill gärna se att rika länder som Sverige är drivande i utvecklingen av billiga och globalt skalbara tekniker för att underlätta integrering av en stor andel förnybart.</b>
+<b>För att de väderberoende energikällorna ska nå sin fulla potential och inte riskera att slå ut annan koldioxidsnål energi vill vi se en politik som tar reglerfrågans utmaningar på allvar. Vi vill gärna se att rika länder som Sverige är drivande i utvecklingen av billiga och globalt skalbara tekniker för att underlätta integrering av en stor andel väderberoende energi.</b>
 
-<h3>Svårigheter och möjligheter kopplade till dagens lösningar på reglerfrågan</h3>
+<h3>Svårigheter med dagens lösningar på reglerfrågan</h3>
 
-BILD OROSMOLN För att betona behovet av satsningar på ekonomiskt konkurrenskraftiga och globalt skalbara lösningar på reglerfrågan har vill vi först ge en illustration av hur elproduktionen från vindkraft varierar över en SLUMP VECKA  
+<span class="chapter-icon"><i class="fa fa-cloud fa-5x "></i></span> För att betona behovet av satsningar på ekonomiskt konkurrenskraftiga och globalt skalbara lösningar på reglerfrågan vill vi här sammanfatta de utmaningar vi ser är förenade med dagens lösningar. 
 
-Vi kan se att för Danmark där vindkraften står för i snitt X % av energiproduktionen på ett år, så varierar produktionen för olika dagar mellan Y% av behover och Z%av behovet. Detta innebär att andelen vindkraft i Danmark börjar närma sig vindkraftens kapacitetsfaktor. Kapacitetesfaktorn för ett kraftverk får man genom att dela den genomsnittliga mängden producerade mängden ström med den mängd ström som kraftverket leverar när den levererar som mest. För vindkraft så är denna mellan 20-30% av den installerade kapaciteten. Detta innebär att när
+Om du som läsare vill skapa sig en egen uppfattning om hur mycket produktionen av väderberoende energi varerar över tid rekomenderar vi att gå in och titta på <a href="http://www.svk.se/stamnatet/kontrollrummet/">Svenska Kraftnäts sida Kontrollrummet</a> där man kan se hur Danmarks vindkraftsproduktion varierar timme för timme.
+Dessa två grafer illusterar t.ex. hur produktionen varierade mellan två dagar samma vecka när denna bloggpost skrevs.
 
+<img class="img-responsive blog-img" src="/assets/img/global/denmark_top.png">
 
-ktionen från en 
+<img class="img-responsive blog-img" src="/assets/img/global/denmark_small.png">
 
+Om man som i Danmark och i majoriten av världens länder saknar tillgång till stora mängder inhemsk fossilfri reglerkraft finns det framförallt tre huvudsakliga områden som man kan satsa på för att kunna fasa ut den fossila reglerkraften. Dessa tre områden är: 
 
-Kapacitetsfaktorn är den mängd energi som i snitt 
+<ul>
+<li><p>Energilagring</p></li>
+<li><p>Verktyg för att styra efterfrågan</p></li>
+<li><p>Utbyggnad av nätets överföringskapacitet</p></li>
+</ul>
 
+Vi ska här nedan se närmare på var och en av dessa områden. Vi vill betona att detta är ett område där utvecklingen går frammåt och vi har inte varit i kontakt med aktiva forskare utan detta är en sammanställning av de rapporter och artiklar vi funnit på området. Vi tar därför gärna emot tips från dig som läsare om du upplever att det finns faktorer vi missat att ta hänsyn till, eller om det finns skäl att anta att möjligheterna med någon specifik teknik underskattats.
 
- av den tot
+<h4>Energilagring</h4>
 
+<a href="https://sv.wikipedia.org/wiki/Verket_f%C3%B6r_innovationssystem">Vinnova</a> är en statlig myndighet som har i uppgift att främja hållbar tillväxt genom att stödja forskning och utveckling av effektiva innovationssystem. De gav 2012 ut publikationen <a href="/assets/files/losningar_pa_lager">"Lösningar på lager"</a> Där de pedagogiskt sätt sammanfattar de problem och möjligheter som finns med olika energilagringslösningar. Tabellen nedan illustrerar deras slutsatser kring de olika energilagringslösningar som finns tillgängliga idag.
 
-För att få en känsla av hur produktionen i väderberoende energikällor kommer vi här 
+<img class="img-responsive blog-img" src="/assets/img/global/energy_storage_compare.png">
 
+Som vi ser i tabellen så har alla de tillgängliga lösningarna tydliga nackdelar som kommer utgöra hinder för att idag skala upp någon av dem i större skala. Detta tycker vi ger oss anledning att oros över hur snabbt väderbereonende energikällor kommer gå att skala upp globalt. Men det visar också på att detta är ett område vi på inget sätt bör ignorera i vår energipolitik utan tvärtom är det önskvärt att rika länder som Sverige är med och driver utvecklingen av mer skalbara energilagringslösningar frammåt.
 
-Illustrera problemet
-med danmark- kontrollrummet - Kapacity factor
-http://www.theenergycollective.com/robertwilson190/288846/low-capacity-factors-challenge-low-carbon-energy-transition
+Batterier är en teknik inom energilagring som fått stor uppmärksamhet sista tiden. Bland annat har det dskuterats om <a href="http://www.forbes.com/sites/jeffmcmahon/2015/05/01/did-tesla-just-kill-nuclear-power/">Teslas ny batteri gör kärknkraft onödigt</a>. Men många bedömmare menar att kostnaderna behöva sjunka mera <a href="http://www.nature.com/news/will-tesla-s-battery-change-the-energy-market-1.17469">för att denna teknik ska göra verklig skillnad </a>det återstår också <a href="http://www2.epa.gov/sites/production/files/2014-01/documents/lithium_batteries_lca.pdf">miljömässig utamaingar</a> att lösa. 
 
-Få elnät tvåsiffrigt
-http://www.theenergycollective.com/jessejenkins/2232451/look-wind-and-solar-energy-part-1-how-far-weve-come
+Därför är det positiv och viktigt att det sker en utveckling mot <a href="http://www.nature.com/nclimate/journal/v5/n4/full/nclimate2564.html">lägre priser</a> och <a href="http://sverigesradio.se/sida/artikel.aspx?programid=406&artikel=5030155"> mer miljövänliga material</a>. Men som sagt vidareutveckling behövs.
 
-och diskussionen om vi i sverige kommer klara oss utan fossil reglerkraft.
+<h4>Verktyg för att styra efterfrågan</h4>
 
-TODO läs
-http://www.jisea.org/nuclear.cfm
+Att på olika sätt styra efterfrågan på el kan vara ett komplement till energilagring för att hantera att vädret styr elproduktionen.
 
+En stor utmaning med att styra elkonsumtionen är dock att det kan vara politiskt kontroversiellt att införa styrmedel som motiverar konsumenterna att styra om sin produktion. 
 
+Framförallt elintensiv industri brukar betona behovet av stabil tillgång till el till ett förutsägbart och inte för högt pris. Här är ett exempel där svensk basindustris energidirektör <a href="http://www.second-opinion.se/energi/view/3005">beskriver oron inför att mer väderberoende energiproduktion kommer leda till att deras produktionsförutsättningat försämras</a>. 
 
+På grund av de här skälen brukar ofta ekonomiska styrmedel för att styra om konsumtionen avfärdas till förmån så kallade <a href="https://en.wikipedia.org/wiki/Smart_grid">Smarta Nät</a>. 
 
-Kraftverk som ska stå stilla är inte hållbart över politiska skiften
-Gaskraft som en del av lösningen
-http://branschkanalen.se/fortum-nar-karnkraften-fasas-ut-kravs-en-ny-energimix/
+Smarta elnät är ett relativt brett begrepp men det avser olika moderniseringar i elnätet där man utnyttjar informationsteknik, styrteknik och distribuerad databehandling för att kunna tillhandahålla en hållbar, ekonomisk och tillförlitlig elförsörjning.
+Tanken är att man genom informatonsteknik ska kunna styra om konsumtionen till att följa topparna och dalarna  produktionen.
 
-Industrin är inte så pepp -problemen med styrmedel ingen vint om industrin flyttat till länder med fossil energi.
-http://www.second-opinion.se/energi/view/3005
+Att smartare utnyttja energin som produceras är givetvis postitivt men vi tycker det finns flera skäl att oroas över hur snabbt dessa lösningar kan komma på plats och hur mycket konsumtion de kan flytta.
 
-Energilagring
-Batterier
+Ett problem som addresseras i <a href="http://www.nyteknik.se/asikter/debatt/article3799026.ece">denna artikel</a> är att om vi ökar konsumtionen i topparna utan att samtdigt bygga om själva nätet kommer energiförlusterna öka. Magnus Olofsson som är vd för Elforsk betonar att detta är ett problem vi behöver ta på allvar eftersom förlusterna u sveriges elnät redan idag motsvarar lika mycket el som den totala produktionen från vindkraften.
 
+Industrin har som vi nämnde ovan uttryckt sig relativt skeptiska till att fungera som reglerare, men det är inte säkert att hushållen heller är jättepositiva till att styra om sin konsumtion. Om justereringen upp och ner i konsumtion ska göras automatiskt genom att t.ex. laddning sker när priset är lågt kräver det investering i nya apparater som är anpassade till detta. Det kan också tänkas att kosumenternas grundpreferens är att ha t.ex. sin elbil laddad direkt och inte när det råkar vara lägre precis.
 
-Överföringskapacitet kontroversiellt
-Hitta länk om tyska protester kanske micke vk?
+Slutligen behöver vi vara medvetna om att mycket av den teknologi som utgör smarta elnät fortfarande är på prototyp stadien och inte skalats upp stor skala vilket biddrar till en osäkerhet i hur snabbt denna teknik kan komma på plats.
 
-smarta nät - farväl till kärkraften
+<h4>Utbyggnad av nätets överföringskapacitet</h4>
 
-SOL Uppmana till satsningar. Ta höjd för detta i skaltakts beräkningar.
+Att bygga ut elnätet så att man kan överföra el från områden med överproduktion till områden med underproduktion är en annan metod som frmförts för att underlätta regleringen av en stor andel väderberoende energi. 
 
+Det finns många fördelar med att bygga ut elnäten, men vi behöver vara medvetna att inte heller detta är en "quick fix".
+Att bygga ut elnät tar både tid och resurser. I värsta fallen som i Tyskland just nu väcker det därtill stora lokala protester som gör att processen än mer drar ut på tiden, se länk till artklar om detta, <a href="http://www.ft.com/intl/cms/s/0/756454dc-a2d6-11e3-ba21-00144feab7de.html#axzz3nRG8zgQX">här</a> och <a href="http://www.reuters.com/article/2015/06/03/germany-energy-protests-idUSL6N0WH0WH20150603">här</a>.
 
+En annan faktor som begränsa resultaten av elnätsutbyggnan är att topparna i konsumtion och dipparna i produktion riskerar att samanfalla i relatvt stora områden. Detta varnar representanter för branchorgansationen Svensk Energi för <a href="
+http://www.di.se/artiklar/2015/6/18/sverige-ar-pa-vag-mot-negativa-elpriser/">här</a> och <a href="http://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=6238293">här</a>.
 
+<h4>Överproduktion</h4>
 
+Ett alternativ till att reglera produktionen är att ha en betydande överproduktion. Bygger vi t.ex. tio gånger mer sol och vindkraft än vi behöver är inte ens den sämsta veckan särskilt katastrofala. Problemet med denna lösning är att sol- och vindkraftsutbyggnad tar fortfarande <a href="/karnkraftskoll/langsamt">tid</a>, <a href="/karnkraftskoll/uranbrytning">gruvbrytning</a> och betydande <a href="/karnkkraftskoll/dyrt">investeringar</a> i anspråk för att komma på plats.
 
-utvecklingen   
+<h4>Reglera med kärnkraft</h4>
 
-Att bara skala upp vind och solkraft utan Det
+När behovet av reglerkraft för väderberoende energi kommer på tal, brukar det ibland framföras att en stor andel kärnkraft inte heller är en lösning då den inte heller går att styra upp och ner. Detta är dock inte helt sant. Det är korrekt att det ekonomiskt bästa för kärnkraften är att få fungera som baskraft. Men både i Frankrike och Sverige har man reglerat produktionen i reaktorerna så att de ska följa efterfrågan, utan några säkerhetsproblem. 
 
-Vi i relativt rika länder behöver vara drivande för att ta fram reglerl
+Elforsk gav 2011 ut en <a href="/assets/files/elforsk_karnkraft_som_reglerkraft.pdf">rapport</a> om kärnkraftens möjlgheter att regleras upp och ner. Där visar de t.ex. hur svenska reaktorer följt efterfrågan i sin produktion, se figuren nedan:
 
+<img class="img-responsive blog-img" src="/assets/img/global/forsmark_reglering.png">
 
+I Figuren ser vi sju tydliga dygnsregleringar (tidsmässigt korta sänkningar av effekten till ca 50 % under natten) samt tre helgregleringar (tidsmässigt längre sänkningar till ca 60 %).
 
-länder gå före och satsa resurser på helhetslösningar 
+På sidan 18 i rapporten finner ni även en illustration av hur tyska reaktorer på 25 minuter klarar att skifta från att producera 100% av den installerade kapaciteten till att enbart producera 25% av max kapaciteten.
 
+Mycket reglering upp och ner medför dock ett ökat slitage, moderna reaktorer är dock byggda för att klara detta bättre. 
 
-Vi vill se att policy och styrmedel 
+Vi kan konstatera att det är fullt möjligt att reglera produktionen av kärnkraft upp och ner om man har möjlghet att planera i förväg men att det inte är optimalt ur ett kostnadsperspektiv om man vill få ut maximal nytta ur de reaktorer man har.
 
+<h3>Slutsats</h3>
 
-Vi tror att det är policys och ekonomiskt stöd bör vara inatt betydande satsningar på att lösa reglerfrågan är 
-
-För att säkra klimatet 
-
-
-
-Typiskt sätt behöver vind och solkraft statliga subventioner för att det ska löna sig för företag att bygga ut dem. Subventionerna gör att det blir lönsamt att producera el även om behovet just då inte är så stort. 
-
-Om vi tittar på ett exempel över hur produktionen av vindkraftsel kan svänga upp och ner under några dagar förstår vi att subventionerna idag är viktiga för de väderberoende energikällornas möjlighet att klara sig ekonomiskt. Dessa bilder är från oktober och illustrerar hur produktionen varierat under dagarna den senaste veckan, med utgångspunkten i datumet då denna bloggpost skrivs. 
-
-TODO ett diagram som visar hur produktionen sett ut i procent dagarna 24-17.
-
-Dessa dagar är valda slumpmässigt men för de som vill kontrollera att detta är representativ för den större bilden rekomenderar vi svenska kraftnäts utmärkta sida <a href="http://www.svk.se/stamnatet/kontrollrummet/">"Kontrollrummet"</a> där man kan följa Danmarks elproduktion timme för timme tillbaka i tiden.
-
-Den ekonomiska utmaningen för vindkraften alltså inte bara att den typiskt levererar ungefär en tredjedel av sin installerade kapacitet utan även att när den producerar som mest är priset som lägst. Detta beror på att de flesta kraftslag vill undvika att gå upp och ner i produktion för mycket eftersom detta medför extra kostnader. I värsta fallen är det t.o.m så att det kostar för mycket att gå ner i produktion att de fossila kraftverken eldar fast de inte får betalt för elen. Detta syns på marknaden som negativa elpriser.
-
-Förutom att vindkraftsindustrin själva drabbas av att det inte finns avstättning för elen, när produktionen är som högst slår fluktationerna i produktionen även hårt mot kärnkraften och det är här konfliktsituationen uppstår.
-
-Kärnkraftverk har höga fasta kostnader men om de får producera el kontinuerligt på 
-
-Men om vi skulle ha system på plats för att hantera regler-utmaningen som väderberoende energikällor introducerar då skulle också vind sol och kärnkraft kunna fungera bra på samma nät.
-
-
-Om de dumpar priserna stora delar av dygnet riskerar de att konkurrerar de mot andra fossilfria energislag som kärnkraft. På detta sätt slösas fossilfri energi bort på att konkurrera ut varandra istället för att få bort den klimatförödande och hälsofarliga fossila energin. 
-
-
-Ta upp 
-effekten på vindkraft och kärnkraft ekonomiskt
-Hur ser det ut globalt. Portugal mest i världen. Danmark säger att de inte har råd.
-
-
-
-
-
-Men kärnkraft har relativt höga fasta kostander och det bästa ekonomiskt för kärnkraften är därför att fungera som baskraft med relativt små . Även om 
-
-Visst kan man tänka sig att olika länder tar olika vägar och att vissa länder skulle bygga närmare 100% kärnkraft medan andra länder satsar på 100% förnybart men denna restri
-
-
-
-
-<h2>Föreslagna lösningar</h2>
-
-
-<p><i class="fa fa-cloud fa-5x chapter-icon"></i>Problemen med underproduktion uppstår de tider på dygnet när vind och solkraft producerar som minst då behöver vi ha andra energikällor att falla tillbaka till som kan möta behoven även om de just då skulle vara stora. Bland de förnybara energislagen är det bara vattenkraft och bioenergi som kan fungera som reglerkraft.  Majoriteten av världens länder har inte förutsättningarna för att på ett hållbart sätt bygga ut dessa två enerigslag. I dessa länder ser vi istället hur de förnybara energislagen i bästa fall ersätter en del av de fossila bränslena, men regleringen görs fortfaranade till absolut största delen av fossila bränslen.</p>
-<p>
-<p>Lösningen för att kunna lösa upp detta beroende fossil av fossil reglerkraft är framförallt energilagring i stor skala. Då kan man använda överskottet från tider med överproduktion till de tidpunkter då behovet är stort men produktionen liten. Två andra insatser som kan underlätta situationen är att man bygga ut överföringskapaciteten mellan områden med olika väderförhållanden och bygger smarta system för att automatisk och effektivt styra energibehov som är flyttbara.</p>
-<p><i class="fa fa-stack-overflow fa-5x chapter-icon" id="all-tools-overflow"></i>Det kan tyckas konstigt att ett överskott på energi skulle kunna vara ett problem. Men om produktionen ligger nära noll vissa dagar utan att vi klarar av att ta vara på överskotten från de dagar med hög produktion, blir det ett problem både för de förnybara energislagen och kärnkraften som är det andra koldioxidsnåla alternativet vi har att tillgå. Överskott innebär att vi producerar mer energi än vad vi just då kan ta vara på. De förnybara
-
-Om de dumpar priserna stora delar av dygnet riskerar de att konkurrerar de mot andra fossilfria energislag som kärnkraft. På detta sätt slösas fossilfri energi bort på att konkurrera ut varandra istället för att få bort den klimatförödande och hälsofarliga fossila energin. 
-Hur snabbt vi löser reglerfrågan är också relaterad Att lösa problem relaterade med överproduktion</p>
-<p>Vi ser goda själ till att anta att världens förmåga att lösa reglerfrågan kan vara avgörande för våra förutsättningar att stoppa klimatförändringarna och att vi kan vara långt från säkra på att detta kommer gå enkelt att smidigt att lösa</p>
-<p>
-
-
- Samtidig</p><p>Att det är svårare att integrera sol- och vindkraft när den årliga produktionen är större än en tredjedel av våra behov beror på att det som brukar kallas kapacitetsfaktor</p>
-<p>Kapacitetsfaktor är hur mycket el vi får ut av vår installerade kapacitet. För sol och vind som varierar över dygnet och årstiderna är kapacitetsfaktorn ca en tredjedel. Ska sol och vindkraft stå för mer än detta kommer vi varje dygn ha perioder då vi producerar mer el än vi kan göra av med. Om man då vill ha 100% förnybart, och som i majoriteten av världens länder saknar förutsättningar för stor andel fossilfri reglerkraft, kommer man därtill få brist på el andra tider på dygnet.</p>
-
-
-Ta upp att 
-
-vi vore lika skeptiska till technodfix om amn sa att vi ska lösa klimatkrisen med generation 4.
-
-
-
-
-	vi kan ta vara på den energi so
-
-	kunna 
-	för att andra dagar har mer energi än vad vi kan använda blir det ett problem.</p>ofta producerar 
-
-	lden har en mycket 
-
-	Att lösa problemen som kommer med överproduktion är minst lika viktigt om vi vill klara att skala upp vind och solenergi. 
-	Om de dumpar priserna stora delar av dygnet riskerar de att konkurrerar de mot andra fossilfria energislag som kärnkraft. På detta sätt slösas fossilfri energi bort på att konkurrera ut varandra istället för att få bort den klimatförödande och hälsofarliga fossila energin. Att lösa problem relaterade med överproduktion </p>
-
-	ylla den uppgift de var
-
- istället för det som världen behöver ersätta nämligen de fossila bränslena</p>
-
- saknar stor tillgång till  
-
-	har inte likt Sverige tillgång till stora mängder fossilfri reglerkraft så som vatten och bioenergi. Detta gör att de istället använder fossila energikällor för att reglera.</p>
-<p>  
-<p> Inget land har ännu lyckats göra sig av med ett beroende av fossil reglerkraft eller uppnå en energiproduktion som överskrider kapacitetsfaktorn. Att i detta läga tacka nej till ett verktyg som klarat av att göra så att ett land som frankrike kan gå från 100% fossil till koldioxidsnål energi på 15 år </p>
-
-	delar inte Sveriges unika förutsättningar med stor andel fosilfri reglerkra
-
-	Majoriteten av världens länVi inom miljörörelsen behöver se att 
-
-	Att bygga system som klarar av att möta dessa utmaningar utan att bli fast i användandet av fo sig av fossila 
-
-	för att möta detta är en uppgift som v
-
- Vind och sol har både betydande dygns och årstid variationer i hur mycket  
-	Majoriteten av världens länder har inte likt Sverige, tillgång till stora mängder fossilfri reglerkraft 
-
-	Vattenkraft och biomassa är det 
-
-	Majoriteten av världens el och energiproduktion kommer från fossila bränslen....	
-	- smarta nät
-	- fossilfri reglerkraft
-	- överproduktion?
-	- lagring
-	- styra konsumtionen.
-	Problematiskt att detta inte behandlas när man talar byggtider för olika kraftslag
-	-Men behöver inte kärnkraften också regleras?
-
-
-	<p><b>Vi vill med all tydlighet betona att vi delar förhoppningarna och tron på att de förnybara energislagen kommer spela en nyckelroll i utfasandet av fossila bränslen. Men med detta sagt vill vi lyfta de risker vi ser för klimatet, människors hälsa, och andra miljövärden, om man väljer att utesluta kärnkraft som en del av lösningen.</b></p>
+Vår slutsats är att det är avgörande för hållbara energisystem att vi lyckas ta fram ekonomisk konkurranskraftiga och skalbara lösningar för att integrera en stor andel väderberoende energi. Om man inte adresserar de utmaningar som följer med detta är risken också stor att de väderberoende energkällorna slår ut produktionen av kärnkraftsel istället för produktonen av fossil energi, vilket gör att klimatvnsten uteblir. Vill vi i Sverge utgöra ett grönt föredömme för andra länder är det därför bra att satsa på <a href="http://www.theenergycollective.com/jessejenkins/368706/can-nuclear-power-and-renewable-energy-learn-get-along">lösningar</a> som främjar att kärnkraft och värderberoende energikällor kan samexistera och samarbeta i samma nät.

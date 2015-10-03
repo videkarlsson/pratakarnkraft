@@ -54,7 +54,9 @@ h1, h2, h3, h4, h5{
     color:{{ site.colors.mp_green}};
 }
 
-
+#vre_cloud{
+    color:#00a1ff;
+}
 
 csmall {
 	font-size: 12px;
