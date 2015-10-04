@@ -71,20 +71,19 @@ Att på olika sätt styra efterfrågan på el kan vara ett komplement till energ
 
 En stor utmaning med att styra elkonsumtionen är dock att det kan vara politiskt kontroversiellt att införa styrmedel som motiverar konsumenterna att styra om sin produktion. 
 
-Framförallt elintensiv industri brukar betona behovet av stabil tillgång till el till ett förutsägbart och inte för högt pris. Här är ett exempel där svensk basindustris energidirektör <a href="http://www.second-opinion.se/energi/view/3005">beskriver oron inför att mer väderberoende energiproduktion kommer leda till att deras produktionsförutsättningat försämras</a>. 
+<i class="fa fa-industry fa-5x chapter-icon " id="conflict-arrows"></i>Framförallt elintensiv industri brukar betona behovet av stabil tillgång till el till ett förutsägbart och så billigt pris som möjlight. Här är ett exempel där svensk basindustris energidirektör <a href="http://www.second-opinion.se/energi/view/3005">beskriver oron inför att mer väderberoende energiproduktion kommer leda till att deras produktionsförutsättningat försämras</a>. 
 
 På grund av de här skälen brukar ofta ekonomiska styrmedel för att styra om konsumtionen avfärdas till förmån så kallade <a href="https://en.wikipedia.org/wiki/Smart_grid">Smarta Nät</a>. 
 
-Smarta elnät är ett relativt brett begrepp men det avser olika moderniseringar i elnätet där man utnyttjar informationsteknik, styrteknik och distribuerad databehandling för att kunna tillhandahålla en hållbar, ekonomisk och tillförlitlig elförsörjning.
-Tanken är att man genom informatonsteknik ska kunna styra om konsumtionen till att följa topparna och dalarna  produktionen.
+<i class="fa fa-connectdevelop fa-5x chapter-icon " style="color:darkgreen"></i>Smarta elnät är ett relativt brett begrepp men det avser olika moderniseringar i elnätet där man utnyttjar informationsteknik, styrteknik och distribuerad databehandling för att kunna uppnå en ekonomisk och tillförlitlig elförsörjning, även när produktionen varierar. Tanken är att man genom informatonsteknik ska kunna styra om konsumtionen till att följa topparna och dalarna produktionen.
 
 Att smartare utnyttja energin som produceras är givetvis postitivt men vi tycker det finns flera skäl att oroas över hur snabbt dessa lösningar kan komma på plats och hur mycket konsumtion de kan flytta.
 
-Ett problem som addresseras i <a href="http://www.nyteknik.se/asikter/debatt/article3799026.ece">denna artikel</a> är att om vi ökar konsumtionen i topparna utan att samtdigt bygga om själva nätet kommer energiförlusterna öka. Magnus Olofsson som är vd för Elforsk betonar att detta är ett problem vi behöver ta på allvar eftersom förlusterna u sveriges elnät redan idag motsvarar lika mycket el som den totala produktionen från vindkraften.
+Ett problem som addresseras i <a href="http://www.nyteknik.se/asikter/debatt/article3799026.ece">denna artikel</a> är att om vi ökar konsumtionen i topparna utan att samtdigt bygga om själva nätet kommer energiförlusterna öka. Magnus Olofsson som är vd för Elforsk betonar att detta är ett problem vi behöver ta på allvar eftersom förlusterna i Sveriges elnät redan idag motsvarar lika mycket el som den totala produktionen från vindkraften.
 
-Industrin har som vi nämnde ovan uttryckt sig relativt skeptiska till att fungera som reglerare, men det är inte säkert att hushållen heller är jättepositiva till att styra om sin konsumtion. Om justereringen upp och ner i konsumtion ska göras automatiskt genom att t.ex. laddning sker när priset är lågt kräver det investering i nya apparater som är anpassade till detta. Det kan också tänkas att kosumenternas grundpreferens är att ha t.ex. sin elbil laddad direkt och inte när det råkar vara lägre precis.
+Industrin har som vi nämnde ovan uttryckt sig relativt skeptiska till att fungera som reglerare, men det är inte säkert att hushållen heller är jättepositiva till att styra om sin konsumtion. Om justereringen upp och ner i konsumtion ska göras automatiskt genom att t.ex.apparater laddas när priset är lågt kräver det investering i nya apparater som är anpassade till detta. Det kan också tänkas att kosumenternas grundpreferens är att ha t.ex. sin elbil laddad direkt och inte när det råkar vara lägre elpris.
 
-Slutligen behöver vi vara medvetna om att mycket av den teknologi som utgör smarta elnät fortfarande är på prototyp stadien och inte skalats upp stor skala vilket biddrar till en osäkerhet i hur snabbt denna teknik kan komma på plats.
+Slutligen behöver vi vara medvetna om att mycket av den teknologi som utgör smarta elnät fortfarande är på prototypstadiet och inte skalats upp stor skala vilket biddrar till en osäkerhet i hur snabbt denna teknik kan komma på plats.
 
 <h4>Utbyggnad av nätets överföringskapacitet</h4>
 
@@ -94,7 +93,10 @@ Det finns många fördelar med att bygga ut elnäten, men vi behöver vara medve
 Att bygga ut elnät tar både tid och resurser. I värsta fallen som i Tyskland just nu väcker det därtill stora lokala protester som gör att processen än mer drar ut på tiden, se länk till artklar om detta, <a href="http://www.ft.com/intl/cms/s/0/756454dc-a2d6-11e3-ba21-00144feab7de.html#axzz3nRG8zgQX">här</a> och <a href="http://www.reuters.com/article/2015/06/03/germany-energy-protests-idUSL6N0WH0WH20150603">här</a>.
 
 En annan faktor som begränsa resultaten av elnätsutbyggnan är att topparna i konsumtion och dipparna i produktion riskerar att samanfalla i relatvt stora områden. Detta varnar representanter för branchorgansationen Svensk Energi för <a href="
-http://www.di.se/artiklar/2015/6/18/sverige-ar-pa-vag-mot-negativa-elpriser/">här</a> och <a href="http://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=6238293">här</a>.
+http://www.di.se/artiklar/2015/6/18/sverige-ar-pa-vag-mot-negativa-elpriser/">här</a> och <a href="http://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=6238293">här</a>. Vi har själva inte tagit del av statistik över längre tid men elstatistiken för den vecka då denna bloggpost skrevs illustrerar tydligt denna problematik:
+
+<img class="img-responsive blog-img" src="/assets/img/global/vind_correlation.png">
+
 
 <h4>Överproduktion</h4>
 
