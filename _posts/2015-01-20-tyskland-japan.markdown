@@ -8,7 +8,7 @@ categories:
 - global
 circle-img: map-marker.png
 ---
-<p>Tyskland lyfts ofta upp av oss inom Miljöpartiet och miljörörelsen i stort som ett föredömme då de har som mål att både avveckla kärnkraften och bygga ut förnybara energislag i stor skala. Efter Fukushimaolyckan har det även kommit fram röster som lyfter att Japan nu mera också är att betrakta som ett grönt föredömsland. Vi kommer här visa varför vi tycker att det finns skäl att problematisera denna bild. Låt oss börja med Japan.</p>
+<p>Tyskland lyfts ofta upp av oss inom Miljöpartiet och miljörörelsen i stort som ett föredömme då de har som mål att både avveckla kärnkraften och bygga ut förnybara energislag i stor skala. Japan är ett annat land som under de senaste åren lyfts fram som ett grönt föredömme då de valde att snabbstängdes majoriteten sina reaktorer efter Fukushimaolyckan. Vi kommer här visa varför vi tycker att det finns skäl att problematisera denna bild. Låt oss börja med Japan.</p>
 <h3>Japan före och efter Fukushima</h3>
 <p>Under hösten 2014 publicerades ETC två artiklar som båda beskriver hur Japan efter Fukushimaolyckan blivit ett nytt grönt föredömsland (artiklarna hittar du <a href="http://www.etc.se/klimat/efter-fukushima-nu-ar-japan-ett-gront-foredome
 ">här</a> och <a href="http://www.etc.se/klimat/en-ljus-framtid-utan-karnkraft">här</a>). Båda artiklarna presenterar en bild av att kärnkraften i Japan aldrig varit nödvändig och när den nu tvingats snabbstänga har Japan fått upptäcka hur enkelt det är att ersätta den stängda reaktorerna med förnybara energislag.</p> 
