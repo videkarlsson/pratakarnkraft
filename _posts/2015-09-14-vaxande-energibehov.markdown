@@ -1,7 +1,7 @@
 ---
 layout: global-blog
 comments: true
-title: "100% Förnybart - en chansning med klimatet?"
+title: "RUBRIK"
 date: 2015-09-14 16:54:46
 author: Ragnhild Karlsson
 categories:
