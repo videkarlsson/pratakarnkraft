@@ -114,7 +114,7 @@ I Figuren ser vi sju tydliga dygnsregleringar (tidsmässigt korta sänkningar av
 
 På sidan 18 i rapporten finner ni även en illustration av hur tyska reaktorer på 25 minuter klarar att skifta från att producera 100% av den installerade kapaciteten till att enbart producera 25% av max kapaciteten.
 
-Mycket reglering upp och ner medför dock ett ökat slitage men moderna reaktorer är byggda för att klara detta bättre även om det inte är optimalt för dem heller. Ett alternativ om man vill öka reglerförmågan för kärnkraft kan även vara att satsa på små modulära reaktorer, då kan man reglera mindre i varje reaktor.
+Mycket reglering upp och ner medför dock ett ökat slitage men dagens gen-III reaktorer är byggda för att klara detta bättre även om det inte är optimalt för dem heller. Ett alternativ om man vill öka reglerförmågan för kärnkraft kan även vara att satsa på små modulära reaktorer, då kan man reglera mindre i varje reaktor.
 
 Vi kan konstatera att det är fullt möjligt att reglera produktionen av kärnkraft upp och ner ifall man har möjlghet att planera i förväg, men att det inte är optimalt ur ett kostnadsperspektiv om man vill få ut maximal nytta ur de reaktorer man har.
 

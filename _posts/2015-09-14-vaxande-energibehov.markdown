@@ -50,17 +50,19 @@ Graferna nedan är hämtade från den aktuell artikeln och visar hur de olika sc
 
 <img class="img-responsive blog-img" src="/assets/img/global/energy_scenario_groups_tped.png">
 
-Författarna kunde dock göra ett obehagligt konstaterande när de jämförde de olika scenrio-gruppernas mål med hur världens energiintensitet förändrats historiskt mellan 1960 och fram till 2010. Det de kunde konstatera var att om man antog att IEAs antagande om BNP skulle vara korrekt då krävde även "buissnes-as-usal-scenariot" (IEAs reference scenario) en årlig minskning i enerig intensitet som var jämförbar med det vi uppnått som bäst mellan 1970 och 2010. Se grafen nedan:
+Författarna kunde dock göra ett obehagligt konstaterande när de jämförde de olika scenrio-gruppernas beräknade energikonsumtion i världen med hur världens energiintensitet förändrats historiskt sett mellan 1960 och fram till 2010. 
+
+De kunde konstatera var att om man antog att IEAs antagande om BNP skulle vara korrekt då krävde även "buissnes-as-usal-scenariot" (IEAs reference scenario) en årlig minskning i enerig intensitet som var jämförbar med det vi uppnått som bäst mellan 1970 och 2010. Se grafen nedan:
 
 <img class="img-responsive blog-img" src="/assets/img/global/energy_scenario_annual_change_energy_intensity.png">
 
 Vi kan hoppas att ny energisnålare teknik kommer ta oss dit men det är långt i från säkert. 
 
-Låt oss nu titta närmare på de föreslagna utbyggnadstakterna för de energi scenarion som togs upp i artikeln.
+Låt oss nu se närmare på de föreslagna utbyggnadstakterna för olika energislag i olika scenarion.
 
 <h3>Föreslagna utbyggnadstakter för installerad kapacitet</h3>
 
-Som vi visat ovan förespårkar de scenarion som utesluter kärnkraft antingen en minskning eller en relativt svag ökning av energikonsumtionsöknking jämfört med den antagan BNP utvecklingen i världen. Trotts detta föreslår de en utbyggnad av installerad kapacitet som är flerdubbelt högre än den i andra scenarion. 
+Som vi visat ovan förespråkar de scenarion som utesluter kärnkraft antingen en minskning eller en relativt svag ökning av energikonsumtionsöknking jämfört med den antagan BNP utvecklingen i världen. Trotts detta föreslår dessa scenarion en utbyggnad av installerad kapacitet som är flerdubbelt högre än den i andra scenarion. 
 
 Förklaringen ligger i att vind- och solkraft typisket sätt bara producerar ca 20-30% av sin installerade kapacitet, medans t.ex. kärnkraft typiskt sätt producerar ca 80-90% av den installerade kapaciteten.
 
@@ -70,13 +72,34 @@ Vi behöver dock reflektera kring hur mycket snabbare vi tror att vi kan install
 
 <img class="img-responsive blog-img" src="/assets/img/global/energy_scenario_installed_capacity_2030.png">
 
-<img class="img-responsive blog-img" src="/assets/img/global/energy_scenario_annual_change_energy_intensity.png">
+I den övre grafen ser vi vad de olika scenariona föreslår för energimix till 2030.
 
+I den nedre bilden ser vi hur målen (och i de fall de finns delmål) ser ut för total mängd installerad kapacitet i olika scenarion fram till respektive slutår.
+
+<img class="img-responsive blog-img" src="/assets/img/global/energy_scenario_installed_capacity_2050.png">
+
+Målen i scenarion som utesluter kol med koldioxidlagring och/eller kärnkraft är som sagt högt ställda och är flerfaldigt högre än de i andra enrgiscanrion. Men samtidigt är det viktigt att tänka på att många av scenarion som ingår i studien är framtagna 2010 eller 2011. Den teknkisk utvecklingen har gått frammåt sedan dess och IEA sätter större tilltro till förnybara energislag idag. 
+
+Men det finns forfararnde orosmoln över hur snabbt de förnybara energislagen kommer gå att skala upp. 
+
+Två exempel på orsomoln är:
+<ol>
+<li><p>IEA gör fortfarande bedömmer att förnybara energislag över lång tid framöver kommer behöva subvenntioner. Kostnasbilden för olika energislag diskuterar vi närmare <a href="/karnkraftskoll/dyrt/">här</a>.</p></li>
+<li><p>Reglerfrågan är forfarande långt ifrån löst. Detta diskuterar vi närmare i <a href="/global/reglerfragan/"></a>denna bloggpost</p></li>
+</ol>
+
+I den aktuella studien lyfter man två faktorer till att ta hänsyn till närmare bestämt hur tekniskt redo olika tekniker är samt hur stor den samhälliga acceptansen är för utbyggnad av olika energislag i olika delar av världen.
+
+Sol, vind och kärnkraft är alla tekniker som finns i stor skala men tekniker för enrgilagring, smarta nät och vågenergi är forfarande på på ett mycket tidig stadie i komersialiseringsprocessen.
+
+Kolkraft med koldioxidlagring TODO Elias du är experten av oss två här du får gärna beskriva vart man står nu och hur man bedömmer potentialen frammåt? Samt saker som kan påverka skalbareheten.
+
+I fråga om social aceptans så är detta en utmaning som särskilt stor för kärnkraften. Men även kol men även kolkraft med koldioxidlagring och sol- vind- vattenkraft projekt, möter ofta lokala protester som påverkar utbyggnadstakten. 
 
 <h3>Slutsats</h3>
 
 Vår slutsats är att det blir ett risktagande med världens klimat att utesluta några koldioxidsnåla energikällor om vi vill nå målet att fasa ut världens fossila energiproduktion fram till 2050. 
 
-Detta betyder inte alls att ett 100%-förnybart scenarion behöver vara omöjligt. Framförallt om den tekniska utvecklingen skulle leda oss till att priserna på förnybara energislagen och därtill nödvändig energilagring så att dessa kan konkurera ut fossila bränslen utan subventioner. De senaste decenierna har vi sett en dramatisk teknkisk utveckling på många fronter vilket är hoppingivande. Men det är svårt att förutspå när och om en teknik kommer slå igenom i global skala. 
+Detta betyder inte alls att ett 100%-förnybart scenarion behöver vara omöjligt. Framförallt om den tekniska utvecklingen skulle leda oss till att priserna på förnybara energislagen och därtill nödvändig energilagring sjunker så kraftigt att dessa kan konkurera ut fossila bränslen utan subventioner. De senaste decenierna har vi sett en dramatisk teknkisk utveckling på många fronter vilket är hoppingivande. Men det är svårt att förutspå när och om olika tekniker kommer slå igenom i global skala. 
 
-Med tanke på att ca 85% av världens enegi kommer från fossila källor, och att värdens energibehov sannolikt kommer öka samt att de gegrafiska förutsättningarna för olika energislag varierar, finns det gott om uppgifter att fylla för samtliga koldioxidsnåla alternativ.
+Med tanke på att ca 85% av världens enegi kommer från fossila källor, och att värdens energibehov sannolikt kommer öka, samt att de gegrafiska förutsättningarna för olika energislag varierar, så kommer det sannolikt finnsas gott om uppgifter att fylla för samtliga koldioxidsnåla alternativ.
