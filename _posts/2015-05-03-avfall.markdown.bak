@@ -1,0 +1,74 @@
+---
+layout: fact-check-blog
+comments: true
+title: "Hur gör vi med avfallet?"
+date: 2015-05-03 16:54:46
+author: Ragnhild Karlsson
+categories:
+- karnkraftskoll
+circle-img: waste.png
+---
+
+<b>Påstående:</b> Vi kan inte tillåta kärnkraft som energikälla eftersom avfallet utgör en oacceptabel risk för kommande generationer i minst 100000 år framöver.
+
+Båda publikationerna <a href="/assets/files/karnkraft_klimat.pdf">Kärnkraft Klimat</a> och <a href="/assets/files/mp_arg_kärnkraft.pdf">Kärnkraft i klimatrisens tidevarv</a> uttrycker en stark oro för hur vi ska kunna hantera det avfall som kommer att behöver slutförvaras.
+
+<blockquote>Kärnkraft ger upphov till radioaktivt avfall som ingen vet hur vi ska ta hand om. Det värsta avfallet är radioaktivt i upp till 100 000 år, tio gånger längre än vad den mänskliga civilisationen har existerat. Trots decennier av forskning finns det ingen i
+världen som har en lösning på hur detta ska tas om hand. Det är fullständigt ansvarslöst mot kommande generationer att vi använder oss av en energikälla med så stora avfallsproblem
+</blockquote>
+<blockquote>Dessutom är delar av avfallet starkt radioaktivt och måste lagras i hundratusentals år innan radioaktiviteten är nere på hanterbara nivåer. 2011 lämnade Svensk Kärnbränslehantering (SKB) in en ansökan om slutförvaring av avfallet (200 ton högaktivt avfall
+produceras varje år i svenska kärnkraftverk). Det ska förvaras i kopparkapslar i slutna bergrum 500 meter ner i jorden vid
+Forsmark. Flera studier visar att det finns risk att koppar kan korrodera och gå sönder.
+</blockquote>
+
+Vi vill här lyfta två huvudproblem som vi ser med resonemangen ovan. 
+
+<span class="fa-stack fa-lg chapter-icon waste-square"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">1</i></span>Det första problemet vi ser är bristen på kvantifiering av de risker som man väljer att stämpla som oacceptabla. Genom att inte kvantifiera vilka risker t.ex. en brusten kopparkasel skulle medföra blir det omöjligt för läsaren av publikationen att skapa sig en egen bild av hur allvarligt hen bedömmer att denna risk är. Vi tror att få medlemmar inom miljörörelsen är medvetna om att den extra strålning man beräknar att människor i slutförvarets närområde kan komma att bli utsatta för ifall alla de föreslagna inkapslingarna (ej bara kopparinslutningen) brister för samtliga kapslar är den samma som varje svensk får  i sig i genomsnitt genom naturlig bakgrundstrålning (ca 1 mS/år). Vilket bör ställas i perspektiv med att det finns platser på jorden som naturligt har <a href="http://www.ncbi.nlm.nih.gov/pubmed/11769138">flera gånger högre bakgrundstrålning</a> och där man ännu inte kunnat påvisa några märkbara hälsoeffekter. 
+
+Detta betyder givetvis inte att det inte kan förekomma hälsorisker som man inte lyckats påvisa statistiskt men det är viktig information om vi ska kunna ställa denna risk mot andra risker. Just eftersom kärnkraft visat sig vara ett mycket effektivt sätt att ersätta fossila bränslen tycker vi att det är av yttersta vikt att det framgår vad det är för risker det rör sig om.
+
+<span class="fa-stack fa-lg chapter-icon waste-square"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">2</i></span>Det andra problemet vi vill lyfta är det rellativa ointresse som vi inom Miljöpartiet hittils visat för fjärde generationens kärnkraft. Om vi menar allvar med att uttjänt kärnbränsle är ett oacceptabelt miljöproblem så borde vi också välkomna den teknik som kan användas för att sänkta lagringstiden från 100000 år till ca 500-1000 år.
+
+<a href="/tech/"><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Om du vill läsa mer om tekniker för att återvinna kärnavall rekomenderar vi vår forskarintervju om teknikutvecklingen inom kärnkraftsomådet.</a>
+
+Denna bloggpost tänker vi istället ägna åt den slutförvarslösning som SKB föreslår och som inte förutsätter återvinning av avfallet.
+
+År 2007 presenterade SKB sin rapport<a href="/assets/files/skb_rapport.pdf"> Långsiktig säkerhet för slutförvar
+för använt kärnbränsle vid Forsmark och Laxemar</a> som är en förenklad svensk sammanfattning av den lösning för slutförvar som SKB förespråkar.
+
+Lösningen som förespråkas i rapporten kallas KBS-3-metoden och går ut på att man ska förvara bränslet i 500m djupa borrhål i berget med flera skyddande inneslutningslager. Som bilden visar kommer förvaret bestå i att avfallet först kasplas in i ett kapslingrör, som i sin tur innesluts i en en kopparkapsel som därefter placeras 500m ner i berget omgiven betonitlera som utgör ett extra skyddande lager kring kapseln. 
+<img class="img-responsive blog-img" src="/assets/img/fact-check/kbs3_lager.png">
+Källa: <a href="/assets/files/skb_rapport.pdf">Långsiktig säkerhet för slutförvar
+för använt kärnbränsle vid Forsmark och Laxemar</a> sid 9.
+
+I SKBs uppdrag ingår att bedömma hur mycket strålning människor i omgivningen runt förvaret kan komma att utsättas för ifall var och en av de inneslutande skyddsbarriärenrna tas bort. Resultatet av denna analys sammanfattas i detta diagram (hämtat från sidan 85 i rapporten).
+<img class="img-responsive blog-img" src="/assets/img/fact-check/kbs3_diagram_lager.png">
+Betäckningar i digrammet kan vara något kryptiska för den som ej läst rapporten men de har följande betydelser:
+<ul>
+<li><p>Inget sönderfall i berget betyder att kapslarna placeras på markytan istället för 500m ner i berget</p></li>
+<li><p>Ingen buffert betyder att man tar bort betonitleran som omger kappslarna<p></li>
+<li><p>Inga kapslar och ingen buffert avser att alla kapslar hade defekta inneslutningar från början så att grundvatten kan strömma obehindrat genom alla deponeringshål och alla kapslar.</p></li>
+</ul>
+<p>De olika scenariona som diagrammet visar ska återspeglar värsta tänkbara exponeringssituation under en period av tempererat
+klimat.</p>
+<p>Slutsatsen vi kan dra från diagrammet är alltså att om avfallet lämnas orört i berget på 500 m djup kan alla säkerhetsbarriärer brista och ändå kommer den strålning omgivningen utsätts ändå vara mycket lägre än de stråldoser förekommer naturligt runt om i världen, utan påvisbara effekter på männsiskors hälsa och miljö.</p>
+<h4>Vilka risker finns det om någon avsiktligt eller av misstag skulle vilja ta upp avfallet till markytan</h4>
+<p>I diagrammet ovan kan vi betrakta dessa scenarion i form av de tunna linjerna i diagrammet</p>
+<p>Om alla inneslutningar hållt utgör det alltså ingen påtaglig hälsorisk att ta upp kapsalarna till ytan. Det samma gäller de första 90000 åren från nu ifall kopparlagret korriderat.</p>
+<p>I debatten har det även diskuterats om avfallet skulle kunna användas av någon med onda avsikter i syfte att framställa kärnvapen om denna risk skrive SKB följande:</p>
+<blockquote>
+Avsiktliga intrång med onda avsikter kan inte heller uteslutas. Det använda bränslet är ju farligt
+och kan därför användas för att skada både människa och miljö. Delar av bränslet kan, efter
+omfattande bearbetning, användas till vapenproduktion. Att tränga ner till förvaret är dock en
+mycket omfattande och långvarig operation som rimligen inte kan genomföras utan samhällets
+sanktion, åtminstone inte så som samhället är organiserat idag. Det skulle också krävas
+avsevärda resurser för en sådan operation. Om ett samhälle eller en grupp individer skulle ha
+den här typen av onda avsikter kommer det troligen att finnas enklare sätt att nå samma mål.
+</blockquote>
+<h4>Miljörörelsen kritik mot SKBs lösning</h4>
+<p>I september 2010 publicerade NyTeknik en <a href="http://www.nyteknik.se/asikter/debatt/article2470024.ece">debattartikel</a> från naturskyddsföreningen som tydligt illustrerar miljörröelsens kritik mot SKBs lösning. Den huvudsakliga kritiken som framförs är att alternativet att placera kapslarna på 3 till 5 kilmoeters djup inte uträtts tillräckligt noga och bör övervägas då detta skulle det göra det svårare för framtida människor att nå avfallet</p>
+<p> I denna <a href="http://www.nyteknik.se/nyheter/energi_miljo/karnkraft/article264679.ece">artikel</a> bemöter SKB denna kritik. Deras huvudsakliga motargument är att djupa borrhål utgör en ökad säkerhetsrisk då kapslarna kan fastna och gå sönder på vägen ner utan att det finns möjlighet att ta upp dem och reperarea dem vid behov.
+<blockquote> Att kontrollera hanteringen i varje steg och att kunna reparera vid behov är två säkerhetsprinciper som är fundamentala för oss och som vi aldrig kan uppnå med djupa borrhål</blockquote>
+<p>Ur SKBs svar framkommer vidare att alla andra kärnkraftsnationer valt bort lösningen med djupa borrhål</p>
+<p>Att välja djupa borrhål skulle därtill betydligt försvåra om man i framtiden skulle vilja använda sig av avfallet som bränsle i nya reaktorer.</p>
+<!-- <p>Tillsammans tycker vi detta är tugnt vägande skäl till att ifrågasätta om det är rätt prioriterade myndighetspengar att kräva utredning av en metod som har så här många nackdelar.</p><p>Vi vill slutligen igen väcka en reflektion kring det underliga i att vi inom miljörörelsen idag, å ena sidan uttrycker mycket stark oro inför just att framtida ovetandes generation inte ska låta avfallet stanna i slutförvaret, men å andra sidan utan vidare diskussion har avfärdat <a href="/tech/">tekninken</a> som kan sänka lagringstiden till 500-1000 år</p> -->
