@@ -66,7 +66,7 @@ Låt oss nu se närmare på de föreslagna utbyggnadstakterna för olika energis
 
 <h3>Föreslagna utbyggnadstakter för installerad kapacitet</h3>
 
-Som vi visat ovan förespråkar de scenarion som utesluter kärnkraft antingen en minskning eller en relativt svag ökning av energikonsumtionsökning jämfört med den antagna BNP utvecklingen i världen. Trotts detta föreslår dessa scenarion en utbyggnad av installerad kapacitet som är flerdubbelt högre än den i andra scenarion. 
+Som vi visat ovan förespråkar de scenarion som utesluter kärnkraft antingen en minskning eller en relativt svag ökning av energikonsumtionen jämfört med den antagna BNP utvecklingen i världen. Trotts detta föreslår dessa scenarion en utbyggnad av installerad kapacitet som är flerdubbelt högre än den i andra scenarion. 
 
 Förklaringen ligger i att vind- och solkraft typiskt sätt bara producerar ca 20-30% av sin installerade kapacitet, medans t.ex. kärnkraft typiskt sätt producerar ca 80-90% av den installerade kapaciteten.
 
@@ -106,4 +106,4 @@ Vår slutsats är att det blir ett risktagande med klimatet att utesluta några 
 
 Detta betyder inte att vi utesluter att ett 100%-förnybart scenario kan komma att vara möjligt eller att vi ser en sådan utveckling som mindre önskvärd om den sker <a href="/global/ytanvandning/">på ett sätt där man tagit hänsyn till andra miljövärden så som biologisk mångfald</a>. De senaste decennierna har vi sett en dramatisk teknisk utveckling inom många områden och på senare år har även priserna på vind- och solenergi sjunkit betydligt vilket är hoppingivande. 
 
-Men med tanke på att ca 85% av världens enegi kommer från fossila källor, och att värdens energibehov sannolikt kommer öka, samt att de geografiska förutsättningarna för olika energislag och lagringslösningar varierar, så är det sannolikt att det kommer finnas gott om uppgifter att fylla för samtliga koldioxidsnåla alternativ.
+Men med tanke på att ca 85% av världens energi kommer från fossila källor, och att värdens energibehov sannolikt kommer öka, samt att de geografiska förutsättningarna för olika energislag och lagringslösningar varierar, så är det sannolikt att det kommer finnas gott om uppgifter att fylla för samtliga koldioxidsnåla alternativ.

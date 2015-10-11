@@ -76,12 +76,11 @@ Vi ska här nedan se närmare på de mest lovande teknikerna.
 
 Pumpkraftverk och batterier är två tekniker som kanske är mest lovande om man vill bygga ut energilagring där man får tillbaka energin i form av el utan allt för stora förluster. 
 
-<a href="https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity">Pumpkraftverk</a> har en effektivitetsgrad på ca 70-85% beroende på placering. Detta är också den teknik som är mest utbyggd i världen. 2012 var den installerade kapaciteten i hela världen 123 000
-MW. Där varje anläggning typiskt sätt har en installerad kapacitet på ca 1000-2000MW. Anläggningar av den här typen kräver dock mycket specifika geografiska förutsättningar och betydande ingrepp i miljön. Med anledning av detta gör Vinova bedömningen att en förutsättning för att pumpkrafttekniken ska kunna utvecklas vidare är att den lämnar bergstrakterna och istället placeras närmare de platser där energin faktiskt konsumeras.
+<a href="https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity">Pumpkraftverk</a> har en effektivitetsgrad på ca 70-85% beroende på placering och utformande. Detta är också den teknik som är mest utbyggd i världen. 2012 var den installerade kapaciteten i hela världen 123 000 MW. Där varje anläggning typiskt sätt har en installerad kapacitet på ca 1000-3000MW. Anläggningar av den här typen kräver dock mycket specifika geografiska förutsättningar och betydande ingrepp i miljön. Med anledning av detta gör Vinova bedömningen att en förutsättning för att pumpkrafttekniken ska kunna utvecklas vidare är att den lämnar bergstrakterna och istället placeras närmare de platser där energin faktiskt konsumeras.
 
-De listar en rad företag som har förslag på lösningar som i huvudsak något mindre pumpkraftverk men som å andra sidan inte har geografiska begränsingar, utan kan placeras under jord eller ute till havs tillsammans med kraftverken med minimal extra miljöpåverkan.  
+De listar en rad företag som har lovande förslag på hur detta kan gå till genom i huvudsak mindre pumpkraftverk som inte har geografiska begränsingar, utan kan placeras under jord eller ute till havs tillsammans med kraftverken med en minimal extra miljöpåverkan.  
 
-Viktigt för att den här mer småskaliga tekniken ska skala upp är dock att man stödjer utvecklingen för att få ner total-kostnaderna både på el-produktions eller lagringssidan, eftersom själva lagringen i sig ger en förlust på 30-15% jämfört med att använda elen direkt.
+Viktigt för att den här mer småskaliga och men geografiskt obegränsade tekniken ska skala upp är dock att man stödjer utvecklingen för att få ner total-kostnaderna både på el-produktions- och lagringssidan, detta eftersom själva lagringen i sig ger en förlust på 30-15% jämfört med att använda elen direkt.
 
 <h5>Tryckluft</h5>
 
@@ -95,7 +94,7 @@ vilket är centralt då energiförlusterna ligger på ca 40%.
 Batterier är en teknik inom energilagring som fått stor uppmärksamhet sista tiden. Bland annat har det diskuterats om <a href="http://www.forbes.com/sites/jeffmcmahon/2015/05/01/did-tesla-just-kill-nuclear-power/">Teslas ny batteri gör kärknkraft onödigt</a>. Vissa <a href="http://www.washingtonpost.com/news/energy-environment/wp/2015/06/23/the-energy-storage-revolution-is-coming-but-not-without-some-arguments-along-the-way/ 
 ">expert bedömmare menar</a> att utvecklingen kommer gå snabbt nu och att sol med batterilagring kommer bli konkurrenskraftigt i stor skala. Men andra expert bedömmare menar att priserna fortfarande behöver sjunka betydligt <a href="http://www.nature.com/news/will-tesla-s-battery-change-the-energy-market-1.17469">för att denna teknik ska göra verklig skillnad </a>det återstår också <a href="http://www2.epa.gov/sites/production/files/2014-01/documents/lithium_batteries_lca.pdf">miljömässig utmaningar</a> att lösa. 
 
-Därför är det positiv och viktigt att det just nu sker en utveckling mot <a href="http://www.nature.com/nclimate/journal/v5/n4/full/nclimate2564.html">lägre priser</a> och <a href="http://sverigesradio.se/sida/artikel.aspx?programid=406&artikel=5030155"> mer miljövänliga material</a>. Det är svårt att säga hur snabbt utvecklingen kommer gå men som sagt vidareutveckling behövs.
+Därför är det positiv och viktigt att det just nu sker en utveckling mot <a href="http://www.nature.com/nclimate/journal/v5/n4/full/nclimate2564.html">lägre priser</a> och <a href="http://sverigesradio.se/sida/artikel.aspx?programid=406&artikel=5030155"> mer miljövänliga material</a>. Det är dock svårt att säga hur snabbt utvecklingen kommer gå men oavesett är satsningar på vidareutveckling positivt.
 
 <h5>Power-to-gas och Smältsalt</h5>
 Power-to-gas och smältsalt är två tekniker som ibland nämns i debatten. Vinnova gör bedömningen att dessa har för låg effektivitetsgrad för att man ska kunna använda dem för att omvandla den lagrade energin tillbaka till el. Effektivitetsgraden är då bara ca 25%. Om man använder teknikerna för att lagra energi som man sedan ska ha till uppvärming är dock effektivitetsgraden mycket högre. Vilket gör att de kan vara bra alternativ för att fasa ut fossil energi för uppvärmning.
@@ -104,9 +103,9 @@ Power-to-gas och smältsalt är två tekniker som ibland nämns i debatten. Vinn
 
 Att på olika sätt styra efterfrågan på el kan vara ett komplement till energilagring för kunna hantera dalar i elproduktionen eller olägliga toppar i konsumtionen.
 
-Under ett <a href="https://www.youtube.com/watch?v=jsbvdsNAqMk">seminarium om smarta nät</a> beskrev Thomas Sandberg (professor emeritus i energiföretagande) möjligheterna att reglera relativt stora energimängder genom relativt små förändringar hos hushållen. I t.ex. Svergie som har en produktions kapacitet på ca 30000 MW skulle det räcka med att bara 10% av hushållen minskar sin elförbrukning med 1 kW när vi råkar befinna oss i en dal i produktionen för att vi ska minska behovet med hela 400MW.
+Under ett <a href="https://www.youtube.com/watch?v=jsbvdsNAqMk">seminarium om smarta nät</a> beskrev Thomas Sandberg (professor emeritus i energiföretagande) möjligheterna att reglera relativt stora energimängder genom relativt små förändringar hos hushållen. I t.ex. Svergie som har en total produktions kapacitet på ca 30000 MW skulle det räcka med att bara 10% av hushållen minskar sin elförbrukning med 1 kW för att vi ska minska behovet med hela 400MW, vilket kan utgöra en betydande skillnad om vi befinner oss i en dal i produktionen.
 
-Han betonar även att de stora konsumenterna inom industrin kan få nyckelroller att spela då en reglering på t.ex. 10MW per stor industri bedöms som relativt lite.  
+Thomas Sandberg betonar även att de stora konsumenterna inom industrin kan få nyckelroller att spela då en reglering på t.ex. 10MW per stor industri bedöms som relativt lite.  
 
 Det finns dock vissa utmaningar med att utnyttja den här kapaciteten.
 
@@ -114,14 +113,14 @@ För att det ska finnas ett intresse hos industri och konsumenter att ändra sit
 
 <i class="fa fa-industry fa-5x chapter-icon " id="conflict-arrows"></i>Framförallt elintensiv industri brukar betona behovet av stabil tillgång till el till ett förutsägbart och så billigt pris som möjligt. Här är t.ex. ett exempel där svensk basindustris energidirektör <a href="http://www.second-opinion.se/energi/view/3005">beskriver oron inför att mer väderberoende energiproduktion kommer leda till att de behöver agera stötdämpare i systemet och därmed få försämrade produktionsförutsättningar</a>. 
 
-Att bara visulaisera de vinster en kund kan göra genom att flytta sin energikonsumtion verkar inte heller vara tillräckligt. Men under seminariet om smarta nät beskriver Lars Nordström professor i information och energi system hur olika tekniker för att visualisera elanvändingen för konsumenterna typiskt sätt bara haft en tillfällig effekt då människor i längden inte vill lägga tid på att schemalägga sin elförbrukning om de inte måste.
+Att bara visulaisera de vinster en kund kan göra genom att flytta sin energikonsumtion verkar inte heller vara tillräckligt. Under seminariet om smarta nät beskriver Lars Nordström professor i informations- och energisystem hur olika tekniker för att visualisera elanvändingen för konsumenterna typiskt sätt bara haft en tillfällig effekt då människor i längden inte vill lägga tid på att schemalägga sin elförbrukning om de inte måste.
 
 Ett alternativ är att stimulera utbyggnaden av tekniska lösningar i hemmen som automatiskt kan ställa om till att tillfälligt dra ner sin konsumtion om de får signal om detta. Detta är fullt tekniskt möjligt men kräver en viss omställning då apparater i hushållen behöver anpassas för att kunna ta emot denna typ av signaler.
 
 Det är också centralt att näten byggs ut och anpassas så att de kan hantera toppar i konsumtionen då produktionen är hög.
 Annars riskerar vi att få högre övergöringsförluster. Magnus Olofsson som är vd för Elforsk betonar i <a href="http://www.nyteknik.se/asikter/debatt/article3799026.ece">denna artikel</a> att detta är ett problem vi behöver ta på allvar eftersom förlusterna i Sveriges elnät redan idag motsvarar lika mycket el som den totala produktionen från vindkraften.
 
-Vår bild sammantaget är att det finns potential i att göra delar av konsumtionen flyttbar men att man behöver bygga ut infrastruktur och finna politiskt gångbara förslag för att kunna utnyttja denna potential.
+Vår bild sammantaget är att det finns en betydande potential i att göra delar av konsumtionen flyttbar men att man behöver bygga ut infrastruktur och finna politiskt gångbara förslag för att kunna utnyttja denna potential.
 
 <h4>Utbyggnad av nätets överföringskapacitet</h4>
 
@@ -135,9 +134,11 @@ http://www.di.se/artiklar/2015/6/18/sverige-ar-pa-vag-mot-negativa-elpriser/">h�
 
 <img class="img-responsive blog-img" src="/assets/img/global/vind_correlation.png">
 
+En anann 
+
 <h4>Överproduktion</h4>
 
-Ett alternativ till att reglera produktionen är att ha en betydande överproduktion. Bygger vi t.ex. tio gånger mer sol och vindkraft än vi behöver är inte ens den sämsta veckan särskilt katastrofal. Problemet med denna lösning är att sol- och vindkraftsutbyggnad tar fortfarande <a href="/karnkraftskoll/langsamt">tid</a>, <a href="/karnkraftskoll/uranbrytning">gruvbrytning</a> och betydande <a href="/karnkkraftskoll/dyrt">investeringar</a> i anspråk för att komma på plats.
+Ett alternativ till att reglera produktionen är att ha en betydande överproduktion. Bygger vi t.ex. tio gånger mer sol och vindkraft än vi behöver är inte ens den sämsta veckan särskilt katastrofal. Problemet med denna lösning är att sol- och vindkraftsutbyggnad tar fortfarande <a href="/karnkraftskoll/langsamt">tid</a>, <a href="/karnkraftskoll/uranbrytning">miljöpåverkande gruvbrytning</a> och betydande <a href="/karnkkraftskoll/dyrt">investeringar</a> i anspråk för att komma på plats.
 
 <h4>Reglera med kärnkraft</h4>
 
@@ -157,11 +158,11 @@ Vi kan konstatera att det är fullt möjligt att reglera produktionen av kärnkr
 
 <h3>Slutsats</h3>
 
-Vår slutsats är att det är avgörande för hållbara energisystem att vi lyckas ta fram ekonomisk konkurranskraftiga och skalbara lösningar för att integrera en stor andel väderberoende energi. Men om vi inte gör det kommer de flesta länder istället fastna i ett ohållbart beroende av fossil reglerkraft. 
+Vår slutsats är att det är avgörande för hållbara energisystem att vi lyckas ta fram ekonomisk konkurranskraftiga och skalbara lösningar för att integrera en stor andel väderberoende energi. Utvecklingen går snabbt frammåt och kanske är vi snart där men det är mycket som står på spel eftersom majoriteten av världens länder annars blir fast i ett ohållbart beroende av fossil reglerkraft. 
 
 Adresserar vi inte de utmaningar som reglerfrågan medför är risken också stor att de väderberoende energkällorna slår ut produktionen av kärnkraftsel istället för produktionen av fossil energi, och då <a href="/karnkraftskoll/livscykelanlyser/">uteblir</a> klimatvinsten helt. 
 
 Lika viktigt som att bygga ut sol och vindkraft är det alltså att ta fram globalt skalbara lösningar för att kunna integrera den väderberoende energin i stor skala i nät med andra koldioxidsnåla energikällor.
 
-Vill vi i Sverge utgöra ett grönt föredömme för andra länder är det därför bra att satsa på både teknisk lösningar och effektiva styrmedel som främjar att kärnkraft och betydande mängd värderberoende energikällor kan samexistera och samarbeta i samma nät.
+Vill vi i Sverge utgöra ett grönt föredömme för andra länder är det därför bra att satsa på teknisk lösningar och effektiva styrmedel som främjar att både kärnkraft och en betydande mängd värderberoende energikällor kan samexistera och samarbeta i samma nät.
 
