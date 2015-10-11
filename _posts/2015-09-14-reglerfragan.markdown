@@ -115,9 +115,9 @@ För att det ska finnas ett intresse hos industri och konsumenter att ändra sit
 
 Att bara visulaisera de vinster en kund kan göra genom att flytta sin energikonsumtion verkar inte heller vara tillräckligt. Under seminariet om smarta nät beskriver Lars Nordström professor i informations- och energisystem hur olika tekniker för att visualisera elanvändingen för konsumenterna typiskt sätt bara haft en tillfällig effekt då människor i längden inte vill lägga tid på att schemalägga sin elförbrukning om de inte måste.
 
-Ett alternativ är att stimulera utbyggnaden av tekniska lösningar i hemmen som automatiskt kan ställa om till att tillfälligt dra ner sin konsumtion om de får signal om detta. Detta är fullt tekniskt möjligt men kräver en viss omställning då apparater i hushållen behöver anpassas för att kunna ta emot denna typ av signaler.
+Ett alternativ är att stimulera utbyggnaden av tekniska lösningar i hemmen som automatiskt kan ställa om till att tillfälligt dra ner sin konsumtion om de får signal om detta. Detta är fullt tekniskt möjligt men kräver en viss omställning då apparater i hushållen behöver anpassas för att kunna ta emot denna typ av signaler. Eftersom många byter apparater i hemmet relativt frekvent behöver dock inte detta vara något stort hinder så länge marknaden kommer i gång och erbjuder dem.
 
-Det är också centralt att näten byggs ut och anpassas så att de kan hantera toppar i konsumtionen då produktionen är hög.
+Men det är också centralt att näten byggs ut och anpassas så att de kan hantera toppar i konsumtionen då produktionen är hög.
 Annars riskerar vi att få högre övergöringsförluster. Magnus Olofsson som är vd för Elforsk betonar i <a href="http://www.nyteknik.se/asikter/debatt/article3799026.ece">denna artikel</a> att detta är ett problem vi behöver ta på allvar eftersom förlusterna i Sveriges elnät redan idag motsvarar lika mycket el som den totala produktionen från vindkraften.
 
 Vår bild sammantaget är att det finns en betydande potential i att göra delar av konsumtionen flyttbar men att man behöver bygga ut infrastruktur och finna politiskt gångbara förslag för att kunna utnyttja denna potential.
