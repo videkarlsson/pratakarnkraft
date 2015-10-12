@@ -5,6 +5,7 @@ date: 2015-01-03 16:54:46
 author: Ragnhild Karlsson
 categories:
 - karnkraftskoll
+- reflektion
 circle-img: mining.png
 ---
 <b>Påstående:</b> Uranbrytning är oacceptabelt ur ett miljöperspektiv

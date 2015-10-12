@@ -74,9 +74,9 @@ Vi ska här nedan se närmare på de mest lovande teknikerna.
 
 <h5>Pumpkraftverk</h5>
 
-Pumpkraftverk och batterier är två tekniker som kanske är mest lovande om man vill bygga ut energilagring där man får tillbaka energin i form av el utan allt för stora förluster. 
+Pumpkraftverk är en av de tekniker som kanske är mest lovande om man vill bygga ut energilagring där man får tillbaka energin i form av el utan allt för stora förluster. 
 
-<a href="https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity">Pumpkraftverk</a> har en effektivitetsgrad på ca 70-85% beroende på placering och utformande. Detta är också den teknik som är mest utbyggd i världen. 2012 var den installerade kapaciteten i hela världen 123 000 MW. Där varje anläggning typiskt sätt har en installerad kapacitet på ca 1000-3000MW. Anläggningar av den här typen kräver dock mycket specifika geografiska förutsättningar och betydande ingrepp i miljön. Med anledning av detta gör Vinova bedömningen att en förutsättning för att pumpkrafttekniken ska kunna utvecklas vidare är att den lämnar bergstrakterna och istället placeras närmare de platser där energin faktiskt konsumeras.
+<a href="https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity">Pumpkraftverk</a> har en effektivitetsgrad på ca 70-85% beroende på placering och utformande. Detta är också den teknik som är mest utbyggd i världen. 2012 var den installerade kapaciteten i hela världen 123 000 MW. Där varje anläggning typiskt sätt har en installerad kapacitet på ca 1000-3000MW. Anläggningar av den här typen kräver dock specifika geografiska förutsättningar och betydande ingrepp i miljön. Med anledning av detta gör Vinova bedömningen att en förutsättning för att pumpkrafttekniken ska kunna utvecklas vidare är att den lämnar bergstrakterna och istället placeras närmare de platser där energin faktiskt konsumeras.
 
 De listar en rad företag som har lovande förslag på hur detta kan gå till genom i huvudsak mindre pumpkraftverk som inte har geografiska begränsingar, utan kan placeras under jord eller ute till havs tillsammans med kraftverken med en minimal extra miljöpåverkan.  
 
@@ -84,15 +84,15 @@ Viktigt för att den här mer småskaliga och men geografiskt obegränsade tekni
 
 <h5>Tryckluft</h5>
 
-Tryckluft är den energilagringsteknik som ligger tvåa i installerad kapacitet, men uppgick 2012 bara till 440 MW, d.v.s. ungefär en
+Tryckluft är den energilagringsteknik som ligger tvåa i installerad kapacitet, men den uppgick 2012 bara till 440 MW, d.v.s. ungefär en
 tredjedels procent så mycket installerad kapacitet som pumpkraftverken har tillsammans. Effektivitetsgraden är också lägre då den ligger på ca 60%. En annan problematik är att tekniken idag är är delvis beroende av förbränning av fossilgas för att fungera. 
 
-Vinnova betonar dock att det pågår forskning på att utveckla tekniken så att den blir oberoende av fossilkraft. De lyfter också fram att det finns teknkiker på gång för att lagra tryckluften ute till havs. Detta skulle sänka kostanderna betydligt jämfört med dagens teknik.
+Vinnova betonar dock att det pågår forskning på att utveckla tekniken så att den blir oberoende av fossilkraft. De lyfter också fram att det finns tekniker på gång för att lagra tryckluften ute till havs. Detta skulle sänka kostanderna betydligt jämfört med dagens teknik.
 vilket är centralt då energiförlusterna ligger på ca 40%.
 
 <h5>Batterier</h5>
 Batterier är en teknik inom energilagring som fått stor uppmärksamhet sista tiden. Bland annat har det diskuterats om <a href="http://www.forbes.com/sites/jeffmcmahon/2015/05/01/did-tesla-just-kill-nuclear-power/">Teslas ny batteri gör kärknkraft onödigt</a>. Vissa <a href="http://www.washingtonpost.com/news/energy-environment/wp/2015/06/23/the-energy-storage-revolution-is-coming-but-not-without-some-arguments-along-the-way/ 
-">expert bedömmare menar</a> att utvecklingen kommer gå snabbt nu och att sol med batterilagring kommer bli konkurrenskraftigt i stor skala. Men andra expert bedömmare menar att priserna fortfarande behöver sjunka betydligt <a href="http://www.nature.com/news/will-tesla-s-battery-change-the-energy-market-1.17469">för att denna teknik ska göra verklig skillnad </a>det återstår också <a href="http://www2.epa.gov/sites/production/files/2014-01/documents/lithium_batteries_lca.pdf">miljömässig utmaningar</a> att lösa. 
+">expert bedömmare menar</a> att utvecklingen kommer gå snabbt nu och att sol med batterilagring snart kommer bli konkurrenskraftigt i stor skala. Men andra expert bedömmare menar att priserna fortfarande behöver sjunka betydligt <a href="http://www.nature.com/news/will-tesla-s-battery-change-the-energy-market-1.17469">för att denna teknik ska göra verklig skillnad </a>det återstår också <a href="http://www2.epa.gov/sites/production/files/2014-01/documents/lithium_batteries_lca.pdf">miljömässig utmaningar</a> att lösa. 
 
 Därför är det positiv och viktigt att det just nu sker en utveckling mot <a href="http://www.nature.com/nclimate/journal/v5/n4/full/nclimate2564.html">lägre priser</a> och <a href="http://sverigesradio.se/sida/artikel.aspx?programid=406&artikel=5030155"> mer miljövänliga material</a>. Det är dock svårt att säga hur snabbt utvecklingen kommer gå men oavesett är satsningar på vidareutveckling positivt.
 
@@ -103,7 +103,7 @@ Power-to-gas och smältsalt är två tekniker som ibland nämns i debatten. Vinn
 
 Att på olika sätt styra efterfrågan på el kan vara ett komplement till energilagring för kunna hantera dalar i elproduktionen eller olägliga toppar i konsumtionen.
 
-Under ett <a href="https://www.youtube.com/watch?v=jsbvdsNAqMk">seminarium om smarta nät</a> beskrev Thomas Sandberg (professor emeritus i energiföretagande) möjligheterna att reglera relativt stora energimängder genom relativt små förändringar hos hushållen. I t.ex. Svergie som har en total produktions kapacitet på ca 30000 MW skulle det räcka med att bara 10% av hushållen minskar sin elförbrukning med 1 kW för att vi ska minska behovet med hela 400MW, vilket kan utgöra en betydande skillnad om vi befinner oss i en dal i produktionen.
+Under ett <a href="https://www.youtube.com/watch?v=jsbvdsNAqMk">seminarium om smarta nät</a> beskrev Thomas Sandberg (professor emeritus i energiföretagande) möjligheterna att reglera relativt stora energimängder genom relativt små förändringar hos hushållen. I t.ex. Svergie som har en total produktionskapacitet på ca 30000 MW skulle det räcka med att bara 10% av hushållen minskar sin elförbrukning med 1 kW för att vi ska minska behovet med hela 400MW, vilket kan utgöra en betydande skillnad om vi befinner oss i en dal i produktionen.
 
 Thomas Sandberg betonar även att de stora konsumenterna inom industrin kan få nyckelroller att spela då en reglering på t.ex. 10MW per stor industri bedöms som relativt lite.  
 
@@ -134,11 +134,9 @@ http://www.di.se/artiklar/2015/6/18/sverige-ar-pa-vag-mot-negativa-elpriser/">h�
 
 <img class="img-responsive blog-img" src="/assets/img/global/vind_correlation.png">
 
-En anann 
-
 <h4>Överproduktion</h4>
 
-Ett alternativ till att reglera produktionen är att ha en betydande överproduktion. Bygger vi t.ex. tio gånger mer sol och vindkraft än vi behöver är inte ens den sämsta veckan särskilt katastrofal. Problemet med denna lösning är att sol- och vindkraftsutbyggnad tar fortfarande <a href="/karnkraftskoll/langsamt">tid</a>, <a href="/karnkraftskoll/uranbrytning">miljöpåverkande gruvbrytning</a> och betydande <a href="/karnkkraftskoll/dyrt">investeringar</a> i anspråk för att komma på plats.
+Ett alternativ till att reglera produktionen är att ha en betydande överproduktion. Bygger vi t.ex. tio gånger mer sol och vindkraft än vi behöver är inte ens den sämsta veckan särskilt katastrofal. Problemet med denna lösning är att sol- och vindkraftsutbyggnad tar fortfarande <a href="/karnkraftskoll/langsamt">tid</a>, <a href="/karnkraftskoll/uranbrytning">miljöpåverkande gruvbrytning</a> och betydande <a href="/karnkraftskoll/dyrt">investeringar</a> i anspråk för att komma på plats.
 
 <h4>Reglera med kärnkraft</h4>
 
@@ -160,7 +158,7 @@ Vi kan konstatera att det är fullt möjligt att reglera produktionen av kärnkr
 
 Vår slutsats är att det är avgörande för hållbara energisystem att vi lyckas ta fram ekonomisk konkurranskraftiga och skalbara lösningar för att integrera en stor andel väderberoende energi. Utvecklingen går snabbt frammåt och kanske är vi snart där men det är mycket som står på spel eftersom majoriteten av världens länder annars blir fast i ett ohållbart beroende av fossil reglerkraft. 
 
-Adresserar vi inte de utmaningar som reglerfrågan medför är risken också stor att de väderberoende energkällorna slår ut produktionen av kärnkraftsel istället för produktionen av fossil energi, och då <a href="/karnkraftskoll/livscykelanlyser/">uteblir</a> klimatvinsten helt. 
+Adresserar vi inte de utmaningar som reglerfrågan medför är risken också stor att de väderberoende energkällorna slår ut produktionen av kärnkraftsel istället för produktionen av fossil energi, och då <a href="/karnkraftskoll/livscykelanalyser/">uteblir klimatvinsten helt</a> . 
 
 Lika viktigt som att bygga ut sol och vindkraft är det alltså att ta fram globalt skalbara lösningar för att kunna integrera den väderberoende energin i stor skala i nät med andra koldioxidsnåla energikällor.
 

@@ -29,9 +29,11 @@ Stråldoser från andra aktiviteter som vi uttsätts för presenteras på ett pe
 
 <img class="img-responsive blog-img" src="/assets/img/fact-check/radiation-xkcd.png">
 
-Vill du snabbt och enkelt få en rundtur som visar hur stråldoserna varierar över jorden och en jämförelse med hur de förhåller sig till vardagliga aktiviteter rekomenderar vi denna korta film.
+Vill du snabbt och enkelt få en rundtur som visar hur stråldoserna varierar över jorden och en jämförelse med hur de förhåller sig till vardagliga aktiviteter rekomenderar vi denna korta film. 
 
 <iframe src="https://www.youtube.com/embed/TRL7o2kPqw0" frameborder="0" allowfullscreen></iframe>
+
+För att illustrera att strålning finns runt omkring oss överallt använder producenten av filmen den strålsos en banan ger som minsta enhet, och relaterar andra stråldoser till denna. Detta har dock väckt <a href="https://en.wikipedia.org/wiki/Banana_equivalent_dose">diskussion</a> eftersom mängden radioaktivt material vi tar upp från bananaer avtar om vi äter sora mängder. Det är alltså viktigt att vara medvetenhet om att jämförelsen med "strål-dos från en banan" är gjord för att synliggöra och jämföra storleksordningarna på olika strålkällor i vår omgivning, snarare än ett ge ett mått på hur kroppen påverkas av ett stort intag av bananer.
 
 <h2>Är all strålning farlig?</h2>
 
