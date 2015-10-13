@@ -14,22 +14,20 @@ Till att börja med så är det viktigt att slå fast att även förnybar energi
 
 Författarna till studien skriver att en övergång från fossil energi till förnyelsebar energi innebär en övergång från ett icke-förnyelsebar resurs ( fossilenergi) till en annan icke-förnyelsebar resurs (mineraler och metaller). 
 
-Enligt samma studie så innebär WWF:s scenarier med en 60-faldig ökning av sol och vind energi till 2050 en ökning av världsproduktionen av bland annat stål med 5-18 procent. 
-
-Enligt en annan studie så motsvarar dock den ökade mängden resurser som krävs för en omställning till förnyelsebar energi endast två år av den globala kopparproduktionen och ett år av den globala järnproduktionen. TODO kolla vilka antaganden om TPED 
+Enligt samma studie så innebär WWF:s scenarier med en 60-faldig ökning av sol- och vindenergi till 2050 att världsproduktionen av stål, koppar och aluminium kommer behöva öka med 5-18% årligen de närmaste 40 åren.
 
 <h2>Uranbrytning i jämförelse med annan gruvdrift</h2>
 
 I en rapport som Naturvårdsverket beställt kam vi läsa följande:
 <blockquote>“ den grundläggande miljöproblematiken i många avseenden densamma för urangruvor och sulfidmalmgruvor…”</blockquote>
 
-Exempel på sulfidmalmer är koppar, bly, zink, silver och guld, <a href="https://en.wikipedia.org/wiki/Copper_in_renewable_energy">där koppar är en central metall i produktionen av både sol och vindkraft.</a>
+Exempel på sulfidmalmer är koppar, bly, zink, silver och guld. Som nature artikeln betonar krävs det ca 50 gånger mer koppar än vad 
 
 Men uran orsakar också strålning. Därför kan det vara intressant att titta närmare på hälso och miljöeffekter av strålningen från uranbrytningen. Det finns farhågor för att uranbrytning leder till cancer hos gruvarbetare. Håkan Pettersson som är strålskyddsfysiker på Universitets sjukhuset i Linköping säger till Sveriges Radio klotet om en undersökning på urangruvarbetare i Australien:
 
 “När man tittar på ökad cancerförekomst är halterna så låga att de knappt är mätbara. Radonhalterna är cirka 10 Becquerel per kubikmeter luft, i svenska bostäder ligger halten i genomsnitt på 100 becquerel per kubikmeter luft. För gruvarbetare är inte den stråldos som de får i sig högre än vad en normal svensk får i sig av naturlig strålning. “
 
-Däremot så orsakade urangruvor cancer bland gruvarbetare mellan år 1940-1970 på grund av att ventilierngstekniken var mycket sämre. 
+Däremot så orsakade urangruvor cancer bland gruvarbetare mellan år 1940-1970 på grund av att ventilieringstekniken var mycket sämre. 
 
 Vi vill slutligen också ställa frågan om vilka källor som Miljöpartiet stödjer sig på när de gör detta påstående om hälsoeffekter från austaliensiska urangruvor som återfinns på sidan 11 i publikationen <a href="/assets/files/karnkraft_klimat.pdf">Kärnkraft Klimat</a>.
 
@@ -39,9 +37,9 @@ Vi har aktivt sökt efter någon studie som stödjer påståendet att barn i nä
 
 <h2>Slutsats</h2>
 
-Vår slutsats är att uranbrytning är ett tveksamt argument mot kärnkraft av flera själ. Förnyelsebar energi kräver betydligt mer gruvbrytning, miljöpåverkan och hälsoeffekterna från denna gruvbrytning är därtill på många sätt likvärdig med den från uranbrytning. Miljö och hälso effekterna av en specifik gruva är mer beroende av vilka metoder som används och vilka säkerhetesföreskrifter man har än om det är koppar eller uran som bryts. 
+Vår slutsats är att uranbrytning är ett tveksamt argument mot kärnkraft av flera skäl. Förnyelsebar energi kräver betydligt mer gruvbrytning, miljöpåverkan och hälsoeffekterna från denna gruvbrytning är därtill på många sätt likvärdig med den från uranbrytning. Miljö och hälso effekterna av en specifik gruva är mer beroende av vilka metoder som används och vilka säkerhetesföreskrifter man har än om det är koppar eller uran som bryts. 
 
-Den punkt där uranbrytning skiljer ut sig är att det finns en ökad risk för strålning genom radon, men i dagens gruvor är ventilationen så god att den extra strålning gruvarbetare i urangruvor får i sig är mindre än den i genomsnittliga svenska bostäder.
+Den punkt där uranbrytning tydligt skiljer ut sig är att det finns en ökad risk för strålning genom radon, men i dagens gruvor är ventilationen så god att den extra strålning gruvarbetare i urangruvor får i sig är mindre än den i genomsnittliga svenska bostäder.
 
 
 
