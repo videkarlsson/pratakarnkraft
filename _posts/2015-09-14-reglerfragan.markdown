@@ -1,7 +1,7 @@
 ---
 layout: global-blog
 comments: true
-title: "Reglerfrågan - en utmaning som återstår"
+title: "Reglering av väderberoende energi - en utmaning som återstår"
 date: 2015-09-29 16:54:46
 author: Ragnhild Karlsson
 categories:
@@ -36,7 +36,7 @@ I korthet är hans analys att om vi ska fasa ut fossilkraft med förnybart kräv
 
 <b>För att de väderberoende energikällorna ska nå sin fulla potential och inte riskera att slå ut annan koldioxidsnål energi vill vi se en politik som tar reglerfrågans utmaningar på allvar. Vi vill gärna se att rika länder som Sverige är drivande i utvecklingen av billiga och globalt skalbara tekniker för att underlätta integrering av både kärnkraft och väderberoende energi i samma nät.</b>
 
-<h3>Svårigheter med dagens lösningar på reglerfrågan</h3>
+<h3>Svårigheter med dagens lösningar</h3>
 
 <span class="chapter-icon"><i class="fa fa-cloud fa-5x "></i></span> För att betona behovet av satsningar på ekonomiskt konkurrenskraftiga och globalt skalbara lösningar på reglerfrågan vill vi här sammanfatta de utmaningar vi ser är förenade med de lösningar som finns tillgängliga i dag.. 
 
@@ -113,7 +113,7 @@ För att det ska finnas ett intresse hos industri och konsumenter att ändra sit
 
 <i class="fa fa-industry fa-5x chapter-icon " id="conflict-arrows"></i>Framförallt elintensiv industri brukar betona behovet av stabil tillgång till el till ett förutsägbart och så billigt pris som möjligt. Här är t.ex. ett exempel där svensk basindustris energidirektör <a href="http://www.second-opinion.se/energi/view/3005">beskriver oron inför att mer väderberoende energiproduktion kommer leda till att de behöver agera stötdämpare i systemet och därmed få försämrade produktionsförutsättningar</a>. 
 
-Att bara visulaisera de vinster en kund kan göra genom att flytta sin energikonsumtion verkar inte heller vara tillräckligt. Under seminariet om smarta nät beskriver Lars Nordström professor i informations- och energisystem hur olika tekniker för att visualisera elanvändingen för konsumenterna typiskt sätt bara haft en tillfällig effekt då människor i längden inte vill lägga tid på att schemalägga sin elförbrukning om de inte måste.
+Att bara visulaisera de vinster en kund kan göra genom att flytta sin energikonsumtion verkar inte heller vara tillräckligt. Under seminariet om smarta nät beskriver Lars Nordström professor i informations- och energisystem hur olika tekniker för att visualisera elanvänding och priser för konsumenterna typiskt sätt bara haft en tillfällig effekt då människor i längden inte vill lägga tid på att schemalägga sin elförbrukning om de inte måste.
 
 Ett alternativ är att stimulera utbyggnaden av tekniska lösningar i hemmen som automatiskt kan ställa om till att tillfälligt dra ner sin konsumtion om de får signal om detta. Detta är fullt tekniskt möjligt men kräver en viss omställning då apparater i hushållen behöver anpassas för att kunna ta emot denna typ av signaler. Eftersom många byter apparater i hemmet relativt frekvent behöver dock inte detta vara något stort hinder så länge marknaden kommer i gång och erbjuder dem.
 
@@ -150,7 +150,7 @@ I Figuren ser vi sju tydliga dygnsregleringar (tidsmässigt korta sänkningar av
 
 På sidan 18 i rapporten finner ni även en illustration av hur tyska reaktorer på 25 minuter klarar att skifta från att producera 100% av den installerade kapaciteten till att enbart producera 25% av max kapaciteten.
 
-Mycket reglering upp och ner medför dock ett ökat slitage men dagens gen-III reaktorer är byggda för att klara detta bättre även om det inte är optimalt för dem heller. Ett alternativ om man vill öka reglerförmågan för kärnkraft kan även vara att satsa på små modulära reaktorer, då kan man reglera mindre i varje reaktor.
+Mycket reglering upp och ner medför dock ett ökat slitage men de nya reaktorer som byggs i t.ex. Frankrike idag är byggda för att klara mer reglering bättre, även om det inte är optimalt för dem heller. Ett alternativ om man vill öka reglerförmågan för kärnkraft kan även vara att satsa på små modulära reaktorer, då kan man reglera mindre i varje reaktor.
 
 Vi kan konstatera att det är fullt möjligt att reglera produktionen av kärnkraft upp och ner ifall man har möjlghet att planera i förväg, men att det inte är optimalt ur ett kostnadsperspektiv om man vill få ut maximal nytta ur de reaktorer man har.
 
@@ -162,5 +162,5 @@ Adresserar vi inte de utmaningar som reglerfrågan medför är risken också sto
 
 Lika viktigt som att bygga ut sol och vindkraft är det alltså att ta fram globalt skalbara lösningar för att kunna integrera den väderberoende energin i stor skala i nät med andra koldioxidsnåla energikällor.
 
-Vill vi i Sverge utgöra ett grönt föredömme för andra länder är det därför bra att satsa på teknisk lösningar och effektiva styrmedel som främjar att både kärnkraft och en betydande mängd värderberoende energikällor kan samexistera och samarbeta i samma nät.
+Vill vi i Sverge utgöra ett grönt föredöme för andra länder är det därför bra att satsa på teknisk lösningar och effektiva styrmedel som främjar att både kärnkraft och en betydande mängd värderberoende energikällor kan samexistera och samarbeta i samma nät.
 

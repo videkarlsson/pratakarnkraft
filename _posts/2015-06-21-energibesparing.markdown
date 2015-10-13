@@ -31,6 +31,7 @@ Energibesparingar kan vara av godo i de rika delarna i världen men vi behöver 
 Detta medför ett enormt lidande och miljontals förtidiga dödsfall varje år. Dessa människor ska därför med all rätt ges utrymme att öka sin energikonsumtion. För att vi ska förstå hur världens energikonsumtion kan komma att öka framöver kan det vara bra att begrunda denna bild:
 <img class="img-responsive blog-img" src= "/assets/img/global/primary_energy_supply_scenrio.jpg">
 Grafen är hämtad från <a href="/assets/files/SRREN_fullReport.pdf">IPCCs special report on renewable energy</a> och visar hur enerigkonsumtionen ökat i världen fram till idag och förväntas utveckla sid de kommande 35 åren i 164 olika scenarion. Vi kan se att om vi vill ta höjd för att kunna hantera klimatförändringarna bör vi kunna möta utvecklingslinjer där världen inte bara dubblar utan t.o.m tredubblar sitt behov av energi.
+Vi behöver även ta höjd för att världen befolkning beräknas <a href="https://en.wikipedia.org/wiki/World_population">öka med 1 - 3.5 miljarder människor till 2050</a>.
 <!-- <h3>1. Ny grön teknik</h3>
 <h4>-en ökad energiförbrukning vidgar våra möjligheter</h4>
 
