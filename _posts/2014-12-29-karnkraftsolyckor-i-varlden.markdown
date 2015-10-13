@@ -51,7 +51,7 @@ I rapporten konstaterar att den evakuering som genomfördes snart efter olycka a
 <p>Att det kan finnas behov av att ändra de befintliga riktlinjerna visar sig i att tunga organ som International Commission of Radiological Protection som är ett internationellt oberoende organ för strålskydd <a href="http://www.icrp.org/docs/ICRP%20TG84%20Summary%20Report.pdf">väcker frågan efter fukushimaolyckan</a>.
 <p>Vi tycker att det framförallt finns tre viktiga slutsater att dra från de icke cancerrelaterade konsekvenserna av de två kärnkraftsolyckorna:</p>
 <ul>
-<li><p>Även om de radiokativa utsläppen inte ger upphov till särskillt stora hälsorisker kan evekuering till följd av olyckan orsaka mycker omfattande lidande.</p></li>
+<li><p>Även om de radiokativa utsläppen inte ger upphov till särskilt stora hälsorisker kan evekuering till följd av olyckan orsaka mycker omfattande lidande.</p></li>
 <li><p>Det är viktigt att vi gör det vi kan för att underlätta för att de reaktorer som byggs idag ska hålla gen-III reaktorstandard eftersom detta <a href="/tech">kraftigt minskar risken för olyckor och begränsar radioaktiva utsläppen till omgivningen ifall en olycka trots allt skulle inträffa</a>.</p></li>
 <li><p>Obefogad stor rädsla för låga stråldoser har visat sig skapa stora hälsoeffekter vid kärnkraftsolyckor. Vi som miljöorganisationer har möjlighet att utgöra en possitivt exempel genom att kraftigt ta avstånd från att andra miljöorganisationer och aktörer i debatten på ett osakligt sätt överdriver hälsoriskerna med strålning (så som WHOs analyser visat sig varit fallet vid både Tjernobyl och Fukushimaolyckan).</p>
 </li>
