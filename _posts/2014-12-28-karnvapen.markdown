@@ -82,7 +82,7 @@ Vi behöver även se att fossila bränslen står för ca 85% av världen energip
 
 Utöver det så är olja även kopplade till krig och konflikter. Mellan 25-50 % av alla krig från 1973 har varit kopplade till olja, visar <a href="http://belfercenter.ksg.harvard.edu/publication/23517/oil_conflict_and_us_national_interests.html">en studie från 2013</a> av forskare från Harvard. Om kärnkraft står för en del av elproduktionen så har vi möjlighet att använda mer biobränsle för att ersätta olja i transportsektorn. 
 
-Det vi landar i är att man behöver ställa olika risker med stora osäkehter mot varandra. Just p.g.a. de stora riskerna som värsta-scenarion innefattar har vi dock förståelse för att man värderar risken för spridning av radioaktiva vapen mycket högt, och att man därför kan landa i andra slutsatser än vi.
+Det vi landar i är att man behöver ställa olika risker med stora osäkehter mot varandra. Just p.g.a. de stora riskerna som värsta-scenarion innefattar har vi dock förståelse för att man värderar risken för spridning av radioaktiva vapen mycket högt, och att man därför kan landa i andra slutsatser än vi gjort.
 
 <!-- Vi kan notera att den första källan inte ens nämner civil kärnkraft i någon av de faktorer de listar. och det enda den andra bedömmaren nämner om civil kärnkraft är följande: -->
 
