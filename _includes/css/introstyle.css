@@ -202,6 +202,12 @@ section .arg-p{
     text-transform: uppercase;
     color: {{ site.colors.dark_green}};
 }
+
+#latest-news-header{
+    text-transform: uppercase;
+    color: white;
+    font-size: 100px;
+}
 #perspective-header {
     color: {{ site.colors.dark_green}};
 }
