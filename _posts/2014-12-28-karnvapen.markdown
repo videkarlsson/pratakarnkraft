@@ -51,7 +51,42 @@ Detta innebär givetvis ett problem med kärnkraftsutbyggnad i odemokratiska, os
 
 Som Hans Rosling presenterar på ett pedagogiskt sätt <a href="https://www.youtube.com/watch?v=GwmKc5mxwmA">i denna video</a> är det också viktigt att se att vi har en mycket positiv utveckling i världen mot mer demokrati och välstånd. Länder som idag inte är lämpade att vara kärnkraftsländer kan därför mycket väl vara det inom en relativt snar framtid.
 
-<h2>Vad ska stabila demokratier göra för att minska de globala riskerna för kärnvapen</h2>
+<h2>Terrorism och kärnvapen</h2>
+
+Terrorgrupper har intresse, eventuellt kunskap och kan ha kapacitet att få tag på kärnvapenmaterial, enligt ett <a href="http://belfercenter.ksg.harvard.edu/files/bunn-nuclear-terror-risk-test-08.pdf">vittnesmål</a> i USA:s senat år 2008 från professorn Matthew Bunn som specialiserat sig på forskning om kärnvapenterrorism.
+Både terrorgrupper som Al Quida och japanska terrorsekten Aum Shinrikyo har visat ett tydligt intresse för kärnvapen. 
+
+Enligt Bunns vittnesmål skulle terrorgrupper kunna skapa en “crude nuclear bomb” om de skulle ha tillgång till anrikat Uranium eller separerat Plutonium och det är även möjligt att en terrorgrupp skulle kunna få tag på material för att skapa en kärnvapenbomb. 
+
+Både i <a href="http://www.nytimes.com/2007/11/15/world/africa/15joburg.html?_r=1&">Sydafrika</a> och  <a href="http://www.theguardian.com/world/2002/jul/19/chechnya.nickpatonwalsh">Ryssland</a> har det förekommit stölder av radioaktivt material från kärnkraftsverk förekommit stölder av radioaktivt material från kärnkraftsverk. Vilket visar på problematiken med kärnkraftverk i icke stabila länder. 
+
+Enligt en <a href="http://www.iospress.nl/book/response-to-nuclear-and-radiological-terrorism/">rapport</a> utgiven av NATO Science for Peace and Security Series så är det sannolika, ifall en terrorgrupp skulle lyckas skapa/komma över en kärnvapenbom, att den skulle vara på cirka 1000 ton. Om en sådan bomb sprängdes i en storstad bedöms den kunna döda upp till 6000 personer. 
+
+Att en terrorgrupp skulle kunna få kapacitet till en kärnvapenbomb på 10 000 ton bedöms som osannolikt enligt NATO-rapporten. Men en sådan bomb skulle kunna få oerhörda konsekvenser. Om en sådan bomb sprängdes i exempelvis centrala New York skulle den kunna döda en halv miljon människor, enligt vittnesmålet i amerikanska senaten. Konsekvenserna av en sådan handling kan ju dock inte bara vägas i antalet direkta dödsoffer utan man behöver även väga in att de långsiktiga ekonomiska och säkerhetspolitiska effekterna skulle bli enorma och oöverblickbara
+
+Andra bedömmare har dock menat att risken att vi kommer få se en terror-attack med kärnvapen eller radioaktiva vapen till ca 29% de närmaste decenniet, se mer om dessa bedömningar <a href="http://ann.sagepub.com/content/607/1/103.short">här</a> och <a href="http://mchip.xykon-llc.com/irp/threat/lugar_survey.pdf">här</a>. 
+
+Det är dock mycket svårt att bedömma hur mycket civil kärnkraft bidrar till denna risk. 
+
+Det är viktigt att se att källorna vi listar här bedömmer att kärnvapenprogram är känsligare från detta perspektiv. Men det betyder ju inte att civil kärnkraft inte bidrar till riskbilden.
+
+Den första källan bedömmer att den risk som finns relaterat till civil kärnkraft är framförallt risken för stöld av radioaktiva material.De värderar denna risk som låg eftersom det enligt dem aldrig förekommit någon händelse där man kunnats bekräfta att terrorsiter utfört en attack i syfte att stjäla vapenmaterial. Men som vi sett ovan så har det förekommit stölder både i Ryssland och Sydafrika, så detta påstående verkar inte vara helt giltligt. I artikeln betonas även att säkerheten på framförallt en del forskningsreaktorer runt om i världen är för låg. 
+
+De risker som tas upp i samband med kärnrkaft är att man behöver ha kontroll över hela bränslecykeln och då specifikt anrikningsanlänggningarna men även avfallet. Riskerna betonas framförallt finnas i icke-stabila demokratier och då även länder som redan har kärnvapen så som Ryssland.  
+
+Sammantaget tycker vi detta tala för att riskerna kopplade till att terrorgrupper får tag i radioaktivt vapen-material är den allvarligste risken med civil kärnkraft.
+
+Det är dock viktigt att ha i åtanke att även om terrorgrupper inte kan få tillgång till radioaktivt material genom civil kärnkraft så kommer de använda samma resurser på att tillskaffa sig radioaktivt material på andra sätt och/eller satsa på andra typer av farliga vapensystem.
+
+Vi behöver även se att fossila bränslen står för ca 85% av världen energiproduktion. Det finns <a href="/global/alla-verktyg-behovs"></a>mycket som tyder på att förnybara energislag idag inte själva kommer klara av att ersätta dem i den takt som klimatet kräver.
+
+Utöver det så är olja även kopplade till krig och konflikter. Mellan 25-50 % av alla krig från 1973 har varit kopplade till olja, visar <a href="http://belfercenter.ksg.harvard.edu/publication/23517/oil_conflict_and_us_national_interests.html">en studie från 2013</a> av forskare från Harvard. Om kärnkraft står för en del av elproduktionen så har vi möjlighet att använda mer biobränsle för att ersätta olja i transportsektorn. 
+
+Det vi landar i är att man behöver ställa olika risker med stora osäkehter mot varandra. Just p.g.a. de stora riskerna som värsta-scenarion innefattar har vi dock förståelse för att man värderar risken för spridning av radioaktiva vapen mycket högt, och att man därför kan landa i andra slutsatser än vi.
+
+<!-- Vi kan notera att den första källan inte ens nämner civil kärnkraft i någon av de faktorer de listar. och det enda den andra bedömmaren nämner om civil kärnkraft är följande: -->
+
+<h2>Vad ska stabila demokratier göra för att minska de globala riskerna för spridning av radioaktiva vapen.</h2>
 
 I miljöpartiets publikationen <a href="/assets/files/mp_arg_kärnkraft.pdf">Kärnkraft i klimatkrisens tidevar</a> drar publikationsförfattaren en slutsats som vi inte delar:
 
@@ -59,9 +94,11 @@ I miljöpartiets publikationen <a href="/assets/files/mp_arg_kärnkraft.pdf">Kä
 
 Ett lands vilja att skaffa sig kärnvapen kan inte antas ha någon koppling till huruvida andra länder bygger ut civil kärnkraft. De kommer alltså vilja göra detta oavsett hur mycket eller lite civil kärnkraft det förkommer i världen. Om ett land vill använda civil kärnkraft som en täckmantel kan de göra detta oberoende av om vi i omvärlden samtycker till detta, se t.ex. fallet med Iran.
 
-Vi skulle vilja mena att om vi ser till det <a href="/global/alla-verktyg-behovs">risktagande det blir med klimatet</a> och de <a href="/karnkraftskoll/radda-liv">extremt negativa hälso-effekterna som fossilenergi och energifattigdom har i världen</a>, så tycker vi att de väger klart tyngre än den mycket oklara koppling som civil kärnkraft i demokratier har till odemokratiska länders val att skaffa kärnvapen under en täckmantel av ett civilt kärnkraftsprogram.
+Vi skulle vilja mena att om vi ser till det <a href="/global/alla-verktyg-behovs">risktagande det blir med klimatet</a> och de <a href="/karnkraftskoll/radda-liv">extremt negativa hälso-effekterna som fossilenergi och energifattigdom har i världen</a>, så tycker vi att de väger klart tyngre än den mycket oklara koppling som civil kärnkraft i demokratier har till odemokratiska länders val att skaffa kärnvapen under en täckmantel av ett civilt kärnkraftsprogram. 
 
-Man kan pckså tänka sig ett scenario där en icke stabil demokrati skaffar civil kärnkraft inkluderat anrikningsanläggningar i fredligt syfte men sedan svänger makthavarna i landet och börjar använda anrikningsanläggningarna för icke-fredliga syften. I ett sånt läge hade det varit önskvärt om dessa länder istället valt ett energisystem som bygger på andra kraftkällor. 
+Vi bedömmer även att de ovan nämnda riskerna väger tyngre än risken kopplade terrorgrupper, för kärnkraftsutbyggnad i redan befintliga kärnkraftsländer och i stabila demokratier. Men vi har förståelse för att man kan välja att värdera riskerna annorlunda. 
+
+Man kan också tänka sig ett scenario där en icke stabil demokrati skaffar civil kärnkraft inkluderat anrikningsanläggningar i fredligt syfte men sedan svänger makthavarna i landet och börjar använda anrikningsanläggningarna för icke-fredliga syften. I ett sånt läge hade det varit önskvärt om dessa länder istället valt ett energisystem som bygger på andra kraftkällor. 
 
 Från detta perspektiv skulle man kunna argumentera för att det är mer sannolikt att fler länder väljer kärnkraft om rika västländer valt att använda kärnkraft.
 
@@ -85,25 +122,6 @@ Sol- och vindkraft är problematiskt ur ett <a href="/karnkraftskoll/uranbrytnin
 Produktion av bio-energi tar stora mängder landyta i anspråk. Även energi-sceanrion med bara 20% bio energi beräknas ta ca 8 % av världens landyta i anspråk. Vilket kan sättat i perspektiv till att vi redan idag använder ca 12 av världens landyta för jordbruk och forskare inom ekologi menar att <a href="http://localhost:4000/assets/files/Rockstrom_2009_Planetary%20Boundaries-%20Exploring%20the%20Safe%20Operating%20Space%20for%20Huma.pdf">15% jordbruksmark</a> är en viktig gräns för en hållbar utveckling. Att vi i världen tar mer och mer av världens landyta i anspråk har också pekats ut som ett viktigt skäl till det globala massutrotande av arter som nu pågår. 
 
 Av dessa två anledningar är det önskvärt om inte alla länder måste lösa sin energiproduktion med bara förnybar-energi.
-
-<h2>Terrorism och kärnvapen</h2>
-
-Terrorgrupper har intresse, eventuellt kunskap och kan ha kapacitet att få tag på kärnvapenmaterial, enligt ett <a href="http://belfercenter.ksg.harvard.edu/files/bunn-nuclear-terror-risk-test-08.pdf">vittnesmål</a> i USA:s senat år 2008 från professorn Matthew Bunn som specialiserat sig på forskning om kärnvapenterrorism.
-Både terrorgrupper som Al Quida och japanska terrorsekten Aum Shinrikyo har visat ett tydligt intresse för kärnvapen. 
-
-Enligt Bunns vittnesmål skulle terrorgrupper kunna skapa en “crude nuclear bomb” om de skulle ha tillgång till anrikat Uranium eller separerat Plutonium och det är även möjligt att en terrorgrupp skulle kunna få tag på material för att skapa en kärnvapenbomb. 
-
-Både i <a href="http://www.nytimes.com/2007/11/15/world/africa/15joburg.html?_r=1&">Sydafrika</a> och  <a href="http://www.theguardian.com/world/2002/jul/19/chechnya.nickpatonwalsh">Ryssland</a> har det förekommit stölder av radioaktivt material från kärnkraftsverk förekommit stölder av radioaktivt material från kärnkraftsverk. Vilket visar på problematiken med kärnkraftverk i icke stabila länder. 
-
-Enligt en <a href="http://www.iospress.nl/book/response-to-nuclear-and-radiological-terrorism/">rapport</a> utgiven av NATO Science for Peace and Security Series så är det sannolika, ifall en terrorgrupp skulle lyckas skapa/komma över en kärnvapenbom, att den skulle vara på cirka 1000 ton. Om en sådan bomb sprängdes i en storstad bedöms den kunna döda upp till 6000 personer. 
-
-Att en terrorgrupp skulle kunna få kapacitet till en kärnvapenbomb på 10 000 ton bedöms som osannolikt enligt NATO-rapporten. Men en sådan bomb skulle kunna få oerhörda konsekvenser. Om en sådan bomb sprängdes i exempelvis centrala New York skulle den kunna döda en halv miljon människor, enligt vittnesmålet i amerikanska senaten. Konsekvenserna av en sådan handling kan ju dock inte bara vägas i antalet direkta dödsoffer utan man behöver även väga in att de långsiktiga ekonomiska och säkerhetspolitiska effekterna skulle bli enorma och oöverblickbara
-
-Andra bedömmare har dock menat att risken att vi kommer få se en terror-attack med kärnvapen eller radioaktiva vapen till ca 29% de närmaste decenniet, se mer om dessa bedömningar <a href="http://ann.sagepub.com/content/607/1/103.short">här</a> och <a href="http://mchip.xykon-llc.com/irp/threat/lugar_survey.pdf">här</a>. 
-
-Det är dock mycket svårt att bedömma hur mycket civil kärnkraft bidrar till denna risk. Vi kan notera att den första källan inte ens nämner civil kärnkraft i någon av de faktorer de listar och det enda den andra bedömmaren nämner om civil kärnkraft är följande:
-
-<blockquote>“We need to put much more effort into R&D on a proliferation-proof nuclear fuel cycle, since it is almost unavoidable that the world will need more nuclear power plants in the future.” </blockquote>
 
 <!-- 
  Enligt en studie från 2006 är sannolikheten för en kärnvapenattack under det kommande decenniet 29 procent. 
