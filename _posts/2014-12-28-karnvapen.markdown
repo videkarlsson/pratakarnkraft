@@ -143,13 +143,22 @@ Men ovan nämnda fördelar kräver “bränsleåtervinningstekniker som i störs
 
 Ett exempel på en teknik som, enligt International Commission on Nuclear Non-proliferation and Disarmament Report TODO KÄLLA, kan innebära att rent plutonium inte separeras är “electro-metallurgical processing”. 
 
-Men det ska också sägas att fjärde generationens kärnkraft bedöms komma igång i större skala först 2050. Det innebär att läger av plutonium från kärnavfall bedöms öka fram till 2050 och först minska någon gång mellan 2050 och 2100 när det finns tillräckligt mycket fjärde generationens kärnkraft som kan konsumera plutoniumet. Mer om det finns att läsa i en <a href="http://uu.diva-portal.org/smash/get/diva2:752144/FULLTEXT01.pdf">studie av forskare från Uppsala Universitet</a>.   
-
-
-
+Men det ska också sägas att fjärde generationens kärnkraft bedöms komma igång i större skala först 2050. Det innebär att lagret av plutonium från kärnavfall bedöms öka fram till 2050 och först minska någon gång mellan 2050 och 2100 när det finns tillräckligt mycket fjärde generationens kärnkraft som kan konsumera plutoniumet. Mer om det finns att läsa i en <a href="http://uu.diva-portal.org/smash/get/diva2:752144/FULLTEXT01.pdf">studie av forskare från Uppsala Universitet</a>.   
 
 
 <!-- 
+Rhodes 
+A nuclear weapon free world would be a world where delivery is moved from 30 min to 3-5 months
+https://www.youtube.com/watch?v=zJl-C_dAK4Q 14.52
+ -->
+
+<!-- 
+
+
+
+
+
+
 
 Demokrati, stabilitet och kärnkraft
 
