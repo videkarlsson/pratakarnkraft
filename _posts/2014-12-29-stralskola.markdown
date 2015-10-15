@@ -30,11 +30,11 @@ Stråldoser från andra aktiviteter som vi uttsätter oss för i vardagen presen
 
 <img class="img-responsive blog-img" src="/assets/img/fact-check/radiation-xkcd.png">
 
-Vill du snabbt och enkelt få en rundtur som visar hur stråldoserna varierar över jorden och en jämförelse med hur de förhåller sig till vardagliga aktiviteter rekomenderar vi denna korta film. 
+Vill du snabbt och enkelt få en rundtur som visar hur stråldoserna varierar över jorden och en jämförelse med hur de förhåller sig till vardagliga aktiviteter rekommenderar vi denna korta film. 
 
 <iframe src="https://www.youtube.com/embed/TRL7o2kPqw0" frameborder="0" allowfullscreen></iframe>
 
-För att illustrera att strålning finns runt omkring oss överallt använder producenten av filmen den strålsos en banan ger som minsta enhet, och relaterar andra stråldoser till denna. Detta har dock väckt <a href="https://en.wikipedia.org/wiki/Banana_equivalent_dose">diskussion</a> eftersom mängden radioaktivt material vi tar upp från bananaer avtar om vi äter sora mängder. Det är alltså viktigt att vara medvetenhet om att jämförelsen med "strål-dos från en banan" är gjord för att synliggöra och jämföra storleksordningarna på olika strålkällor i vår omgivning, snarare än ett ge ett mått på hur kroppen påverkas av ett stort intag av bananer.
+För att illustrera att strålning finns runt omkring oss överallt använder producenten av filmen den stråldos en banan ger som minsta enhet, och relaterar andra stråldoser till denna. Detta har dock väckt <a href="https://en.wikipedia.org/wiki/Banana_equivalent_dose">diskussion</a> eftersom mängden radioaktivt material vi tar upp från bananer avtar om vi äter stora mängder. Det är alltså viktigt att vara medvetenhet om att jämförelsen med "strål-dos från en banan" är gjord för att synliggöra och jämföra storleksordningarna på olika strålkällor i vår omgivning, snarare än ett ge ett mått på hur kroppen påverkas av ett stort intag av bananer.
 
 <h2>Är all strålning farlig?</h2>
 
@@ -42,16 +42,16 @@ Hur man ska värdera riskerna med låga stråldoser har varit ett en länge påg
 
 Det som länge har varit standard i strålskyddssammanhang är att anta något som kallas Linnear-Non-Threshold-modellen.  LNT-modellen bygger på antagandet om att det inte finns någon gräns för hur låg en stråldos kan vara och fortfarande orsaka skadliga hälsoeffekter man antar därför att risken sjunker linjärt med dosen från de nivåer där man observerat hälsoeffekter.
 
-Enligt de senaste <a href="/assets/files/UNSCEAR_low_doses_radiation_speech_weiss.pdf">rekomendationerna</a> från <a href="http://www.unscear.org/unscear/en/publications.html">UNSCEAR (FNs vetenskapliga organ för frågor relaterade till joniserande strålning)</a> avråder man dock numera från från att applicera LNT-modellen på mycket låga stråldoser. 
+Enligt de senaste <a href="/assets/files/UNSCEAR_low_doses_radiation_speech_weiss.pdf">rekommendationerna</a> från <a href="http://www.unscear.org/unscear/en/publications.html">UNSCEAR (FNs vetenskapliga organ för frågor relaterade till joniserande strålning)</a> avråder man dock numera från från att applicera LNT-modellen på mycket låga stråldoser. 
 
 <blockquote>"Because of the great uncertainties in risk estimates at very low doses, UNSCEAR does not recommend multiplying very low doses by large numbers of individuals to estimate numbers of radiation-induced health effects within a population exposed to incremental doses at levels equivalent to or lower than natural background levels."</blockquote>
 
 Anledningen att UNSCEAR väljer att avråda från detta sätt att räkna är för att de gör den samlade bedömningen att LNT-modellen inte har tillräckligt vetenskapligt stöd. Det blir också underligt att räkna med ökade cancerfall från stråldoser som ligger inom normalvariationen och som vi annars inte gör några samhälliga insatser för att skydda oss i från. 
 
-Detta ska dock inte tolkas som att man defintivt lyckats motbevisa LNT-modellen, bara att studierna på området både sett svaga positiva och negativa effekter av lite förhöjda stråldoser vilket gör det svårt att dra några defintiva slutsatser.
+Detta ska dock inte tolkas som att man definitivt lyckats motbevisa LNT-modellen, bara att studierna på området både sett svaga positiva och negativa effekter av lite förhöjda stråldoser vilket gör det svårt att dra några definitiva slutsatser. 
 
 Det finns också forskare som gör en annan bedömning än UNSCEAR, t.ex. <a href="http://www.ianfairlie.org/news/unscear-attempt-to-limit-collective-dose-assessments-from-fukushimas-fallout/">Ian Farlie</a> som här argumenterar för att man bör räkna med att LNT-modellen är sann. 
 
 Anledningen att det är så svårt att avgöra om LNT-modellen är sann eller ej ligger också i att effekterna på gruppnivå är så små och felkällorna så stora. Eftersom cancer är är väldigt vanligt och påverkas av så många olika faktorer är det svårt att kontrollera för alla dessa. Som vi visat ovan så finns det också många vardagliga aktiviteter som påverkar vilken stråldos varje given individ utsätts för. Detta gör det än svårare att dra några slutsatser. 
 
-För att få mer bakgrund till varför det är svårt att både bekräfta och dementera LNT-modellen rekomenderar vi denna <a href="https://www.youtube.com/watch?v=TpC_cPlx16g">video</a> som på ett pedagogiskt sätt förklara svårigheterna med att beräkna hälsoeffketerna av Tjernobylolyckan.
+För att få mer bakgrund till varför det är svårt att både bekräfta och dementera LNT-modellen rekommenderar vi denna <a href="https://www.youtube.com/watch?v=TpC_cPlx16g">video</a> som på ett pedagogiskt sätt förklara svårigheterna med att beräkna hälsoeffketerna av Tjernobylolyckan.
