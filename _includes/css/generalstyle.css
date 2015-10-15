@@ -34,11 +34,6 @@ body {
 	font-weight: 400;
 }
 
-.row.no-gutter [class*='col-']:not(:first-child),.row.no-gutter [class*='col-']:not(:last-child) {
-  padding-right:0;
-  padding-left:0;
-}
-
 .chapter-icon{
     float:left;
     margin-right:10px;
@@ -707,3 +702,5 @@ a:focus {
 .footer-tech-header >a{
     color:{{ site.colors.mp_purple}};
 }
+
+
