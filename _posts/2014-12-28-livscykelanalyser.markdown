@@ -1,5 +1,6 @@
 ---
 layout: fact-check-blog
+comments: true
 title: "Vad säger livscykel<wbr>analyserna?"
 date: 2014-12-28 16:54:46
 author: Ragnhild Karlsson

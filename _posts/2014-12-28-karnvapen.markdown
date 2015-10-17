@@ -11,9 +11,10 @@ thumb: nuclear-weapon-thumb.jpg
 ---
 Frågan om kärnvapen och civil kärnkraft är komplex. 
 
-Den övergripande slutsats vi landat i är att en global utbyggnad av civil kärnkraft medför en viss ökad risk för spridning av radioaktiva vapen. Risken ligger både i att nya länder kan komma i besittning av kärnvapen och i att terrorgruppen kan får tillgång till radioaktivt vapenmaterial. Civil kärnkraft i stabila demokratier är relativt oproblematiskt från dessa perspektiv. Men riskerna i icke stabila demokratier och generellt länder med hög korrumption gör att energilösningar som bygger på sol- vind- vattenkraft och bioenergi är att föredra i dessa länder.
-
-Vi har generellt svårt att se att riskerna kopplade till spridning av radiokativa vapen motiverar en påskyndad avveckling i de länder som redan har kärnkraft eller motiverar ett stopp av forskning på fjärde generationens kärnkraft. Vi värderar också riskerna som fossil energi medför som generellt högre. 
+Den övergripande slutsats vi landat i är följande:
+<blockquote><p>En global utbyggnad av civil kärnkraft medför en viss ökad risk för spridning av radioaktiva vapen. Risken ligger både i att nya länder kan komma i besittning av kärnvapen och i att terrorgruppen kan får tillgång till radioaktivt vapenmaterial. Civil kärnkraft i stabila demokratier är relativt oproblematiskt från dessa perspektiv. Men riskerna i icke stabila demokratier och generellt länder med hög korrumption gör att energilösningar som bygger på sol- vind- och bioenergi är att föredra i dessa länder.</p>
+<p>Vi har generellt svårt att se att riskerna kopplade till spridning av radiokativa vapen motiverar en påskyndad avveckling i de länder som redan har kärnkraft eller motiverar ett stopp av forskning på fjärde generationens kärnkraft. Vi värderar också riskerna som fossil energi medför som generellt högre. </p>
+</blockquote>
 
 Men det är viktigt att ha i åtanke att det finns stora osäkerheter när man ska uppskatta både konsekvenserna av fossil energi och risken för spridning av radioaktiva vapen. Detta gör att man kan komma till olika slutsatser.
 
@@ -27,7 +28,7 @@ Därför utgör anrikningsanläggningar en ökad risk. Det är därför viktigt 
 
 Själva reaktorerna utgör en mycket mindre risk 
 
-Plutonium från kärnavfall skulle kunna användas till kärnvapen. Men för det krävs det att plutoniumet separeras från övrigt kärnavfall. Enligt forskning.se är det “ tekniskt mycket svårt” att framställa kärnvapen ur det plutonium som finns i kärnavfallet eftersom “ det innehåller väldigt små rester av plutonium” och Plutonium 239 måste separeras från Plutonium 240+241+242 vilket är “en mycket komplicerad process”. Att skapa ett kärnvapen från anrikat uranium är enklare än att skapa ett från plutoniumet i kärnavfallet och därför är anrikat uranium ett större hot, enligt <a href="http://www.nti.org/analysis/reports/civilian-heu-reduction-and-elimination/">Nuclear Threat Initiative</a>. 
+Plutonium från kärnavfall skulle kunna användas till kärnvapen. Men för det krävs det att plutoniumet separeras från övrigt kärnavfall. Enligt <a href="http://www.forskning.se/nyheterfakta/teman/karnkraft/tiofragorochsvar/arkarnkraftsakert.5.20d15fca11f86fce23a80002045.html">forskning.se</a> är det “ tekniskt mycket svårt” att framställa kärnvapen ur det plutonium som finns i kärnavfallet eftersom “ det innehåller väldigt små rester av plutonium” och Plutonium 239 måste separeras från Plutonium 240+241+242 vilket är “en mycket komplicerad process”. Att skapa ett kärnvapen från anrikat uranium är enklare än att skapa ett från plutoniumet i kärnavfallet och därför är anrikat uranium ett större hot, enligt <a href="http://www.nti.org/analysis/reports/civilian-heu-reduction-and-elimination/">Nuclear Threat Initiative</a>. 
 
 Men att det är mycket svårt att tillverka kärnvapen från kärnavfall och att det finns enkla vägar betyder ju dock inte att det är omöjligt. 
 
@@ -37,19 +38,23 @@ När vi ska bedömma risken för att ett land skaffar sig kärnvapen genom civil
 
 <img class="img-responsive blog-img" src="/assets/img/fact-check/map_nuclear_weapon.png">
 
-På världskartan ovan har vi med blått fylt i de länder som skaffade sig kärnvapen innan de skaffade civil kärnkraft, med grönt fylt i de länder som har kärnkraft men inte kärnvapen, med gult fyllt i de länder som har kärnvapen men ej civil kärnkraft och slutligen med rött fylt i det land som skaffade sig civil kärnkraft innan kärnvapen. Att civil kärnkraft varken är ett nödvändigt eller tillräckligt villkor för att utveckla kärnvapen blir tydligt när vi ser antalet länder i de olika kategorierna. Kort sagt länder har skaffat sig kärnvapen utan att ha kärnkraft, och det finns många länder med kärnkraft utan kärnvapen. 
+På världskartan ovan har vi med blått fylt i de länder som skaffade sig kärnvapen innan de skaffade civil kärnkraft, med grönt fylt i de länder som har kärnkraft men inte kärnvapen, med gult fyllt i de länder som har kärnvapen men ej civil kärnkraft och slutligen med rött fylt i det land som skaffade sig civil kärnkraft innan kärnvapen. 
 
-TODO man pratar om att länder som skaffat kärnkraft också använt specifika reaktorer för detta som inte lämpar sig för energiproduktion, vad är reakotrernas roll i process? Se .tex. forskmingslänken?
+Att civil kärnkraft varken är ett nödvändigt eller tillräckligt villkor för att utveckla kärnvapen blir tydligt när vi ser antalet länder i de olika kategorierna. Kort sagt länder har skaffat sig kärnvapen utan att ha kärnkraft, och det finns många länder med kärnkraft utan kärnvapen. 
 
-Detta betyder inte att civil kärnkraft kan vara problematiskt ur ett kärnvapenperspektiv. Vi ser t.ex. den oro som finns över att <a href="https://sv.wikipedia.org/wiki/Irans_k%C3%A4rnkraftsprogram">Iran använder sitt kärnkraftsprogram som en täckmantel för civil kärnkraft</a>.
+Detta betyder givetvis inte att civil kärnkraft behöver vara oproblematiskt ur ett kärnvapenperspektiv. Som exempel kan vi se den oro som väcktes <a href="https://sv.wikipedia.org/wiki/Irans_k%C3%A4rnkraftsprogram">kring Irans kärnkraftsprogram och misstankarna om att det fungerade som en täckmantel för ett kärnvapenprogram</a>.
 
 Om kärnkraft ska utvecklas på ett säkert sätt så är det, enligt en <a href="https://www.amacad.org/content/publications/pubContent.aspx?d=925">artikel i American academy of Arts and Science</a> av två forskare på området, viktigt att kärnkraftsländer har låg grad av korruption, hög grad av politisk stabilitet, hög myndighetseffektivitet, hög tillsynseffektivtet och demokrati. Liknande slutsatser dras i <a href="http://www.sciencedirect.com/science/article/pii/S0149197013000504">en studie från 2013 som publicerades i Progress in Nuclear Energy</a>. 
 
-Ett problem är att nya kärnkraftsländer generellt är sämre än befintliga kärnkraftsländer när det gäller demokrati, korruption och de andra faktorerna som nämns ovan. Världsbanken har ett poängsystem för de fem kategorier som nämns i artikeln från American academy of Arts and Science. Medelvärdet för “aspring nuclear power states” är betydligt lägre än medelvärdet för “existing nuclear power states”. Det är viktigt att komma ihåg att detta gäller just för nya kärnkraftsländer och att en stor utbyggnad i befintliga kärnkaftsländer så som USA, Ryssland, Indien och Kina har potential att göra stor skillnad för klimatet.
+Ett problem är att nya kärnkraftsländer generellt är sämre än befintliga kärnkraftsländer när det gäller demokrati, korruption och de andra faktorerna som nämns ovan. 
 
-Detta innebär givetvis ett problem med kärnkraftsutbyggnad i odemokratiska, ostabila och/eller länder med hög korruption. Det är särskilt önskvärt att framförallt sol- vind, vatten-kraft och även till viss del bio-energi får står för en så stor andel som möjligt av energiförsörjningen i dessa länder. 
+Världsbanken har ett poängsystem för de fem kategorier som nämns i artikeln från American academy of Arts and Science. Medelvärdet för “aspring nuclear power states” är betydligt lägre än medelvärdet för “existing nuclear power states”. 
 
-Som Hans Rosling presenterar på ett pedagogiskt sätt <a href="https://www.youtube.com/watch?v=GwmKc5mxwmA">i denna video</a> är det också viktigt att se att vi har en mycket positiv utveckling i världen mot mer demokrati och välstånd. Länder som idag inte är lämpade att vara kärnkraftsländer kan därför mycket väl vara det inom en relativt snar framtid.
+Det är viktigt att komma ihåg att detta gäller just för nya kärnkraftsländer och att en stor utbyggnad i befintliga kärnkaftsländer så som USA, Ryssland, Indien och Kina har potential att göra stor skillnad för klimatet.
+
+Men det är givetvis ett problem med kärnkraftsutbyggnad i odemokratiska, ostabila och/eller länder med hög korruption. Därför är det särskilt önskvärt att framförallt sol- vind-, och även till viss del bio-energi får står för en så stor andel som möjligt av energiförsörjningen i dessa länder. 
+
+Som Hans Rosling presenterar på ett pedagogiskt sätt <a href="https://www.youtube.com/watch?v=xYnpJGaMiXo">i denna video</a> är det också viktigt att se att vi har en mycket positiv utveckling i världen mot mer demokrati och välstånd. Länder som idag inte är lämpade att vara kärnkraftsländer kan därför mycket väl vara det inom en relativt snar framtid. Därför är det bra om teknik för detta finns att tillgå när dessa länder är redo.
 
 <h2>Terrorism och kärnvapen</h2>
 

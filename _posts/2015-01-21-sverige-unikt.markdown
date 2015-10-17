@@ -1,7 +1,7 @@
 ---
 layout: global-blog
 comments: true
-title: "Sverige är ett unikt land"
+title: "Sverige är ett ovanligt land"
 date: 2015-01-21 16:54:46
 author: Ragnhild Karlsson
 categories:
@@ -36,7 +36,8 @@ Det är lätt att glömma bort att även Sverige med våra stora ytor av skog oc
 
 Den lösning som idag används i världen för att möta variationerna i produtionen från vind och solkraft är att låta andra energislag utgöra reglerkraft. Men som graferna visar utgör den fossifria reglerkraften (vattenkraft och biomassa) bara en liten del av den totala energimixen i världen. Vattenkraft har därtill av geografiska skäl en begränsing i hur mycket den kan växa. Om vi vill att biomassan ska produceras på ett miljömässigt önskvärt sätt och dessutom ersätta miljöskadliga material i världens produktion av varor, är även den att betrakta som en begränsad resurs. 
 
-Om vi i Sverige når 100% förnybar energiproduktion genom att använda stora mängder vattenkraft och biomassa som reglerkraft, blir vi alltså ett "föredöme" som få andra länder kan ta efter. 
+<blockquote>Om vi i Sverige når 100% förnybar energiproduktion genom att använda stora mängder vattenkraft och biomassa som reglerkraft, blir vi alltså ett "föredöme" som få andra länder kan ta efter. 
+</blockquote>
 
 <p><i class="fa fa-battery-full fa-5x chapter-icon" id="unique_battery"></i>För majoriteten av världens länder kommer stora satsningar på vind och solkraft istället behöva följas av en kanske än större utmaning nämligen den att skala upp energilagringstekniker som idag inte existerar i stor skala i något land. Förutom de direkta utmaningar som ligger i att bygga ut ny teknik i stors skala så är effektivitetsgraden ett exempel på utmaningar dessa tekniker medför. Flera av de lagringstekniker som ofta lyfts fram som viktiga delar i storskalig energilagring har <a href="/global/reglerfragan/">relativt låg effektivitetsgrad</a></p> 
 
