@@ -51,7 +51,7 @@ fa-icon: wrench
 <p>I <a href="http://www.sciencedirect.com/science/article/pii/S0306261915000124">en studie</a> som jämförde landåtgången för olika energislag fann man att med ett 100%-förnybart-scenario där 20% kommer från bioenergi gick det åt ca 18 gånger mer landyta än i ett scenario med 100% kärnkraft.</p>
 <p>För att ge en känsla för storleksordningar krävde 100%-förnybart-scenariot en yta motsvarande ca 1.3 Australien medans 100% kärnkraft scenariot tog en yta motsvarande ca 1 Madagascar i anspråk.</p>
 <img class="img-responsive blog-img" src="/assets/img/global/australia_or_madagascar.jpg">
-<blockquote><p>Generellt sätt tror vi att det är farligt att ställa olika koldioxidsnåla energikällor mot varandra. Eftersom IPCC bedömmer att vi behöver alla koldioxidsnåla alternativ om vi vill begränsa uppvärmningen till 1.5 grader</p></blockquote>
+<blockquote><p>Generellt sätt tror vi att det är farligt att ställa olika koldioxidsnåla energikällor mot varandra. Detta eftersom IPCC bedömmer att vi behöver alla koldioxidsnåla alternativ om vi vill begränsa uppvärmningen till 1.5 grader</p></blockquote>
 <p> Att vi stoppar användandet av  fossil energi är den största och viktigaste frågan att lösa.</p>
 <img class="img-responsive blog-img" src="/assets/img/global/biodiversity.jpg">
 <p class="img-text">Foto: Publicerat utan fotografens namn under <a href="https://creativecommons.org/licenses/by/2.0/">creative common license</a></p>

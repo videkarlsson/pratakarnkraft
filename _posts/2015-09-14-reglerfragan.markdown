@@ -26,7 +26,7 @@ Utsläppen från gaskraftverk som står stilla största delen av året är själ
 
 <b>Att göra som vissa kärnkraftförespråkare och dra slutsatsen att man inte bör satsa på sol och vindkraft är dock inte heller en hållbar väg.</b>  
 
-<p><a href="/global/IPCC-talar-till-oss">IPCC är tydliga med att alla fossilsnåla energislag kommer behöva arbeta tillsammans om vi ska ha en chans att klara två-gradersmålet.</a> Att utesluta sol- och vindkraft som en del av lösningen blir ett risktagande med klimatet.</p>
+<p><a href="/global/IPCC-talar-till-oss">IPCC är tydliga med att alla fossilsnåla energislag kommer behöva arbeta tillsammans om vi ska ha en chans att begränsa uppvärmningen till 1,5 grader.</a> Att utesluta sol- och vindkraft som en del av lösningen blir ett risktagande med klimatet.</p>
 <p><i class="fa fa-exchange fa-rotate-45 fa-5x chapter-icon " id="conflict-arrows"></i>Löser vi inte reglerfrågan är risken också stor att kärnkraften och de väderberoende energikällorna hamnar i en konfliktsituation med varandra, där de konkurrerar sinsemellan istället för att ersätta de fossila energislagen. Konfliktsituationen ligger i att kärnkraft till största delen behöver ha rollen som baskraft för att få ekonomin ihop. Men om förnybara energikällor genom stora subventioner kan överleva trots att de sänker elpriset till nära noll under vissa delar av dygnet, då blir det svårt för kärnkraften att få ekonomin att gå ihop utan subventioner.</p>
 
 Vi instämmer dock i den analys om Jesse Jenkins gör <a href="http://www.theenergycollective.com/jessejenkins/368706/can-nuclear-power-and-renewable-energy-learn-get-along">här</a>. 
