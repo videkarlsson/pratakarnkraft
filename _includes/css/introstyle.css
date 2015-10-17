@@ -13,6 +13,10 @@
     background-color: #FED136;
 }
 
+.dark_purple{
+    background-color: #8F2D56
+}
+
 .fact-check-text{
     color:  {{ site.colors.dark_green}};
 }
