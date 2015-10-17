@@ -38,6 +38,8 @@ fa-icon: wrench
 <li><span class=" fa-li fa-stack"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">3</i></span><p>Idag är vi ca 7 miljarder människor på jorden, de närmaste decennierna beräknas världens befolkning öka till någonstans mellan <a href="https://en.wikipedia.org/wiki/World_population">8.3 till 10.9 miljarder människor år 2050</a>. Denna grupp har såklart också rätt till el.</p></li>
 </ul>
 <p>Av dessa tre skäl tror vi att det en farlig väg att bygga klimatpolitik på antagandet att världens energikonsumtion ska minska istället för öka de kommande decennierna.</p>
+<img class="img-responsive blog-img" src="/assets/img/global/high_energy_ planet.jpg">
+<p class="img-text">Foto: <a href="https://www.flickr.com/photos/gsfc/8246931247">Nasa Goddard Space Flight Center</a></p>
 <p>Eftersom världens energi idag till <a href="http://www.iea.org/statistics/statisticssearch/report/?year=2012&country=WORLD&product=ElectricityandHeat">ca 85%</a> kommer från fossila bränslen och kärnkraft, innefattar alla scenarion för 100% förnybar energi produktion en mycket snabb utbyggnadstakt över flera decennier.</p> 
 <blockquote><p>Vi tycker att tillväxttakter som föreslås i 100% förnybart-scenarion generellt ger skäl till oro över om de kommer lyckas. Att man sällan tagit höjd för ökad energikonsumtion bidrar ytterligare till denna osäkerhet.</p></blockquote>
 <p><a href="http://onlinelibrary.wiley.com/doi/10.1002/wcc.324/pdf">En studie</a> som granskade just tillväxttakten för olika framtida energiscenarion valde att jämföra den föreslagna utbyggnadstakten för olika kraftslag med den utbyggnadstakt vi total klarat av med alla energislag tillsammans i världen sedan 1970.</p>
@@ -49,12 +51,13 @@ fa-icon: wrench
 <p>I <a href="http://www.sciencedirect.com/science/article/pii/S0306261915000124">en studie</a> som jämförde landåtgången för olika energislag fann man att med ett 100%-förnybart-scenario där 20% kommer från bioenergi gick det åt ca 18 gånger mer landyta än i ett scenario med 100% kärnkraft.</p>
 <p>För att ge en känsla för storleksordningar krävde 100%-förnybart-scenariot en yta motsvarande ca 1.3 Australien medans 100% kärnkraft scenariot tog en yta motsvarande ca 1 Madagascar i anspråk.</p>
 <img class="img-responsive blog-img" src="/assets/img/global/australia_or_madagascar.jpg">
-<p>Generellt sätt tror vi att det är farligt att ställa olika koldioxidsnåla energikällor mot varandra. Detta eftersom IPCC gör <a href="/global/IPCC-talar-till-oss">bedömningen</a> att att alla koldioxidsnåla alternativ kommer behöva arbeta tillsammans om vi ska ha en chans att klara 2-gradersmålet. Att vi stoppar användandet av  fossil energi är den största och viktigaste frågan att lösa.</p>
+<blockquote><p>Generellt sätt tror vi att det är farligt att ställa olika koldioxidsnåla energikällor mot varandra. Eftersom IPCC bedömmer att vi behöver alla koldioxidsnåla alternativ om vi vill begränsa uppvärmningen till 1.5 grader</p></blockquote>
+<p> Att vi stoppar användandet av  fossil energi är den största och viktigaste frågan att lösa.</p>
 <img class="img-responsive blog-img" src="/assets/img/global/biodiversity.jpg">
 <p class="img-text">Foto: Publicerat utan fotografens namn under <a href="https://creativecommons.org/licenses/by/2.0/">creative common license</a></p>
-<p> Men eftersom bioenergi ofta ses som nödvändigt för att kunna reglera en stor andel sol- och vindenergi, tycker vi att det är värt att belysa hur valet att utesluta kärnkraft påverkar våra möjligheten att värna världens biologiska mångfald.</p>
-<p>Forskare varnar för att bristen på orörda naturområden är en viktig grund till det massutrotande av arter som just nu pågår. Bioenergi tar stora landområden. Ur ett biologiskt mångfaldsperspektiv är det därför allvarliigt att förespråka energiscenarion med en stor andel bioenergi.</p>
-<p><a href="/global/ytanvandning/"><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Läs mer om hur olika energiscenarion påverkan på den biologiska mångfalden här</a></p>
+<blockquote><p>Men eftersom bioenergi ofta ses som nödvändigt för att kunna reglera en stor andel sol- och vindenergi, tycker vi att det är värt att belysa hur valet att utesluta kärnkraft ur lösningen påverkar våra möjligheten att värna världens biologiska mångfald.</p></blockquote>
+<p>Forskare varnar för att bristen på orörda naturområden är en viktig grund till det massutrotande av arter som just nu pågår. Bioenergi tar stora landområden i anspråk. Ur ett biologiskt mångfaldsperspektiv är det därför allvarliigt att förespråka energiscenarion med en stor andel bioenergi.</p>
+<p><a href="/global/ytanvandning/"><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Läs mer om olika energiscenarions påverkan på den biologiska mångfalden här</a></p>
 <!-- 
 http://www.sciencedirect.com/science/article/pii/S0306261915000124</p> -->
 <h3 id="all-tools-5"><span class="fa-stack fa-lg chapter-icon"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-heartbeat fa-stack-1x fa-inverse"></i></span>5. Varje ersatt kolkraftverk räddar liv</h3>
