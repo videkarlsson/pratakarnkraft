@@ -14,16 +14,16 @@ Vi har därför har sammanställt resultaten från studier som undersökt  milj�
 
 <h2>Sammanfattning</h2>
 
-<i class="fa fa-book fa-4x chapter-icon" id="mining-book"></i> Vi har läst studier kring miljö- och hälsopåverkan från de metaller som är nödvändiga för vind- och solkraft respektive de metaller nödvändiga för kärnkraft.
+<i class="fa fa-book fa-4x chapter-icon" id="mining-book"></i> Vi har läst på vad studier kring miljö- och hälsopåverkan visar för metaller nödvändiga för vind- och solkraft respektive metaller nödvändiga för kärnkraft.
 Studierna visar att vind- och solkraft är beroende av <a href="http://www.nature.com/ngeo/journal/v6/n11/full/ngeo1993.html">stora mängder koppar, aluminium och stål (primärt bestående av järn)</a> medan kärnkraft är beroende av uran. 
 
 <i class="fa fa-balance-scale fa-4x chapter-icon" id="mining-balance"></i> En <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101298">studie</a> som sammanställde resultatet från befintliga  livscykelanalyser för olika metaller kom till slutsatsen att koppar och uranbrytning har likvärdiga miljö och hälsoeffekter per kilo förädlad metall.
 
-Mängden uran som behövs för producera 1 TWh el är dock ungefär den dubbla jämfört med mängden koppar det skulle krävas för att framställa 1 TWh el. 
+Mängden uran som behövs för producera 1 TWh kärnkraftsel är dock ungefär den dubbla jämfört med mängden koppar det skulle krävs för att framställa 1 TWh el med  vind och solkraft. 
 
 Men aluminium och järn produktion har också hälso- och miljöpåverkan. Även om påverkan är lägre per kilo måste man ta hänsyn till hur mycket av respektive metall som behövs. 
 
-Användningen av järn  och aluminium vid kärnkraftsproduktion bedöms som försumbar medans de krävs ca  130 000 ton stål och 12000 aluminium för att producera 1 TWh (genomsnittlig vind och solkraft). 
+Användningen av järn  och aluminium vid kärnkraftsproduktion bedöms som försumbar medans de krävs ca 130 000 ton stål och 12000 aluminium för att producera 1 TWh med genomsnittlig vind och solkraft. 
 Detta kan sättas i perspektiv med att det krävs ca 3,3 Ton uran för att producera en TWh med dagens kärnkraft. 
 
 <i class="fa fa-exclamation fa-4x chapter-icon orange" id="mining-exclamation"></i>Sammantaget tycker vi det här visar på att uranbrytning är ett tveksamt argument mot kärnkraft. 
@@ -35,9 +35,13 @@ Detta kan sättas i perspektiv med att det krävs ca 3,3 Ton uran för att produ
 
 Till att börja med så är det viktigt att slå fast att även förnybar energi kräver gruvbrytning, mycket gruvbrytning till och med. 
 
-Enligt <a href="http://www.nature.com/ngeo/journal/v6/n11/full/ngeo1993.html">en studie</a> i Nature så kräver sol och vindenergi upp till 15 gånger mer betong, 90 gånger mer aluminium och 50 gånger mer järn, koppar och glas per installerad kapacitet jämfört med vad fossilenergi och kärnkraft gör.
+Enligt <a href="http://www.nature.com/ngeo/journal/v6/n11/full/ngeo1993.html">en studie</a> i Nature så kräver sol- och vindenergi upp till 15 gånger mer betong, 90 gånger mer aluminium och 50 gånger mer järn, koppar och glas per installerad kapacitet jämfört med vad fossilenergi och kärnkraft gör.
 
-För att vi ska kunna väga effekterna från framtagandet av dessa material mot framtagandet av uran för kärnkraft måste vi skatta både miljöpåverkan från framställningen av respektive metall, och skatta hur mycket av respektive metall som krävs för att framställa en viss mängd energi.
+För att vi ska kunna väga effekterna från framtagandet av dessa material mot framtagandet av uran för kärnkraft måste vi göra två uppskattningar:
+<ol>
+<li><p>En uppskattning av miljö- och hälsopåverkan från brytning och förädling av respektive metall</p></li>
+<li><p>En uppskattning av hur mycket av respektive metall som krävs för att framställa en viss mängd energi</p></li>
+</ol>
 
 Att göra sådana skattningar är dock inte trivialt utan förenat med flera osäkerheter. Det är därför viktigt att se att denna typ av skattningar är mer en bild av storleksordningarna än något som speglar exakta siffror.
 
@@ -53,10 +57,14 @@ Det räcker ju såklart inte med bara uran för att producera kärnkraft, det kr
 
 <h4>Skattning av miljö och hälso-effekter per kilo förädlad metall</h4>
 
-Nästa steg är att jämföra miljöpåverkan av respektive metall. Även här finns det en osäkerhet i hur stor miljöpåverkan blir i det enskilda fallet. Faktorer som påverkat är t.ex. vilken gruvdriftsmetod som används och vilka lagar som gäller i landet där gruvdriften bedrivs. De bästa platserna för brytning kommer därtill användas först, och <a href="http://www.nature.com/ngeo/journal/v6/n11/full/ngeo1993.html">studier visar att effekterna från själva gruvdriften beräknas få värre konsekvenser om man tvingas bryta på sämre platser</a>.
+Nästa steg är att jämföra miljö- och hälsopåverkan av respektive metall. Även här finns det en osäkerhet i hur stor miljöpåverkan blir i det enskilda fallet. 
 
-I en studie, som sammanfattar resultat från flera livscykelsanalyser, jämfördes miljöpåverkan av 63 metaller med avseende på både gruvbrytning och förädling. I studien jämförs metallernas påverkan per kilo på klimatet, energiförbrukningen, försurningen, övergödningen och människors utsatthet för gifter. Påverkan mättes på en 5 gradig skala från “lowest” till “highest”. 
-I artikeln har de valt att illustrera effekterna med en färgskala vi kommer här använda en siffer skala där 1 indikerar de lägsta konsekvenserna och 5  de värsta.
+<blockquote><p>Faktorer som påverkar miljö- och hälsoeffekterna är t.ex. vilken gruvdriftsmetod som används och vilka lagar som gäller i landet där gruvdriften bedrivs. De bästa platserna för brytning kommer därtill användas först, och <a href="http://www.nature.com/ngeo/journal/v6/n11/full/ngeo1993.html">studier visar att effekterna från själva gruvdriften beräknas få värre konsekvenser om man tvingas bryta på sämre platser</a>.</p></blockquote>
+
+I en <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101298">studie</a>, som sammanfattar resultat från flera livscykelsanalyser, jämfördes miljöpåverkan av 63 metaller med avseende på både gruvbrytning och förädling. I studien jämförs metallernas påverkan per kilo på klimatet, energiförbrukningen, försurningen, övergödningen och människors utsatthet för gifter. 
+
+Påverkan mättes på en skala från “lowest” till “highest”. 
+I artikeln har de valt att illustrera effekterna med en färgskala vi kommer här använda en sifferskala där 1 indikerar de lägsta konsekvenserna och 5  de värsta.
 
 De kategorier som framförallt är intressanta att se närmare på är försurning, övergödning och människors utsatthet för gifter. Den sammanlagda klimatpåverkan har nämligen visat sig vara likvärdig för kärnkraft vind och solkraft. Energiförbrukning har vi valt att exkludera eftersom det blir ett trubbigt mått då det ändå korrelerar med och påverkar de övriga kategorierna.
 
@@ -64,25 +72,31 @@ Mönstret som återkom för alla de tre kategorierna var att koppar och uran har
 
 <h4>Slutsatser från jämförelsen av metallförbrukning för olika kraftslag</h4>
 
-Syftet med resonemanget ovan är egentligen inte att ställa förnyelsebar energi mot kärnkraft, eftersom bägge TODO LÄNK ALLA VERKTYG 
-behövs för klimatet. Syftet är att visa att kärnkraft inte är självklart värre än annan energi ur ett gruvbrytningsperspektiv. 
-Scenarion med hög andel förnybart ur ett gruvdriftsperspektiv
-Som vi visat ovan har sol och vindkraft en totalt sätt mycket högre materialåtgång än kärnkraft. För att resonera kring hur detta påverkar möjligheterna att skala upp vind och solkraft globalt behöver vi titta på hur  scenarion med hög andel sol- och vindkraft skulle påverka världskonsumtionen av respektive matall.  
+Syftet med resonemanget ovan är egentligen inte att ställa förnyelsebar energi mot kärnkraft, eftersom <a href="/global/alla-verktyg-behovs">bägge behövs för klimatet</a>. Syftet är att visa att kärnkraft inte är självklart värre än annan energi ur ett gruvbrytningsperspektiv.
 
 <h2>100%-förnybats påverkan på världskonsumtionen av metaller</h2>
-I Nature - studien som skatter materialåtgången för vind och solkraft valde man att utvärdera Världsnaturfondens energiscenario för för världen, från ett gruvbrytninsperspektiv.
+
+Som vi visat ovan har sol och vindkraft en totalt sätt mycket högre materialåtgång än kärnkraft. För att resonera kring hur detta påverkar möjligheterna att skala upp vind och solkraft globalt behöver vi titta på hur  scenarion med hög andel sol- och vindkraft skulle påverka världskonsumtionen av respektive matall.  
+
+I <a href="http://www.nature.com/ngeo/journal/v6/n11/full/ngeo1993.html">Nature-studien</a> som skatter materialåtgången för vind och solkraft valde man att utvärdera Världsnaturfondens energiscenario för för världen, från ett gruvbrytninsperspektiv.
 
 <blockquote><p>WWF:s scenario föreslår en 60-faldig ökning av sol- och vindenergi till 2050. I studien kunde man dra slutsatsen att ett detta scenario innebär att världsproduktionen av stål, koppar och aluminium skulle behöva öka med 5-18% varje år fram till år 2050.</p></blockquote>
 
 Fossil energi och kärnkraft bedöms ha en försumbar konsumtion av dessa metaller i jämförelse.  
 
-Med anledning av detta så skriver artikelförfattarna:
+Med anledning av detta så <a href="http://www.nature.com/ngeo/journal/v6/n11/full/ngeo1993.html">skriver</a> artikelförfattarna:
 
 <blockquote><p>Humankind faces a vicious circle: a shift to renewable energy will replace one non-renewable resource (fossil fuel) with another (metals and minerals).</p></blockquote>
 
+<h2>Miljöpåverkan från nedlagda gruvor</h2>
+
+Miljöproblem på grund av nedlagda gruvor är ett generellt gruvproblem och inget specifikt kopplat till endast uranbrytning. Enligt <a href="http://www.cepal.org/drni/noticias/noticias/9/7029/programmeunep.pdf">FN:s miljöprogram</a> är nedlagda gruvor ett av de störta miljöproblemen kopplat till gruvbrytning. Exempelvis skriver den brittiska miljöskyddsmyndigheten i <a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/291482/LIT_8879_df7d5c.pdf">en rapport</a> att nio procent av floderna i England är förorenade på grund av nedlagda kol och metallgruvor.
+
+I Sverige är det <a href="http://www.svt.se/nyheter/regionalt/norrbotten/stora-problem-vid-nedlagda-gruvor">stora problem</a> med miljöfarligt läckage från den nedlagda Blaikengruvan i Västerbotten där zink, guld och bly tidigare bröts. Vi har inte kunnat hitta någon jämförelse mellan miljöproblemen från nedlagda urangruvor och andra gruvor. 
+
 <h2>Sällsynta jordartsmetaller i vind och solkraft</h2>
 
-örutom vanliga metaller så som järn, koppar, och aluminium så innehåller moderna vind och solkraftverk i vissa implementationer en betydande mängd sällsynta jordartsmetaller. Artikeln i nature som jämför materialåtgång för olika energislag, nämner t.ex. att ämnen som indium, galium and selenium har börjat användas för att öka effektivitetsraden i de senaste generationens vindkraftverk. 
+Förutom vanliga metaller så som järn, koppar, och aluminium så innehåller moderna vind- och solkraftverk i vissa implementationer en betydande mängd sällsynta jordartsmetaller. <a href="http://www.nature.com/ngeo/journal/v6/n11/full/ngeo1993.html">Artikeln</a> i Nature som jämför materialåtgång för olika energislag, nämner t.ex. att ämnen som indium, galium and selenium har börjat användas för att öka effektivitetsraden i de senaste generationens vindkraftverk. 
 
 I studien som sammanställer reslutaten från livscykelanalyser för ett stort antal metaller finner vi att dessa metaller har en likvärdig miljö och hälsopåverkan som koppar och uran.
 
@@ -90,7 +104,7 @@ Nature-artikeln betonar dock att beroendet av “vanliga metaller” är allvarl
 
 <h2>Risk för joniserande strålning vid uranbrytning</h2>
 
-Ibland framförs det att farhågor för att uranbrytning leder till cancer hos gruvarbetare på grund av strålning. Håkan Pettersson som är strålskyddsfysiker på Universitets sjukhuset i Linköping säger till Sveriges Radio klotet om en undersökning på urangruvarbetare i Australien:
+Ibland framförs det att farhågor för att uranbrytning leder till cancer hos gruvarbetare på grund av strålning. Håkan Pettersson som är strålskyddsfysiker på Universitetssjukhuset i Linköping säger till Sveriges Radio Klotet om en undersökning på urangruvarbetare i Australien:
 
 “När man tittar på ökad cancerförekomst är halterna så låga att de knappt är mätbara. Radonhalterna är cirka 10 Becquerel per kubikmeter luft, i svenska bostäder ligger halten i genomsnitt på 100 becquerel per kubikmeter luft. För gruvarbetare är inte den stråldos som de får i sig högre än vad en normal svensk får i sig av naturlig strålning. “
 
@@ -104,7 +118,7 @@ I miljöpartiets publikation Kärnkraft i klimatkrisens tidevarv kan vi läsa f�
 Vi har aktivt sökt efter någon studie som stödjer påståendet att barn i närheten av urangruvor i Australien skulle drabbas av missbildningar i större utsträkning. Men vi har inte kunnat finna varken nyhetstidningar eller vetenskapliga artiklar som stödjer detta. Vi har inte heller funnit stöd för att gruvdriften skulle orsaka minnesförluster eller nedsatt syn så vi vill gärna se källorna bakom även de påståendena.
 
 <h2>Slutsats</h2>
-Vår slutsats är att det är tveksamt att måla upp uranbrytning som något som vore mycket miljö och hälsoskadligare än annan gruvbrytning, vilket är en den bild man lätt får då man läser miljöpartiets material idag.
+Vår slutsats är att det är tveksamt att måla upp uranbrytning som något som vore mycket mer miljö och hälsoskadligt än annan gruvbrytning, vilket är en den bild man lätt får då man läser miljöpartiets material idag.
 
 <!-- 
 
