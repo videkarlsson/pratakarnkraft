@@ -2,7 +2,6 @@ h1, h2, h3, h4, h5{
 	color:{{ site.colors.dark_green}};
 }
 
-
 .fact-check-text{
     color:  {{ site.colors.dark_green}};
 }
@@ -94,6 +93,19 @@ blockquote{
 	color: {{ site.colors.mp_green}};
 }
 
+
+#mining-book{
+	color:{{ site.colors.mp_green}} ;
+}
+
+#mining-exclamation{
+	color: orange;
+}
+
+#mining-question{
+	color: #529CD8;
+}
+
 #danger-circle-0{
 	color: #078FFF;
 }
@@ -150,6 +162,8 @@ blockquote{
 #expencive-umbrella{
 	color: #13C4A3;
 }
+
+
 .waste-square{
 	color:orange;
 }
