@@ -64,7 +64,7 @@ Nästa steg är att jämföra miljö- och hälsopåverkan av respektive metall. 
 I en <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101298">studie</a>, som sammanfattar resultat från flera livscykelsanalyser, jämfördes miljöpåverkan av 63 metaller med avseende på både gruvbrytning och förädling. I studien jämförs metallernas påverkan per kilo på klimatet, energiförbrukningen, försurningen, övergödningen och människors utsatthet för gifter. 
 
 Påverkan mättes på en skala från “lowest” till “highest”. 
-I artikeln har de valt att illustrera effekterna med en färgskala vi kommer här använda en sifferskala där 1 indikerar de lägsta konsekvenserna och 5  de värsta.
+I artikeln har de valt att illustrera effekterna med en <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4085040/figure/pone-0101298-g003/">färgskala</a> vi kommer här använda en sifferskala där 1 indikerar de lägsta konsekvenserna (blå) och 5  de värsta (röd).
 
 De kategorier som framförallt är intressanta att se närmare på är försurning, övergödning och människors utsatthet för gifter. Den sammanlagda klimatpåverkan har nämligen visat sig vara likvärdig för kärnkraft vind och solkraft. Energiförbrukning har vi valt att exkludera eftersom det blir ett trubbigt mått då det ändå korrelerar med och påverkar de övriga kategorierna.
 
