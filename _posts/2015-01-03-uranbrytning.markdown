@@ -19,14 +19,14 @@ Studierna visar att vind- och solkraft är beroende av <a href="http://www.natur
 
 <i class="fa fa-balance-scale fa-4x chapter-icon" id="mining-balance"></i> En <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101298">studie</a> som sammanställde resultatet från befintliga  livscykelanalyser för olika metaller kom till slutsatsen att koppar och uranbrytning har likvärdiga miljö och hälsoeffekter per kilo förädlad metall.
 
-Mängden uran som behövs för producera 1 TWh kärnkraftsel är dock ungefär den dubbla jämfört med mängden koppar det skulle krävs för att framställa 1 TWh el med  vind och solkraft. 
+Det krävs dock ca 2,4 ton uran/TWh kärnkraftsel medan det bara krävs ca a 1,5 ton koppar/TWh om man producerar  med vind- och solkraft. 
 
 Men aluminium och järn produktion har också hälso- och miljöpåverkan. Även om påverkan är lägre per kilo måste man ta hänsyn till hur mycket av respektive metall som behövs. 
 
-Användningen av järn  och aluminium vid kärnkraftsproduktion bedöms som försumbar medans de krävs ca 130 000 ton stål och 12000 aluminium för att producera 1 TWh med genomsnittlig vind och solkraft. 
-Detta kan sättas i perspektiv med att det krävs ca 3,3 Ton uran för att producera en TWh med dagens kärnkraft. 
+Användningen av järn  och aluminium vid kärnkraftsproduktion bedöms som försumbar medans de krävs ca 130 000 ton stål och 12000 ton aluminium för att producera 1 TWh med genomsnittlig vind och solkraft. 
+Detta kan sättas i perspektiv med att det krävs ca 2,4 ton uran för att producera 1 TWh med dagens kärnkraft. 
 
-<i class="fa fa-exclamation fa-4x chapter-icon orange" id="mining-exclamation"></i>Sammantaget tycker vi det här visar på att uranbrytning är ett tveksamt argument mot kärnkraft. 
+<i class="fa fa-exclamation fa-4x chapter-icon orange" id="mining-exclamation"></i>Sammantaget tycker vi det här visar på att uranbrytning är ett tveksamt argument mot kärnkraft. Vi vill dock tydliggöra att syftet med den granskning vi här genomför inte är att ställa förnyelsebar energi mot kärnkraft, eftersom <a href="/global/alla-verktyg-behovs">bägge behövs för klimatet</a>. Syftet är att visa att kärnkraft inte är självklart värre än annan energi ur ett gruvbrytningsperspektiv. 
 
 <i class="fa fa-question fa-4x chapter-icon light-blue" id="mining-question"></i>Vi vill därför gärna ta del av de källor som Miljöpartiet använder sig av när de pekar ut uranbrytning som klart värre än annan gruvdrift.
 
@@ -47,9 +47,12 @@ Att göra sådana skattningar är dock inte trivialt utan förenat med flera os�
 
 <h4>Skattning av metallåtgång per TWh</h4>
 
-<i class="fa fa-calculator fa-4x chapter-icon" id=""></i>Vi har ej funnit någon studie som skattar metallåtgång per TWh följande beräkning är därför gjord för hand utifrån officiell statistik från IEA och data i vetenskapliga studier vi tagit del av.
+<i class="fa fa-calculator fa-4x chapter-icon" id=""></i>Vi har ej funnit någon studie som skattar metallåtgång per TWh följande beräkning är därför gjord för hand utifrån officiell statistik från IEA och OECD som vi tagit del av.
 
-År 2011 producerade kärnkraften 19,004 TWh energi globalt. År 2012 producerades 61 980 ton uran globalt som användes för kärnkraftproduktionen. Det blir cirka 3,3 ton uran per TWh energi. 
+År 2012 producerade kärnkraften 
+<a href="http://www.iea.org/statistics/statisticssearch/report/?year=2012&country=WORLD&product=ElectricityandHeat">ca 2461 TWh elektricitet globalt</a>
+. År 2012 producerades <a href="https://www.oecd-nea.org/ndd/pubs/2014/7209-uranium-2014.pdf">58 816 ton uran globalt (se figur 1,5 sidan 62)</a> där allt i princip uteslutandes användes för kärnkraftproduktionen. Det blir cirka 2,4 ton uran per TWh energi. 
+(Värt att notera är att detta är är om möjligt en uppskattning till kärnkraftens då vi inte tagit hänsyn till att känkraft även producer en del energi som används för uppvärmning).
 
 Enligt studien i Nature krävs det 3200 miljoner ton stål, 310 miljoner ton aluminium och 40 miljoner ton koppar för att öka mängden el från sol och vind med 24600 TWh. Det innebär att det krävs cirka 130 000 ton stål, 12 000 ton aluminium och 1,5 ton koppar per TWh sol och vindenergi. 
 
@@ -61,14 +64,14 @@ Nästa steg är att jämföra miljö- och hälsopåverkan av respektive metall. 
 
 <blockquote><p>Faktorer som påverkar miljö- och hälsoeffekterna är t.ex. vilken gruvdriftsmetod som används och vilka lagar som gäller i landet där gruvdriften bedrivs. De bästa platserna för brytning kommer därtill användas först, och <a href="http://www.nature.com/ngeo/journal/v6/n11/full/ngeo1993.html">studier visar att effekterna från själva gruvdriften beräknas få värre konsekvenser om man tvingas bryta på sämre platser</a>.</p></blockquote>
 
-I en <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101298">studie</a>, som sammanfattar resultat från flera livscykelsanalyser, jämfördes miljöpåverkan av 63 metaller med avseende på både gruvbrytning och förädling. I studien jämförs metallernas påverkan per kilo på klimatet, energiförbrukningen, försurningen, övergödningen och människors utsatthet för gifter. 
+I en <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101298">studie</a>, som sammanfattar resultat från flera livscykelsanalyser, jämfördes miljöpåverkan av 63 metaller med avseende på både gruvbrytning och förädling. I studien jämförs metallernas påverkan per förädlat kilo,  på klimatet, energiförbrukningen, försurningen, övergödningen och människors utsatthet för gifter. 
 
 Påverkan mättes på en skala från “lowest” till “highest”. 
 I artikeln har de valt att illustrera effekterna med en <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4085040/figure/pone-0101298-g003/">färgskala</a> vi kommer här använda en sifferskala där 1 indikerar de lägsta konsekvenserna (blå) och 5  de värsta (röd).
 
 De kategorier som framförallt är intressanta att se närmare på är försurning, övergödning och människors utsatthet för gifter. Den sammanlagda klimatpåverkan har nämligen visat sig vara likvärdig för kärnkraft vind och solkraft. Energiförbrukning har vi valt att exkludera eftersom det blir ett trubbigt mått då det ändå korrelerar med och påverkar de övriga kategorierna.
 
-Mönstret som återkom för alla de tre kategorierna var att koppar och uran har likvärdig påverkan båda fick genomgående en trea på den fem-gradiga skalan.  Bland de värsta metallerna fanns t.ex. guld. Aluminium och järn befann sig bland de metaller med minst hälso- och miljöeffekter och fick både en etta på den fem-gradiga skalan. 
+Mönstret som återkom för alla de tre kategorierna var att koppar och uran har likvärdig påverkan båda fick genomgående en trea på den fem-gradiga skalan. Bland de värsta metallerna fanns t.ex. guld. Aluminium och järn befann sig bland de metaller med minst hälso- och miljöeffekter och fick både en etta på den fem-gradiga skalan. 
 
 <h4>Slutsatser från jämförelsen av metallförbrukning för olika kraftslag</h4>
 
@@ -98,9 +101,11 @@ I Sverige är det <a href="http://www.svt.se/nyheter/regionalt/norrbotten/stora-
 
 Förutom vanliga metaller så som järn, koppar, och aluminium så innehåller moderna vind- och solkraftverk i vissa implementationer en betydande mängd sällsynta jordartsmetaller. <a href="http://www.nature.com/ngeo/journal/v6/n11/full/ngeo1993.html">Artikeln</a> i Nature som jämför materialåtgång för olika energislag, nämner t.ex. att ämnen som indium, galium and selenium har börjat användas för att öka effektivitetsraden i de senaste generationens vindkraftverk. 
 
-I studien som sammanställer reslutaten från livscykelanalyser för ett stort antal metaller finner vi att dessa metaller har en likvärdig miljö och hälsopåverkan som koppar och uran.
+I studien som sammanställer reslutaten från livscykelanalyser för ett stort antal metaller finner vi att de här listade metallerna har en likvärdig miljö och hälsopåverkan som koppar och uran.
 
-Nature-artikeln betonar dock att beroendet av “vanliga metaller” är allvarligare än beroendet av sällsynta jordartsmetaller då forskningen på ersättningsmateral pågår och vi kan välja att bygga något mindre effektiva sol och vindkraftverk som inte är beroende av de sällsynta jordartsmetallerna.
+<blockquote>Artikeln i nature betonar dock att beroendet av “vanliga metaller” är allvarligare än beroendet av sällsynta jordartsmetaller då forskningen på ersättningsmateral pågår och vi kan välja att bygga något mindre effektiva sol och vindkraftverk som inte är beroende av de sällsynta jordartsmetallerna.</blockquote> 
+
+Just ämnet neodym har väckt en hel del debatt i samband med produktion av vindkraft. Många kärnkraftsförespråkare brukar säga att neodym är kärnkraftens uran. Men vi kan notera att neodym faktiskt verkar ha genomgående lägre miljö och hälsoeffekter än vad koppar och uran har. Det är dessutom så att neodym bara fanns i <a href="http://www.vindkraftsbranschen.se/wp-content/uploads/2011/03/S%C3%A4llsynta-jordartmetaller-och-vindkraft1.pdf">5-10% av de vindkraftverk man installerade i världen 2011</a>. 
 
 <h2>Risk för joniserande strålning vid uranbrytning</h2>
 
