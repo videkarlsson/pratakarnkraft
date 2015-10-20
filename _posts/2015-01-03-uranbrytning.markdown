@@ -19,7 +19,7 @@ Studierna visar att vind- och solkraft är beroende av <a href="http://www.natur
 
 <i class="fa fa-balance-scale fa-4x chapter-icon" id="mining-balance"></i> En <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101298">studie</a> som sammanställde resultatet från befintliga  livscykelanalyser för olika metaller kom till slutsatsen att koppar och uranbrytning har likvärdiga miljö och hälsoeffekter per kilo förädlad metall.
 
-Att beräkna hur mycket av olika metaller som går åt för att producera en terrawatttimme el med olika energislag är ingen exakt vetenskap.Men använder vi den senaste tekniken som idag finns tillgänglig i för  vind- och solkraft ser vi att de kräver ungefär dubbelt så mycket koppar som det krävs färädlat uran för att producera samma mängd energi.
+Att beräkna hur mycket av olika metaller som går åt för att producera en terrawatttimme el med olika energislag är ingen exakt vetenskap.Men använder vi den senaste tekniken som idag finns tillgänglig för  vind- och solkraft ser vi att de kräver ungefär dubbelt så mycket koppar som det krävs färädlat uran för att producera samma mängd energi.
 
 Aluminium och järn produktion har klart lägre hälso- och miljöeffekter. Men även om påverkan är lägre per kilo så behöver man man ta hänsyn till att det krävs mycket mer av dessa metaller.
 
@@ -55,7 +55,7 @@ Både forsmark 1 och formsark 2 har en <a href="https://en.wikipedia.org/wiki/Fo
 
 Utifrån detta kan vi beräkna att det krävs ca 33,3 ton U³0⁸ per TWh (200 ton U³0⁸ per år/ 6 TWh per år = 33,3 ton U³0⁸ per TWh)
 
-Det räcker ju såklart inte med bara uran för att producera kärnkraft, det krävs ju också metaller för att bygga själva reaktorn. Men som studien i Nature visar så är detta försumbart i jämförelse med de mängder som krävs för att bygga so-l och vindkraftverk.
+Det räcker ju såklart inte med bara uran för att producera kärnkraft, det krävs ju också metaller för att bygga själva reaktorn. Men enligt studien i Nature så krävs det ca 50 gånger mer koppar och järn samt ca 90 gånger mer aluminium för att bygga vind och solkraftverk i jämförelse med att bygga kärnkraft.
 
 <h5>Mettalåtgång för sol och vindkraftverk</h5>
 
@@ -63,7 +63,7 @@ Det räcker ju såklart inte med bara uran för att producera kärnkraft, det kr
 Ur artikeln i <a href="http://www.nature.com/ngeo/journal/v6/n11/full/ngeo1993.html">Nature</a> framgår det att sol och vindkraft år 2012 producerade ca 400TWh per år. 
 
 Världsnaturfonden föreslog år 2011 ett energi-scenario som har målet att vind- och solkraft ska producera 12000 Twh/år år 2035 och hela 25000 Twh/år 2050. Nature-artikeln granskade hur mycket koppar, stål och aluminium som behövs för att möjliggöra detta scenario.
-De fann att vi kommer behöva producera  40 miljoner ton koppar, 3200 miljoner ton stål och 310 miljoner ton aluminium fram till år 2050 för att möta detta scenario med den senaste vind- och solkraft tekniken som finns tillänglig idag.
+De fann att vi kommer behöva producera  40 miljoner ton koppar, 3200 miljoner ton stål och 310 miljoner ton aluminium fram till år 2050 för att möta detta scenario med den senaste vind- och solkraft tekniken TODO (dubbel-kolla att det är korrekt) som finns tillänglig idag.
 
 Om vi gör det snälla antagandet att vi varje år fram till 2035 kommer producera 12000 TWh sol- och vinenergi per år, blir detta sammlagt ca 252000 TWh (under 21 år).
 
