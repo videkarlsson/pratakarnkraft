@@ -25,9 +25,7 @@ Aluminium och järn produktion har klart lägre hälso- och miljöeffekter. Men 
 
 Användningen av järn  och aluminium vid kärnkraftsproduktion bedöms som försumbar medans de krävs ca 5103 ton stål och 500 ton aluminium för att producera 1 TWh med genomsnittlig vind och solkraft. Detta kan sättas i perspektiv med att det krävs ca 33 ton uran för att producera 1 TWh med dagens kärnkraft. 
 
-<i class="fa fa-exclamation fa-4x chapter-icon orange" id="mining-exclamation"></i>Sammantaget tycker vi det här visar på att uranbrytning är ett tveksamt argument mot kärnkraft. Vi vill dock tydliggöra att syftet med den granskning vi här genomför inte är att ställa förnyelsebar energi mot kärnkraft, eftersom <a href="/global/alla-verktyg-behovs">bägge behövs för klimatet</a>. Syftet är att visa att kärnkraft inte är självklart värre än annan energi ur ett gruvbrytningsperspektiv. 
-
-<i class="fa fa-question fa-4x chapter-icon light-blue" id="mining-question"></i>Vi vill därför gärna ta del av de källor som Miljöpartiet använder sig av när de pekar ut uranbrytning som klart värre än annan gruvdrift.
+<i class="fa fa-exclamation fa-4x chapter-icon orange" id="mining-exclamation"></i>Sammantaget tycker vi det här visar på att uranbrytning är ett tveksamt argument mot kärnkraft. Vi vill dock tydliggöra att syftet med den granskning vi här genomför inte är att ställa förnyelsebar energi mot kärnkraft, eftersom <a href="/global/alla-verktyg-behovs">bägge behövs för klimatet</a>. 
 
 
 <h2>Uranbrytning i jämförelse med materialframställning för förnybart</h2>
@@ -69,11 +67,11 @@ De fann att vi kommer behöva producera  40 miljoner ton koppar, 3200 miljoner t
 
 Om vi gör det snälla antagandet att vi varje år fram till 2035 kommer producera 12000 TWh sol- och vinenergi per år, blir detta sammlagt ca 252000 TWh (under 21 år).
 
-Sen fortsätter vi snäll och anta att vi varje år mellan 2035 och 2050 kommer producera 25000 TWH/år med sol och vindkraft, då blir detta sammlagt ca 375000 TWh (under 15 år).
+Sen fortsätter vi snällt att anta att vi varje år mellan 2035 och 2050 kommer producera 25000 TWH/år med sol och vindkraft, då blir detta sammlagt ca 375000 TWh (under 15 år).
 
 Sammataget får ca 627000 TWh producerade med sol och vind fram till år 2050.
 
-Vind och solkraftanläggningarna som här avses lever i ca 20-30 och en del av de vindkraftverk och solkraftverk som vi här antagit ska byggas till 2050 kommer leva längre än 2050. Detta borde dock kompenseras av de snälla antagande vi gjort när vi för varje år antagit att man producerar lika mycket som målproduktionen för den 15/21 års perioden.
+Vind och solkraftanläggningarna som här avses lever i ca 20-30 och en del av de vindkraftverk och solkraftverk som vi här antagit ska byggas till 2050 kommer såklart leva längre än 2050. Detta borde dock kompenseras av de snälla antagande vi gjort när vi för varje år antagit att man producerar lika mycket som målproduktionen för den 21-års respektive 15-års perioden.
 
 En ungefärlig uppskattning av antalet ton som behövs av respektive metall per TWh får vi genom följande beräkningar: 
 
