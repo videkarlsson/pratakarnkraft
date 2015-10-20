@@ -19,12 +19,11 @@ Studierna visar att vind- och solkraft är beroende av <a href="http://www.natur
 
 <i class="fa fa-balance-scale fa-4x chapter-icon" id="mining-balance"></i> En <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101298">studie</a> som sammanställde resultatet från befintliga  livscykelanalyser för olika metaller kom till slutsatsen att koppar och uranbrytning har likvärdiga miljö och hälsoeffekter per kilo förädlad metall.
 
-Det krävs dock ca 2,4 ton uran/TWh kärnkraftsel medan det bara krävs ca a 1,5 ton koppar/TWh om man producerar  med vind- och solkraft. 
+Att beräkna hur mycket av olika metaller som går åt för att producera en terrawatttimme el med olika energislag är ingen exakt vetenskap.Men använder vi den senaste tekniken som idag finns tillgänglig i för  vind- och solkraft ser vi att de kräver ungefär dubbelt så mycket koppar som det krävs färädlat uran för att producera samma mängd energi.
 
-Men aluminium och järn produktion har också hälso- och miljöpåverkan. Även om påverkan är lägre per kilo måste man ta hänsyn till hur mycket av respektive metall som behövs. 
+Aluminium och järn produktion har klart lägre hälso- och miljöeffekter. Men även om påverkan är lägre per kilo så behöver man man ta hänsyn till att det krävs mycket mer av dessa metaller.
 
-Användningen av järn  och aluminium vid kärnkraftsproduktion bedöms som försumbar medans de krävs ca 130 000 ton stål och 12000 ton aluminium för att producera 1 TWh med genomsnittlig vind och solkraft. 
-Detta kan sättas i perspektiv med att det krävs ca 2,4 ton uran för att producera 1 TWh med dagens kärnkraft. 
+Användningen av järn  och aluminium vid kärnkraftsproduktion bedöms som försumbar medans de krävs ca 5103 ton stål och 500 ton aluminium för att producera 1 TWh med genomsnittlig vind och solkraft. Detta kan sättas i perspektiv med att det krävs ca 33 ton uran för att producera 1 TWh med dagens kärnkraft. 
 
 <i class="fa fa-exclamation fa-4x chapter-icon orange" id="mining-exclamation"></i>Sammantaget tycker vi det här visar på att uranbrytning är ett tveksamt argument mot kärnkraft. Vi vill dock tydliggöra att syftet med den granskning vi här genomför inte är att ställa förnyelsebar energi mot kärnkraft, eftersom <a href="/global/alla-verktyg-behovs">bägge behövs för klimatet</a>. Syftet är att visa att kärnkraft inte är självklart värre än annan energi ur ett gruvbrytningsperspektiv. 
 
@@ -47,16 +46,43 @@ Att göra sådana skattningar är dock inte trivialt utan förenat med flera os�
 
 <h4>Skattning av metallåtgång per TWh</h4>
 
-<i class="fa fa-calculator fa-4x chapter-icon" id=""></i>Vi har ej funnit någon studie som skattar metallåtgång per TWh följande beräkning är därför gjord för hand utifrån officiell statistik från IEA och OECD som vi tagit del av.
+<i class="fa fa-calculator fa-4x chapter-icon" id=""></i>Vi har ej funnit någon studie som rakt av skattar metallåtgång per TWh följande beräkning är därför gjord för hand utifrån tillgängliga fakta-uppgifter på området.
 
-År 2012 producerade kärnkraften 
-<a href="http://www.iea.org/statistics/statisticssearch/report/?year=2012&country=WORLD&product=ElectricityandHeat">ca 2461 TWh elektricitet globalt</a>
-. År 2012 producerades <a href="https://www.oecd-nea.org/ndd/pubs/2014/7209-uranium-2014.pdf">58 816 ton uran globalt (se figur 1,5 sidan 62)</a> där allt i princip uteslutandes användes för kärnkraftproduktionen. Det blir cirka 2,4 ton uran per TWh energi. 
-(Värt att notera är att detta är är om möjligt en uppskattning till kärnkraftens då vi inte tagit hänsyn till att känkraft även producer en del energi som används för uppvärmning).
+<h5>Metallåtgång för kärnkraft</h5>
+Kärnbränsle framställs ur ämnet U³0⁸ (det är ocskå effekterna för att framställa detta ämne som livscykel-analysen vi refererar till beräknat).
 
-Enligt studien i Nature krävs det 3200 miljoner ton stål, 310 miljoner ton aluminium och 40 miljoner ton koppar för att öka mängden el från sol och vind med 24600 TWh. Det innebär att det krävs cirka 130 000 ton stål, 12 000 ton aluminium och 1,5 ton koppar per TWh sol och vindenergi. 
+Enligt <a href="http://www.world-nuclear.org/info/Nuclear-Fuel-Cycle/Introduction/Nuclear-Fuel-Cycle-Overview/">World nuclear organisation</a> krävs det <a href="http://www.world-nuclear.org/info/Nuclear-Fuel-Cycle/Introduction/Nuclear-Fuel-Cycle-Overview/"></a>ca 200 ton U³0⁸ för att driva en reaktor på 1000MWe under ett år.
 
-Det räcker ju såklart inte med bara uran för att producera kärnkraft, det krävs ju också metaller för att bygga själva reaktorn. Men som studien i Nature visar så krävs det mycket mindre av de vanligaste metallerna för att producera en viss mängd från kärnkraft jämfört med förnyelsebar energi. 
+Både forsmark 1 och formsark 2 har en <a href="https://en.wikipedia.org/wiki/Forsmark_Nuclear_Power_Plant">installerad kapacitet på ca 1000 MWe</a>. De har de senaste 17 åren producerat <a href="http://corporate.vattenfall.se/om-oss/var-verksamhet/var-elproduktion/forsmark/produktion-och-driftlage/produktionshistorik/">i snitt 6 TWh/år vardera</a>.
+
+Utifrån detta kan vi beräkna att det krävs ca 33,3 ton U³0⁸ per TWh (200 ton U³0⁸ per år/ 6 TWh per år = 33,3 ton U³0⁸ per TWh)
+
+Det räcker ju såklart inte med bara uran för att producera kärnkraft, det krävs ju också metaller för att bygga själva reaktorn. Men som studien i Nature visar så är detta försumbart i jämförelse med de mängder som krävs för att bygga so-l och vindkraftverk.
+
+<h5>Mettalåtgång för sol och vindkraftverk</h5>
+
+
+Ur artikeln i <a href="http://www.nature.com/ngeo/journal/v6/n11/full/ngeo1993.html">Nature</a> framgår det att sol och vindkraft år 2012 producerade ca 400TWh per år. 
+
+Världsnaturfonden föreslog år 2011 ett energi-scenario som har målet att vind- och solkraft ska producera 12000 Twh/år år 2035 och hela 25000 Twh/år 2050. Nature-artikeln granskade hur mycket koppar, stål och aluminium som behövs för att möjliggöra detta scenario.
+De fann att vi kommer behöva producera  40 miljoner ton koppar, 3200 miljoner ton stål och 310 miljoner ton aluminium fram till år 2050 för att möta detta scenario med den senaste vind- och solkraft tekniken som finns tillänglig idag.
+
+Om vi gör det snälla antagandet att vi varje år fram till 2035 kommer producera 12000 TWh sol- och vinenergi per år, blir detta sammlagt ca 252000 TWh (under 21 år).
+
+Sen fortsätter vi snäll och anta att vi varje år mellan 2035 och 2050 kommer producera 25000 TWH/år med sol och vindkraft, då blir detta sammlagt ca 375000 TWh (under 15 år).
+
+Sammataget får ca 627000 TWh producerade med sol och vind fram till år 2050.
+
+Vind och solkraftanläggningarna som här avses lever i ca 20-30 och en del av de vindkraftverk och solkraftverk som vi här antagit ska byggas till 2050 kommer leva längre än 2050. Detta borde dock kompenseras av de snälla antagande vi gjort när vi för varje år antagit att man producerar lika mycket som målproduktionen för den 15/21 års perioden.
+
+En ungefärlig uppskattning av antalet ton som behövs av respektive metall per TWh får vi genom följande beräkningar: 
+
+<ul>
+<li><p>40 miljoner ton koppar / 627000 TWh = <b>ca 63,79 ton koppar/Twh</b>(sol & vindkraft)</p></li>
+<li><p>3200 miljoner ton stål / 627000 TWh= <b>ca 5103 ton stål/TWh</b> (sol & vindkraft)</p></li>
+<li><p>310 miljoner ton alumninum / 627000 TWh = <b>ca 500 ton aluminium/Twh</b> (sol & vindkraft)
+</p></li>
+</ul>
 
 <h4>Skattning av miljö och hälso-effekter per kilo förädlad metall</h4>
 
@@ -64,7 +90,9 @@ Nästa steg är att jämföra miljö- och hälsopåverkan av respektive metall. 
 
 <blockquote><p>Faktorer som påverkar miljö- och hälsoeffekterna är t.ex. vilken gruvdriftsmetod som används och vilka lagar som gäller i landet där gruvdriften bedrivs. De bästa platserna för brytning kommer därtill användas först, och <a href="http://www.nature.com/ngeo/journal/v6/n11/full/ngeo1993.html">studier visar att effekterna från själva gruvdriften beräknas få värre konsekvenser om man tvingas bryta på sämre platser</a>.</p></blockquote>
 
-I en <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101298">studie</a>, som sammanfattar resultat från flera livscykelsanalyser, jämfördes miljöpåverkan av 63 metaller med avseende på både gruvbrytning och förädling. I studien jämförs metallernas påverkan per förädlat kilo,  på klimatet, energiförbrukningen, försurningen, övergödningen och människors utsatthet för gifter. 
+I en <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101298">studie</a>, som sammanfattar resultat från flera livscykelsanalyser, jämfördes miljöpåverkan av 63 metaller med avseende på både gruvbrytning och förädling till sitt vanligaste användingsform. I fallet betyder detta färädling till U³0⁸ (se figur 1 i artikeln). 
+
+I studien jämfördes metallernas påverkan (per förädlat kilo),  på klimatet, energiförbrukningen, försurningen, övergödningen och människors utsatthet för gifter. 
 
 Påverkan mättes på en skala från “lowest” till “highest”. 
 I artikeln har de valt att illustrera effekterna med en <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4085040/figure/pone-0101298-g003/">färgskala</a> vi kommer här använda en sifferskala där 1 indikerar de lägsta konsekvenserna (blå) och 5  de värsta (röd).
@@ -75,7 +103,7 @@ Mönstret som återkom för alla de tre kategorierna var att koppar och uran har
 
 <h4>Slutsatser från jämförelsen av metallförbrukning för olika kraftslag</h4>
 
-Syftet med resonemanget ovan är egentligen inte att ställa förnyelsebar energi mot kärnkraft, eftersom <a href="/global/alla-verktyg-behovs">bägge behövs för klimatet</a>. Syftet är att visa att kärnkraft inte är självklart värre än annan energi ur ett gruvbrytningsperspektiv.
+Syftet med resonemanget ovan är egentligen inte att ställa förnyelsebar energi mot kärnkraft, eftersom <a href="/global/alla-verktyg-behovs">bägge behövs för klimatet</a>. Syftet är att visa att kärnkraft inte är värre än vind och solkraft ur ett gruvbrytningsperspektiv.
 
 <h2>100%-förnybats påverkan på världskonsumtionen av metaller</h2>
 
