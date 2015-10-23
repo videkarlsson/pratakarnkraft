@@ -8,7 +8,9 @@ categories:
 - global
 circle-img: megaphone.png
 ---
-Kärnkraftsfrågan var som nog de flesta av oss vet en av de tyngst vägande anledningarna till att Miljöpartiets grundades. Ser vi tillbaka till de förutsättningar som rådde under 1980-talet är det också lätt att förstå varför motstånd mot kärnkraft var en självklar ståndpunkt för de som ville sätta miljö och människors hälsa i första rummet. Då var världens samlade erfarenhet av sol-, vind- och kärnkraft relativt kort, och därmed var även vår kunskap om riskerna och möjligheterna med de olika kraftslagen mycket mer begränsad än idag. Men den kanske största skillnaden är att då var klimatförändringar ett relativt okänt begrepp. Idag är situationen en annan.
+Kärnkraftsfrågan var som nog de flesta av oss vet en av de tyngst vägande anledningarna till att Miljöpartiets grundades. Ser vi tillbaka till de förutsättningar som rådde under 1980-talet är det också lätt att förstå varför motstånd mot kärnkraft var en självklar ståndpunkt för de som ville sätta miljö och människors hälsa i första rummet. 
+
+<blockquote><p>I början ab 80-taletvar världens samlade erfarenhet av sol-, vind- och kärnkraft relativt kort, och därmed var även vår kunskap om riskerna och möjligheterna med de olika kraftslagen mycket mer begränsad än idag. Men den kanske största skillnaden är att då var klimatförändringar ett relativt okänt begrepp. Idag är situationen en annan.</p></blockquote> 
 
 Vi tycker att utvecklingen de senaste 30 åren ger oss flera skäl att ompröva den ståndpunkt vi antog på 1980-talet. 
 
@@ -16,7 +18,7 @@ Vi tycker att utvecklingen de senaste 30 åren ger oss flera skäl att ompröva 
 
 <b>Vi kan se att enligt <a href="http://www.who.int/mediacentre/news/releases/2014/air-pollution/en/" target="_blanc">WHO:s uppskattningar beräknas 7 miljoner människor dö</a> varje år av luftföroreningar. WHO är tydliga med att två avgörande problemen vi behöver lösa är användningen av fossila energislag och energifattigdom.</b>
 
-Förbränning av fossila bränslen skapar luftföroreringar i utomhusmiljön medan brist på stabil tillgång till elektricitet gör att människor tvingas elda vedträ och kol i sina hem med farliga luftföroreningar inomhus som följd. 
+Förbränning av fossila bränslen skapar luftföroreringar i utomhusmiljön. Brist på stabil tillgång till elektricitet gör att människor tvingas elda vedträ och kol i sina hem med farliga luftföroreningar både inomhus och utomhus  som följd. 
 
 WHO gör därtill <a href="http://www.who.int/heli/risks/climate/climatechange/en/" target="_blanc">uppskattningen</a> att bara de försiktiga klimatförändringar vi sett hittills beräknas döda över 150 000 människor varje år. 
 
@@ -37,6 +39,10 @@ Väljer vi att sätta klimatet och problemen med elfattigdom först har IPCC ett
 Scenarios that are likely to maintain warming at below 2°C include more rapid improvements in energy efficiency and a tripling to nearly a quadrupling of the share of zero - and low - carbon energy supply from renewable energy,
 nuclear energy and fossil energy with carbon dioxide capture and storage (CCS), or bioenergy with CCS (BECCS) by the year 2050.
 </blockquote>
+
+Om vi vill begränsa uppvärmningen till under 1.5 grader <a href="http://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_summary-for-policymakers.pdf">skriver IPCC (se sidan 16)</a> att det visserligen är färre som har undersökt denna möjlighet men att samtliga landat i samma slutsats. Ska vi klara krävs en omedelbar och dramatisk uppskalning av samtliga koldioxidsnåla-energislag.
+
+Detta bekräftades också i <a href="http://unfccc.int/resource/docs/2015/sb/eng/inf01.pdf">en FN-rapport</a> (s. 32) från i våras, som skriver att det krävs ”the full set of low-carbon technologies” för att begränsa temperaturökningen till 1,5 grader. 
 
 <p>Inte sällan ser vi dock hur olika delar av miljörörelsen lyfter fram enskilda scenarion från IPCCs rapporter som en garant för att vi kan klara två-gradersmålet lika bra utan kärnkraft. Vi kommer här lyfta ett exempel på där <a href="/assets/files/SRREN_fullReport.pdf">IPCC’s ‘Special Report on Renewable Energy Sources</a> använts på detta sätt.</p>
 

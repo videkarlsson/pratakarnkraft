@@ -18,11 +18,11 @@ Studierna visar att vind- och solkraft är beroende av <a href="http://www.natur
 
 <i class="fa fa-balance-scale fa-4x chapter-icon" id="mining-balance"></i> En <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101298">studie</a> som sammanställde resultatet från befintliga  livscykelanalyser för olika metaller kom till slutsatsen att koppar och uranbrytning har likvärdiga miljö och hälsoeffekter per kilo förädlad metall.
 
-Att beräkna hur mycket av olika metaller som går åt för att producera en terrawatttimme el med olika energislag är ingen exakt vetenskap.Men använder vi den senaste tekniken som idag finns tillgänglig för  vind- och solkraft ser vi att de kräver ungefär dubbelt så mycket koppar som det krävs förädlat uran för att producera samma mängd energi.
+Att beräkna hur mycket av olika metaller som går åt för att producera en terrawatttimme el med olika energislag är ingen exakt vetenskap.Men använder vi den senaste tekniken som idag finns tillgänglig för  vind- och solkraft ser vi att de kräver ca 50 kilo koppar/producerad TWh medan det för kärnkraften krävs ca 30 ton uran för att producera samma mängd energi.
 
 Aluminium och järn produktion har klart lägre hälso- och miljöeffekter. Men även om påverkan är lägre per kilo så behöver man man ta hänsyn till att det krävs mycket mer av dessa metaller.
 
-Användningen av järn  och aluminium vid kärnkraftsproduktion bedöms som liten medans de krävs ca 5103 ton stål och 500 ton aluminium för att producera 1 TWh med genomsnittlig vind- och solkraft. Detta kan sättas i perspektiv med att det krävs ca 33 ton uran för att producera 1 TWh med dagens kärnkraft. 
+Användningen av järn  och aluminium vid kärnkraftsproduktion bedöms som liten medans de krävs ca 5103 ton stål och 500 ton aluminium för att producera 1 TWh med genomsnittlig vind- och solkraft. Detta kan sättas i perspektiv med att det krävs ca 30 ton uran för att producera 1 TWh med dagens kärnkraft. 
 
 <i class="fa fa-exclamation fa-4x chapter-icon orange" id="mining-exclamation"></i>Sammantaget tycker vi det här visar på att uranbrytning är ett tveksamt argument mot kärnkraft. Vi vill dock tydliggöra att syftet med den granskning vi här genomför inte är att ställa förnyelsebar energi mot kärnkraft, eftersom <a href="/global/alla-verktyg-behovs">bägge behövs för klimatet</a>. 
 
@@ -52,7 +52,7 @@ Enligt <a href="http://www.world-nuclear.org/info/Nuclear-Fuel-Cycle/Introductio
 
 Både forsmark 1 och formsark 2 har en <a href="https://en.wikipedia.org/wiki/Forsmark_Nuclear_Power_Plant">installerad kapacitet på ca 1000 MWe</a>. De har de senaste 17 åren producerat som mest <a href="http://corporate.vattenfall.se/om-oss/var-verksamhet/var-elproduktion/forsmark/produktion-och-driftlage/produktionshistorik/">i snitt ca 7 TWh/år vardera</a>. (Vi tror att det egentligen är relevant att se på max värdet (8.8) då det inte går något bränsle när man står stilla. Men det kanske kan vara förenat med extra bränsleförbrukning att gå upp och ner i effekt så vi väljer 7 TWH som snittvärde).
 
-Utifrån detta kan vi beräkna att det krävs ca 33,3 ton U³0⁸ per TWh (200 ton U³0⁸ per år/ 7 TWh per år = ca 29 ton U³0⁸ per TWh)
+Utifrån detta kan vi beräkna att det krävs ca 29 ton U³0⁸ per TWh (200 ton U³0⁸ per år/ 7 TWh per år = ca 29 ton U³0⁸ per TWh)
 
 Det räcker ju såklart inte med bara uran för att producera kärnkraft, det krävs ju också metaller för att bygga själva reaktorn.
  Men enligt studien i Nature så kräver sol- och vindenergi upp till 15 gånger mer betong, 90 gånger mer aluminium och 50 gånger mer järn, koppar och glas per installerad kapacitet jämfört med vad fossilenergi och kärnkraft gör.
@@ -104,7 +104,7 @@ I artikeln har de valt att illustrera effekterna med en <a href="http://www.ncbi
 
 De kategorier som framförallt är intressanta att se närmare på är energiförbrukning, försurning, övergödning och människors utsatthet för gifter. Den sammanlagda klimatpåverkan har nämligen visat sig vara <a href="/karnkraftskoll/livscykelanalyser">likvärdig</a> för kärnkraft vind-och solkraft. 
 
-I kategorin energiförbrukning ser vi att processen att bryta förädla uran märker ut sig med en 3:a, i jämförelse med den 1:a som samtliga metaller som vind- och solkraft behöver får.
+I kategorin energiförbrukning ser vi att processen att bryta och förädla uran märker ut sig med en 3:a, i jämförelse med den 1:a som samtliga metaller som vind- och solkraft behöver får.
 
 Mönstret som återkom för alla de fyra kategorierna var att koppar och uran har likvärdig påverkan båda fick genomgående en trea på den fem-gradiga skalan. Aluminium och järn befann sig bland de metaller med minst hälso- och miljöeffekter och fick både en etta på den fem-gradiga skalan. 
 
@@ -162,7 +162,7 @@ I miljöpartiets publikation Kärnkraft i klimatkrisens tidevarv kan vi läsa f�
 Vi har aktivt sökt efter någon studie som stödjer påståendet att barn i närheten av urangruvor i Australien skulle drabbas av missbildningar i större utsträkning. Men vi har inte kunnat finna varken nyhetstidningar eller vetenskapliga artiklar som stödjer detta. Vi har inte heller funnit stöd för att gruvdriften skulle orsaka minnesförluster eller nedsatt syn så vi vill gärna se källorna bakom även de påståendena.
 
 <h2>Slutsats</h2>
-Vår slutsats är att det är tveksamt att måla upp uranbrytning som något som vore mycket mer miljö och hälsoskadligt än annan gruvbrytning, vilket är en den bild man lätt får då man läser miljöpartiets material idag. Vi kan också se att metallåtgång för koldioxidsnål energi kan bli en stor framtida utmaning, och att det kan vara lämpligt att ha energikällor som kompleterar varandra och använder olika typer av metaller.
+Vår slutsats är att det är tveksamt att måla upp uranbrytning som något som vore mycket mer miljö och hälsoskadligt än annan gruvbrytning, vilket är en den bild man lätt får då man läser miljöpartiets material idag. Vi kan också se att metallåtgång för koldioxidsnål energi kan bli en stor framtida utmaning, och att det kan vara lämpligt att ha energikällor som kompleterar varandra och använder olika typer av metaller. 
 
 
 <!-- 
