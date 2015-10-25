@@ -34,7 +34,7 @@ Den totala stråldosen för människor i omgivningen skulle också <a href="http
 
 <span class="fa-stack fa-lg chapter-icon waste-square"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">2</i></span>Det andra problemet vi vill lyfta är det relativa ointresse som vi inom Miljöpartiet hittils visat för fjärde generationens kärnkraft. Om vi menar allvar med att uttjänt kärnbränsle är ett oacceptabelt miljöproblem så borde vi också välkomna den teknik som kan användas för att sänkta lagringstiden från 100000 år till ca 500-1000 år.
 
-<a href="/tech/"><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Om du vill läsa mer om tekniker för att återvinna kärnavall rekomenderar vi vår forskarintervju om teknikutvecklingen inom kärnkraftsomådet.</a>
+<a href="/tech/"><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Om du vill läsa mer om tekniker för att återvinna kärnavall rekommenderar vi vår forskarintervju om teknikutvecklingen inom kärnkraftsomådet.</a>
 
 Denna bloggpost tänker vi istället ägna åt den slutförvarslösning som SKB föreslår och som inte förutsätter återvinning av avfallet.
 

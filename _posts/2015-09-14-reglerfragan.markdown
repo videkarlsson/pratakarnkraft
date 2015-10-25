@@ -18,7 +18,7 @@ Både Tyskland och Danmark är relativt rika länder med alla möjligheter att i
 
 <span class="flag-icon flag-icon-de fa-3x chapter-icon"></span> I Tyskland ser vi på regelbunden basis hur elpriserna blir negativa, detta indikerar att systemen är i obalans. Negativa elpriser innebär att det produceras mer el än vad man har avsättning för. Ingen elproducent allra minst producenterna av väderberoende energi önskar sig denna utveckling, då det gör att priset går i botten när deras produktion är som högst. Hade det varit enkelt och billigt att bygga ut energilagring hade detta varit ett attraktivt alternativ eftersom man då skulle kunna lagra överskottsenergin till dagar då produktionen är lägre och priset högre. 
 
-<span class="flag-icon flag-icon-dk fa-3x chapter-icon"></span> I Danmark ser vi hur man <a href="http://www.nyteknik.se/nyheter/energi_miljo/kol_och_olja/article3928431.ece?extcmp=newsletter|15376254|2015-09-08">just tagit beslutet</a> att slopa målet om att fasa ut kol och gaskraft till 2035 eftersom att det blir för dyrt och vi vet att det är framförallt när man ska fasa ut den fossila reglerkraften som det tillkommer mer kostnader för energilagring och ökad nätutbyggnad.
+<span class="flag-icon flag-icon-dk fa-3x chapter-icon"></span> I Danmark ser vi hur man <a href="http://www.nyteknik.se/nyheter/energi_miljo/kol_och_olja/article3928431.ece?extcmp=newsletter|15376254|2015-09-08">tagit beslutet</a> att slopa målet om att fasa ut kol och gaskraft till 2035 eftersom att det blir för dyrt och vi vet att det är framförallt när man ska fasa ut den fossila reglerkraften som det tillkommer mer kostnader för energilagring och ökad nätutbyggnad.
 
 <span class="flag-icon flag-icon-se fa-3x chapter-icon"></span> Sverige har vattenkraft som täcker ca hälften av vårt elbehov. Detta gör att vi har unikt goda förutsättningar för att reglera stora mängder väderberoende energi. Trots detta gör tunga aktörer som myndigheten <a href="http://www.second-opinion.se/energi/view/2889">Svenska kraftnät</a> bedömningen att vi kan komma att behöva fossil reglerkraft i form av gaskraftverk. Tanken är att dessa för det mesta ska stå stilla men att de ska kunna gå in och producera när vind- och solkraften dippar och behoven är stora. 
 
@@ -40,7 +40,7 @@ I korthet är hans analys att om vi ska fasa ut fossilkraft med förnybart kräv
 
 <span class="chapter-icon"><i class="fa fa-cloud fa-5x "></i></span> För att betona behovet av satsningar på ekonomiskt konkurrenskraftiga och globalt skalbara lösningar på reglerfrågan vill vi här sammanfatta de utmaningar vi ser är förenade med de lösningar som finns tillgängliga i dag.. 
 
-Om du som läsare först vill skapa dig en egen uppfattning om hur mycket produktionen av väderberoende energi varerar över tid rekomenderar vi att gå in och titta på <a href="http://www.svk.se/stamnatet/kontrollrummet/">Svenska Kraftnäts sida Kontrollrummet</a> där man kan se hur Danmarks vindkraftsproduktion varierar timme för timme.
+Om du som läsare först vill skapa dig en egen uppfattning om hur mycket produktionen av väderberoende energi varerar över tid rekommenderar vi att gå in och titta på <a href="http://www.svk.se/stamnatet/kontrollrummet/">Svenska Kraftnäts sida Kontrollrummet</a> där man kan se hur Danmarks vindkraftsproduktion varierar timme för timme.
 
 Dessa två grafer illusterar t.ex. hur produktionen varierade mellan två dagar samma vecka när denna bloggpost skrevs.
 

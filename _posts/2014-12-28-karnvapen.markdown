@@ -54,7 +54,7 @@ Det är viktigt att komma ihåg att detta gäller just för nya kärnkraftsländ
 
 Men det är givetvis ett problem med kärnkraftsutbyggnad i odemokratiska, ostabila och/eller länder med hög korruption. Därför är det särskilt önskvärt att framförallt sol- vind-, och även till viss del bio-energi får står för en så stor andel som möjligt av energiförsörjningen i dessa länder. 
 
-Som Hans Rosling presenterar på ett pedagogiskt sätt <a href="https://www.youtube.com/watch?v=xYnpJGaMiXo">i denna video</a> är det också viktigt att se att vi har en mycket positiv utveckling i världen mot mer demokrati och välstånd. Länder som idag inte är lämpade att vara kärnkraftsländer kan därför mycket väl vara det inom en relativt snar framtid. Därför är det bra om teknik för detta finns att tillgå när dessa länder är redo.
+Som Hans Rosling presenterar på ett pedagogiskt sätt <a href="https://www.youtube.com/watch?v=xYnpJGaMiXo">i denna video</a> är det också viktigt att se att vi har en mycket positiv utveckling i världen mot mer demokrati och välstånd. Länder som idag inte är lämpade att vara kärnkraftsländer kan därför mycket väl bli det. Därför är det bra om teknik för detta finns att tillgå när dessa länder är redo.
 
 <h2>Terrorism och kärnvapen</h2>
 
@@ -83,7 +83,7 @@ Sammantaget tycker vi detta tala för att riskerna kopplade till att terrorgrupp
 
 Det är dock viktigt att ha i åtanke att även om terrorgrupper inte kan få tillgång till radioaktivt material genom civil kärnkraft så kommer de använda samma resurser på att tillskaffa sig radioaktivt material på andra sätt och/eller satsa på andra typer av farliga vapensystem.
 
-Vi behöver även se att fossila bränslen står för ca 85% av världen energiproduktion. Det finns <a href="/global/alla-verktyg-behovs"></a>mycket som tyder på att förnybara energislag idag inte själva kommer klara av att ersätta dem i den takt som klimatet kräver.
+Vi behöver även se att fossila bränslen står för ca 80% av världen energiproduktion. Det finns <a href="/global/alla-verktyg-behovs"></a>mycket som tyder på att förnybara energislag idag inte själva kommer klara av att ersätta dem i den takt som klimatet kräver.
 
 Utöver det så är olja även kopplade till krig och konflikter. Mellan 25-50 % av alla krig från 1973 har varit kopplade till olja, visar <a href="http://belfercenter.ksg.harvard.edu/publication/23517/oil_conflict_and_us_national_interests.html">en studie från 2013</a> av forskare från Harvard. Om kärnkraft står för en del av elproduktionen så har vi möjlighet att använda mer biobränsle för att ersätta olja i transportsektorn. 
 
