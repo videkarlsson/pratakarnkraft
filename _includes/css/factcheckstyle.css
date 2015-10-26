@@ -140,6 +140,9 @@ blockquote{
 	color: #065143;
 }
 
+.expencive-fa-ul{
+	color:{{ site.colors.mp_green}};
+}
 
 #expencive-warning-circle{
 	color:orange;
