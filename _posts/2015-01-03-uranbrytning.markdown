@@ -1,7 +1,7 @@
 ---
 layout: fact-check-blog
 title: "Vilka är konsekvenserna av uranbrytning?"
-date: 2015-01-03 16:54:46
+date: 2015-10-03 16:54:46
 author: Ragnhild Karlsson
 categories:
 - karnkraftskoll
@@ -22,7 +22,7 @@ Att beräkna hur mycket av olika metaller som går åt för att producera en ter
 
 Aluminium och järn produktion har klart lägre hälso- och miljöeffekter. Men även om påverkan är lägre per kilo så behöver man man ta hänsyn till att det krävs mycket mer av dessa metaller.
 
-Användningen av järn  och aluminium vid kärnkraftsproduktion bedöms som liten medans de krävs ca 5103 ton stål och 500 ton aluminium för att producera 1 TWh med genomsnittlig vind- och solkraft. Detta kan sättas i perspektiv med att det krävs ca 30 ton uran för att producera 1 TWh med dagens kärnkraft. 
+Användningen av järn  och aluminium vid kärnkraftsproduktion bedöms som liten medans de krävs ca 4000 ton stål och ca 400 ton aluminium för att producera 1 TWh med genomsnittlig vind- och solkraft med de senaste teknikerna som finns tillgängliga idag. Detta kan sättas i perspektiv med att det krävs ca 30 ton uran för att producera 1 TWh med dagens kärnkraft. 
 
 <i class="fa fa-exclamation fa-4x chapter-icon orange" id="mining-exclamation"></i>Sammantaget tycker vi det här visar på att uranbrytning är ett tveksamt argument mot kärnkraft. Vi vill dock tydliggöra att syftet med den granskning vi här genomför inte är att ställa förnyelsebar energi mot kärnkraft, eftersom <a href="/global/alla-verktyg-behovs">bägge behövs för klimatet</a>. 
 
@@ -83,10 +83,9 @@ Vi skulle kunna anta att materialet i de kraftverk som behövs för att leverera
 En ungefärlig uppskattning av antalet ton som behövs av respektive metall per TWh får vi därför genom följande beräkningar: 
 
 <ul>
-<li><p>38920000 ton koppar / 750000 TWh = <b>ca 52 ton koppar/Twh</b>(sol & vindkraft)</p></li>
-<li><p>3113600000 ton stål / 750000 TWh= <b>ca 4151 ton stål/TWh</b> (sol & vindkraft)</p></li>
-<li><p>301630000 ton alumninum / 750000 TWh = <b>ca 402 ton aluminium/Twh</b> (sol & vindkraft)
-</p></li>
+<li><p>389 20000 ton koppar / 750000 TWh = <b>ca 52 ton koppar/Twh</b>(sol & vindkraft)</p></li>
+<li><p>301 630000 ton alumninum / 750000 TWh = <b>ca 402 ton aluminium/Twh</b> (sol & vindkraft)</p></li>
+<li><p>3113 600000 ton stål / 750000 TWh= <b>ca 4151 ton stål/TWh</b> (sol & vindkraft)</p></li>
 </ul>
 
 <h4>Skattning av miljö och hälso-effekter per kilo förädlad metall</h4>
@@ -142,7 +141,7 @@ Förutom vanliga metaller så som järn, koppar, och aluminium så innehåller m
 
 I studien som sammanställer reslutaten från livscykelanalyser för ett stort antal metaller finner vi att de här listade metallerna har en likvärdig miljö och hälsopåverkan som koppar och uran.
 
-<blockquote>Artikeln i nature betonar dock att beroendet av “vanliga metaller” är allvarligare än beroendet av sällsynta jordartsmetaller då forskningen på ersättningsmateral pågår och vi kan välja att bygga något mindre effektiva sol- och vindkraftverk som inte är beroende av de sällsynta jordartsmetallerna.</blockquote> 
+<blockquote><p>Artikeln i Nature betonar dock att beroendet av “vanliga metaller” är allvarligare än beroendet av sällsynta jordartsmetaller då forskningen på ersättningsmateral pågår och vi kan välja att bygga något mindre effektiva sol- och vindkraftverk som inte är beroende av de sällsynta jordartsmetallerna.</p></blockquote> 
 
 Just ämnet neodym har väckt en hel del debatt i samband med produktion av vindkraft. Många kärnkraftsförespråkare brukar säga att neodym är vindkraftens uran. Men vi kan notera att neodym faktiskt verkar ha genomgående lägre miljö och hälsoeffekter än vad koppar och uran har. Det är dessutom så att neodym bara fanns i <a href="http://www.vindkraftsbranschen.se/wp-content/uploads/2011/03/S%C3%A4llsynta-jordartmetaller-och-vindkraft1.pdf">5-10% av de vindkraftverk man installerade i världen 2011</a>. 
 
