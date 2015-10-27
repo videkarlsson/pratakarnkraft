@@ -17,10 +17,10 @@ circle-img: expencive.png
 <blockquote><p> Självklart ska vi premiera de billigaste vägarna till att stoppa klimatförändringarna. Men det är också viktigt att se till att våra satsningar verkligen leder till en utfasning av fossil energi. Om fossilfritt ersätter fossilfritt gör vi ingen klimatvinst</p></blockquote> 
 <p>Denna bloggpost är uppdelad i tre delar:</p>
 <p>1) I den första delen försöker vi kartlägga samtliga kostnader som olika energislag ger upphov till. 
-<p>2) I den andra delen ser vi närmarer på den ekonomiska utvecklignen för olika kraftslag i Sverige och världen.</p>
-<p>3) I den tredje delen ger vi vår bild av hur vi skulle vilja ändra dagens styrmedel för att både främja utvecklingen av förnybart och skapa mer teknikneutrala förutsättningar för de olika koldioxidsnåla alternativen</p>
-<p> Den slutsats vi landar i är att kärnkraft inte är förenat med högre kostnader än vindkraft. Men vi vill betona att detta är komplexa frågor och alla kostnadsuppskattningar är förenade med osäkerheter. Vi tar därför gärna emot tips från dig som läsare om du upplever att det finns faktorer vi missat att ta hänsyn till eller om det finns skäl att anta att någon specifik beräkning här gör en under- eller överskattaning av någon kostnad.</p>
+<p>2) I den andra delen ser vi närmarer på den ekonomiska utvecklingen för olika kraftslag i Sverige och världen.</p>
+<p>3) I den tredje delen ger vi vår bild av hur vi skulle vilja ändra dagens styrmedel för att både främja utvecklingen av förnybart och skapa mer teknikneutrala förutsättningar för alla de olika koldioxidsnåla alternativen att verka.</p>
 <h1>En granskning av olika energislags kostnader - i fyra punkter</h1>
+<p> Den övergripande slutsats vi gör utifrån denna jämförelse är att kärnkraft inte är förenat med högre kostnader än vindkraft. Men vi vill betona att detta är komplexa frågor och alla kostnadsuppskattningar är förenade med osäkerheter. Vi tar därför gärna emot tips från dig som läsare om du upplever att det finns faktorer vi missat att ta hänsyn till eller om det finns skäl att anta att någon specifik beräkning här gör en under- eller överskattaning av någon kostnad.</p>
 <h3><a href="/karnkraftskoll/dyrt/skatter-subventioner-avgifter"><span class="fa-stack fa-lg chapter-icon"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">1</i></span>Dagsläget: Skatter Subventioner och Avgifter</a></h3>
 <img class="img-responsive blog-img" src="/assets/img/fact-check/chart-subventioner-och-skatter.png">
 <p class="img-text">Källa: <a href="http://www.svenskenergi.se/">Svensk Energi</a>, <a href="www.ekonomifakta.se">Ekonomifakta.se</a> och <a href="www.elen.nu">Elen.nu</a></p>
@@ -78,10 +78,10 @@ without significantly increasing power system costs in the long run."</p></block
 <p>Vi instämmer i att det är ett positivt och viktigt budskap att det kan vara en bra investering ur ett längre perspektiv att integrera en stor andel väderberoende energi i många europeiska länder.</p>
 <p><span class="flag-icon flag-icon-dk fa-3x chapter-icon"></span>Att en investering är lönsam ifall man tar hänsyn till framtida kostnader för miljöpåverkan av fossil energi är dock tyvärr inte alltid detsamma som att investeringen är lätt genomförbar.</p>
 <p>Vi tycker t.ex. att det väcker oro att <a href="http://www.nyteknik.se/nyheter/energi_miljo/kol_och_olja/article3928431.ece?extcmp=newsletter|15376254|2015-09-08">ett land som Danmark beslutat att skippa sitt mål att fasa ut fossil energi till 2030 för att de tycker kostnaderna blir för höga</a></p>
-<p>I sammanfattningen av rapporten betonas också att energilagring fortfarande är förenat med stora kostnader, och att det finns osäkerhet i hur olika energilagringstekniker kommer gå att skala upp. </p>
+<p>I sammanfattningen av rapporten betonas också att energilagring fortfarande är förenat med stora kostnader, och att det finns osäkerhet i hur bra olika energilagringstekniker kommer gå att skala upp. </p>
 <p><i class="fa fa-cloud fa-5x chapter-icon" ></i>Höga kostnader för energilagring är ett orosmoln, då det kan göra det svårt att skala upp förnybar energi ytterligare när man nått en nivå som utnyttjar annan flexibilitet i systemet till max.</p> 
 <p>Många länder saknar tillgång till en stor andel fossilfri reglerkraft. Här tänker vi att kärnkraft och förnybart kan behöva arbeta tillsammans för att fasa ut den fossila energin. Det är därför viktigt att ta fram lösningar på hur man resurseffektivt integrerar både en stor andel värderberoende energi och kärnkraft i samma nät.</p>
-<p><b>Hur stora kostnaderna för integrering kommer är i Sverige blir svårt att uppskatta. Men vi vill framförallt peka på det orimliga i att skatta dessa kostnader till noll när man jämför priset för kärnkraft repspektive väderberoende energi.</b></p>
+<p><b>Hur stora kostnaderna för integrering av vind- och solkraft kommer vara i Sverige är svårt att uppskatta. Men vi vill framförallt peka på det orimliga i att skatta dessa kostnader till noll när man jämför priset för kärnkraft repspektive väderberoende energi.</b></p>
 <h3><a href="/karnkraftskoll/dyrt/lillgrund-markbygden-olkiluoto/" id="expencive-circle-4"><span class="fa-stack fa-lg chapter-icon"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">4</i></span>Lillgrund & Markbygden vs Olkiluoto - Ett räknexempel</a></h3>	
 <p>Rektorn Olkiluoto som håller på att byggas i Finnland lyfts ofta fram som ett skräckexempel över hur dyr ny kärnkraft kan bli. Vi tyckte därför att det skulle vara intressant att jämföra kostnaden för denna reaktor med kostnaderna för svenska vindkraftsprojekt. Vi valde Markbygdens vindkraftspark som är tänkt att bli en Europas största landbaserade vindkraftspark och Lillgrund som är Sveriges största havsbaserade vindkraftspark.</p>
 <img class="img-responsive blog-img" src="/assets/img/fact-check/expencive_compare.png">
@@ -124,49 +124,39 @@ without significantly increasing power system costs in the long run."</p></block
 <p>Vi har inte tillräckligt god insyn i alla tänkbara alternativ för att med säkerhet kunna säga vad som ger störst nytta, utan vi vill bara lyfta fram att en kombination av kärnkraft och väderberoende energi, kan vara ett möjligt alternativ bland flera att ta ställning till.</p>
 <p>Oavsett om vi väljer att satsa på ny kärnkraft eller ej ser vi det som ett slöseri med koldioxidsnål energi att stänga de svenska reaktorerna i förtid.</p>
 <p>Så länge det finns en betydande andel av fossil energi <a href="http://www.naturvardsverket.se/Miljoarbete-i-samhallet/Miljoarbete-i-Sverige/Uppdelat-efter-omrade/Energi/Fossila-branslen/#">både i Sverige</a> och våra grannländer är det olyckligt om vi gör oss av med fossilfri energi i onödan.</p>
-<p>Eftersom vindkraftsproduktionen tenderar att korrelera i stora områden, så kan vi räkna med att vindkraft utan energilagring inte på samma sätt som kärnkraft kan fungera som ersättare till fossil energi i våra grann
+<p>För att kunna ersätta fossil energi i våra grannländer behöver vi kunna erbjuda koldioxidsnål el när de har en underproduktion av sådan. Eftersom vindkraftsproduktionen <a href="/global/reglerfragan">tenderar att korrelera i stora områden</a>, så kan vi inte räkna med att vindkraft utan energilagring på samma sätt som kärnkraft och överskott på vattenkraft kan fungera som ersättare till fossil energi i våra grannländer</p>
 <h3>Vad beror känkraftsnedläggningarna på...</h3> 
 <p>Det kan vara för sent att stoppa de nedläggningar som nu sker, men för att stoppa att det inte blir fler reaktorer som stängs i förtid behöver vi analysera vad som orsakar den nedläggningsvåg som nu pågår</p>
-<p>Vi har följt debatten och kunnat se att det framföralt finns tre olika anlednigar som verkar samverka
+<p>Vi har följt debatten och kunnat se att det framföralt finns tre olika anlednigar som verkar samverka och skapa dåliga förutsättningar för fortsatt kärnkraftsproduktion:</p>
 <ul class="fa-ul">
 	<li><i class="fa-li fa fa-check-square"></i><p><b>Lågt elpris</b> De senaste åren har elpriset varit mycket lågt. Det finns flera anledningar til detta. Faktorer som biddragit är ett <a href="http://www.dn.se/ekonomi/elpriset-ar-rekordlagt/">milt väder som sänker förbrukning</a>och <a href="http://www.nyteknik.se/nyheter/energi_miljo/energi/article3893261.ece">hyggligt stabil produktion i Sveriges vatten och kärnkraftver</a>. Men även att <a href="http://www.svt.se/nyheter/inrikes/vindkraft-driver-fram-rekordlaga-elpriser">vindkraften tillfört en stor mängd el i nätet</a>.</p></li>
 	<li><i class="fa-li fa fa-check-square"></i><p><b>Nya säkerhetskrav</b> Efter Fukushimaolyckan har säkerhetskraven höjts. Detta <a href="http://www.dn.se/ekonomi/hardare-sakerhetskrav-pa-karnkraftverk/">bedömms</a> kosta ca 3-5 mijarder per reaktor. Om vi skulle genomföra detta på samtliga av Sveriges 10 reaktorer skulle det motsvara en kostnad på ca 40 miljarder kronor. Ev. kan det dock vara högre kostnader för specifikt Ringhals 2 då man där <a href="http://www.nyteknik.se/nyheter/energi_miljo/karnkraft/article3938805.ece">upptäckt korriskonsskador</a> som behöver åtgärdas och som kan medföra ökade kostnader.</p></li>
 	<li><i class="fa-li fa fa-check-square"></i><p><b>Effektskatten</b> I sin helhet kostar effektskatten kärnkraftsbolagen <a href="http://www.svenskenergi.se/Elfakta/Elpriser-och-skatter/Skatter-och-avgifter-pa-produktion/">ca 4 miljarder om året.</a> Detta utgör en femtedel av produktionskostnaderna och <a href="http://www.nyteknik.se/nyheter/energi_miljo/karnkraft/article3939221.ece">har påverkat beslutet att lägga ner reaktorerna i förtid</a>.</p></li>
 </ul> 
-<p>De två faktorer som industrin själva pekat ut som mest betydande verkar vara det <a href="http://news.vattenfall.com/sv/article/laga-elpriser-och-effektskatten-bakom-beslut-om-tidig-stangning">låga elpriset och effektskatten i sin helhet</a>. Men sannolikt samverkar alla tre</p>
+<p>De två faktorer som industrin själva pekat ut som mest betydande verkar vara det <a href="http://news.vattenfall.com/sv/article/laga-elpriser-och-effektskatten-bakom-beslut-om-tidig-stangning">låga elpriset och effektskatten i sin helhet</a>. Men sannolikt samverkar alla tre.</p>
 <h3>...och vad kan vi göra åt dem</h3>
-<p>De två faktorer som är meningsfull att försöka påverka från politiskt håll är dels de låga elpriserna och att vi har en effektskatt som slår ensidigt mot kärnkraft. Viktiga krav som höjer säkerheten ska givetvis finnas kvar.</p>
+<p>De två faktorer som är meningsfull att försöka påverka från politiskt håll är de låga elpriserna samt att vi har en effektskatt som slår ensidigt mot kärnkraft. Viktiga krav för att höja säkerheten finns det ingen anledning att kompromissa med.</p>
 <h4>Styrmedel som främjar ett stabilt elpris</h4>
-<p>Det låga elpriset har delvis uppstått p.g.a att vi snabbt byggt ut vindkraften. Detta skapar ett överskott av el under vissa delar av året som drar ner elpriset. Ett sätt att få fram ett mer jämnt elpris skulle vara att införa styrmedel som främjar utbyggnad av väderberoende energi utan även främjar effektbalans och integrering av den väderberoende energin i elsystemet</p>
-<p>Med integrering avser vi att man t.ex. kan lagra energi s
-
+<p>Det låga elpriset har delvis uppstått p.g.a att vi snabbt byggt ut vindkraften. Detta skapar ett överskott av el under vissa delar av året som drar ner elpriset under dessa perioder. Samtidigt som tunga aktörer som <a href="http://www.second-opinion.se/energi/view/2889">Svenska Kraftnät</a> varnar för att vi kan få effektbrist andra delar av året och det kommer larm om att de låga elpriset gör det <a href="http://www.svd.se/lagt-pris-pa-el-drabbar-vindkraften">svårare att få till investeringar i ny vindkraft</a>.</p>
+</p>
+<p>Ett sätt att komma åt denna problematik få fram ett mer jämnt elpris skulle vara att införa styrmedel som inte barafrämjar utbyggnad av väderberoende energi utan även främjar effektbalans och integrering av den väderberoende energin i elsystemet</p>
+<p>Med integrering avser vi att man t.ex. kan lagra energi från tillfällen med överproduktion till tillfällen då det finns ett underskott på el.</p>
+<p>TODO DISKUTERA VARFÖR DETTA ÄR BRA FÖR BÅDE INTEGRERING AV NY VINDKRAFT OCH INTEGRERING MED KÄNRKRAFT MED UTGÅNGSPUNKT I
+	JESSE http://www.theenergycollective.com/jessejenkins/368706/can-nuclear-power-and-renewable-energy-learn-get-along
+	https://energimyndigheten.a-w2m.se/FolderContents.mvc/Download?ResourceId=2961 MENAR ATT DET BEHÖVS ETT ELPRIS PÅ 50-60 ÖRE/KWH För att vi ska få till en stor utbyggnad av vindkraft. Om vi har elpriser när 0 kommer dessa investeringar inte bli av.
+	https://www.iea.org/Textbase/npsum/GIVAR2014sum.pdf GIVAR att integrering bör prioriteras i utbyggnadsprocessen</p>
 <p>Exakt hur vi ska utforma styrmedel som främjar effektbalans och integreringen av väderberoende väljer vi att inte ta ställning till. Detta är en fråga som vi tror bäst besvaras av nationalekonomer som är experter på utformning av styrmedel. Vi vill bara belysa behover av en övergång till styrmedel som tar hänsyn till även dessa mål.</p>
-<p>Generellt sätt tror vi att det är bra om man kan utforma styrmedlena som att man försöker sätta ett pris på världen man vill ha t.ex. integrering, effektbalans och låga koldioxidutsläpp i stället för att subventionera enskillda kraftslag. Detta eftersom subventioner av enskillda kraftslag eller tekniker leder till en sneddrivning av marknaden och gör att andra tekniker som kan vara minst lika bra inte kommer fram. I värsta fallet kan det också leda till att man får subventionera alla kraftslag eftersom ingen klarar av att konkurrera med de som får subventioner</p>
+<p>Generellt sätt tror vi att det är bra om man kan utforma styrmedlena så att de sätta ett pris på värden man vill uppnå som t.ex. stabila elpriser (som elproducenterna kan klara sig på, utan stöd), effektbalans och låga koldioxidutsläpp i stället för att subventionera enskilda kraftslag. Detta eftersom subventioner av enskilda kraftslag eller tekniker leder till en sned-drivning av marknaden och gör att andra tekniker som kan vara minst lika bra kanske inte kommer fram. I värsta fallet kan det också leda till att man får subventionera alla kraftslag eftersom ingen klarar av att konkurrera med de som får subventioner.</p>
 <h4>Ersätt effektskatten med en olycksriskskatt</h4>
-<p>Angående effektskatten skulle vi gärna se att den på sikt ersätts med en olycks-risk-skatt, som tar hänsyn till risknivån på den givna reaktorn och primerar säkerhetsinvesteringar</p>
-<p>Nivån på denna 
-
-
-<p>De tekniker som bäst  
-
- utan detta tror vi sköter sig bäst genom teknikneutrala styrmedel som även tar hänsyn till kostnader 
-
-	. Men vi vill framförallt lyta fram perspektivet att Sverige
-
-Innan vio  styrt upp styrmedlena för förnybart är det rimligt att bjda på effkteskatten
-
-Parrallelt med nya säkerhetsinvesteringar i reaktorer.
-
-Ändra styrmedlena så att de främjar inte bara blint byggande utan även integrering
-
-Hög tillgång till billig pålitlig koldioxidsnål energi är viktigt för att se investeringar i utfasning av de sista fossila bränslena.
-
-
-
-
-
-STOR TILLGÅNG PÅ FOSSILFRI ENERGI ÄR ETT NÖDVÄNDIGT> MEN INTE TILLRÄCKLIGT VILLKOR FÖR ATTT FASA UT FOSSIL ENERGI I SVERIGE
-
-<p>För att svara på den frågan beh
-
+<p>Angående effektskatten skulle vi gärna se att den på sikt ersätts med en olycks-risk-skatt, som tar hänsyn till risknivån på det givna kraftverket och premierar fortsatta säkerhetsinvesteringar.</p>
+<p>Nivån på denna skatt ska både ta hänsyn till risken för olika olyckor och kostnaderna för densamma. Den bör slutligen också vara teknikneutral så att alla kraftslag betalar en skatt som står i proportion till sina specifika olycks-risker.</p>
+<p>Dagens subventioner gör att vindkraft producerar el till ett el-pris som de har svårt att själva <a href="http://www.svd.se/negativa-elpriser-kan-snart-bli-verklighet">klara sig på</a>. Tills man lyckats lägga om subventionerna så att de främjar effektbalans, tycker vi att det kan vara rimligt att tillfälligt ta bort icke-teknikneutrala skatter så som effektskatt och extra hög fastighetsskatt på vattenkraft.</p>
+<p>När man väl kommit tillbaka till ett system med elpriser som vindkraften tycker vi dock som sagt att det är viktigt att prisa in riskerna för olyckor och lägger till denna olycks-risk-skatt.</p>
+<h4>Sträva efter att behålla ett visst överskott på koldioxidsnål energi</h4>
+<p>Om vi i Sverige ska ha möjlighet att vid varje givet tillfälle producera så mycket el att vi alltid har effektbalans, kommer detta innebära att vi har en viss överproduktion i systemet. I tillfällen med lågt elbehov kommer vi helt enkelt ha en viss överkapacitet.</p>
+<p>Detta tror inte vi behöver vara ett problem utan kan istälet hjälpa till i processen att fasa ut den kvarvarande fossila energin</p>
+<p>I Sverige så kommer fortfarnade en tredjedel av den energi vi konsummerar från fossila energikällor. En stor del av denna fossila energi konsummeras dock inom industrin och transportsektorn</p>
+<p>Att ersätta denna fossila energi medför alltså fler utmaningar än att bara erbjuda fossilfri el.</p>
+<p>För att fasa ut fossil energi i transportsektorn måste vi investera i nya fordon och för att fasa ut fossil energi industring behöver man investera i att elektrifiera processer som idag bygger på förbränning</p>
+<p>Stabil tillgång till tillräckliga mängder koldioxidsnål el, till ett stabilt och förutsägbart pris tror vi kan främja denna typ av viktiga investeringar även om det inte ensammt är tillräckligt.</p>
 </section>
