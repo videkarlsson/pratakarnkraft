@@ -141,12 +141,18 @@ without significantly increasing power system costs in the long run."</p></block
 </p>
 <p>Ett sätt att komma åt denna problematik få fram ett mer jämnt elpris skulle vara att införa styrmedel som inte barafrämjar utbyggnad av väderberoende energi utan även främjar effektbalans och integrering av den väderberoende energin i elsystemet</p>
 <p>Med integrering avser vi att man t.ex. kan lagra energi från tillfällen med överproduktion till tillfällen då det finns ett underskott på el.</p>
+<p>Om vi kan vara med och ta fram ekonomiskt konkurranskraftiga lösningar på lagring av energi vore det möjligt för vindkraften att sälja delar av den el de producerar vid ett tillfälle när det är brist på el istället för att behöva sälja allt när produktionen är som högst till ett mycket lågt pris.</p>
+<p>Att lösa problemen som överproduktion orsakar verkar vara centralt för möjligheten att få ny. 
+<p>Visst kan man tänka att man ger ett garantipris på ny vindkraft. Men detta riskerar att leda in på en väg med dålig nyinvesterin:
+	TODO
+	http://www.second-opinion.se/energi/view/3014
+	och kanske även tekniska lösningar för att automatiskt kunna flytta en del av konsumtionen från 
 <p>TODO DISKUTERA VARFÖR DETTA ÄR BRA FÖR BÅDE INTEGRERING AV NY VINDKRAFT OCH INTEGRERING MED KÄNRKRAFT MED UTGÅNGSPUNKT I
 	JESSE http://www.theenergycollective.com/jessejenkins/368706/can-nuclear-power-and-renewable-energy-learn-get-along
 	https://energimyndigheten.a-w2m.se/FolderContents.mvc/Download?ResourceId=2961 MENAR ATT DET BEHÖVS ETT ELPRIS PÅ 50-60 ÖRE/KWH För att vi ska få till en stor utbyggnad av vindkraft. Om vi har elpriser när 0 kommer dessa investeringar inte bli av.
 	https://www.iea.org/Textbase/npsum/GIVAR2014sum.pdf GIVAR att integrering bör prioriteras i utbyggnadsprocessen</p>
 <p>Exakt hur vi ska utforma styrmedel som främjar effektbalans och integreringen av väderberoende väljer vi att inte ta ställning till. Detta är en fråga som vi tror bäst besvaras av nationalekonomer som är experter på utformning av styrmedel. Vi vill bara belysa behover av en övergång till styrmedel som tar hänsyn till även dessa mål.</p>
-<p>Generellt sätt tror vi att det är bra om man kan utforma styrmedlena så att de sätta ett pris på värden man vill uppnå som t.ex. stabila elpriser (som elproducenterna kan klara sig på, utan stöd), effektbalans och låga koldioxidutsläpp i stället för att subventionera enskilda kraftslag. Detta eftersom subventioner av enskilda kraftslag eller tekniker leder till en sned-drivning av marknaden och gör att andra tekniker som kan vara minst lika bra kanske inte kommer fram. I värsta fallet kan det också leda till att man får subventionera alla kraftslag eftersom ingen klarar av att konkurrera med de som får subventioner.</p>
+<p>Generellt sätt tror vi att det är bra om man kan utforma styrmedlena så att de sätta ett pris på värden man vill uppnå som t.ex. stabila elpriser (som elproducenterna kan klara sig på, utan stöd), effektbalans och låga koldioxidutsläpp i stället för att subventionera enskilda kraftslag. Detta eftersom subventioner av enskilda kraftslag eller tekniker leder till en sned-drivning av marknaden och gör att andra tekniker som kan vara minst lika bra kanske inte kommer fram. I värsta fallet kan det också leda till att man får subventionera alla kraftslag eftersom ingen klarar av att konkurrera med de som får subventioner. Vatten</p>
 <h4>Ersätt effektskatten med en olycksriskskatt</h4>
 <p>Angående effektskatten skulle vi gärna se att den på sikt ersätts med en olycks-risk-skatt, som tar hänsyn till risknivån på det givna kraftverket och premierar fortsatta säkerhetsinvesteringar.</p>
 <p>Nivån på denna skatt ska både ta hänsyn till risken för olika olyckor och kostnaderna för densamma. Den bör slutligen också vara teknikneutral så att alla kraftslag betalar en skatt som står i proportion till sina specifika olycks-risker.</p>
