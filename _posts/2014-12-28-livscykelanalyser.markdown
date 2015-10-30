@@ -34,3 +34,4 @@ Slutligen gör Jacobsen det tveksama antagandet att sol och vindkraft per defini
 Värt att notera är dock att det inte bara kärnkaftsmotståndare som använder livscykelanalyser på ett tveksamt sätt. Ibland dyker det upp kärnkraftsförespråkare som argumenterar emot utbyggnad av t.ex. solkraft för att de i vissa livscykelanalyser kommit fram til att solkraft kan vara förenat med uppemot 4 gånger högre koldioxidutsläpp. Vi ser flera problem med detta sätt att resonera, dels beaktar man inte de stora variationerna i utsläpp inom ett och samma kraftslag och dels ställer man två värdefulla tekniker mot varandra. 
 
 Enligt <a href="/global/IPCC-talar-till-oss/">IPCC</a> så kommer kärnkraft och förnybart behöva arbeta tillsammans istället för att ställas mot varandra, om vi ska ha en chans att begränsa uppvärmningen till unden 1,5 grader.
+{% include read-reaction-instruction.html %}

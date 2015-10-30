@@ -165,4 +165,5 @@ without significantly increasing power system costs in the long run."</p></block
 <p>Att ersätta denna fossila energi medför alltså fler utmaningar än att bara erbjuda fossilfri el.</p>
 <p>För att fasa ut fossil energi i transportsektorn måste vi investera i nya fordon och för att fasa ut fossil energi industring behöver man investera i att elektrifiera processer som idag bygger på förbränning</p>
 <p>Stabil tillgång till tillräckliga mängder koldioxidsnål el, till ett stabilt och förutsägbart pris tror vi kan främja denna typ av viktiga investeringar även om det inte ensammt är tillräckligt.</p>
+{% include read-reaction-instruction.html %}
 </section>

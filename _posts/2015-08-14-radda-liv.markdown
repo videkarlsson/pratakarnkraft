@@ -42,7 +42,7 @@ Fossil energi står fortfarande för ca 80% av världens energi och effekterna �
 <p><i class="fa fa-arrow-down fa-4x chapter-icon" id="save-life-down"></i>Utvecklingen i världen går tyvärr fortfarande i fel riktning. Vi ser fortfarande stora och allvarliga nyinvesteringar i fossil energi. </p>
 <p>Tyskland är ett <a href="/global/tyskland-japan/">oroväckande exempel</a> på ett land som av rädsla för kärnkraft valt att priotiera kärnkraftsaveckling framför avveckling av fossil energi.</p>
 <img class="img-responsive blog-img" src="/assets/img/fact-check/coal_mining_hambach.jpg">
-<p> <b>I ljuset av detta är det allvarligt om vi inom miljörörelsen ställer oss bakom en sådan prioritering och framställer det som att kärnkraft och fossila bränslen har likvärdiga miljö och hälsoeffekter.<b></p>
+<p> <b>I ljuset av detta är det allvarligt om vi inom miljörörelsen ställer oss bakom en sådan prioritering och framställer det som att kärnkraft och fossila bränslen har likvärdiga miljö och hälsoeffekter.</b></p>
 <p><i class="fa fa-search fa-flip-horizontal fa-3x chapter-icon" id="save-life-search"></i>Vi har därför granskat vad Miljöpartiets officiella material har att säga om hälsoeffekterna av kärnkraft och jämfört detta med vad oberoende aktörer som WHO och strålskyddsmyndigheten säger. Resultatet finner ni i <a href="/karnkraftskoll/farligt/">denna bloggpost</a>.</p>
 <p>Vi hoppas att detta kan vara ett första steg till en konstruktiv granskning och diskussion om det officiella materialet kring kärnkraft. Även om vi ansträngt oss för att genomgående använda så oberoende källor vet vi att vi har tagit ställning för kärnkraft och självklart kan detta påverka våra slutsatser. Vi ser därför gärna att du granskar oss tillbaka.</p>
-</div>
+{% include read-reaction-instruction.html %}

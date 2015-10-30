@@ -52,3 +52,4 @@ circle-img: expencive.png
 <p>Vi har svårt att se att kärnkraft idag har några inneboende problem att skalas upp i större skala</p>
 <p>Det är snarare så att kostnaderna borde påverkas positivt av att man bygger fler liknande kraftverk då t.ex. den reaktor som byggs i Olikoluoto är den första i sitt slag och det istället medför ökade kostnader</p>
 <p>Vi vill mena att det tvärtom är befogat att anta att man idag bygger ut vindkraftsparker på de bästa lägena både om man ser till väderförhållanden, krav på nätutbyggnad, och miljöpåverkan på omgivningen. Om vi t.ex. vill bygga ut anläggningar av typen Lillgrund så att de motsvarar antalet levererade Twh/år från en reaktor som den Olkiluoto behöver vi finna 39 likvärdiga platser. </p>
+{% include read-reaction-instruction.html %}
