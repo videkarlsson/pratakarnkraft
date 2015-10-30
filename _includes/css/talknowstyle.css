@@ -1,0 +1,87 @@
+.dark-green-text{
+    color:  {{ site.colors.dark_green}};
+}
+
+
+.talk-head{
+	background: {{ site.colors.dark_green}}
+}
+
+.talk-head h1{
+	color:white;
+}
+
+.main-section{
+	background:white;
+}
+
+.main-section p{
+	font-size:16px;
+	line-height:30px;
+}
+
+.comment-section{
+	background:#1799ef;
+	color: white;
+}
+
+.comment-section p{
+	color: white;
+	font-size:18px;
+	line-height:30px;
+}
+
+.i-blogg-section{
+	background:#a00075;
+	color: white;
+
+}
+.i-blogg-section p{
+	color: white;
+	font-size:18px;
+	line-height:30px;
+}
+
+
+.i-blogg-section a{
+	color: white;
+	font-weight: bold
+}
+
+.meeting-section{
+	background:#F6511D;
+	color: white;
+
+}
+.meeting-section p{
+	color: white;
+	font-size:18px;
+	line-height:30px;
+}
+.meeting-section a{
+	color: white;
+	font-weight: bold
+}
+
+
+#talk-intro-sub-heading{
+    color: white;
+    margin-bottom: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 25;
+    line-height: 35px;
+}
+
+blockquote{
+	border-left: 5px solid {{ site.colors.dark_green}};
+}
+
+@media(min-width:768px) {
+	#talk-intro-sub-heading{
+    	font-size: 40px;
+    	font-weight: 25;
+    	line-height: 35px;
+	}
+}

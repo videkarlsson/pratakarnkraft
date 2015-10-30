@@ -63,6 +63,7 @@ http://www.sciencedirect.com/science/article/pii/S0306261915000124</p> -->
 <h3 id="all-tools-5"><span class="fa-stack fa-lg chapter-icon"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-heartbeat fa-stack-1x fa-inverse"></i></span>5. Varje ersatt kolkraftverk räddar liv</h3>
 <p>Inom miljörörelsen behandlas ofta kärnkraft och kol som ett val mellan pest eller kolera. Men ser vi till de faktiska hälsoeffekterna av respektive kraftslag orsakar är skillnaderna enorma. Kärnkraft har visat sig vara en effektiv ersättare till fossila bränslen, t.ex. kunde ett land som Frankrike gå från nästa uteslutande fossil elproduktion till 75% kärnkraft på ca 15 år. Om vi låter förnybart och kärnkraft arbeta tillsammans, kan vi snabbare ersätta världens fossila energi och fler liv kan då räddas.</p>
 <p><a href="/karnkraftskoll/radda-liv/"><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Läs mer...</a></p>
+{% include read-reaction-instruction.html %}
 <!-- 
 0. MEGaphone 
 1. fa-area-chart Reglerfrågan

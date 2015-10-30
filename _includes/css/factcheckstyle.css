@@ -2,9 +2,25 @@ h1, h2, h3, h4, h5{
 	color:{{ site.colors.dark_green}};
 }
 
+.fact-mistakes a {
+	color:  {{ site.colors.dark_green}};
+}
 .fact-check-text{
     color:  {{ site.colors.dark_green}};
 }
+
+#ri-comment-icon{
+	color: {{ site.colors.dark_green}};
+}
+
+#ri-blogg-icon{
+	color: {{ site.colors.dark_green}};
+}
+
+#ri-question-icon{
+	color: {{ site.colors.dark_green}};
+}
+
 
 .sub-heading{
     margin-bottom: 25px;

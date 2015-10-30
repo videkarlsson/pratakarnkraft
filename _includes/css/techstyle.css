@@ -48,6 +48,21 @@ h1, h2, h3, h4, h5{
 }
 
 
+#ri-comment-icon{
+	color: {{ site.colors.mp_purple}};
+}
+
+#ri-blogg-icon{
+	color: {{ site.colors.mp_purple}};
+}
+#ri-question-icon{
+    color: {{ site.colors.mp_purple}};
+}
+
+.fa-ul i{
+    color:{{ site.colors.mp_purple}};
+}
+
 
 csmall {
 	font-size: 12px;
@@ -107,13 +122,12 @@ blockquote{
 	color: #304E72;
 }
 
-
-.interview_text{
+.main-section p{
 	font-size:16px;
 	line-height:30px;
-	
 }
-.interview_text_large{
+
+.main-section p .interview_text_large{
 	font-size:18px;
 	line-height:28px;
 	

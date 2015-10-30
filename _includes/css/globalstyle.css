@@ -25,9 +25,24 @@ h1, h2, h3, h4, h5{
 	color:white;
 }
 
+#ri-comment-icon{
+    color: {{ site.colors.dark_blue}};
+}
+
+#ri-blogg-icon{
+    color: {{ site.colors.dark_blue}};
+}
+#ri-question-icon{
+    color: {{ site.colors.dark_blue}};
+}
+
+
 .fa-li{
     color:{{ site.colors.dark_blue}};
     float:left
+}
+.fa-ul i{
+    color:{{ site.colors.dark_blue}};
 }
 
 
