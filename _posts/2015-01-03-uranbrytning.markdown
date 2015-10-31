@@ -18,7 +18,7 @@ Studierna visar att vind- och solkraft är beroende av <a href="http://www.natur
 
 <i class="fa fa-balance-scale fa-4x chapter-icon" id="mining-balance"></i> En <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101298">studie</a> som sammanställde resultatet från befintliga  livscykelanalyser för olika metaller kom till slutsatsen att koppar och uranbrytning har likvärdiga miljö och hälsoeffekter per kilo förädlad metall.
 
-Att beräkna hur mycket av olika metaller som går åt för att producera en terrawatttimme el med olika energislag är ingen exakt vetenskap.Men använder vi den senaste tekniken som idag finns tillgänglig för  vind- och solkraft ser vi att de kräver ca 50 kilo koppar/producerad TWh medan det för kärnkraften krävs ca 30 ton uran för att producera samma mängd energi.
+Att beräkna hur mycket av olika metaller som går åt för att producera en terrawatttimme el med olika energislag är ingen exakt vetenskap.Men använder vi den senaste tekniken som idag finns tillgänglig för  vind- och solkraft ser vi att de kräver ca 50 ton koppar/producerad TWh medan det för kärnkraften krävs ca 30 ton uran för att producera samma mängd energi.
 
 Aluminium och järn produktion har klart lägre hälso- och miljöeffekter. Men även om påverkan är lägre per kilo så behöver man man ta hänsyn till att det krävs mycket mer av dessa metaller.
 
