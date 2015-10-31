@@ -1,0 +1,103 @@
+---
+layout: fact-check-blog
+comments: true
+title: "MSBs beskrivning av en allvarlig damolycka respektive allvarlig kärnkraftsolycka i Sverige"
+date: 2014-12-28 16:54:46
+author: Vide Karlsson
+categories:
+- karnkraftskoll
+---
+<p>MSB är förkortningen för Myndigheten för Samhällsskydd och beredskap</p>
+<p>De tar fram riskbedömningar för olika typer av olyckor som samhället kan drabbas av</p>
+<p>Det kan vara relativt svårt att föreställa sig vad riskerna med olika kraftslag faktiskt är vi har därför här valt att återge MSBs scenario för en allvarlig dammolycka respektive allvarlig kärnkraftsolycka i Sverige</p>
+<p>Så här beskriver MSB sammanfattningsvis konsekvenserna av av en allvarlig damm-olycka:<br>
+	(se <a href="https://www.msb.se/RibData/Filer/pdf/26561.pdf">rapporten</a> för samtliga uppfiter)</p>
+<blockquote>
+<p>Konsekvenserna av dammbrottet skulle bli omfattande. Stora områden över
+svämmas och många byggnader och infrastruktur raseras av vattenmassorna. 
+Flodvågen drar med vägar och järnvägar liksom flera korsande broar
+, elledningar och kommunikationsinfrastruktur.</p>
+<p>All nedströms elkraftsproduktion slås ut. Elnät påverkas på alla systemnivåer men lokal- och regionnät drabbas hårdast. 
+Elbrist kan uppstå i södra Sverige p.g.a. begränsningar i överföringskapaciteten i stamnätet för el. Transporterna till och från norra Sverige reduceras kraftigt med möjliga konsekvenser för bland annat industri, sjukvård och livsmedelshandel.</p>
+<p> 
+Människor kan dödas där flodvågen går fram. I riskområdet för översvämning bor omkring 9 000 personer som skulle behöva evakueras. Flodvågen når det närmaste samhället bara någon timme efter brottet. De evakuerade skulle inte kunna flytta tillbaka under lång tid. Enbart reparations- och återställningskostnader uppskattas till flera tiotals miljarder kronor. Att återställa dammar är mycket 
+dyrt och tidskrävande. </p>
+<p>Därtill uteblir intäkter för alla företag i området. Miljön skulle påverkas bland annat genom att dalgångens utseende och möjligen 
+även älvens sträckning förändras när flodvågen flyttar jordmassa. Älven, som 
+varit reglerad sedan 50-talet, kommer fortsättningsvis att vara oreglerad. Kulturminnen (fornlämningar, järnåldersgravar, stenåldersboplatser, kyrkoruiner m.m.) skulle översvämmas eller sköljas bort.</p>
+<p>Flera gårdar med djurbesättningar skulle översvämmas. Detsamma gäller vatten reningsverk, dammar, bensinstationer, industriområden samt en oljecistern med åtföljande risk för olje- och bensinläckage. </p> <p>
+Sammantaget bedöms konsekvenserna som mycket stora, enligt skalan i den 
+nationella riskbedömningen, främst p.g.a. att så stora värden i form av bebyggelse och infrastruktur skulle gå förlorade. Risken är överhängande att många människor skulle omkomma men detta beror på hur fort älvdalens riskområden 
+kan utrymmas</p></blockquote>
+<p>Så här beskriver MSB sammanfattnigsvis konsekvenserna av av en allvarlig kärnkrafts-olycka:<br>Se <a href="https://www.msb.se/RibData/Filer/pdf/27331.pdf">rapporten</a> för samtliga uppgifter</p>
+<blockquote><h4>Utrymmning</h4><p>I scenariot fattar länsstyrelsen beslut om utrymning i den inre beredskapszonen 
+samma dag som händelsen inträffar, vilket berör 2 500 personer. Därutöver utryms 
+cirka 12 000 personer från ett område kring Värnamo, Emmaboda, Högsbo, Nybro 
+med flera kommuner efter att det står klart att dessa kommuner d
+rabbats värst av nedfallet. </p>
+<p>Inomhusvistelse rekommenderas i hela Kalmar och Kronobergs län samt 
+delar av Jönköpings och Blekinge län under de första dygnen efter händelsen.
+Vidare gjordes bedömningen att spontan utrymning (utrymning som sker utan 
+uppmaning från myndigheterna) under de första två dagarna efter olyckan sker i 
+Oskarshamns kommun (cirka 40 % av befolkningen) liksom i övriga kommuner i 
+Kalmar län (cirka 20 % av befolkningen).</p>
+<p>Hur stort område som utryms och under hur lång tid har stor betydelse för om 
+verksamheter kan drivas vidare och om personal finns tillgänglig, vilket i sin tur 
+blir avgörande för hur omfattande konsekvenserna av kärnkraftsolyckan blir på 
+en rad andra områden<p>
+<h4>Sanering och deponering av avfal</h4>
+<p>Permanent återflyttning tillåts inte förrän sanering och kontrollmätning har skett. 
+I analysen antas att det område som utryms på 12 000 personer fortfarande, över 
+ett år efter händelsen, inte hunnit saneras så pass att alla som önskar har kunnat 
+återvända. Detta mot bakgrund av erfarenhet från Japan där det framgått att sanering är ett mycket tidsödande arbete.
+</p>
+<p>
+Saneringen genererar stora mängder avfall och beslut om lokalisering av deponier 
+kommer att behöva tas snabbt. Lagstiftning som styr detta finns både i miljöbalken
+samt i SSM:s föreskrifter om hantering av radioaktivt avfall
+. Deponierna kommer att behöva övervakas för att eventuella läckage till omgivningen ska upptäckas. 
+Smältande kontaminerad snö skulle kunna utgöra ett problem när våren kommer 
+om inte deponin planerats på rätt sätt.</p>
+<h4>Sjukvård</h4>
+<p>Hur hög belastningen blir på sjukvården beror bland annat på hur väl man lyckas 
+informera om risker och i vilken utsträckning undersökningar av allmänheten 
+kommer att erbjudas. Sjukvården kan också komma att belastas genom att det 
+sker ett visst personalbortfall då personal kan finnas bland dem som utrymt sina 
+hem.</p>
+<p>
+De vårdinrättningar som ligger i områdena som utryms måste genomföra 
+”medicinsk evakuering”, vilket är riskfyllt.</p>
+<p>Ökade vårdköer och fördröjningar 
+på grund av händelsen skulle kunna pågå i mer än ett år.
+I huvudsak finns det tre olika typer av hälsoproblem som kan upp
+komma till följd av händelsen. </p>
+<p>Det handlar om akuta strålskador, cellförändringar/cancer och psykologiska problem. Därtill kan människor skadas eller omkomma genom 
+olyckor som kan uppstå till följd av händelsen, alltså som en indirekt konsekvens. Troligen kommer inte någon person att drabbas av akuta strålskador i det här scenariot. I det längre perspektivet aktualiseras frågan om en eventuell ökning 
+i mängden personer som insjuknar i cancer på grund av att de utsätts för låg stråldos under lång tid. Flera forskningsrapporter visar på att antalet insjuknade i cancer på grund av en liknande händelse kommer vara mycket lågt,
+om det ens går att påvisa statistiskt – i varje fall kan man inte urskilja dessa cancerfall 
+från fall där cancern har andra orsaker. Kärnkrafthaveriet och det radioaktiva 
+utsläppet kommer däremot att få djupgående psykologiska effekter hos befolkningen. Det kommer att bli både en stor medial händelse och en personlig kris 
+för enskilda människor. Utrymningen från kontaminerade områden kommer i 
+sig skapa såväl praktiska som psykosociala problem. I ett längre tidsperspektiv 
+kan psykosocial stress (i form av bland annat oro för framtiden, depressioner) 
+orsaka dödsfall</p>
+<h4>Effekter på exporten</h4>
+<p>Direkt efter händelsen kommer EU:s interrimsgränsvärden för handel med varor 
+från område med potentiell radioaktiv kontaminering att träda i kraft. Detta 
+innebär att alla som sätter livsmedelsprodukter på marknaden måste kunna 
+garantera att de inte överskrider dessa gränsvärden.</p>
+<p>
+Förmodligen kommer exporten från Sverige till övriga EU och världen att minska 
+oavsett om dessa gränser kan hållas eftersom människor kommer att känna oro 
+över att äta livsmedel som kommer från ett område som drabbats av ett nedfall. 
+Jordbruksvaror och livsmedel utgjorde 2012 cirka 5 procent av den totala varuexporten i Sverige.
+Skogsråvara från det kontaminerade området kommer kunna omfattas av exportrestriktioner alternativt minskad efterfrågan.</p>
+<h4>Effekten på elförsörjningen</h4>
+<p>Även om Sverige skulle kunna kompensera förlusten av effekten från de avstängda reaktorerna i Oskarshamn genom ökad produktion i andra anläggningar och genom ökad import, så kan det ändå uppstå eleffektbrist i delar av södra Sverige. 
+Oskarshamns placering i stamnätet för el i Sverige gör att det är svårt att ersätta 
+den effekt som reaktorerna i Oskarshamn står för.</p>
+<p>Om  samtliga kärnkraftreaktorer av samma typ tvingas stänga för en längre period 
+skulle det få konsekvenser för hela Sveriges energiförsörjning.</p>
+</blockquote>
+
+

@@ -56,3 +56,4 @@ I rapporten konstaterar att den evakuering som genomfördes snart efter olycka a
 <li><p>Obefogad stor rädsla för låga stråldoser har visat sig skapa stora hälsoeffekter vid kärnkraftsolyckor. Vi som miljöorganisationer har möjlighet att utgöra en possitivt exempel genom att kraftigt ta avstånd från att andra miljöorganisationer och aktörer i debatten på ett osakligt sätt överdriver hälsoriskerna med strålning (så som WHOs analyser visat sig varit fallet vid både Tjernobyl och Fukushimaolyckan).</p>
 </li>
 </ul>
+{% include read-reaction-instruction.html %}

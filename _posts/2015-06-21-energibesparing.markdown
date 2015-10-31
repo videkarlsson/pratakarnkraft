@@ -37,3 +37,4 @@ Många scenarion för 100% förnybar energiproduktion i världen utgår från at
 </ul>
 
 I <a href="/global/vaxande-energibehov">denna bloggpost</a> fördjupar vi diskussionen kring varför vi i våra enrgiscenarion behöver ta höjd för en ökad enrgikosnumtion i världen.
+{% include read-reaction-instruction.html %}

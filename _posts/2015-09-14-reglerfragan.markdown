@@ -29,10 +29,11 @@ Utsläppen från gaskraftverk som står stilla största delen av året är själ
 <p><a href="/global/IPCC-talar-till-oss">IPCC är tydliga med att alla fossilsnåla energislag kommer behöva arbeta tillsammans om vi ska ha en chans att begränsa uppvärmningen till 1,5 grader.</a> Att utesluta sol- och vindkraft som en del av lösningen blir ett risktagande med klimatet.</p>
 <p><i class="fa fa-exchange fa-rotate-45 fa-5x chapter-icon " id="conflict-arrows"></i>Löser vi inte reglerfrågan är risken också stor att kärnkraften och de väderberoende energikällorna hamnar i en konfliktsituation med varandra, där de konkurrerar sinsemellan istället för att ersätta de fossila energislagen. Konfliktsituationen ligger i att kärnkraft till största delen behöver ha rollen som baskraft för att få ekonomin ihop. Men om förnybara energikällor genom stora subventioner kan överleva trots att de sänker elpriset till nära noll under vissa delar av dygnet, då blir det svårt för kärnkraften att få ekonomin att gå ihop utan subventioner.</p>
 
-Vi instämmer dock i den analys om Jesse Jenkins gör <a href="http://www.theenergycollective.com/jessejenkins/368706/can-nuclear-power-and-renewable-energy-learn-get-along">här</a>. 
+Vi instämmer dock i den analys om Jesse Jenkins gör 
+ <a href="http://www.theenergycollective.com/jessejenkins/368706/can-nuclear-power-and-renewable-energy-learn-get-along">här</a>. 
 <blockquote>Om vi löser reglerfrågan för förnybara energislag så kommer förnybart och kärnkraft fungerar väl ihop i samma nät.</blockquote> 
 
-I korthet är hans analys att om vi ska fasa ut fossilkraft med förnybart krävs det att vi löser reglerfrågan och t.ex. tar fram lösningar på energilagring till en rimlig kostnad. Men givet att vi har energilagring på plats kan också förnybart och kärnkraft fungera bra tillsammans eftersom då måste inte kärnkraften drar ner sin produktion till noll bara för att vind- och solkraft har en topp i sin produktion. 
+I korthet är hans analys att om vi ska fasa ut fossilkraft med förnybart krävs det att vi löser reglerfrågan och t.ex. tar fram lösningar på energilagring till en rimlig kostnad. Men givet att vi har energilagring på plats kan också förnybart och kärnkraft fungera bra tillsammans eftersom då måste inte kärnkraften drar ner sin produktion till noll bara för att vind- och solkraft har en topp i sin produktion. (Vi har uppmärksammats på att theenergycollective där bloggposten är publicerad har ett tillfälligt problem med sina servrar under tiden detta åtgärdas kan ni läsa Jesse Jenkins bloggpost <a href="/karnkraftskoll/can-nuclear-and-renewable-get-along">här</a>)
 
 <b>För att de väderberoende energikällorna ska nå sin fulla potential och inte riskera att slå ut annan koldioxidsnål energi vill vi se en politik som tar reglerfrågans utmaningar på allvar. Vi vill gärna se att rika länder som Sverige är drivande i utvecklingen av billiga och globalt skalbara tekniker för att underlätta integrering av både kärnkraft och väderberoende energi i samma nät.</b>
 
@@ -162,5 +163,5 @@ Adresserar vi inte de utmaningar som reglerfrågan medför är risken också sto
 
 Lika viktigt som att bygga ut sol och vindkraft är det alltså att ta fram globalt skalbara lösningar för att kunna integrera den väderberoende energin i stor skala i nät med andra koldioxidsnåla energikällor.
 
-Vill vi i Sverge utgöra ett grönt föredöme för andra länder är det därför bra att satsa på teknisk lösningar och effektiva styrmedel som främjar att både kärnkraft och en betydande mängd värderberoende energikällor kan samexistera och samarbeta i samma nät.
-
+Vill vi i Sverge utgöra ett grönt föredöme för andra länder är det därför ett bra alternativ att satsa på teknisk lösningar och effektiva styrmedel som främjar att både kärnkraft och en betydande mängd värderberoende energikällor kan samexistera och samarbeta i samma nät.
+{% include read-reaction-instruction.html %}

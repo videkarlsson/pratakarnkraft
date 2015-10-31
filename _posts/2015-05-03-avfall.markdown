@@ -32,7 +32,7 @@ För att sätta denna ökade dos i perspektiv kan man t.ex. se att flygpersonal 
 Den totala stråldosen för människor i omgivningen skulle också <a href="https://en.wikipedia.org/wiki/Background_radiation">ligga långt långt under</a> de stråldoser som förekommer naturligt runt om på jorden, där det bor människor, och där man inte kunnat uppmäta några påvisbara negativa hälsoeffekter från strålningen.
 
 
-<span class="fa-stack fa-lg chapter-icon waste-square"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">2</i></span>Det andra problemet vi vill lyfta är det relativa ointresse som vi inom Miljöpartiet hittils visat för fjärde generationens kärnkraft. Om vi menar allvar med att uttjänt kärnbränsle är ett oacceptabelt miljöproblem så borde vi också välkomna den teknik som kan användas för att sänkta lagringstiden från 100000 år till ca 500-1000 år.
+<span class="fa-stack fa-lg chapter-icon waste-square"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">2</i></span>Det andra problemet vi vill lyfta är det relativa ointresse som vi inom Miljöpartiet hittills visat för fjärde generationens kärnkraft. Om vi menar allvar med att uttjänt kärnbränsle är ett oacceptabelt miljöproblem så borde vi också välkomna den teknik som kan användas för att sänkta lagringstiden från 100000 år till ca 500-1000 år.
 
 <a href="/tech/"><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Om du vill läsa mer om tekniker för att återvinna kärnavall rekommenderar vi vår forskarintervju om teknikutvecklingen inom kärnkraftsomådet.</a>
 
@@ -75,4 +75,5 @@ den här typen av onda avsikter kommer det troligen att finnas enklare sätt att
 <blockquote> Att kontrollera hanteringen i varje steg och att kunna reparera vid behov är två säkerhetsprinciper som är fundamentala för oss och som vi aldrig kan uppnå med djupa borrhål</blockquote>
 <p>Ur SKBs svar framkommer vidare att alla andra kärnkraftsnationer valt bort lösningen med djupa borrhål</p>
 <p>Att välja djupa borrhål skulle därtill betydligt försvåra om man i framtiden skulle vilja använda sig av avfallet som bränsle i nya reaktorer.</p>
+{% include read-reaction-instruction.html %}
 <!-- <p>Tillsammans tycker vi detta är tugnt vägande skäl till att ifrågasätta om det är rätt prioriterade myndighetspengar att kräva utredning av en metod som har så här många nackdelar.</p><p>Vi vill slutligen igen väcka en reflektion kring det underliga i att vi inom miljörörelsen idag, å ena sidan uttrycker mycket stark oro inför just att framtida ovetandes generation inte ska låta avfallet stanna i slutförvaret, men å andra sidan utan vidare diskussion har avfärdat <a href="/tech/">tekninken</a> som kan sänka lagringstiden till 500-1000 år</p> -->

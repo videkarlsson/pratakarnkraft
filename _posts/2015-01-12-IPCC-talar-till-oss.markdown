@@ -111,3 +111,4 @@ nuclear energy and fossil energy with carbon dioxide capture and storage (CCS), 
 <p><a href="http://poll.visionprize.com/#nuclear-power-is-a-critical-part-of-a-solution" target="_blanc">Undersökningen</a> visade att 71% av de ca 100 tillfrågade klimatexperterna delar bedömningen att varje realistisk plan för att stabilisera klimatet kräver kärnkraft</p>
 
 <p>Sammantaget tycker vi att detta bör mana, då Miljöpartiet och miljörörelsen idag argumenterar för global avveckling kärnkraft.</p>
+{% include read-reaction-instruction.html %}

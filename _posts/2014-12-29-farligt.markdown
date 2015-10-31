@@ -29,4 +29,5 @@ circle-img: radiation.png
 <h3 ><a id="danger-circle-6" href="/karnkraftskoll/farligt/risk-framtida-olyckor/"><span class="fa-stack fa-lg chapter-icon"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">6</i></span>Risken för framtida olyckor</a></h3> 
 <p>Det är viktigt att ha i åtanke att om vi väljer att behålla kärnkraften i världen och skalar upp antalet reaktorer, då kommer vi också med högsta sannolikhet uppleva fler kärnkraftsolyckor. Att hävda något annat går emot resultaten från de studier som studerat riskerna för framtida olyckor. <br><a href="/karnkraftskoll/farligt/risk-framtida-olyckor/"><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Läs mer...</a>
 </p>
+{% include read-reaction-instruction.html %}
 

@@ -55,3 +55,4 @@ Det finns också forskare som gör en annan bedömning än UNSCEAR, t.ex. <a hre
 Anledningen att det är så svårt att avgöra om LNT-modellen är sann eller ej ligger också i att effekterna på gruppnivå är så små och felkällorna så stora. Eftersom cancer är är väldigt vanligt och påverkas av så många olika faktorer är det svårt att kontrollera för alla dessa. Som vi visat ovan så finns det också många vardagliga aktiviteter som påverkar vilken stråldos varje given individ utsätts för. Detta gör det än svårare att dra några slutsatser. 
 
 För att få mer bakgrund till varför det är svårt att både bekräfta och dementera LNT-modellen rekommenderar vi denna <a href="https://www.youtube.com/watch?v=TpC_cPlx16g">video</a> som på ett pedagogiskt sätt förklara svårigheterna med att beräkna hälsoeffketerna av Tjernobylolyckan.
+{% include read-reaction-instruction.html %}

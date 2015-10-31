@@ -32,3 +32,4 @@ Det fanns också farhågor att IS skulle förstöra dammen i Mosul, som är en d
 <p>Mer info om IS hot mot vattenkraftdammar finns att läsa på <a href="http://www.aljazeera.com/indepth/opinion/2015/06/dawning-hydro-terrorism-150617102429224.html ">aljazeera.com</a> och <a href="http://www.waterpowermagazine.com/features/featurean-unprecedented-task">waterpowermagazine</a>. </p>
 <p>
 Vi behöver slutligen också sätta risken för ett terrorattentat  i proportion till andra verksamheter som vi tillåter i samhället ett annat exempel är en välbesökt fotbollsmatch som kan samla uppemot tiotusentals åskådare. Men detta är givetvis ingen anledning att ta säkerheten kring kärnkraft på mindre allvar.  </p>
+{% include read-reaction-instruction.html %}

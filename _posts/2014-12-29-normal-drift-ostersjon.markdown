@@ -21,3 +21,4 @@ circle-img: radiation.png
 <br>Mattias Lantz inlägg: <a href="http://www.unt.se/asikt/debatt/tjernobyl-orsak-till-ostersjons-radioaktivitet-1018418.aspx" target="_blanc"> länk här</a>
 <br>Strålsäkerhetsmyndighetens utredare Ann-Christin Häggs inlägg <a href="http://www.unt.se/asikt/debatt/ssm-har-bra-koll-pa-radioaktiviteten-1019714.aspx" target="_blanc">länk här</a>.</p> 
 <p>För den på temat intresserade läsaren, som önskar mer vetenskaplig literatur på området rekommenderar vi <a href="http://helcom.fi/Lists/Publications/BSEP117.pdf" target="_blanc">denna rapport</a></p>
+{% include read-reaction-instruction.html %}

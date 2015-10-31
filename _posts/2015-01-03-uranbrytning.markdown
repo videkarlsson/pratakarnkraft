@@ -162,7 +162,7 @@ Vi har aktivt sökt efter någon studie som stödjer påståendet att barn i nä
 
 <h2>Slutsats</h2>
 Vår slutsats är att det är tveksamt att måla upp uranbrytning som något som vore mycket mer miljö och hälsoskadligt än annan gruvbrytning, vilket är en den bild man lätt får då man läser miljöpartiets material idag. Vi kan också se att metallåtgång för koldioxidsnål energi kan bli en stor framtida utmaning, och att det kan vara lämpligt att ha energikällor som kompleterar varandra och använder olika typer av metaller. 
-
+{% include read-reaction-instruction.html %}
 
 <!-- 
 

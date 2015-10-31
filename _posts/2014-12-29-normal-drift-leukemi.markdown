@@ -65,3 +65,4 @@ Vi tycker att den formulering som pm-författaren har valt är problematisk.
 Läsaren får lätt bilden att det är praktiskt taget belagt att risken för leukemi hos barn fördubblas vid boende i närheten av kärnkraftverk. 
 
 Vi hade gärna sett att man redogorde för hur låga stråldoser det rör sig om samt att man förtydligade att ingen av de källor man använt sig av själva tror på ett orsaksamband mellan dessa stråldoser och den förhöjda frekvens av leukemi som i några fall obeserverats.
+{% include read-reaction-instruction.html %}
