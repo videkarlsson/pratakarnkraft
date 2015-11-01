@@ -34,7 +34,7 @@ Men att det är mycket svårt att tillverka kärnvapen från kärnavfall och att
 
 <h2>Kan civil kärnkraft leda till nya kärnvapenländer</h2>
 
-När vi ska bedömma risken för att ett land skaffar sig kärnvapen genom civil kärnkraft är det viktigt att ha i åtanke att civil kärnkraft varken är nödvändigt för att ett land ska kunna skaffa sig kärnvapen, eller tillräckligt för att ett land ska välja att göra det. Detta syns tydligt när man granska hur den historiska utvecklingen för av civil kärnkraft respektive kärnvapen sett ut.
+När vi ska bedöma risken för att ett land skaffar sig kärnvapen genom civil kärnkraft är det viktigt att ha i åtanke att civil kärnkraft varken är nödvändigt för att ett land ska kunna skaffa sig kärnvapen, eller tillräckligt för att ett land ska välja att göra det. Detta syns tydligt när man granska hur den historiska utvecklingen för av civil kärnkraft respektive kärnvapen sett ut.
 
 <img class="img-responsive blog-img" src="/assets/img/fact-check/map_nuclear_weapon.png">
 
@@ -69,13 +69,13 @@ Enligt en <a href="http://www.iospress.nl/book/response-to-nuclear-and-radiologi
 
 Att en terrorgrupp skulle kunna få kapacitet till en kärnvapenbomb på 10 000 ton bedöms som osannolikt enligt NATO-rapporten. Men en sådan bomb skulle kunna få oerhörda konsekvenser. Om en sådan bomb sprängdes i exempelvis centrala New York skulle den kunna döda en halv miljon människor, enligt vittnesmålet i amerikanska senaten. Konsekvenserna av en sådan handling kan ju dock inte bara vägas i antalet direkta dödsoffer utan man behöver även väga in att de långsiktiga ekonomiska och säkerhetspolitiska effekterna skulle bli enorma och oöverblickbara
 
-Andra bedömmare har dock menat att risken att vi kommer få se en terror-attack med kärnvapen eller radioaktiva vapen till ca 29% de närmaste decenniet, se mer om dessa bedömningar <a href="http://ann.sagepub.com/content/607/1/103.short">här</a> och <a href="http://mchip.xykon-llc.com/irp/threat/lugar_survey.pdf">här</a>. 
+Andra bedömare har dock menat att risken att vi kommer få se en terror-attack med kärnvapen eller radioaktiva vapen till ca 29% de närmaste decenniet, se mer om dessa bedömningar <a href="http://ann.sagepub.com/content/607/1/103.short">här</a> och <a href="http://mchip.xykon-llc.com/irp/threat/lugar_survey.pdf">här</a>. 
 
-Det är dock mycket svårt att bedömma hur mycket civil kärnkraft bidrar till denna risk. 
+Det är dock mycket svårt att bedöma hur mycket civil kärnkraft bidrar till denna risk. 
 
-Det är viktigt att se att källorna vi listar här bedömmer att kärnvapenprogram är känsligare från detta perspektiv. Men det betyder ju inte att civil kärnkraft inte bidrar till riskbilden.
+Det är viktigt att se att källorna vi listar här bedömer att kärnvapenprogram är känsligare från detta perspektiv. Men det betyder ju inte att civil kärnkraft inte bidrar till riskbilden.
 
-Den första källan bedömmer att den risk som finns relaterat till civil kärnkraft är framförallt risken för stöld av radioaktiva material.De värderar denna risk som låg eftersom det enligt dem aldrig förekommit någon händelse där man kunnats bekräfta att terrorsiter utfört en attack i syfte att stjäla vapenmaterial. Men som vi sett ovan så har det förekommit stölder både i Ryssland och Sydafrika, så detta påstående verkar inte vara helt giltligt. I artikeln betonas även att säkerheten på framförallt en del forskningsreaktorer runt om i världen är för låg. 
+Den första källan bedömer att den risk som finns relaterat till civil kärnkraft är framförallt risken för stöld av radioaktiva material.De värderar denna risk som låg eftersom det enligt dem aldrig förekommit någon händelse där man kunnats bekräfta att terrorsiter utfört en attack i syfte att stjäla vapenmaterial. Men som vi sett ovan så har det förekommit stölder både i Ryssland och Sydafrika, så detta påstående verkar inte vara helt giltligt. I artikeln betonas även att säkerheten på framförallt en del forskningsreaktorer runt om i världen är för låg. 
 
 De risker som tas upp i samband med kärnrkaft är att man behöver ha kontroll över hela bränslecykeln och då specifikt anrikningsanlänggningarna men även avfallet. Riskerna betonas framförallt finnas i icke-stabila demokratier och då även länder som redan har kärnvapen så som Ryssland.  
 
@@ -89,7 +89,7 @@ Utöver det så är olja även kopplade till krig och konflikter. Mellan 25-50 %
 
 Det vi landar i är att man behöver ställa olika risker med stora osäkehter mot varandra. Just p.g.a. de stora riskerna som värsta-scenarion innefattar har vi dock förståelse för att man värderar risken för spridning av radioaktiva vapen mycket högt, och att man därför kan landa i andra slutsatser än vi gjort.
 
-<!-- Vi kan notera att den första källan inte ens nämner civil kärnkraft i någon av de faktorer de listar. och det enda den andra bedömmaren nämner om civil kärnkraft är följande: -->
+<!-- Vi kan notera att den första källan inte ens nämner civil kärnkraft i någon av de faktorer de listar. och det enda den andra bedömaren nämner om civil kärnkraft är följande: -->
 
 <h2>Vad ska stabila demokratier göra för att minska de globala riskerna för spridning av radioaktiva vapen.</h2>
 
@@ -101,7 +101,7 @@ Ett lands vilja att skaffa sig kärnvapen kan inte antas ha någon koppling till
 
 Vi skulle vilja mena att om vi ser till det <a href="/global/alla-verktyg-behovs">risktagande det blir med klimatet</a> och de <a href="/karnkraftskoll/radda-liv">extremt negativa hälso-effekterna som fossilenergi och energifattigdom har i världen</a>, så tycker vi att de väger klart tyngre än den mycket oklara koppling som civil kärnkraft i demokratier har till odemokratiska länders val att skaffa kärnvapen under en täckmantel av ett civilt kärnkraftsprogram. 
 
-Vi bedömmer även att de ovan nämnda riskerna väger tyngre än risken kopplade terrorgrupper, för kärnkraftsutbyggnad i redan befintliga kärnkraftsländer och i stabila demokratier. Men vi har förståelse för att man kan välja att värdera riskerna annorlunda. 
+Vi bedömer även att de ovan nämnda riskerna väger tyngre än risken kopplade terrorgrupper, för kärnkraftsutbyggnad i redan befintliga kärnkraftsländer och i stabila demokratier. Men vi har förståelse för att man kan välja att värdera riskerna annorlunda. 
 
 Man kan också tänka sig ett scenario där en icke stabil demokrati skaffar civil kärnkraft inkluderat anrikningsanläggningar i fredligt syfte men sedan svänger makthavarna i landet och börjar använda anrikningsanläggningarna för icke-fredliga syften. I ett sånt läge hade det varit önskvärt om dessa länder istället valt ett energisystem som bygger på andra kraftkällor. 
 

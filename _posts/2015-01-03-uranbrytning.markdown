@@ -232,7 +232,7 @@ Tänkbara Avgörande faktorer
     Mängd mineraler som krävs  - 
 hur stor andel utgör metallen av det som bryts
 
-Går det att göra bedömmningar som tar hänsyn till alla dessa faktorer.
+Går det att göra bedömningar som tar hänsyn till alla dessa faktorer.
 
 TODO Kontakta http://www.chalmers.se/sv/personal/Sidor/karin-andersson.aspx examinator med följdfrågor
 Uppsatsen Environmental Impacts and Health Aspects in the Mining Industry - A Comparative Study of the Mining and Extraction of Uranium, Copper and Gold 

@@ -37,7 +37,7 @@ Vi har granskat flera IPCCs rapporter. Ur dessa framgår att IPCC ser kärnkraft
 I frågan om två-gradersmålet är skrivelserna mindre kategoriska då det finns enskillda scenarion som visar att vi kan klara två-graders målet utan kärnkraft. Gemensamt för dessa scenarion är dock att de förutsätter en minskad energi-konsumtion i världen. </p>
 <p>
 Av 164 olika scenarion för världens energi-produktion var det inget scenario som bygde på enbart förnybar energi och samtidigt tog höjd för för en ökad energikonsumtion i världen. Detta menar vi gör att en global avveckling av kärnkraft blir ett risktagande med även våra chanser att klara två-gradersmålet.  </p>
-<h2>IPCC bedömmer att alla kraftslag behövs om vi ska begränsa uppvärmingen till 1.5 grader</h2>
+<h2>IPCC bedömer att alla kraftslag behövs om vi ska begränsa uppvärmingen till 1.5 grader</h2>
 <p>Världens länder har som mål att begränsa den globala uppvärmningen till två grader. Men enligt <a href="http://www.ipcc.ch/pdf/assessment-report/ar5/wg2/WGIIAR5-Chap19_FINAL.pdf ">IPCC (s. 1073)</a> innebär en uppvärmning på över 1.5 grad redan en hög risk för att unika och hotade system kommer drabbas och och att världen kommer få uppleva mer extrema väderhändelser.</p>
 <p>
 <i class="fa fa-globe fa-5x chapter-icon" style="color:green"></i>Exempel på de unika och hotade system som riskeras vid en uppvärmning på cirka 1,5 grader är den havsis-miljö som inuiter lever i, korallrev, ekosystem, unika arter i bergsområden, Amazonas ekosystem, sötvattenekosystem i en del afrikanska länder, glaciärer och unika arter på tropiska öar.  </p>

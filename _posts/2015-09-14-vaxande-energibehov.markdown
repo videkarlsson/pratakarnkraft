@@ -95,7 +95,7 @@ Trots det finns det orosmoln över hur snabbt olika koldioxidsnåla energislagen
 Två exempel på orsomoln är:
 
 <ol>
-<li><p>IEA bedömmer fortfarande att förnybara energislag över lång tid framöver kommer behöva subventioner. Kostnadsbilden för olika energislag diskuterar vi närmare <a href="/karnkraftskoll/dyrt/">här</a>.</p></li>
+<li><p>IEA bedömer fortfarande att förnybara energislag över lång tid framöver kommer behöva subventioner. Kostnadsbilden för olika energislag diskuterar vi närmare <a href="/karnkraftskoll/dyrt/">här</a>.</p></li>
 <li><p>Reglering av värderberoende energi är forfarande långt ifrån löst. Detta diskuterar vi närmare i <a href="/global/reglerfragan/">denna bloggpost</a></p></li>
 </ol>
 
