@@ -1,17 +1,17 @@
 ---
 layout: fact-check-blog
 comments: true
-title: "MSBs beskrivning av en allvarlig damolycka respektive allvarlig kärnkraftsolycka i Sverige"
+title: "MSBs beskrivning av ett allvarligt dammbrott respektive allvarlig kärnkraftsolycka i Sverige"
 date: 2014-12-28 16:54:46
 author: Vide Karlsson
 categories:
 - karnkraftskoll
 ---
-<p>MSB är förkortningen för Myndigheten för Samhällsskydd och beredskap</p>
-<p>De tar fram riskbedömningar för olika typer av olyckor som samhället kan drabbas av</p>
-<p>Det kan vara relativt svårt att föreställa sig vad riskerna med olika kraftslag faktiskt är vi har därför här valt att återge MSBs scenario för en allvarlig dammolycka respektive allvarlig kärnkraftsolycka i Sverige</p>
-<p>Så här beskriver MSB sammanfattningsvis konsekvenserna av av en allvarlig damm-olycka:<br>
-	(se <a href="https://www.msb.se/RibData/Filer/pdf/26561.pdf">rapporten</a> för samtliga uppfiter)</p>
+<p>MSB är förkortningen för Myndigheten för Samhällsskydd och beredskap.</p>
+<p>De tar fram riskbedömningar för olika typer av olyckor som samhället kan drabbas av.</p>
+<p>Det kan vara relativt svårt att föreställa sig vad riskerna med olika kraftslag faktiskt är vi har därför här valt att återge MSBs scenario för en allvarlig dammolycka respektive allvarlig kärnkraftsolycka i Sverige.</p>
+<p>MSB beskriver risken för ett mycket allvarlig dammbrott som medelhög vilket motsvarar ca 1 sådan olycka på 500 år och så här beskriver de sammanfattningsvis konsekvenserna av en sådan olycka:<br>
+	(se sidan 56 och frammåt i denna <a href="https://www.msb.se/RibData/Filer/pdf/26561.pdf">rapport</a> för samtliga uppfiter)</p>
 <blockquote>
 <p>Konsekvenserna av dammbrottet skulle bli omfattande. Stora områden över
 svämmas och många byggnader och infrastruktur raseras av vattenmassorna. 
@@ -29,7 +29,7 @@ varit reglerad sedan 50-talet, kommer fortsättningsvis att vara oreglerad. Kult
 Sammantaget bedöms konsekvenserna som mycket stora, enligt skalan i den 
 nationella riskbedömningen, främst p.g.a. att så stora värden i form av bebyggelse och infrastruktur skulle gå förlorade. Risken är överhängande att många människor skulle omkomma men detta beror på hur fort älvdalens riskområden 
 kan utrymmas</p></blockquote>
-<p>Så här beskriver MSB sammanfattnigsvis konsekvenserna av av en allvarlig kärnkrafts-olycka:<br>Se <a href="https://www.msb.se/RibData/Filer/pdf/27331.pdf">rapporten</a> för samtliga uppgifter</p>
+<p>MSB beskriver risken för en allvarlig kärnkraftsolycka som mycket låg vilket motsvarar en olycka på ca 10000 år och så här beskriver MSB sammanfattnigsvis konsekvenserna av av en sådan olycka:<br>(Se från sidan 47 i denna <a href="https://www.msb.se/RibData/Filer/pdf/27331.pdf">rapport</a> för samtliga uppgifter</p>
 <blockquote><h4>Utrymmning</h4><p>I scenariot fattar länsstyrelsen beslut om utrymning i den inre beredskapszonen 
 samma dag som händelsen inträffar, vilket berör 2 500 personer. Därutöver utryms 
 cirka 12 000 personer från ett område kring Värnamo, Emmaboda, Högsbo, Nybro 
@@ -81,6 +81,11 @@ för enskilda människor. Utrymningen från kontaminerade områden kommer i
 sig skapa såväl praktiska som psykosociala problem. I ett längre tidsperspektiv 
 kan psykosocial stress (i form av bland annat oro för framtiden, depressioner) 
 orsaka dödsfall</p>
+<h4>Transporter</h4>
+<p>Transportrestriktioner kommer att införas inom alla transportslag. Väg- och tåg-
+trafik får mest omfattande restriktioner, men de f lesta av dessa kommer kunna tas 
+bort inom en månad efter olyckan. Efter ett år kvarstår möjligen restriktioner kring 
+lokala mindre vägar där sanering inte hunnit genomföras eller varit aktuell.</p>
 <h4>Effekter på exporten</h4>
 <p>Direkt efter händelsen kommer EU:s interrimsgränsvärden för handel med varor 
 från område med potentiell radioaktiv kontaminering att träda i kraft. Detta 
@@ -98,6 +103,26 @@ Oskarshamns placering i stamnätet för el i Sverige gör att det är svårt att
 den effekt som reaktorerna i Oskarshamn står för.</p>
 <p>Om  samtliga kärnkraftreaktorer av samma typ tvingas stänga för en längre period 
 skulle det få konsekvenser för hela Sveriges energiförsörjning.</p>
+<h4>Påverkarn på jord och skogsbruk</h4>
+<p>Nedfallet från Oskarshamns kärnkraftverk drabbar främst stora delar av Småland. Cirka 290 000 hektar åkermark drabbas av radioaktivt nedfall. Djur och foder kommer därmed att kontamineras men i begränsad omfattning eftersom 
+det mesta av fodret liksom djuren är under tak på vintern.</p>
+<p>Då snön smälter hamnar de radionuklider som inte tidigare samlats upp, på 
+marken och därefter i jordlagren. För områden som är kontaminerade kan mot åtgärder sättas in, som efter ett nedfall handlar om att få bort de radionuklider som hamnat på marken eller att minska överföringen till gröda och djur. Det 
+kan exempelvis handla om att genomföra plöjning och kalium- alternativt kalkgödsling beroende på vilken radionuklid som finns i jorden.
+</p>
+<p>På lite längre sikt utgör nedfallet av framför allt cesium-137 det största problemet. Denna cesiumisotop har förhållandevis lång halveringstid (30 år) och tas upp av vegetabilier och ackumuleras exempelvis i kött.
+Effekterna på livsmedelsproduktionen i föreliggande scenario förefaller kunna begränsas genom de motåtgärder 
+som kan vidtas (se exempel ovan). Dock innebär det stora svårigheter för de enskilda 
+jordbrukare där marken bedöms som obrukbar i år framöver.</p>
+<p>
+Skogen kommer också att drabbas av nedfallet, vilket innebär att restriktioner 
+på kött från vilt kommer att behövas, samt rekommendationer om att undvika 
+bär och svamp från detta område. Skogsindustrins produktion av skogsråvara 
+kommer troligen att gå ned det kontaminerade området eftersom man inte vill 
+använda råvara från detta område. Alternativet att sanera i skogsmark är mycket 
+resurskrävande och får dessutom negativa effekter på miljön. I en handbok utgiven 
+av Räddningsverket 2007 rekommenderas endast sanering av skogsdungar nära 
+hårt trafikerade områden och vid bebyggelse.</p>
 </blockquote>
 
 

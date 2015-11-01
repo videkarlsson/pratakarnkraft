@@ -40,10 +40,10 @@ h1, h2, h3, h4, h5{
 .fa-li{
     color:{{ site.colors.dark_blue}};
     float:left
-}
+}/*
 .fa-ul i{
     color:{{ site.colors.dark_blue}};
-}
+}*/
 
 
 .main-section{

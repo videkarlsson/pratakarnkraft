@@ -18,11 +18,11 @@ Studierna visar att vind- och solkraft är beroende av <a href="http://www.natur
 
 <i class="fa fa-balance-scale fa-4x chapter-icon" id="mining-balance"></i> En <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101298">studie</a> som sammanställde resultatet från befintliga  livscykelanalyser för olika metaller kom till slutsatsen att koppar och uranbrytning har likvärdiga miljö och hälsoeffekter per kilo förädlad metall.
 
-Att beräkna hur mycket av olika metaller som går åt för att producera en terrawatttimme el med olika energislag är ingen exakt vetenskap.Men använder vi den senaste tekniken som idag finns tillgänglig för  vind- och solkraft ser vi att de kräver ca 50 ton koppar/producerad TWh medan det för kärnkraften krävs ca 30 ton uran för att producera samma mängd energi.
+Att beräkna hur mycket av olika metaller som går åt för att producera en terrawatttimme el med olika energislag är ingen exakt vetenskap. Men använder vi den senaste teknikerna som idag finns tillgänglig för  vind- och solkraft ser vi att de kräver ca 50 ton koppar/producerad TWh medan det för kärnkraften krävs ca 30 ton uran för att producera samma mängd energi.
 
-Aluminium och järn produktion har klart lägre hälso- och miljöeffekter. Men även om påverkan är lägre per kilo så behöver man man ta hänsyn till att det krävs mycket mer av dessa metaller.
+Aluminium och järn produktion har klart lägre hälso- och miljöeffekter. Men även om påverkan är lägre per kilo så behöver man ta hänsyn till att det krävs mycket mer av dessa metaller.
 
-Användningen av järn  och aluminium vid kärnkraftsproduktion bedöms som liten medans de krävs ca 4000 ton stål och ca 400 ton aluminium för att producera 1 TWh med genomsnittlig vind- och solkraft med de senaste teknikerna som finns tillgängliga idag. Detta kan sättas i perspektiv med att det krävs ca 30 ton uran för att producera 1 TWh med dagens kärnkraft. 
+Användningen av järn  och aluminium vid kärnkraftsproduktion bedöms som liten medans de krävs ca 4000 ton stål och ca 400 ton aluminium för att producera 1 TWh med genomsnittlig vind- och solkraft bygd med de senaste teknikerna som finns tillgängliga idag. 
 
 <i class="fa fa-exclamation fa-4x chapter-icon orange" id="mining-exclamation"></i>Sammantaget tycker vi det här visar på att uranbrytning är ett tveksamt argument mot kärnkraft. Vi vill dock tydliggöra att syftet med den granskning vi här genomför inte är att ställa förnyelsebar energi mot kärnkraft, eftersom <a href="/global/alla-verktyg-behovs">bägge behövs för klimatet</a>. 
 
@@ -76,7 +76,7 @@ För att ta höjd för återvinning kan vi anta följande:
 <li><p> Kraftverken vi har byggt till år 2020 kommer leverera 672TWh år 2020. (Denna beräkning bygger på linjär ökning från dagens 400TWh mot delmålet som är satt 2035)</p></li>
 </ul>
 
-Vi kan se 672Twh utgör 2,7% av 25000TWh. Genom att räkna bort 2,7% från material åtgången ovan tar vi höjd för att allt material återvinns i både de kraftverk som finns idag och alla de kraftverk vi byggt fram till 2020 (som hinner bli utslitna innan 2050).
+Vi kan se 672 Twh utgör 2,7% av 25000 TWh. Genom att räkna bort 2,7% från material åtgången ovan tar vi höjd för att allt material återvinns i både de kraftverk som finns idag och alla de kraftverk vi byggt fram till 2020 (som hinner bli utslitna innan 2050).
 
 Vi skulle kunna anta att materialet i de kraftverk som behövs för att leverera 25000TWh/år år 2050 också kommer återvinnas och att materialet på så sätt kan leverera ytterligare TWh i nya kraftverk. Men om vi tänker en tidshorisont efter 2050 är det lika rimligt att anta att vi då har <a href="/tech">Genaration-IV-reaktor-system</a> på plats och kan använda det befintligt avfallet till att driva dessa reaktorer i hundratals år framöver. Det är därför relevant att jämföra gruvdriftens påverkan innan 2050.
 

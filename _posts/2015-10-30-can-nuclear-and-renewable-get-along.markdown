@@ -49,7 +49,7 @@ Summary: absent energy storage and sinks that can make profitable use of excess 
 If we want to increase renewable penetration beyond these levels and drive truly deep decarbonization of the power system, we therefore need massive amounts of new system flexibility to match demand with varying renewable energy output.
 
 We’d need electric batteries and thermal energy storage to shift output to when its needed, dynamic load shifting and demand response to align demand with output, and ‘energy sinks’ to make productive use of excess output.
-<blo
+<blockquote></blockquote>
 But here’s the kicker: if we have the massive amounts of storage and flexibility needed to achieve an ultra-low carbon electricity system dominated by variable renewables, we also have the storage and flexibility needed to make a hybrid nuclear-renewable power system feasible as well.
 
 With that kind of system flexibility, we could store energy and shift loads to avoid having to cycle off and on nuclear plants and limit their ramping only to when it’s the most economical way to provide system flexibility.
