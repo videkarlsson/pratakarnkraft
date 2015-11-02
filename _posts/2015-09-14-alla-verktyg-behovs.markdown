@@ -9,7 +9,7 @@ categories:
 fa-icon: wrench
 ---
 <p>Utvecklingen inom förnybara energislag går glädjande snabbt framåt och under de senaste åren har ett ökande antal studier publicerats kring möjligheterna att nå 100% förnybar elproduktion i världen. </p>
-<blockquote><p>Miljörörelsen använder ofta scenarion med 100% förnybar energi, som intäckt för att vi klarar klimatet utan kärnkraft.</p></blockquote>
+<blockquote><p>Miljörörelsen använder ofta enskilda energi-scenarion med 100% förnybar energi, som intäckt för att vi utan problem kan klara klimatet utan kärnkraft.</p></blockquote>
 <p>Vi tror att det mycket väl kan vara möjligt att nå 100% förnybar elproduktion i världen ur en rent strikt teknisk mening.</p>
 <blockquote><p>Det är helt klart så att de förnybara energislagen kommer behöva spela en nyckelroll i ufasandet av världens fossila energi. Men att det kanske är tekniskt möjligt att nå 100% förnybar elproduktion är tyvärr inte detsamma som att det kommer vara enkelt genomförbart eller ens säkert det mest önskvärda ur ett miljöperspektiv.</p></blockquote><p>
 <p>I denna bloggpost vill vi visa varför vi ser det som ett risktagande med klimatet, människors hälsa, och andra miljövärden, om man väljer att utesluta kärnkraft som en del av lösningen.</p>
