@@ -105,7 +105,7 @@ De kategorier som framförallt är intressanta att se närmare på är energifö
 
 I kategorin energiförbrukning ser vi att processen att bryta och förädla uran märker ut sig med en 3:a, i jämförelse med den 1:a som samtliga metaller som vind- och solkraft behöver får.
 
-Mönstret som återkom för alla de fyra kategorierna var att koppar och uran har likvärdig påverkan båda fick genomgående en trea på den fem-gradiga skalan. Aluminium och järn befann sig bland de metaller med minst hälso- och miljöeffekter och fick både en etta på den fem-gradiga skalan. 
+Mönstret som återkom för de övriga tre kategorierna var att koppar och uran har likvärdig påverkan och båda fick genomgående en trea på den fem-gradiga skalan. Aluminium och järn befann sig bland de metaller med minst hälso- och miljöeffekter och fick både en etta på den fem-gradiga skalan. 
 
 <h4>Slutsatser från jämförelsen av metallförbrukning för olika kraftslag</h4>
 
