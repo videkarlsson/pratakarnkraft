@@ -32,7 +32,7 @@ För att sätta denna ökade dos i perspektiv kan man t.ex. se att flygpersonal 
 Den totala stråldosen för människor i omgivningen skulle också <a href="https://en.wikipedia.org/wiki/Background_radiation">ligga långt långt under</a> de stråldoser som förekommer naturligt runt om på jorden, där det bor människor, och där man inte kunnat uppmäta några påvisbara negativa hälsoeffekter från strålningen.
 
 
-<span class="fa-stack fa-lg chapter-icon waste-square"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">2</i></span>Det andra problemet vi vill lyfta är det relativa ointresse som vi inom Miljöpartiet hittills visat för fjärde generationens kärnkraft. Om vi menar allvar med att uttjänt kärnbränsle är ett oacceptabelt miljöproblem så borde vi också välkomna den teknik som kan användas för att sänkta lagringstiden från 100000 år till ca 500-1000 år.
+<span class="fa-stack fa-lg chapter-icon waste-square"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">2</i></span>Det andra problemet vi vill lyfta är det relativa ointresse som vi inom Miljöpartiet hittills visat för fjärde generationens kärnkraft. Om vi menar allvar med att uttjänt kärnbränsle är ett oacceptabelt miljöproblem så borde vi också välkomna den teknik som kan användas för att sänkta lagringstiden för största delen av avfallet från 100000 år till ca 1000 år.
 
 <a href="/tech/"><i class="fa fa-arrow-circle-o-right read-more-arrow"></i> Om du vill läsa mer om tekniker för att återvinna kärnavall rekommenderar vi vår forskarintervju om teknikutvecklingen inom kärnkraftsomådet.</a>
 
