@@ -54,8 +54,6 @@ Det är viktigt att komma ihåg att detta gäller just för nya kärnkraftsländ
 
 Men det är givetvis ett problem med kärnkraftsutbyggnad i odemokratiska, ostabila och/eller länder med hög korruption. Därför är det särskilt önskvärt att framförallt sol- vind-, och även till viss del bio-energi får står för en så stor andel som möjligt av energiförsörjningen i dessa länder. 
 
-Som Hans Rosling presenterar på ett pedagogiskt sätt <a href="https://www.youtube.com/watch?v=xYnpJGaMiXo">i denna video</a> är det också viktigt att se att vi har en mycket positiv utveckling i världen mot mer demokrati och välstånd. Länder som idag inte är lämpade att vara kärnkraftsländer kan därför mycket väl bli det. Därför är det bra om teknik för detta finns att tillgå när dessa länder är redo.
-
 <h2>Terrorism och kärnvapen</h2>
 
 Terrorgrupper har intresse, eventuellt kunskap och kan ha kapacitet att få tag på kärnvapenmaterial, enligt ett <a href="http://belfercenter.ksg.harvard.edu/files/bunn-nuclear-terror-risk-test-08.pdf">vittnesmål</a> i USA:s senat år 2008 från professorn Matthew Bunn som specialiserat sig på forskning om kärnvapenterrorism.

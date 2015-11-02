@@ -11,7 +11,8 @@ layout: global-main
             {%if page.fa-icon%}<div class="fa-circle-container"><span class="fa-stack fa-lg fa-4x"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-{{page.fa-icon}} fa-stack-1x fa-inverse"></i></span></div>{% endif %}
 
             <a href="{{ page.url | prepend: site.baseurl }}"><h1 class="ctitle text-center">{{ page.title }}</h1></a>
-            <p class="text-center"><csmall>{{ page.date | date: "%b %-d, %Y" }}.</csmall></p>
+            <div class="spacing"></div>
+<!--             <p class="text-center"><csmall>{{ page.date | date: "%b %-d, %Y" }}.</csmall></p> -->
             {{ content }}
             <div class="spacing"></div>
             <h6 class="share-headline text-center">SHARE:</h6>
