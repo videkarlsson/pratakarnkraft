@@ -13,8 +13,7 @@ categories:
 <p>MSB beskriver risken för ett mycket allvarlig dammbrott som medelhög vilket motsvarar ca 1 sådan olycka på 500 år och så här beskriver de sammanfattningsvis konsekvenserna av en sådan olycka:<br>
 	(se sidan 56 och frammåt i denna <a href="https://www.msb.se/RibData/Filer/pdf/26561.pdf">rapport</a> för samtliga uppfiter)</p>
 <blockquote>
-<p>Konsekvenserna av dammbrottet skulle bli omfattande. Stora områden över
-svämmas och många byggnader och infrastruktur raseras av vattenmassorna. 
+<p>Konsekvenserna av dammbrottet skulle bli omfattande. Stora områden översvämmas och många byggnader och infrastruktur raseras av vattenmassorna. 
 Flodvågen drar med vägar och järnvägar liksom flera korsande broar
 , elledningar och kommunikationsinfrastruktur.</p>
 <p>All nedströms elkraftsproduktion slås ut. Elnät påverkas på alla systemnivåer men lokal- och regionnät drabbas hårdast. 
@@ -72,11 +71,12 @@ på grund av händelsen skulle kunna pågå i mer än ett år.
 I huvudsak finns det tre olika typer av hälsoproblem som kan upp
 komma till följd av händelsen. </p>
 <p>Det handlar om akuta strålskador, cellförändringar/cancer och psykologiska problem. Därtill kan människor skadas eller omkomma genom 
-olyckor som kan uppstå till följd av händelsen, alltså som en indirekt konsekvens. Troligen kommer inte någon person att drabbas av akuta strålskador i det här scenariot. I det längre perspektivet aktualiseras frågan om en eventuell ökning 
-i mängden personer som insjuknar i cancer på grund av att de utsätts för låg stråldos under lång tid. Flera forskningsrapporter visar på att antalet insjuknade i cancer på grund av en liknande händelse kommer vara mycket lågt,
+olyckor som kan uppstå till följd av händelsen, alltså som en indirekt konsekvens. </p>
+<p>Troligen kommer inte någon person att drabbas av akuta strålskador i det här scenariot. I det längre perspektivet aktualiseras frågan om en eventuell ökning i mängden personer som insjuknar i cancer på grund av att de utsätts för låg stråldos under lång tid. Flera forskningsrapporter visar på att antalet insjuknade i cancer på grund av en liknande händelse kommer vara mycket lågt,
 om det ens går att påvisa statistiskt – i varje fall kan man inte urskilja dessa cancerfall 
 från fall där cancern har andra orsaker. Kärnkrafthaveriet och det radioaktiva 
-utsläppet kommer däremot att få djupgående psykologiska effekter hos befolkningen. Det kommer att bli både en stor medial händelse och en personlig kris 
+utsläppet kommer däremot att få djupgående psykologiska effekter hos befolkningen.</p><p>
+Det kommer att bli både en stor medial händelse och en personlig kris 
 för enskilda människor. Utrymningen från kontaminerade områden kommer i 
 sig skapa såväl praktiska som psykosociala problem. I ett längre tidsperspektiv 
 kan psykosocial stress (i form av bland annat oro för framtiden, depressioner) 
