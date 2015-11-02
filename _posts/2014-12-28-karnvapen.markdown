@@ -97,7 +97,7 @@ I miljöpartiets publikationen <a href="/assets/files/mp_arg_kärnkraft.pdf">Kä
 
 <blockquote>I dag vill både Iran och Vitryssland ha kärnkraft. Saudiarabien köper kärnteknik från Frankrike. Det blir svårare att motverka att världens diktaturer får tillgång till farlig teknologi om vi själva bygger ut kärnkraft.</blockquote>
 
-Ett lands vilja att skaffa sig kärnvapen kan inte antas ha någon koppling till huruvida andra länder bygger ut civil kärnkraft. De kommer alltså vilja göra detta oavsett hur mycket eller lite civil kärnkraft det förkommer i världen. Om ett land vill använda civil kärnkraft som en täckmantel kan de göra detta oberoende av om vi i omvärlden samtycker till detta, se t.ex. fallet med Iran.
+Ett lands vilja att skaffa sig kärnvapen kan inte antas ha någon koppling till huruvida andra länder bygger ut civil kärnkraft. De kommer alltså vilja göra detta oavsett hur mycket eller lite civil kärnkraft det förekommer i världen. Om ett land vill använda civil kärnkraft som en täckmantel kan de göra detta oberoende av om vi i omvärlden samtycker till detta, se t.ex. fallet med Iran.
 
 Vi skulle vilja mena att om vi ser till det <a href="/global/alla-verktyg-behovs">risktagande det blir med klimatet</a> och de <a href="/karnkraftskoll/radda-liv">extremt negativa hälso-effekterna som fossilenergi och energifattigdom har i världen</a>, så tycker vi att de väger klart tyngre än den mycket oklara koppling som civil kärnkraft i demokratier har till odemokratiska länders val att skaffa kärnvapen under en täckmantel av ett civilt kärnkraftsprogram. 
 
@@ -109,24 +109,19 @@ Från detta perspektiv skulle man kunna argumentera för att det är mer sannoli
 
 Vi instämmer i att det kan finnas ett visst signalvärde i att rika demokratier som går på 100%-förnybart. Vi skulle dock vilja problematisera denna argumentation. 
 
-Som vi arguemnterat ovan blir det ett stort risktagande med <a href="/global/alla-verktyg-behovs">klimatet och människors hälsa att på global nivå utesluta något koldioxidsnålt energislag</a>. 
+Som vi arguemnterat ovan blir det ett stort risktagande med <a href="/global/alla-verktyg-behovs">klimatet och människors hälsa att på global nivå utesluta något koldioxidsnålt energislag</a>. Givet detta är det snarare önskvärt att det är länder med ett högt säkerhetsmedvetande som driver utvecklingen att göra kärnkraften säkrare från ett kärnvapenspridningsperspektiv. 
 
 Vidare som vi argumenterar för <a href="/global/sverige-unikt/">här</a> och <a href="/global/reglerfragan">här</a>, så behöver inte heller en utbyggnad av kärnkraft i t.ex. Sverige stå i konflikt med att vi är med och ta fram globalt tillämpbara lösningar för att skala upp väderberoende energi.
-
-Om vi i stabila demokratier är med och driver teknikutvecklingen på kärnkraftsområdet har vi möjlighet att göra det med ett starkt fokus på att minska riskerna ur ett kärnvapenspridningsperspektiv. 
 
 I denna <a href="http://www.sciencedirect.com/science/article/pii/S0149197013000504">artikel</a> om hur vi ökar säkerheten kring civil kärnkraft ur ett kärnvapenspridninsperspektiv,</a> betonas vikten av internationella kontrollorgan med tydliga regelverk.
 Om demokratiska länder också har civil kärnkraft är det snarast lättare att med trovärdighet få vara med och ha inflytande i hur gemensamma regler ska utformas och var anrikningsanläggningar ska placeras.
 
-Med kunskap inom det kärntekniska området har vi också möjlighet att erbjuda ostabila länder läsningar där de får tillgång till reaktorer men bränslet framställs i stabilare länder. USA erbjöd t.ex. Nord Korea rektorer i utbyte mot att de fick sköta bränslehanteringen men tyvärr så tackade Nord Korea nej till detta erbjudande. TODO kolla källa med Mattias som gjorde detta påstående i diskussionen
+Med kunskap inom det kärntekniska området har vi också möjlighet att erbjuda ostabila länder lösningar där de får tillgång till reaktorer men bränslet framställs i stabilare länder och avfallet sätts under internationell kontroll. USA och Sydkorera <a href="https://en.wikipedia.org/wiki/Agreed_Framework">erbjöd</a> t.ex. Nord Korea betalda lättvatten-rektorer i utbyte mot att de lät internationella organ kontrollera avfallet och att de skulle stänga ner <a href="https://en.wikipedia.org/wiki/Yongbyon_Nuclear_Scientific_Research_Center">Yongbyon Nuclear Scientific Research Center</a>.
 
-Slutligen så finns det oroväckande sido-effekter av att skala upp sol- och vindkraft samt bio-energi i allt för stor skala i världen.
+Slutligen kan vi se att många scenarion med hög andel väderbereoende energi och bygger på en hög andel bio-energi som reglerkraft.
+Produktion av bio-energi tar stora mängder landyta i anspråk. Även energi-sceanrion med bara 20% bio-energi beräknas ta ca 8 % av världens landyta i anspråk. Vilket kan sättat i perspektiv till att vi redan idag använder ca 12 av världens landyta för jordbruk och forskare inom ekologi menar att <a href="http://localhost:4000/assets/files/Rockstrom_2009_Planetary%20Boundaries-%20Exploring%20the%20Safe%20Operating%20Space%20for%20Huma.pdf">15% jordbruksmark</a> är en viktig gräns för en hållbar utveckling. Att vi i världen tar mer och mer av världens landyta i anspråk har också pekats ut som ett viktigt skäl till det globala massutrotande av arter som nu pågår. 
 
-Sol- och vindkraft är problematiskt ur ett <a href="/karnkraftskoll/uranbrytning">materialåtgångsperspektiv om de ska stå för allt för stor del av världens energiförbrukning</a>.
-
-Produktion av bio-energi tar stora mängder landyta i anspråk. Även energi-sceanrion med bara 20% bio energi beräknas ta ca 8 % av världens landyta i anspråk. Vilket kan sättat i perspektiv till att vi redan idag använder ca 12 av världens landyta för jordbruk och forskare inom ekologi menar att <a href="http://localhost:4000/assets/files/Rockstrom_2009_Planetary%20Boundaries-%20Exploring%20the%20Safe%20Operating%20Space%20for%20Huma.pdf">15% jordbruksmark</a> är en viktig gräns för en hållbar utveckling. Att vi i världen tar mer och mer av världens landyta i anspråk har också pekats ut som ett viktigt skäl till det globala massutrotande av arter som nu pågår. 
-
-Av dessa två anledningar är det önskvärt om inte alla länder måste lösa sin energiproduktion med bara förnybar-energi.
+Av denna anledning är det önskvärt om inte alla länder måste lösa sin energiproduktion med bara förnybar-energi.
 
 <!-- 
  Enligt en studie från 2006 är sannolikheten för en kärnvapenattack under det kommande decenniet 29 procent. 

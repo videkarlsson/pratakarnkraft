@@ -69,7 +69,7 @@ utbyggnaden.
 </div>
 <div>
 	<img class="img-responsive blog-img" src="/assets/img/fact-check/graph-nuclear-world-speed.jpg">
-	<p class="img-text"><a href="http://www.diva-portal.org/smash/get/diva2:752144/FULLTEXT01.pdf">Källa: Sammanställd data från X TODO frågan Carl Hellesen om orginalkälla</a></p>
+	<p class="img-text"><a href="http://www.diva-portal.org/smash/get/diva2:752144/FULLTEXT01.pdf">Källa: Svensk elförsörjning i framtiden en fråga med globala dimentioner</a></p>
 </div>
 Vi ser att de erfarenheter vi har av elproduktion i världen hittills talar emot påståendet att satsningar på kärnkraft skulle leda till långsammare utsläppsminskningar. Glappet mellan förnybara energislag och kärnkraft är därtill betydande. Tar vi ett land med relativt stor befolkning som Frankrike ser vi att de under 70-80 talet uppnådde en utbyggnadstakt per capita som är tre gånger högre än det land som leder utbyggnaden av förnybara energislag närmare bestämt Danmark. Detta visar att en snabb kärnkraftsutbyggnad är fullt tekniskt möjlig givet att den politiska viljan finns på plats.
 <h3>Mediantiden för färdigställande av reaktorer idag</h3>
