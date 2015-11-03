@@ -32,12 +32,12 @@ I denna <a href="/karnkraftskoll/radda-liv">bloggpost</a> för vi en mer fördju
 <p class="img-text">Källa: <a href="http://www.iea.org/statistics/statisticssearch/report/?country=WORLD&product=balances&year=2011">IEA</a><p>
 </div>
 <p>
-Vi har granskat flera IPCCs rapporter. Ur dessa framgår att IPCC ser kärnkraft som helt nödvändingt ifall vi vill begränsa uppvärmingen till under 1,5 grader. </p>
+Vi har granskat flera IPCCs rapporter. Ur dessa framgår att IPCC ser kärnkraft som helt nödvändigt ifall vi vill begränsa uppvärmningen till under 1,5 grader. </p>
 <p>
-I frågan om två-gradersmålet är skrivelserna mindre kategoriska då det finns enskillda scenarion som visar att vi kan klara två-graders målet utan kärnkraft. Gemensamt för dessa scenarion är dock att de förutsätter en minskad energi-konsumtion i världen. </p>
+I frågan om tvågradersmålet är skrivelserna mindre kategoriska då det finns enskilda scenarion som visar att vi kan klara två-graders målet utan kärnkraft. Gemensamt för dessa scenarion är dock att de förutsätter en minskad energi-konsumtion i världen. </p>
 <p>
-Av 164 olika scenarion för världens energi-produktion var det inget scenario som bygde på enbart förnybar energi och samtidigt tog höjd för för en ökad energikonsumtion i världen. Detta menar vi gör att en global avveckling av kärnkraft blir ett risktagande med även våra chanser att klara två-gradersmålet.  </p>
-<h2>IPCC bedömer att alla kraftslag behövs om vi ska begränsa uppvärmingen till 1.5 grader</h2>
+Av 164 olika scenarion för världens energi-produktion var det inget scenario som byggde på enbart förnybar energi och samtidigt tog höjd för för en ökad energikonsumtion i världen. Detta menar vi gör att en global avveckling av kärnkraft blir ett risktagande med även våra chanser att klara tvågradersmålet.  </p>
+<h2>IPCC bedömer att alla kraftslag behövs om vi ska begränsa uppvärmningen till 1.5 grader</h2>
 <p>Världens länder har som mål att begränsa den globala uppvärmningen till två grader. Men enligt <a href="http://www.ipcc.ch/pdf/assessment-report/ar5/wg2/WGIIAR5-Chap19_FINAL.pdf ">IPCC (s. 1073)</a> innebär en uppvärmning på över 1.5 grad redan en hög risk för att unika och hotade system kommer drabbas och och att världen kommer få uppleva mer extrema väderhändelser.</p>
 <p>
 <i class="fa fa-globe fa-5x chapter-icon" style="color:green"></i>Exempel på de unika och hotade system som riskeras vid en uppvärmning på cirka 1,5 grader är den havsis-miljö som inuiter lever i, korallrev, ekosystem, unika arter i bergsområden, Amazonas ekosystem, sötvattenekosystem i en del afrikanska länder, glaciärer och unika arter på tropiska öar.  </p>
@@ -54,8 +54,8 @@ Om vi vill begränsa uppvärmningen till under 1.5 grader <a href="http://www.ip
 Att alla tekniker behövs bekräftades också i en <a href="http://unfccc.int/resource/docs/2015/sb/eng/inf01.pdf">FN-rapport (s. 32)</a> från våren 2015, som skriver att det krävs ”the full set of low-carbon technologies” för att begränsa temperaturökningen till 1,5 grader.
 </p>
 <p>
-FN-rapporten betonar att en begränsning till 1.5 grader även kräver en minsking i efterfrågan av energi och en uppskalning av tekniker som minskar halten CO² i luften. De finns stora osäkerheter i om och till vilken grad vi kommer lyckas minska energiförbrukningen samt om vi kommer kunna skala upp teknik som aktivt minskar halten CO² i luften. Detta menar talar för ett behov av kärnkraft även för att klara två-gradersmålet.</p>
-<h2>Vad säger IPCC om 2-graders-målet? </h2>
+FN-rapporten betonar att en begränsning till 1.5 grader även kräver en minskning i efterfrågan av energi och en uppskalning av tekniker som minskar halten CO² i luften. De finns stora osäkerheter i om och till vilken grad vi kommer lyckas minska energiförbrukningen samt om vi kommer kunna skala upp teknik som aktivt minskar halten CO² i luften. Detta menar talar för ett behov av kärnkraft även för att klara två-gradersmålet.</p>
+<h2>Vad säger IPCC om 2-gradersmålet? </h2>
 <p>
 IPCC skriver följande:
 </p>
@@ -66,7 +66,7 @@ nuclear energy and fossil energy with carbon dioxide capture and storage (CCS), 
 
 <p>Inte sällan ser vi dock hur olika delar av miljörörelsen lyfter fram enskilda scenarion från IPCCs rapporter som en garant för att vi kan klara två-gradersmålet lika bra utan kärnkraft. Vi kommer här lyfta ett exempel på där <a href="/assets/files/SRREN_fullReport.pdf">IPCC’s ‘Special Report on Renewable Energy Sources</a> använts på detta sätt.</p>
 
-<p>Samtidigt vill vi vara tydliga med att vi inte läst samtliga IPCC rapporter i sin helhet så om du som läsare ser anledning att lyfta fram data från någon annan rapport välkommnar vi detta.</p>
+<p>Samtidigt vill vi vara tydliga med att vi inte läst samtliga IPCC rapporter i sin helhet så om du som läsare ser anledning att lyfta fram data från någon annan rapport välkomnar vi detta.</p>
 
 <p><a href="/assets/files/SRREN_fullReport.pdf">IPCCs rapport om förnybar energi </a> kom 2012 och har använts som en garant för att kärnkraft inte skulle behövas för att stoppa klimatförändringarna. Vi vill här visa varför vi tycker det finns skäl att problematisera denna tolkning av rapporten.</p>
 <img class="img-responsive blog-img" src= "/assets/img/global/164_scenarios_IPCC.jpg">

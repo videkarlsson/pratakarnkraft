@@ -49,7 +49,7 @@ Smarta nät utbyte av mer än nätet om det ska ske automatiskt. Tar tid - kolla
 Varnar för att vind och sol samkorrelerar i stora områden.
 
 <h4>Anpassa elanvändningen</h4>
-Svårt att få globalt genomslag. Sämre konkurranskraft. 
+Svårt att få globalt genomslag. Sämre konkurrenskraft. 
 
 
 

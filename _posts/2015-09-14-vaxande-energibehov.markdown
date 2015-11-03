@@ -88,7 +88,7 @@ Tre-scenarion som märker ut sig med flerfaldigt högre mål för installerad ka
 
 Greenpeace är ett fjärde scenario som utesluter kol med koldioxidlagring och kärnkraft. Deras mål är likvärdigt med majoriteten av scenariona och syns därför knappt i grafen.  Men Greenpeace scenario är också annorlunda en de tre scenarion vi diskuterat ovan efterson de antar 20% fossil energi även år 2050.
  
-Viktigt att ha i åtanke när man betraktar denna jämförelse är också att många av de scenarion som ingick i studien är framtagna under år 2010 eller år 2011. Den teknisk utvecklingen har gått frammåt sedan dess och IEA sätter större tilltro till förnybara energislag idag. 
+Viktigt att ha i åtanke när man betraktar denna jämförelse är också att många av de scenarion som ingick i studien är framtagna under år 2010 eller år 2011. Den teknisk utvecklingen har gått framåt sedan dess och IEA sätter större tilltro till förnybara energislag idag. 
 
 Trots det finns det orosmoln över hur snabbt olika koldioxidsnåla energislagen kommer gå att skala upp. 
 
@@ -99,7 +99,7 @@ Två exempel på orsomoln är:
 <li><p>Reglering av värderberoende energi är forfarande långt ifrån löst. Detta diskuterar vi närmare i <a href="/global/reglerfragan/">denna bloggpost</a></p></li>
 </ol>
 
-I den aktuella studien lyfter man ytterligare två faktorer som är värda att ta hänsyn till, närmare bestämt hur tekniskt redo olika tekniker är samt hur stor den samhälliga acceptansen är för utbyggnad av olika energislag i olika delar av världen.
+I den aktuella studien lyfter man ytterligare två faktorer som är värda att ta hänsyn till, närmare bestämt hur tekniskt redo olika tekniker är samt hur stor den samhälleliga acceptansen är för utbyggnad av olika energislag i olika delar av världen.
 
 Sol-, vind- och kärnkraft är alla tekniker som finns i stor skala men tekniker för energilagring, smarta nät och vågenergi är forfarande på på ett mycket tidig stadie i komersialiseringsprocessen.
 

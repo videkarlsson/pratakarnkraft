@@ -28,7 +28,7 @@ Studien från Spix m.fl. skriver själva i sin slutsats att deras resultat går 
 
 <blockquote><p>In Germany 1980-2003 we see an increased risk for cancer in children under 5 years of age, particularly leukaemia, when living in proximity(<5km) to a nuclear power station. This observation is not consistent with most international studies, unexpected given the observed level of radiations and remains unexplained. We cannot exclude the possibility that this effect is the result of uncontrolled confounding or pure chance.</p></blockquote>
 
-I diskussionen skriver de ävan att strålningen från kärnkraftverk är lägre än den naturliga bakgrundsstrålningen.  
+I diskussionen skriver de även att strålningen från kärnkraftverk är lägre än den naturliga bakgrundsstrålningen.  
 
 Den <a href="http://www.ssk.de/SharedDocs/Beratungsergebnisse_PDF/2008/Kikk_Studie_e.pdf?__blob=publicationFile 
 ">tyska strålskyddskommissionen riktar trotts detta kritik mot KiKK studien</a> och skriver: 
@@ -46,14 +46,14 @@ Den tyska strålskyddskommissionen konstaterar att om en ökad strålning på 0,
 
 Studien från Baker och Hoel 2007, som Per Bolund hänvisar till, kommer också fram till att leukemi bland barn är vanligare hos dem som bor nära kärnkraftverk men att de inte vet varför. I studien så ifrågasätter forskarna om den ökade strålningen som barn nära kärnkraftverk får är tillräcklig för att öka risken.  
 
-Problematiken med denna forskartrio kan sammansfattas som att de ger sken av ett vetenskapligt förhållningssätt men om man tittar närmare så bryter de mot även de mest grundläggande principerna, så som att <a href="/assets/files/busby-letter-to-lantz.pdf" target="_blanc">inte använda sig av akademiska titilar man inte har</a> och inte ägna sig åt <a href="http://en.wikipedia.org/wiki/Cherry_picking_%28fallacy%29" target="_blanc">“cherry picking”</a> när man <a href="https://www.youtube.com/watch?v=DOreFp9983I" target="_blanc">väljer ut data för att studera ett fenomen</a>. Just eftersom kärnkraftsfrågan präglas av så mycket dessinformation skulle vi se positivt på att vi inom Miljöpartiet aktivt tog avstånd från denna typ av studier.
+Problematiken med denna forskartrio kan sammanfattas som att de ger sken av ett vetenskapligt förhållningssätt men om man tittar närmare så bryter de mot även de mest grundläggande principerna, så som att <a href="/assets/files/busby-letter-to-lantz.pdf" target="_blanc">inte använda sig av akademiska titlar man inte har</a> och inte ägna sig åt <a href="http://en.wikipedia.org/wiki/Cherry_picking_%28fallacy%29" target="_blanc">“cherry picking”</a> när man <a href="https://www.youtube.com/watch?v=DOreFp9983I" target="_blanc">väljer ut data för att studera ett fenomen</a>. Just eftersom kärnkraftsfrågan präglas av så mycket desinformation skulle vi se positivt på att vi inom Miljöpartiet aktivt tog avstånd från denna typ av studier.
 
-Just eftersom kärnkraftsfrågan präglas av så mycket dessinformation skulle vi se positivt på att vi inom miljöpartiet och miljörörelsen aktivt tog avstånd från denna typ av studier.
+Just eftersom kärnkraftsfrågan präglas av så mycket desinformation skulle vi se positivt på att vi inom miljöpartiet och miljörörelsen aktivt tog avstånd från denna typ av studier.
 
 <h2>Vad säger IPCC?</h2>
 För att bilda sig en uppfattning om frågan tänker vi att det kan vara relevant att ta del av vad IPCC <a href="http://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter7.pdf ">säger (s. 549)</a>. 
 
-I rapporten på sidan ges källhänvisningar till en rad studier som undersökt om det finns ett samband mellan kärnkraft under normal drift och leukemi bland barn. Vi har läst slutsatserna för samtliga studier och det visar sig att det mycket riktigt bara är en minroitet av de studier som gjorts som sett en förhöjd frekvens av leukemi hos barn nära kärnkraftverk. 
+I rapporten på sidan ges källhänvisningar till en rad studier som undersökt om det finns ett samband mellan kärnkraft under normal drift och leukemi bland barn. Vi har läst slutsatserna för samtliga studier och det visar sig att det mycket riktigt bara är en minoritet av de studier som gjorts som sett en förhöjd frekvens av leukemi hos barn nära kärnkraftverk. 
 
 I denna minoritet är det i sin tur bara en forskare som tror på ett orsakssamband mellan strålning från kärnkraftverken och observerade fall av leukemi. 
 
@@ -64,5 +64,5 @@ I denna minoritet är det i sin tur bara en forskare som tror på ett orsakssamb
 Vi tycker att den formulering som pm-författaren har valt är problematisk. 
 Läsaren får lätt bilden att det är praktiskt taget belagt att risken för leukemi hos barn fördubblas vid boende i närheten av kärnkraftverk. 
 
-Vi hade gärna sett att man redogorde för hur låga stråldoser det rör sig om samt att man förtydligade att ingen av de källor man använt sig av själva tror på ett orsaksamband mellan dessa stråldoser och den förhöjda frekvens av leukemi som i några fall obeserverats.
+Vi hade gärna sett att man redogjorde för hur låga stråldoser det rör sig om samt att man förtydligade att ingen av de källor man använt sig av själva tror på ett orsakssamband mellan dessa stråldoser och den förhöjda frekvens av leukemi som i några fall observerats.
 {% include read-reaction-instruction.html %}

@@ -11,7 +11,7 @@ categories:
 <p>De tar fram riskbedömningar för olika typer av olyckor som samhället kan drabbas av.</p>
 <p>Det kan vara relativt svårt att föreställa sig vad riskerna med olika kraftslag faktiskt är vi har därför här valt att återge MSBs scenario för en allvarlig dammolycka respektive allvarlig kärnkraftsolycka i Sverige.</p>
 <p>MSB beskriver risken för ett mycket allvarlig dammbrott som medelhög vilket motsvarar ca 1 sådan olycka på 500 år och så här beskriver de sammanfattningsvis konsekvenserna av en sådan olycka:<br>
-	(se sidan 56 och frammåt i denna <a href="https://www.msb.se/RibData/Filer/pdf/26561.pdf">rapport</a> för samtliga uppfiter)</p>
+	(se sidan 56 och framåt i denna <a href="https://www.msb.se/RibData/Filer/pdf/26561.pdf">rapport</a> för samtliga uppfiter)</p>
 <blockquote>
 <p>Konsekvenserna av dammbrottet skulle bli omfattande. Stora områden översvämmas och många byggnader och infrastruktur raseras av vattenmassorna. 
 Flodvågen drar med vägar och järnvägar liksom flera korsande broar

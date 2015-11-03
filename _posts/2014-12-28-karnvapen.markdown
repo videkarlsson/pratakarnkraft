@@ -12,8 +12,8 @@ thumb: nuclear-weapon-thumb.jpg
 Frågan om kärnvapen och civil kärnkraft är komplex. 
 
 Den övergripande slutsats vi landat i är följande:
-<blockquote><p>En global utbyggnad av civil kärnkraft medför en viss ökad risk för spridning av radioaktiva vapen. Risken ligger både i att nya länder kan komma i besittning av kärnvapen och i att terrorgruppen kan får tillgång till radioaktivt vapenmaterial. Civil kärnkraft i stabila demokratier är relativt oproblematiskt från dessa perspektiv. Men riskerna i icke stabila demokratier och generellt länder med hög korrumption gör att energilösningar som bygger på sol- vind- och bioenergi är att föredra i dessa länder.</p>
-<p>Vi har generellt svårt att se att riskerna kopplade till spridning av radiokativa vapen motiverar en påskyndad avveckling i de länder som redan har kärnkraft eller motiverar ett stopp av forskning på fjärde generationens kärnkraft. Vi värderar också riskerna som fossil energi medför som generellt högre. </p>
+<blockquote><p>En global utbyggnad av civil kärnkraft medför en viss ökad risk för spridning av radioaktiva vapen. Risken ligger både i att nya länder kan komma i besittning av kärnvapen och i att terrorgruppen kan får tillgång till radioaktivt vapenmaterial. Civil kärnkraft i stabila demokratier är relativt oproblematiskt från dessa perspektiv. Men riskerna i icke stabila demokratier och generellt länder med hög korruption gör att energilösningar som bygger på sol- vind- och bioenergi är att föredra i dessa länder.</p>
+<p>Vi har generellt svårt att se att riskerna kopplade till spridning av radioaktiva vapen motiverar en påskyndad avveckling i de länder som redan har kärnkraft eller motiverar ett stopp av forskning på fjärde generationens kärnkraft. Vi värderar också riskerna som fossil energi medför som generellt högre. </p>
 </blockquote>
 
 Men det är viktigt att ha i åtanke att det finns stora osäkerheter när man ska uppskatta både konsekvenserna av fossil energi och risken för spridning av radioaktiva vapen. Detta gör att man kan komma till olika slutsatser.
@@ -22,7 +22,7 @@ Vi kommer här utveckla vad som lett oss fram till denna slutsats.
 
 <h2>Introduktion</h2>
 
-Naturligt uran består endast av 0,7 procent Uran-235. För att producera bränslet för ett kärnkraftsverk anrikas uranet så att halten av Uran-235 blir 4-5 procent. Till en bomb krävs en större andel uran-235.  Men tekniken för att anrika uran till kärnvapen är samma som att anrika till kärnkraft. 
+Naturligt uran består endast av 0,7 procent Uran-235. För att producera bränslet för ett kärnkraftverk anrikas uranet så att halten av Uran-235 blir 4-5 procent. Till en bomb krävs en större andel uran-235.  Men tekniken för att anrika uran till kärnvapen är samma som att anrika till kärnkraft. 
 
 Därför utgör anrikningsanläggningar en ökad risk. Det är därför viktigt att dessa ställs under internationell kontroll och placeras i lågrisk länder.
 
@@ -38,7 +38,7 @@ När vi ska bedöma risken för att ett land skaffar sig kärnvapen genom civil 
 
 <img class="img-responsive blog-img" src="/assets/img/fact-check/map_nuclear_weapon.png">
 
-På världskartan ovan har vi med blått fylt i de länder som skaffade sig kärnvapen innan de skaffade civil kärnkraft, med grönt fylt i de länder som har kärnkraft men inte kärnvapen, med gult fyllt i de länder som har kärnvapen men ej civil kärnkraft och slutligen med rött fylt i det land som skaffade sig civil kärnkraft innan kärnvapen. 
+På världskartan ovan har vi med blått fyllt i de länder som skaffade sig kärnvapen innan de skaffade civil kärnkraft, med grönt fyllt i de länder som har kärnkraft men inte kärnvapen, med gult fyllt i de länder som har kärnvapen men ej civil kärnkraft och slutligen med rött fyllt i det land som skaffade sig civil kärnkraft innan kärnvapen. 
 
 Att civil kärnkraft varken är ett nödvändigt eller tillräckligt villkor för att utveckla kärnvapen blir tydligt när vi ser antalet länder i de olika kategorierna. Kort sagt länder har skaffat sig kärnvapen utan att ha kärnkraft, och det finns många länder med kärnkraft utan kärnvapen. 
 
@@ -50,7 +50,7 @@ Ett problem är att nya kärnkraftsländer generellt är sämre än befintliga k
 
 Världsbanken har ett poängsystem för de fem kategorier som nämns i artikeln från American academy of Arts and Science. Medelvärdet för “aspring nuclear power states” är betydligt lägre än medelvärdet för “existing nuclear power states”. 
 
-Det är viktigt att komma ihåg att detta gäller just för nya kärnkraftsländer och att en stor utbyggnad i befintliga kärnkaftsländer så som USA, Ryssland, Indien och Kina har potential att göra stor skillnad för klimatet.
+Det är viktigt att komma ihåg att detta gäller just för nya kärnkraftsländer och att en stor utbyggnad i befintliga kärnkraftsländer så som USA, Ryssland, Indien och Kina har potential att göra stor skillnad för klimatet.
 
 Men det är givetvis ett problem med kärnkraftsutbyggnad i odemokratiska, ostabila och/eller länder med hög korruption. Därför är det särskilt önskvärt att framförallt sol- vind-, och även till viss del bio-energi får står för en så stor andel som möjligt av energiförsörjningen i dessa länder. 
 
@@ -61,7 +61,7 @@ Både terrorgrupper som Al Quida och japanska terrorsekten Aum Shinrikyo har vis
 
 Enligt Bunns vittnesmål skulle terrorgrupper kunna skapa en “crude nuclear bomb” om de skulle ha tillgång till anrikat Uranium eller separerat Plutonium och det är även möjligt att en terrorgrupp skulle kunna få tag på material för att skapa en kärnvapenbomb. 
 
-Både i <a href="http://www.nytimes.com/2007/11/15/world/africa/15joburg.html?_r=1&">Sydafrika</a> och  <a href="http://www.theguardian.com/world/2002/jul/19/chechnya.nickpatonwalsh">Ryssland</a> har det förekommit stölder av radioaktivt material från kärnkraftsverk förekommit stölder av radioaktivt material från kärnkraftsverk. Vilket visar på problematiken med kärnkraftverk i icke stabila länder. 
+Både i <a href="http://www.nytimes.com/2007/11/15/world/africa/15joburg.html?_r=1&">Sydafrika</a> och  <a href="http://www.theguardian.com/world/2002/jul/19/chechnya.nickpatonwalsh">Ryssland</a> har det förekommit stölder av radioaktivt material från kärnkraftverk förekommit stölder av radioaktivt material från kärnkraftverk. Vilket visar på problematiken med kärnkraftverk i icke stabila länder. 
 
 Enligt en <a href="http://www.iospress.nl/book/response-to-nuclear-and-radiological-terrorism/">rapport</a> utgiven av NATO Science for Peace and Security Series så är det sannolika, ifall en terrorgrupp skulle lyckas skapa/komma över en kärnvapenbom, att den skulle vara på cirka 1000 ton. Om en sådan bomb sprängdes i en storstad bedöms den kunna döda upp till 6000 personer. 
 
@@ -73,11 +73,11 @@ Det är dock mycket svårt att bedöma hur mycket civil kärnkraft bidrar till d
 
 Det är viktigt att se att källorna vi listar här bedömer att kärnvapenprogram är känsligare från detta perspektiv. Men det betyder ju inte att civil kärnkraft inte bidrar till riskbilden.
 
-Den första källan bedömer att den risk som finns relaterat till civil kärnkraft är framförallt risken för stöld av radioaktiva material.De värderar denna risk som låg eftersom det enligt dem aldrig förekommit någon händelse där man kunnats bekräfta att terrorsiter utfört en attack i syfte att stjäla vapenmaterial. Men som vi sett ovan så har det förekommit stölder både i Ryssland och Sydafrika, så detta påstående verkar inte vara helt giltligt. I artikeln betonas även att säkerheten på framförallt en del forskningsreaktorer runt om i världen är för låg. 
+Den första källan bedömer att den risk som finns relaterat till civil kärnkraft är framförallt risken för stöld av radioaktiva material.De värderar denna risk som låg eftersom det enligt dem aldrig förekommit någon händelse där man kunnat bekräfta att terrorister utfört en attack i syfte att stjäla vapenmaterial. Men som vi sett ovan så har det förekommit stölder både i Ryssland och Sydafrika, så detta påstående verkar inte vara helt giltigt. I artikeln betonas även att säkerheten på framförallt en del forskningsreaktorer runt om i världen är för låg. 
 
-De risker som tas upp i samband med kärnrkaft är att man behöver ha kontroll över hela bränslecykeln och då specifikt anrikningsanlänggningarna men även avfallet. Riskerna betonas framförallt finnas i icke-stabila demokratier och då även länder som redan har kärnvapen så som Ryssland.  
+De risker som tas upp i samband med kärnkraft är att man behöver ha kontroll över hela bränslecykeln och då specifikt anrikningsanläggningarna men även avfallet. Riskerna betonas framförallt finnas i icke-stabila demokratier och då även länder som redan har kärnvapen så som Ryssland.
 
-Sammantaget tycker vi detta tala för att riskerna kopplade till att terrorgrupper får tag i radioaktivt vapen-material är den allvarligste risken med civil kärnkraft.
+Sammantaget tycker vi detta tala för att riskerna kopplade till att terrorgrupper får tag i radioaktivt vapen-material är den allvarligaste risken med civil kärnkraft.
 
 Det är dock viktigt att ha i åtanke att även om terrorgrupper inte kan få tillgång till radioaktivt material genom civil kärnkraft så kommer de använda samma resurser på att tillskaffa sig radioaktivt material på andra sätt och/eller satsa på andra typer av farliga vapensystem.
 
@@ -85,13 +85,13 @@ Vi behöver även se att fossila bränslen står för ca 80% av världen energip
 
 Utöver det så är olja även kopplade till krig och konflikter. Mellan 25-50 % av alla krig från 1973 har varit kopplade till olja, visar <a href="http://belfercenter.ksg.harvard.edu/publication/23517/oil_conflict_and_us_national_interests.html">en studie från 2013</a> av forskare från Harvard. Om kärnkraft står för en del av elproduktionen så har vi möjlighet att använda mer biobränsle för att ersätta olja i transportsektorn. 
 
-Det vi landar i är att man behöver ställa olika risker med stora osäkehter mot varandra. Just p.g.a. de stora riskerna som värsta-scenarion innefattar har vi dock förståelse för att man värderar risken för spridning av radioaktiva vapen mycket högt, och att man därför kan landa i andra slutsatser än vi gjort.
+Det vi landar i är att man behöver ställa olika risker med stora osäkerheter mot varandra. Just p.g.a. de stora riskerna som värsta-scenarion innefattar har vi dock förståelse för att man värderar risken för spridning av radioaktiva vapen mycket högt, och att man därför kan landa i andra slutsatser än vi gjort.
 
 <!-- Vi kan notera att den första källan inte ens nämner civil kärnkraft i någon av de faktorer de listar. och det enda den andra bedömaren nämner om civil kärnkraft är följande: -->
 
 <h2>Vad ska stabila demokratier göra för att minska de globala riskerna för spridning av radioaktiva vapen.</h2>
 
-I miljöpartiets publikationen <a href="/assets/files/mp_arg_kärnkraft.pdf">Kärnkraft i klimatkrisens tidevar</a> drar publikationsförfattaren en slutsats som vi inte delar:
+I miljöpartiets publikationen <a href="/assets/files/mp_arg_kärnkraft.pdf">Kärnkraft i klimatkrisens tidevarv</a> drar publikationsförfattaren en slutsats som vi inte delar:
 
 <blockquote>I dag vill både Iran och Vitryssland ha kärnkraft. Saudiarabien köper kärnteknik från Frankrike. Det blir svårare att motverka att världens diktaturer får tillgång till farlig teknologi om vi själva bygger ut kärnkraft.</blockquote>
 
@@ -107,17 +107,17 @@ Från detta perspektiv skulle man kunna argumentera för att det är mer sannoli
 
 Vi instämmer i att det kan finnas ett visst signalvärde i att rika demokratier som går på 100%-förnybart. Vi skulle dock vilja problematisera denna argumentation. 
 
-Som vi arguemnterat ovan blir det ett stort risktagande med <a href="/global/alla-verktyg-behovs">klimatet och människors hälsa att på global nivå utesluta något koldioxidsnålt energislag</a>. Givet detta är det snarare önskvärt att det är länder med ett högt säkerhetsmedvetande som driver utvecklingen att göra kärnkraften säkrare från ett kärnvapenspridningsperspektiv. 
+Som vi argumenterat ovan blir det ett stort risktagande med <a href="/global/alla-verktyg-behovs">klimatet och människors hälsa att på global nivå utesluta något koldioxidsnålt energislag</a>. Givet detta är det snarare önskvärt att det är länder med ett högt säkerhetsmedvetande som driver utvecklingen att göra kärnkraften säkrare från ett kärnvapenspridningsperspektiv. 
 
 Vidare som vi argumenterar för <a href="/global/sverige-unikt/">här</a> och <a href="/global/reglerfragan">här</a>, så behöver inte heller en utbyggnad av kärnkraft i t.ex. Sverige stå i konflikt med att vi är med och ta fram globalt tillämpbara lösningar för att skala upp väderberoende energi.
 
-I denna <a href="http://www.sciencedirect.com/science/article/pii/S0149197013000504">artikel</a> om hur vi ökar säkerheten kring civil kärnkraft ur ett kärnvapenspridninsperspektiv,</a> betonas vikten av internationella kontrollorgan med tydliga regelverk.
+I denna <a href="http://www.sciencedirect.com/science/article/pii/S0149197013000504">artikel</a> om hur vi ökar säkerheten kring civil kärnkraft ur ett kärnvapenspridningsperspektiv,</a> betonas vikten av internationella kontrollorgan med tydliga regelverk.
 Om demokratiska länder också har civil kärnkraft är det snarast lättare att med trovärdighet få vara med och ha inflytande i hur gemensamma regler ska utformas och var anrikningsanläggningar ska placeras.
 
-Med kunskap inom det kärntekniska området har vi också möjlighet att erbjuda ostabila länder lösningar där de får tillgång till reaktorer men bränslet framställs i stabilare länder och avfallet sätts under internationell kontroll. USA och Sydkorera <a href="https://en.wikipedia.org/wiki/Agreed_Framework">erbjöd</a> t.ex. Nord Korea betalda lättvatten-rektorer i utbyte mot att de lät internationella organ kontrollera avfallet och att de skulle stänga ner <a href="https://en.wikipedia.org/wiki/Yongbyon_Nuclear_Scientific_Research_Center">Yongbyon Nuclear Scientific Research Center</a>.
+Med kunskap inom det kärntekniska området har vi också möjlighet att erbjuda ostabila länder lösningar där de får tillgång till reaktorer men bränslet framställs i stabilare länder och avfallet sätts under internationell kontroll. USA och Sydkorea <a href="https://en.wikipedia.org/wiki/Agreed_Framework">erbjöd</a> t.ex. Nord Korea betalda lättvatten-rektorer i utbyte mot att de lät internationella organ kontrollera avfallet och att de skulle stänga ner <a href="https://en.wikipedia.org/wiki/Yongbyon_Nuclear_Scientific_Research_Center">Yongbyon Nuclear Scientific Research Center</a>.
 
-Slutligen kan vi se att många scenarion med hög andel väderbereoende energi och bygger på en hög andel bio-energi som reglerkraft.
-Produktion av bio-energi tar stora mängder landyta i anspråk. Även energi-sceanrion med bara 20% bio-energi beräknas ta ca 8 % av världens landyta i anspråk. Vilket kan sättat i perspektiv till att vi redan idag använder ca 12 av världens landyta för jordbruk och forskare inom ekologi menar att <a href="http://localhost:4000/assets/files/Rockstrom_2009_Planetary%20Boundaries-%20Exploring%20the%20Safe%20Operating%20Space%20for%20Huma.pdf">15% jordbruksmark</a> är en viktig gräns för en hållbar utveckling. Att vi i världen tar mer och mer av världens landyta i anspråk har också pekats ut som ett viktigt skäl till det globala massutrotande av arter som nu pågår. 
+Slutligen kan vi se att många scenarion med hög andel väderberoende energi och bygger på en hög andel bio-energi som reglerkraft.
+Produktion av bio-energi tar stora mängder landyta i anspråk. Även energi-scenarion med bara 20% bio-energi beräknas ta ca 8 % av världens landyta i anspråk. Vilket kan sättas i perspektiv till att vi redan idag använder ca 12 av världens landyta för jordbruk och forskare inom ekologi menar att <a href="http://localhost:4000/assets/files/Rockstrom_2009_Planetary%20Boundaries-%20Exploring%20the%20Safe%20Operating%20Space%20for%20Huma.pdf">15% jordbruksmark</a> är en viktig gräns för en hållbar utveckling. Att vi i världen tar mer och mer av världens landyta i anspråk har också pekats ut som ett viktigt skäl till det globala massutrotande av arter som nu pågår. 
 
 Av denna anledning är det önskvärt om inte alla länder måste lösa sin energiproduktion med bara förnybar-energi.
 
@@ -127,7 +127,7 @@ Av denna anledning är det önskvärt om inte alla länder måste lösa sin ener
 
 <h2>Fjärde generationens kärnkraft ur ett kärnvapenspridning perspektiv</h2>
 
-Sannolikt kommer dagens befintliga generation två reaktorer och framförallt de generation tre reaktorer som nu byggs utgöra den allra största delen av världens kärnkrafts reaktorer de kommande decennierna. Men eftersom det redan nu börjar byggas ävan generation 4 reaktorsystem är det relevant att ta upp även dem ur ett kärnvapenspridnings perspektiv.
+Sannolikt kommer dagens befintliga generation två reaktorer och framförallt de generation tre reaktorer som nu byggs utgöra den allra största delen av världens kärnkrafts reaktorer de kommande decennierna. Men eftersom det redan nu börjar byggas även generation 4 reaktorsystem är det relevant att ta upp även dem ur ett kärnvapenspridnings perspektiv.
 
 Ett av de åtta målen med fjärde generationens kärnkraft är att de ska vara väldigt oattraktiva och den svåraste vägen för den som vill skaffa kärnvapen. Fjärde generationens kärnkraft bygger på återvinning av det använda kärnbränslet. Det förutsätter bränsleåtervinningsanläggningar, vilket är känsligt ur ett kärnvapenperspektiv. Samtidigt så innebär fjärde generationens kärnkraft också fördelar när det gäller att minska risken för kärnvapenspridning. Dessa fördelar är:
 
