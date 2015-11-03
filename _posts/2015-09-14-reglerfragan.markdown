@@ -111,9 +111,9 @@ Thomas Sandberg betonar även att de stora konsumenterna inom industrin kan få 
 
 Det finns dock vissa utmaningar med att utnyttja den här kapaciteten.
 
-För att det ska finnas ett intresse hos industri och konsumenter att ändra sitt beteende behöver kostnadsvariationerna vara större än idag. Att politiskt driva fram ett system med stora kostnadsskillnader kan dock vara kontroversiellt, vilket skapar en osäkerhet i hur stor omfattning sådan politik kommer bedrivas världen över.
+För att det ska finnas ett intresse hos industri och konsumenter att ändra sitt beteende behöver kostnadsvariationerna vara större än idag. Att politiskt driva fram ett system med stora kostnadsskillnader i elpriset kan dock väcka motstånd från t.ex. industrin, vilket skapar en osäkerhet i hur stor omfattning sådan politik kommer bedrivas världen över.
 
-<i class="fa fa-industry fa-5x chapter-icon " id="conflict-arrows"></i>Framförallt elintensiv industri brukar betona behovet av stabil tillgång till el till ett förutsägbart och så billigt pris som möjligt. Här är t.ex. ett exempel där svensk basindustris energidirektör <a href="http://www.second-opinion.se/energi/view/3005">beskriver oron inför att mer väderberoende energiproduktion kommer leda till att de behöver agera stötdämpare i systemet och därmed få försämrade produktionsförutsättningar</a>. 
+<!-- <i class="fa fa-industry fa-5x chapter-icon " id="conflict-arrows"></i>Framförallt elintensiv industri brukar betona behovet av stabil tillgång till el till ett förutsägbart och så billigt pris som möjligt. Här är t.ex. ett exempel där svensk basindustris energidirektör <a href="http://www.second-opinion.se/energi/view/3005">beskriver oron inför att mer väderberoende energiproduktion kommer leda till att de behöver agera stötdämpare i systemet och därmed få försämrade produktionsförutsättningar</a>. --> 
 
 
 Att bara visulaisera de vinster en kund kan göra genom att flytta sin energikonsumtion verkar inte heller vara tillräckligt. Under seminariet om smarta nät beskriver Lars Nordström professor i informations- och energisystem hur olika tekniker för att visualisera elanvänding och priser för konsumenterna typiskt sätt bara haft en tillfällig effekt då människor i längden inte vill lägga tid på att schemalägga sin elförbrukning om de inte måste.
