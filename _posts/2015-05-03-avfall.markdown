@@ -25,7 +25,7 @@ Vi vill här lyfta två huvudproblem som vi ser med resonemangen ovan.
 
 <span class="fa-stack fa-lg chapter-icon waste-square"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-stack-1x fa-inverse">1</i></span>Det första problemet vi ser är bristen på kvantifiering av de risker som man väljer att stämpla som oacceptabla. Genom att inte kvantifiera vilka risker t.ex. en brusten kopparkapsel skulle medföra blir det omöjligt för läsaren att själv bedöma hur allvarligt hen tycker att denna risk är. 
 
-Vi tror att få medlemmar inom miljörörelsen är medvetna om att den extra strålning man beräknar att människor i slutförvarets närområde kan komma att bli utsatta för ifall alla de föreslagna inkapslingarna (ej bara kopparinslutningen) brister för samtliga kapslar,  <a href="/assets/files/skb_rapport.pdf">är den samma</a>som varje svensk får i sig i genomsnitt genom naturlig bakgrundsstrålning <a href="https://sv.wikipedia.org/wiki/Bakgrundsstr%C3%A5lning">(ca 1 mSv/år)</a>. 
+Vi tror att få medlemmar inom miljörörelsen är medvetna om att den extra strålning man beräknar att människor i slutförvarets närområde kan komma att bli utsatta för ifall alla de föreslagna inkapslingarna (ej bara kopparinslutningen) brister för samtliga kapslar,  <a href="http://www.skb.se/publication/1380606/R-07-24.pdf">är den samma</a>som varje svensk får i sig i genomsnitt genom naturlig bakgrundsstrålning <a href="https://sv.wikipedia.org/wiki/Bakgrundsstr%C3%A5lning">(ca 1 mSv/år)</a>. 
 
 För att sätta denna ökade dos i perspektiv kan man t.ex. se att flygpersonal utsätts för en genomsnittlig extra dos på <a href="https://en.wikipedia.org/wiki/Background_radiation">ca 2,2mSv/år</a>. Denna ökade dos bedöms <a href="http://www.cancerresearchuk.org/about-cancer/causes-of-cancer/cancer-controversies/x-rays-body-scans-and-radiation">dock ligga långt under säkerhetsmarginalen för hälsorisker</a>.
 
@@ -38,12 +38,12 @@ Den totala stråldosen för människor i omgivningen skulle också <a href="http
 
 Denna bloggpost tänker vi istället ägna åt den slutförvarslösning som SKB föreslår och som inte förutsätter återvinning av avfallet.
 
-År 2007 presenterade SKB sin rapport<a href="/assets/files/skb_rapport.pdf"> Långsiktig säkerhet för slutförvar
+År 2007 presenterade SKB sin rapport<a href="http://www.skb.se/publication/1380606/R-07-24.pdf"> Långsiktig säkerhet för slutförvar
 för använt kärnbränsle vid Forsmark och Laxemar</a> som är en förenklad svensk sammanfattning av den lösning för slutförvar som SKB förespråkar.
 
 Lösningen som förespråkas i rapporten kallas KBS-3-metoden och går ut på att man ska förvara bränslet i 500m djupa borrhål i berget med flera skyddande inneslutningslager. Som bilden visar kommer förvaret bestå i att avfallet först kapslas in i ett kapslingrör, som i sin tur innesluts i en kopparkapsel som därefter placeras 500m ner i berget. Omgivande betonitlera utgör ett extra skyddande lager runt kapseln.
 <img class="img-responsive blog-img" src="/assets/img/fact-check/kbs3_lager.png">
-Källa: <a href="/assets/files/skb_rapport.pdf">Långsiktig säkerhet för slutförvar för använt kärnbränsle vid Forsmark och Laxemar</a> sid 9.
+Källa: <a href="http://www.skb.se/publication/1380606/R-07-24.pdf">Långsiktig säkerhet för slutförvar för använt kärnbränsle vid Forsmark och Laxemar</a> sid 9.
 
 I SKBs uppdrag ingår att bedöma hur mycket strålning människor i omgivningen runt förvaret kan komma att utsättas för ifall var och en av de inneslutande skyddsbarriärenrna tas bort. Resultatet av denna analys sammanfattas i detta diagram (hämtat från sidan 85 i rapporten).
 <img class="img-responsive blog-img" src="/assets/img/fact-check/kbs3_diagram_lager.png">
@@ -69,11 +69,29 @@ sanktion, åtminstone inte så som samhället är organiserat idag. Det skulle o
 avsevärda resurser för en sådan operation. Om ett samhälle eller en grupp individer skulle ha
 den här typen av onda avsikter kommer det troligen att finnas enklare sätt att nå samma mål.
 </blockquote>
-<h4>Miljörörelsen kritik mot SKBs lösning</h4>
+<h3>Miljörörelsen kritik mot SKBs lösning</h3>
 <p>I september 2010 publicerade NyTeknik en <a href="http://www.nyteknik.se/asikter/debatt/article2470024.ece">debattartikel</a> från naturskyddsföreningen som tydligt illustrerar miljörörelsens kritik mot SKBs lösning. Den huvudsakliga kritiken som framförs är att alternativet att placera kapslarna på 3 till 5 kilometers djup inte utretts tillräckligt noga och bör övervägas då detta skulle det göra det svårare för framtida människor att nå avfallet</p>
 <p> I denna <a href="http://www.nyteknik.se/nyheter/energi_miljo/karnkraft/article264679.ece">artikel</a> bemöter SKB denna kritik. Deras huvudsakliga motargument är att djupa borrhål utgör en ökad säkerhetsrisk då kapslarna kan fastna och gå sönder på vägen ner utan att det finns möjlighet att ta upp dem och reparera dem vid behov.
 <blockquote> Att kontrollera hanteringen i varje steg och att kunna reparera vid behov är två säkerhetsprinciper som är fundamentala för oss och som vi aldrig kan uppnå med djupa borrhål</blockquote>
 <p>Ur SKBs svar framkommer vidare att alla andra kärnkraftsnationer valt bort lösningen med djupa borrhål</p>
 <p>Att välja djupa borrhål skulle därtill betydligt försvåra om man i framtiden skulle vilja använda sig av avfallet som bränsle i nya reaktorer.</p>
+<h3>Vad säger strålskyddsmyndigheten om SKBs förslag</h3>
+<p>Strålsäkerhetsmyndigheten är den myndighet som har ansvar för att <a href="http://www.stralsakerhetsmyndigheten.se/start/slutforvar/Provningsprocessen/Preliminara-resultat/Uppforande-och-drift-av-slutforvarsanlaggning/">granska strålsäkerheten vid uppförande och drift av  en slutförvarsanläggning.</a></p>
+<p>Strålsäkerhetsmyndigheten kommer komma med sin slutgiltiga bedömning av SKBs förslag under år 2017. Redan under sommaren 1015 kom myndigheten dock med en preliminär bedömning som säger följande:</p>
+<blockquote>
+<p>I den preliminära versionen av kapitel 3, som offentliggjordes den 24 juni 2015, är Strålsäkerhetsmyndigheten försiktigt positiv i frågor som rör utgångsläget för den långsiktiga strålsäkerheten. Det krävs dock ytterligare utredningsarbete för att ta ställning till vidare aspekter i SKB:s redovisning för hur slutförvaret förväntas leva upp till kraven på strålsäkerhet under minst 100 000 år.</p>
+<p>Det finns återstående frågor, främst kring tillverkningen av kopparkapseln, där myndigheten behöver granska vidare för att komma fram till om underlaget angående slutförvarets utformning vid förslutning är tillräckligt i det här steget av tillståndsprocessen.</p>
+<p>Alla delar i vår granskning av SKB:s säkerhetsredovisning måste vara på plats för att vi ska kunna göra en sammanvägd bedömning om det finns förutsättningar för SKB:s föreslagna metod att uppfylla myndighetens krav.</p>
+<p>Vi vill understryka att texten i kapitel 3 är preliminär och ska inte tolkas som slutgiltig. Övriga kapitel publiceras senare under 2015.</p>
+</blockquote>
+<p>Vi kan se att strålsäkerhetsmyndighetens preliminära bedömning alltså är positiv. Men också att de understryker att bedömningen är preliminär och att det återstår frågor som de måste undersöka mer innan de år 2017 kommer med sina slutgiltiga slutsatser</p>
+<p>Vi tycker dock att det är viktigt att det framgår för läsaren hur kraven som man ställt upp för ett slutförvar är utformade. </p>
+<p>I SSI FS 1998:1 som är den föreskrift som reglerar stråldoser som förvaret får ge upphov till, står det att målet som ska uppnås är följande:</p>
+<blockquote><p>"den årliga risken för skadeverkningar inte får överskrida 10 −6 för en representativ individ
+i gruppen som exponeras för störst risk”. Med ”skadeverkningar” avses cancer och ärftliga
+skador. Riskgränsen motsvarar, enligt SSI, en dosgräns på cirka 1,4·10 −5 Sv/år, det vill säga
+cirka en procent av den naturliga bakgrundsstrålningen i Sverige"</p></blockquote>
+<p>Vi vill först betona att vi givetvis delar synen att det behövs ett slutförvar som skyddar framtida generationer för farliga stråldoser. Vi tycker dock att det är lite konstigt att man verkar särbehandla slutförvaret i jämförelse med andra riskbedömningar vi gör i samhället. Att sätta gränsen vid att slutförvaret inte får ge upphov till en årlig dos högre än ca 14 mikrosievert bör ställas i relation till att en flygresa från Sverige till New York (enkel resa) <a href="https://www.stralsakerhetsmyndigheten.se/Om-myndigheten/Aktuellt---Bilagor/Resultat-fran-matningarna-i-Sverige-/">ger en stråldos som motsvarar ca 50 mikrosievert</a>.  
+</p>
 {% include read-reaction-instruction.html %}
 <!-- <p>Tillsammans tycker vi detta är tungt vägande skäl till att ifrågasätta om det är rätt prioriterade myndighetspengar att kräva utredning av en metod som har så här många nackdelar.</p><p>Vi vill slutligen igen väcka en reflektion kring det underliga i att vi inom miljörörelsen idag, å ena sidan uttrycker mycket stark oro inför just att framtida ovetandes generation inte ska låta avfallet stanna i slutförvaret, men å andra sidan utan vidare diskussion har avfärdat <a href="/tech/">tekninken</a> som kan sänka lagringstiden till 500-1000 år</p> -->
